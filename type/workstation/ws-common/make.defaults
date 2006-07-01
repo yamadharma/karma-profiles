@@ -204,7 +204,8 @@ javacomm
 srvdir gimp overlays
 iontruetype
 swig
-bcp bjam debug pyste
+bcp bjam pyste
+ilbc vorbis-psy
 -objc-gc
 -apache2
 -arts
