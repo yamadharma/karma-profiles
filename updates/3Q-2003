@@ -1,0 +1,12 @@
+move dev-util/gnustep-make gnustep-base/gnustep-make
+move dev-util/gnustep-base gnustep-base/gnustep-base
+move dev-util/gnustep-back gnustep-base/gnustep-back
+move dev-util/gnustep-gui gnustep-base/gnustep-gui
+move dev-util/gnustep-guile gnustep-libs/gnustep-guile
+move media-fonts/mscorefonts media-fonts/mscorefonts 
+move net-fs/submount sys-fs/submount 
+
+move gnustep-apps/imagesmanager media-gfx/imagesmanager
+move gnustep-apps/imageviewer media-gfx/imageviewer
+move gnustep-apps/preview media-gfx/preview
+move gnustep-apps/viewpdf media-gfx/viewpdf

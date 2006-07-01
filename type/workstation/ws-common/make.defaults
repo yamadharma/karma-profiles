@@ -1,0 +1,259 @@
+# Copyright 2002 Gentoo Technologies, Inc.
+# System-wide defaults for the gcc 3.2 Portage system
+
+USE="oss sse apm avi berkdb crypt encode gdbm gif gpm gtk gtk2 imlib
+java jpeg gnome libg++ libwww mikmod mmx motif mpeg ncurses nls oggvorbis
+opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl
+svga tcpd truetype X xml2 xmms xv zlib
+ldap
+dvd dvdr
+ggi
+directfb
+fbcon
+emacs.ecf
+leim
+alsa
+postgres
+sasl kerberos 
+samba
+crypt xfs acpi4linux
+usb
+tiff
+doc ruby tcltk
+slp
+curl flash xml
+snmp imap
+tcltk
+perl
+plotutils
+acl
+innodb
+ruby
+mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm
+tetex
+acpi
+Xaw3d
+ecf
+gnustep
+faad
+multimaster
+vim-with-x cscope
+svg
+jack jack-tmpfs
+evms2
+gd
+skey
+matroska
+guile xface
+cups ppds
+jbig lcms wmf
+nptl pic
+foomaticdb
+kde
+flac
+ofx
+emacs
+xinerama
+lirc
+v4l v4l2
+javascript
+mad
+dedicated
+socks5
+pg-hier pg-vacuumdelay pg-intdatetime
+f77 gcj objc
+idea
+caps cap
+emacs-w3 imlib2 lynxkeymap
+xvid live divx
+xprint
+mailwrapper md5sum
+ucs2
+mmap speex
+cairo glitz
+libffi
+non-flattened gcc-libffi
+pdfkit emoticon gsnd
+xim
+cdparanoia divx4linux dvdread fbdev rtc edl lzo mythtv network nvidia xvmc theora
+mng gimpprint graphviz lzw-tiff lzw
+oav
+sndfile 
+modelock
+winbind quotas libclamav
+hal
+bash-completion
+portaudio
+bdf 
+bitmap-fonts insecure-drivers font-server truetype-fonts type1-fonts xv
+dga real xanim quicktime audiofile
+fpx yv12 dv v4l2
+emacs
+hbci quotes
+xscreensaver gphoto2 jpeg2k scanner povray xine pda
+glut
+cdr nntp
+fortran 
+sqlite odbc vidix
+mmx2 
+dts aac
+mozilla
+pcre
+gtkhtml 
+auctex
+mp3
+lm_sensors
+fftw
+bzip2 ecc
+sysfs sysvipc 
+ffmpeg win32codecs vorbis djbfft threads a52
+sox
+expat ithreads
+gnutls
+avalon
+mjpeg fame	
+musepack css
+logrotate
+pam_timestamp
+exif
+openexr
+smux elf
+ieee1394
+tidy
+lua
+nocd
+mono
+libgda
+glibc-omitfp
+haskell pascal php ada sql
+7zip dbus editor serial
+sensord rrdtool
+clisp
+mcal memlimit
+srp ntlm_unsupported_patch 
+vcd
+async automount syslog
+nsplugin 
+big-tables extraengine geometry utf8 cluster
+idn
+xattr
+kdeenablefinal
+nautilus t1lib 
+pccts musicbrainz
+urandom
+effects inkjar plugin 
+epson 
+rle gs
+gnokii sms irda
+transcode vcdimager
+scsh
+virus-scan
+objc-gc 
+bluetooth
+artworkextra
+tools
+jasper
+examples
+preview-latex
+dhcp
+imagemagick 
+on-the-fly-crypt 
+visualization
+ocaml
+latex jit screen 
+asf
+blas hdf hdf5
+binfilter
+neXt dnd freewnn mule 
+diet
+clock-screen key-screen mouse search-screen
+djvu
+jabber
+source
+rhino
+x264 bl mp4
+objc++ 
+calendar cddb yaz
+cgi xmlreader xmlrpc xmlwriter xpm zip hash overload vm-switch pdo reflection
+iconv inifile bcmath curl curlwrappers pcntl flatfile
+mysql mysqli
+sharedext wddx
+iodbc
+extras
+mime pdf
+avahi bookmarks
+fuse nfs
+nodrm
+kernel_linux
+activefilter
+estraier thumbnail kakasi mecab
+exscalibar ifp ipod
+mozdevelop mozsvg
+sou hou nowin
+startup-notification pango
+gmp bonobo mhash ming cdb 
+junit
+modplug mplayer rar subtitles vdr openal xosd 
+xinetd msdfs
+aio
+dmi firefox
+nvtv beagle
+unicode
+mudflap
+javacomm 
+srvdir gimp overlays
+iontruetype
+swig
+-objc-gc
+-apache2
+-arts
+-userlocales
+"
+
+# pam_console
+# extensions
+# fusion
+# unicode
+# firefox
+# sbcl 
+# mppe-mppc
+# nowin
+# extrafilters
+# fastcgi
+
+# erandom uclibc
+#lirc
+#afs krb4
+# arts kde nas
+# libcaca
+# 3dnow
+# threads
+# pie hardened
+# jikes
+# firefox 
+
+LINGUAS="ru"
+LANGUAGE=RUSS
+# For gcc (prevent clash with GNUstep)
+LANGUAGES=""
+
+
+#CONFIG_PROTECT_MASK="/etc/gconf /etc/init.d /etc/hotplug"
+
+FEATURES="sandbox usersandbox userpriv ccache candy -strict prelink confcache parallel-fetch"
+
+SEARCH_DIRS="/usr/GNUstep"
+
+#INPUT_DEVICES="input_devices_keyboard input_devices_mouse"
+#VIDEO_CARDS="video_cards_i810 video_cards_nv video_cards_nvidia video_cards_sis"
+
+INPUT_DEVICES="keyboard mouse"
+VIDEO_CARDS="i810 nv nvidia sis"
+
+PORTDIR=/usr/share/portage
+COMPORTDIR=/com/lib/portage
+DISTDIR=${COMPORTDIR}/distfiles
+PKGDIR=${COMPORTDIR}/packages
+PORT_LOGDIR=/var/log/portage
+
+PORTDIR_OVERLAY="${PORTDIR_OVERLAY} /usr/local/share/portage/local"

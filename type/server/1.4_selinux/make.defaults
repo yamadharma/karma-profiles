@@ -1,0 +1,114 @@
+# Copyright 2002 Gentoo Technologies, Inc.
+# System-wide defaults for the gcc 3.2 Portage system
+
+USE="x86 sse apm avi berkdb crypt encode gdbm gif gpm imlib
+java jpeg libg++ libwww mikmod mmx mpeg ncurses nls oggvorbis
+pam pdflib png python qtmt quicktime readline sdl slang spell ssl
+svga tcpd xml2 xmms zlib
+ldap
+dvd
+ggi
+directfb
+fbcon
+leim
+mysql postgres
+sasl kerberos 
+samba
+crypt xfs acpi4linux
+usb
+tiff
+ruby 
+slp
+curl flash xml
+snmp imap
+perl
+plotutils
+acl
+innodb
+ruby
+mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm
+acpi
+ecf
+gnustep
+faad
+multimaster
+cscope
+svg
+evms2
+gd
+X509 skey
+matroska
+guile xface
+cups ppds
+jbig lcms wmf
+nptl pic
+foomaticdb
+flac
+ofx
+lirc
+v4l v4l2
+javascript
+mad
+dedicated
+socks5
+pg-hier pg-vacuumdelay pg-intdatetime
+f77 gcj objc
+idea
+caps
+emacs-w3 imlib2 lynxkeymap
+xvid live divx
+selinux
+hardened
+xprint
+mailwrapper md5sum
+ucs2
+lzw-tiff lzw
+oav
+winbind quotas libclamav
+hal
+bash-completion
+fortran
+dnsdb lmtp exiscan-acl syslog wildlsearch mbox
+drac unsupported_8bit 
+lm_sensors
+fftw
+bzip2 ecc
+sysfs sysvipc 
+threads
+"
+# unicode
+# erandom uclibc
+#lirc
+#afs krb4
+# arts kde nas
+# 3dnow
+# threads
+# pie hardened
+# tcltk
+# emacs
+# jikes
+# ipv6
+ARCH="x86"
+COMPILER="gcc3"
+ACCEPT_KEYWORDS="x86"
+
+LINGUAS="ru"
+LANGUAGE=RUSS
+
+CONFIG_PROTECT_MASK="/etc/gconf /etc/init.d /etc/hotplug"
+# CONFIG_PROTECT_MASK="/etc/gconf /etc/init.d /etc/hotplug /etc/security/selinux/"
+
+FEATURES="sandbox usersandbox userpriv ccache -strict loadpolicy candy"
+
+POLICYDIR=/etc/security/selinux/src/policy
+
+CHOST="i686-pc-linux-gnu"
+CFLAGS="-march=pentium3 -O3 -pipe"
+CXXFLAGS="${CFLAGS}"
+
+PORTDIR=/usr/share/portage
+COMPORTDIR=/com/lib/portage
+DISTDIR=${COMPORTDIR}/distfiles
+PKGDIR=${COMPORTDIR}/packages
+PORTDIR_OVERLAY=/usr/local/share/portage
+

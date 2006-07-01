@@ -1,0 +1,19 @@
+# Copyright 2000 Daniel Robbins, Gentoo Technologies, Inc.
+# System-wide defaults for the Portage system
+
+USE="x86 3dnow apm avi berkdb crypt cups encode gdbm gif gpm imlib
+java jpeg kde libg++ libwww mikmod mmx motif  mpeg ncurses nls
+oggvorbis opengl pam pdflib png python qt qtmt quicktime  sdl
+slang spell  svga  truetype xml2 xmms xv
+readline
+tcpd
+ssl
+ldap
+mta.tls mta.ldap mta.spam.sa
+acl
+sasl kerberos
+perl
+" 
+
+ARCH="x86"
+ACCEPT_KEYWORDS="x86"

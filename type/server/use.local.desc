@@ -1,0 +1,48 @@
+# Copyright 1999-2003 Gentoo Technologies, Inc.
+# Distributed under the terms of the GNU General Public License v2
+# $Header: /home/cvsroot/gentoo-x86/profiles/use.local.desc,v 1.24 2003/05/25 07:16:57 seemant Exp $
+
+# This file contains descriptions of local USE flags, and the ebuilds which
+# contain them.
+
+app-admin/lcap:lids - If you have the Linux Intrusion Detection System
+app-editors/vim:vim-with-x - Enables linking the console vim against X libs to enable some features in xterms
+app-office/gnucash:ofx - Enable OFX support, for importing OFX data files.
+app-office/gnucash:hbci - Enable HBCI support, for connecting to some internet banks
+dev-util/glade:gnomedb - Enable gnomedb widgets for Glade.
+kde-base/arts:artswrappersuid - Set artswrapper suid for realtime playing, which is a security hazard
+kde-base/kdeadmin:foreign-package - Enable building of kpackage, which manages rpm and deb stuff
+kde-base/kdeadmin:foreign-sysvinit - Enable building of ksysv, which manages SysV-style initscripts
+media-video/transcode - Enable Altivec code portions
+net-mail/sylpheed-claws:clamav - Enables support for the Clam Antivirus, with a plugin
+net-mail/vpopmail:ipalias - Enables enable-ip-alias-domains
+net-www/mozilla:moznoirc - If you do NOT want the IRC client built with mozilla
+net-www/mozilla:moznomail - If you do NOT want the mail client built with mozilla
+net-www/mozilla:moznocompose - If you do NOT want the web page composer built with mozilla
+net-www/mozilla:moznoxft - blank
+net-www/mozilla:mozp3p - blank
+net-www/mozilla:mozxmlterm - blank
+net-www/mozilla:mozinterfaceinfo - blank
+net-www/mozilla:mozaccess - blank
+net-www/mozilla:mozcalendar - blank
+net-www/mozilla:mozsvg - blank
+sys-apps/pcmcia-cs:wavelan - Use the wavelan and not the orinoco wireless drivers
+sys-devel/gdb:objc - If you want to be able to debug Objective C code.
+sys-devel/oskit:oskit-noassert - Disable assertions in debugging
+sys-devel/oskit:oskit-nobuild - Configure but don't build OSKit
+sys-devel/oskit:oskit-noconf - Unpack sources to /usr/src but don't configure OSKit
+sys-kernel/gentoo-sources:aavm - adds Andrea Arcangeli's vm support (removes rmap by Rik van Riel which is the default)
+sys-kernel/gentoo-sources:acpi4linux - If you want ACPI support
+sys-kernel/gentoo-sources:evms2 - adds EVMS 2.0 support drop EVMS 1.2.1
+sys-kernel/gentoo-sources:usagi - adds USAGI (Linux IPv6 Development Project) support drops {superfreeswan/patch-int/loop-jari}
+sys-kernel/gentoo-sources:xfs - If you want XFS filesystem support
+sys-kernel/sparc-sources:ultra1 - If you have a SUN Ultra 1 with a HME interface
+sys-libs/glibc:nptl - If you want the Native POSIX Threading Library built into glibc.
+sys-libs/glibc:pic - If you want prelink support built into glibc
+x11-base/xfree-drm:gamma - If you have a matrox video card
+x11-base/xfree-drm:i8x0 - If you have an ibm i810 or i830 video card
+x11-base/xfree-drm:rage128 - If you have an ATI Rage128 based video card
+x11-base/xfree-drm:radeon - If you have an ATI Radeon video card
+x11-base/xfree-drm:sis - If you have an SiS video card
+x11-misc/lineakd:xosd - Sends display using the X On Screen Display library
+net-p2p/pysoulseek:hyriand - Enables usage of the hyriand patch

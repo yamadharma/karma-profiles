@@ -1,0 +1,126 @@
+# Copyright 2002 Gentoo Technologies, Inc.
+# System-wide defaults for the gcc 3.2 Portage system
+
+USE="x86 oss sse apm avi berkdb crypt encode gdbm gif gpm gtk gtk2 imlib
+java jpeg gnome libg++ libwww mikmod mmx motif mpeg ncurses nls oggvorbis
+opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl
+svga tcpd truetype X xml2 xmms xv zlib
+ldap
+dvd dvdr
+ggi
+directfb
+fbcon
+emacs.ecf
+leim
+alsa
+mysql postgres
+sasl kerberos 
+samba
+crypt xfs acpi4linux
+usb
+tiff
+doc ruby tcltk
+slp
+curl flash xml
+snmp imap
+tcltk
+perl
+plotutils
+acl
+innodb
+ruby
+mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm
+tetex
+acpi
+Xaw3d
+ecf
+gnustep
+faad
+multimaster
+vim-with-x cscope
+svg
+jack jack-tmpfs
+evms2
+gd
+X509 skey
+matroska
+guile xface
+cups ppds
+jbig lcms wmf
+nptl pic
+foomaticdb
+kde
+flac
+ofx
+emacs
+xinerama
+lirc
+v4l v4l2
+javascript
+mad
+dedicated
+socks5
+pg-hier pg-vacuumdelay pg-intdatetime
+f77 gcj objc
+idea
+caps
+emacs-w3 imlib2 lynxkeymap
+xvid live divx
+xprint
+mailwrapper md5sum
+jikes
+ucs2
+mmap speex
+cairo glitz
+libffi
+noflattened pdfkit emoticon gsnd
+xim
+cdparanoia divx4linux dvdread fbdev rtc edl lzo mythtv network nvidia xvmc theora
+mng gimpprint graphviz lzw-tiff lzw
+oav
+sndfile 
+modelock
+winbind quotas libclamav
+hal
+bash-completion
+portaudio
+bdf 
+bitmap-fonts insecure-drivers font-server truetype-fonts type1-fonts xv
+dga real xanim quicktime audiofile
+fpx yv12 dv v4l2
+emacs
+hbci quotes
+xscreensaver gphoto2 jpeg2k scanner povray xine pda
+glut
+cdr nntp
+fortran 
+sqlite odbc vidix
+mmx2 
+dts aac
+"
+
+# unicode
+
+# erandom uclibc
+#lirc
+#afs krb4
+# arts kde nas
+# libcaca
+# 3dnow
+# threads
+# pie hardened
+
+
+ARCH="x86"
+COMPILER="gcc3"
+ACCEPT_KEYWORDS="x86"
+
+LINGUAS="ru"
+LANGUAGE=RUSS
+# For gcc (prevent clash with GNUstep)
+LANGUAGES=""
+
+
+CONFIG_PROTECT_MASK="/etc/gconf /etc/init.d /etc/hotplug"
+
+FEATURES="sandbox usersandbox userpriv ccache candy -strict prelink"
