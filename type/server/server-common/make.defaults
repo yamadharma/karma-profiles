@@ -127,6 +127,7 @@ aio
 javacomm
 srvdir
 fam memcache webdav overlays
+emacs
 -objc-gc
 -gnustep
 -opengl 
