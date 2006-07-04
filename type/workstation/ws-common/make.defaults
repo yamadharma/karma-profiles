@@ -206,7 +206,8 @@ iontruetype
 swig
 bcp bjam pyste
 ilbc vorbis-psy
-nptlonly
+nptlonly 
+rcc
 -objc-gc
 -apache2
 -arts
