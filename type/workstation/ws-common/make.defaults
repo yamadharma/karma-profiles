@@ -210,6 +210,7 @@ nptlonly
 rcc
 icq irc lj rss 
 gsm nogg
+new-login 
 -objc-gc
 -apache2
 -arts
