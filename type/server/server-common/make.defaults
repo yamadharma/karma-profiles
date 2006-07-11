@@ -160,7 +160,7 @@ LANGUAGE=RUSS
 
 #CONFIG_PROTECT_MASK="/etc/gconf /etc/init.d /etc/hotplug /etc/security/selinux/"
 
-FEATURES="sandbox usersandbox userpriv ccache -strict loadpolicy candy confcache parallel-fetch"
+FEATURES="sandbox usersandbox userpriv ccache -strict loadpolicy candy confcache parallel-fetch metadata-transfer"
 
 POLICYDIR=/etc/security/selinux/src/policy
 
@@ -171,5 +171,3 @@ PKGDIR=${COMPORTDIR}/packages
 PORT_LOGDIR=/var/log/portage
 
 PORTDIR_OVERLAY="${PORTDIR_OVERLAY} /usr/local/share/portage/local"
-
-
