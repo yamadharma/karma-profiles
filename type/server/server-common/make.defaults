@@ -129,6 +129,7 @@ srvdir
 fam memcache webdav overlays
 emacs
 tcl
+vhosts
 -objc-gc
 -gnustep
 -opengl 
