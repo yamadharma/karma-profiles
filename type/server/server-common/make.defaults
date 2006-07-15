@@ -130,6 +130,7 @@ fam memcache webdav overlays
 emacs
 tcl
 vhosts
+bittorrent metalink
 -objc-gc
 -gnustep
 -opengl 
