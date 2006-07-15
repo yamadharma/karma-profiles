@@ -211,6 +211,9 @@ rcc
 icq irc lj rss 
 gsm nogg
 new-login 
+tcl tk
+access boost bsh hsqldb icu webdav vba wpd xalan xmlsec xt odk
+evo ole chm
 -objc-gc
 -apache2
 -arts
@@ -247,7 +250,7 @@ LANGUAGES=""
 
 #CONFIG_PROTECT_MASK="/etc/gconf /etc/init.d /etc/hotplug"
 
-FEATURES="sandbox usersandbox userpriv ccache candy -strict prelink confcache parallel-fetch"
+FEATURES="sandbox usersandbox userpriv ccache candy -strict prelink confcache parallel-fetch metadata-transfer"
 
 SEARCH_DIRS="/usr/GNUstep"
 
