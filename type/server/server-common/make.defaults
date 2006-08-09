@@ -131,6 +131,7 @@ emacs
 tcl
 vhosts
 bittorrent metalink
+jce
 -objc-gc
 -gnustep
 -opengl 
