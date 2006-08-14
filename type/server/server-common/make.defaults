@@ -132,6 +132,7 @@ tcl
 vhosts
 bittorrent metalink
 jce
+eap-tls
 -objc-gc
 -gnustep
 -opengl 
