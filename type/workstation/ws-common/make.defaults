@@ -201,7 +201,7 @@ nvtv beagle
 unicode
 mudflap
 javacomm 
-srvdir gimp overlays
+gimp overlays
 iontruetype
 swig
 bcp bjam pyste
@@ -217,6 +217,7 @@ bittorrent metalink njb
 jce
 audacious infopipe wma
 eap-tls
+vim-pager
 -objc-gc
 -apache2
 -arts
@@ -246,6 +247,7 @@ hashstyle
 # pie hardened
 # jikes
 # firefox 
+# srvdir 
 
 LINGUAS="ru"
 LANGUAGE=RUSS

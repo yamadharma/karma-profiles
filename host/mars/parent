@@ -5,8 +5,5 @@
 
 # This file describes the parent profile to this.  In most cases this will
 # just be the name of the parent directory
-#..
-#/usr/share/portage/profiles/default-linux/amd64/2005.0
-#../../../../../../share/portage/profiles/default-linux/amd64/2006.1/desktop
-#/usr/share/portage/profiles/default-linux/amd64/2006.0
-/usr/share/portage/profiles/default-linux/amd64/2006.1/desktop
+
+../../type/server/server-openvz--x86

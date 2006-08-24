@@ -125,7 +125,6 @@ gmp mhash ming
 tdb recursor
 aio
 javacomm
-srvdir
 fam memcache webdav overlays
 emacs
 tcl
@@ -133,10 +132,12 @@ vhosts
 bittorrent metalink
 jce
 eap-tls
+vim-pager
 -objc-gc
 -gnustep
 -opengl 
 -userlocales
+hashstyle
 "
 
 # pam_console 
@@ -156,6 +157,7 @@ eap-tls
 # ipv6
 # sbcl
 # drac 
+# srvdir
 
 LINGUAS="ru"
 LANGUAGE=RUSS
