@@ -137,6 +137,7 @@ vim-pager
 -gnustep
 -opengl 
 -userlocales
+hashstyle
 "
 
 # pam_console 
