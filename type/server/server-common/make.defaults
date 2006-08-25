@@ -137,8 +137,8 @@ vim-pager
 -gnustep
 -opengl 
 -userlocales
-hashstyle
 "
+# hashstyle
 
 # pam_console 
 # extensions
