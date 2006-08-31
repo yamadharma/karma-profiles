@@ -39,7 +39,7 @@ matroska
 guile xface
 cups ppds
 jbig lcms wmf
-nptl pic
+nptl nptlonly pic
 foomaticdb
 flac
 ofx
