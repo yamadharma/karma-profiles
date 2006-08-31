@@ -39,7 +39,7 @@ matroska
 guile xface
 cups ppds
 jbig lcms wmf
-nptl pic
+nptl nptlonly pic
 foomaticdb
 flac
 ofx
@@ -133,6 +133,7 @@ bittorrent metalink
 jce
 eap-tls
 vim-pager
+finger ftp gopher
 -objc-gc
 -gnustep
 -opengl 

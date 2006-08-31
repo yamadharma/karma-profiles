@@ -220,6 +220,7 @@ eap-tls
 vim-pager
 ionflux ionxrandr iontruetype ionscripts
 kqemu
+finger ftp gopher
 -objc-gc
 -apache2
 -arts
