@@ -221,7 +221,7 @@ vim-pager
 ionflux ionxrandr iontruetype ionscripts
 kqemu
 finger ftp gopher
-chardet sid
+chardet sid timidity ao
 -objc-gc
 -apache2
 -arts
