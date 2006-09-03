@@ -58,7 +58,6 @@ lirc
 v4l v4l2
 javascript
 mad
-dedicated
 socks5
 pg-hier pg-vacuumdelay pg-intdatetime
 f77 gcj objc
@@ -252,6 +251,7 @@ hashstyle
 # jikes
 # firefox 
 # srvdir 
+# dedicated
 
 LINGUAS="ru"
 LANGUAGE=RUSS
