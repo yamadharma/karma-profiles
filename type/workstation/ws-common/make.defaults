@@ -221,6 +221,7 @@ ionflux ionxrandr iontruetype ionscripts
 kqemu
 finger ftp gopher
 chardet sid timidity ao
+mzscheme
 -objc-gc
 -apache2
 -arts
