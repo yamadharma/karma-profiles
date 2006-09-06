@@ -222,6 +222,7 @@ kqemu
 finger ftp gopher
 chardet sid timidity ao
 mzscheme
+libsamplerate
 -objc-gc
 -apache2
 -arts
