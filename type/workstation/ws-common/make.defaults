@@ -221,7 +221,6 @@ ionflux ionxrandr iontruetype ionscripts
 kqemu
 finger ftp gopher
 chardet sid timidity ao
-mzscheme
 libsamplerate
 -objc-gc
 -apache2
@@ -254,6 +253,7 @@ hashstyle
 # firefox 
 # srvdir 
 # dedicated
+# mzscheme
 
 LINGUAS="ru"
 LANGUAGE=RUSS
