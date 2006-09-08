@@ -131,7 +131,6 @@ tcl
 vhosts
 bittorrent metalink
 jce
-eap-tls
 vim-pager
 finger ftp gopher
 -objc-gc
@@ -159,6 +158,7 @@ finger ftp gopher
 # sbcl
 # drac 
 # srvdir
+# eap-tls
 
 LINGUAS="ru"
 LANGUAGE=RUSS

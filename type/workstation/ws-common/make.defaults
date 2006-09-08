@@ -215,7 +215,6 @@ evo ole chm
 bittorrent metalink njb
 jce
 audacious infopipe wma
-eap-tls
 vim-pager
 ionflux ionxrandr iontruetype ionscripts
 kqemu
@@ -256,6 +255,7 @@ hashstyle
 # dedicated
 # mzscheme
 # avahi 
+# eap-tls
 
 LINGUAS="ru"
 LANGUAGE=RUSS
