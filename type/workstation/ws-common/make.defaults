@@ -223,7 +223,7 @@ chardet sid timidity ao
 libsamplerate
 amr
 aotuv
-hpn
+hpn ares
 -objc-gc
 -apache2
 -arts
