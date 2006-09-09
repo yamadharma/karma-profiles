@@ -222,6 +222,8 @@ finger ftp gopher
 chardet sid timidity ao
 libsamplerate
 amr
+aotuv
+hpn
 -objc-gc
 -apache2
 -arts
