@@ -224,6 +224,7 @@ libsamplerate
 amr
 aotuv
 hpn ares
+szip gcl ansi hlapi
 -objc-gc
 -apache2
 -arts
