@@ -287,13 +287,9 @@ PORT_LOGDIR=/var/log/portage
 
 PORTDIR_OVERLAY="${PORTDIR_OVERLAY} /usr/local/share/portage/local"
 
-
-# LDFLAGS="${LDFLAGS} -Wl,-O1 -Bdirect -zdynsort -hashvals"
-# LDFLAGS="${LDFLAGS} -Wl,-O1,-Bdirect,-z,dynsort,-hashvals"
-# LDFLAGS="${LDFLAGS} -Wl,-O1,-Bdirect,-z,dynsort"
-
 LDFLAGS="${LDFLAGS} -Wl,--hash-style=both"
 
-
-
+# use aria2
+FETCHCOMMAND="/usr/bin/aria2c -s 5 \${URI} --dir=\${DISTDIR}"
+RESUMECOMMAND="/usr/bin/aria2c -s 5 \${URI} --dir=\${DISTDIR}"
 
