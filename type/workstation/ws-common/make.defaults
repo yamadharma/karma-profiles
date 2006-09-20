@@ -290,6 +290,6 @@ PORTDIR_OVERLAY="${PORTDIR_OVERLAY} /usr/local/share/portage/local"
 LDFLAGS="${LDFLAGS} -Wl,--hash-style=both"
 
 # use aria2
-FETCHCOMMAND="/usr/bin/aria2c -s 5 \${URI} --dir=\${DISTDIR}"
-RESUMECOMMAND="/usr/bin/aria2c -s 5 \${URI} --dir=\${DISTDIR}"
+FETCHCOMMAND="/usr/bin/aria2c -s 5 --http-proxy='proxy.sci.pfu.edu.ru:3128' --ftp-via-http-proxy=tunnel \${URI} --dir=\${DISTDIR}"
+RESUMECOMMAND="/usr/bin/aria2c -s 5 --http-proxy='proxy.sci.pfu.edu.ru:3128' --ftp-via-http-proxy=tunnel \${URI} --dir=\${DISTDIR}"
 
