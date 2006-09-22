@@ -6,4 +6,5 @@
 # This file describes the parent profile to this.  In most cases this will
 # just be the name of the parent directory
 
-../../type/server/server
+# ../../type/server/server
+../../type/server/server-openvz--x86
