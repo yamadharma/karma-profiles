@@ -226,6 +226,8 @@ aotuv
 hpn ares
 szip gcl ansi hlapi
 netjack
+follow-xff underscores
+sound
 -objc-gc
 -apache2
 -arts
