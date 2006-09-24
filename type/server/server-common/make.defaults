@@ -75,7 +75,7 @@ threads
 ipv6
 expat ithreads
 logrotate 
-underscores zero-penalty-hit
+underscores
 pam_timestamp
 rrdtool
 nodrm
@@ -134,7 +134,7 @@ jce
 vim-pager
 finger ftp gopher
 hpn ares
--objc-gc
+objc-gc
 -gnustep
 -opengl 
 -userlocales
