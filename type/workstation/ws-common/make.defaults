@@ -228,6 +228,7 @@ szip gcl ansi hlapi
 netjack
 follow-xff underscores
 sound
+gconf
 objc-gc
 -apache2
 -arts
