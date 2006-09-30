@@ -230,6 +230,7 @@ follow-xff underscores
 sound
 gconf
 objc-gc
+cern
 -apache2
 -arts
 -userlocales
