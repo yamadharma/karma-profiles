@@ -28,7 +28,7 @@ virtual/editor			app-editors/nano
 virtual/jack			media-sound/jack-audio-connection-kit
 virtual/quicktime		media-libs/libquicktime
 virtual/os-headers		sys-kernel/linux-headers
-virtual/ghc			dev-lang/ghc-bin
+virtual/ghc			dev-lang/ghc
 virtual/modutils		sys-apps/modutils
 virtual/inetd			sys-apps/xinetd
 virtual/antivirus		app-antivirus/clamav
