@@ -139,8 +139,6 @@ objc-gc
 -opengl 
 -userlocales
 "
-# hashstyle
-
 # pam_console 
 # extensions
 
