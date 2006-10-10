@@ -135,10 +135,12 @@ vim-pager
 finger ftp gopher
 hpn ares
 objc-gc
+imq 
 -gnustep
 -opengl 
 -userlocales
 "
+# l7filter
 # pam_console 
 # extensions
 
