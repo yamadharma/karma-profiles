@@ -136,6 +136,7 @@ finger ftp gopher
 hpn ares
 objc-gc
 imq 
+smbkrb5passwd
 -gnustep
 -opengl 
 -userlocales
