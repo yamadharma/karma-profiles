@@ -71,7 +71,7 @@ ucs2
 mmap speex
 cairo glitz
 libffi
-non-flattened gcc-libffi
+gcc-libffi
 pdfkit emoticon gsnd
 xim
 cdparanoia divx4linux dvdread fbdev rtc edl lzo mythtv network nvidia xvmc theora
@@ -231,6 +231,7 @@ sound
 gconf
 objc-gc
 cern
+new-login
 -apache2
 -arts
 -userlocales
@@ -263,6 +264,8 @@ cern
 # mzscheme
 # avahi 
 # eap-tls
+# non-flattened 
+
 
 LINGUAS="ru"
 LANGUAGE=RUSS
