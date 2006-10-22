@@ -231,6 +231,8 @@ sound
 gconf
 objc-gc
 cern
+lcd crciprec
+doomsday
 new-login
 -apache2
 -arts
@@ -275,7 +277,7 @@ LANGUAGES=""
 
 #CONFIG_PROTECT_MASK="/etc/gconf /etc/init.d /etc/hotplug"
 
-FEATURES="sandbox usersandbox userpriv ccache candy -strict prelink confcache parallel-fetch metadata-transfer"
+FEATURES="sandbox usersandbox userpriv ccache candy -strict prelink confcache parallel-fetch metadata-transfer sfperms userfetch"
 
 SEARCH_DIRS="/usr/GNUstep"
 
@@ -283,7 +285,7 @@ SEARCH_DIRS="/usr/GNUstep"
 #VIDEO_CARDS="video_cards_i810 video_cards_nv video_cards_nvidia video_cards_sis"
 
 INPUT_DEVICES="keyboard mouse"
-VIDEO_CARDS="i810 nv nvidia sis"
+VIDEO_CARDS="i810 nv nvidia"
 
 PORTDIR=/usr/share/portage
 COMPORTDIR=/com/lib/portage
