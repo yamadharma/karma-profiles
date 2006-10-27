@@ -233,6 +233,7 @@ objc-gc
 cern
 lcd crciprec
 doomsday
+xforms
 new-login
 -apache2
 -arts

@@ -137,7 +137,6 @@ objc-gc
 smbkrb5passwd
 -gnustep
 -opengl 
--userlocales
 "
 # l7filter
 # pam_console 
