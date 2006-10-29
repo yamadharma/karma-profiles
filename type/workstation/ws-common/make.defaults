@@ -234,6 +234,7 @@ cern
 lcd crciprec
 doomsday
 xforms
+gmedia realmedia wmp
 new-login
 -apache2
 -arts
