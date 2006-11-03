@@ -167,7 +167,8 @@ LANGUAGE=RUSS
 
 #CONFIG_PROTECT_MASK="/etc/gconf /etc/init.d /etc/hotplug /etc/security/selinux/"
 
-FEATURES="sandbox usersandbox userpriv ccache -strict loadpolicy candy confcache parallel-fetch metadata-transfer"
+FEATURES="sandbox usersandbox userpriv -strict loadpolicy candy confcache parallel-fetch metadata-transfer"
+#  ccache
 
 POLICYDIR=/etc/security/selinux/src/policy
 
