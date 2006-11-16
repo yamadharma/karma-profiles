@@ -236,6 +236,7 @@ mtp
 moznopango
 stlport bogofilter epeg gpgme hevea obby xapian gsl
 srt
+utempter
 -apache2
 -arts
 "
