@@ -237,6 +237,8 @@ moznopango
 stlport bogofilter epeg gpgme hevea obby xapian gsl
 srt
 utempter
+pulseaudio icecast
+rdesktop
 -apache2
 -arts
 "
