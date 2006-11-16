@@ -239,6 +239,7 @@ srt
 utempter
 pulseaudio icecast
 rdesktop
+qt3 qt4
 -apache2
 -arts
 "
