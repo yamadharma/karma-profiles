@@ -1,2 +1,1 @@
->sys-kernel/linux-headers-2.6.16
-=sys-libs/glibc-2.4-r4
+>=sys-libs/glibc-2.5-r1
