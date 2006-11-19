@@ -135,6 +135,7 @@ finger ftp gopher
 hpn ares
 objc-gc
 smbkrb5passwd
+threadsafe
 -gnustep
 -opengl 
 "
