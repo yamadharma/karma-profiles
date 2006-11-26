@@ -245,6 +245,7 @@ threadsafe
 agg
 arts artswrappersuid 
 esd
+ladspa
 -apache2
 "
 
