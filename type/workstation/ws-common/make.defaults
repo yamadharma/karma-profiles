@@ -246,6 +246,8 @@ agg
 arts artswrappersuid 
 esd
 ladspa
+rhythmbox
+plugins
 -apache2
 "
 
