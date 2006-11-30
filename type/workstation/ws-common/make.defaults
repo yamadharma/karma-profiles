@@ -248,6 +248,7 @@ esd
 ladspa
 rhythmbox
 plugins
+jackmidi
 -apache2
 "
 
