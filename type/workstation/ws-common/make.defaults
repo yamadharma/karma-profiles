@@ -248,7 +248,8 @@ esd
 ladspa
 rhythmbox
 plugins
-jackmidi
+glsa qa 
+jingle jrtplib ortp gnet sofia-sip
 -apache2
 "
 
@@ -284,6 +285,7 @@ jackmidi
 # pg-hier 
 # new-login
 # -userlocales
+# jackmidi
 
 LINGUAS="ru"
 LANGUAGE=RUSS

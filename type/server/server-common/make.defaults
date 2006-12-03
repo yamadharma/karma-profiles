@@ -26,7 +26,6 @@ innodb
 ruby
 mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm
 acpi
-ecf
 gnustep
 faad
 multimaster
@@ -136,6 +135,7 @@ hpn ares
 objc-gc
 smbkrb5passwd
 threadsafe
+glsa qa 
 -gnustep
 -opengl 
 "
@@ -160,6 +160,7 @@ threadsafe
 # drac 
 # srvdir
 # eap-tls
+# ecf
 
 LINGUAS="ru"
 LANGUAGE=RUSS
