@@ -251,6 +251,7 @@ plugins
 glsa qa 
 jingle jrtplib ortp gnet sofia-sip
 libnotify tagwriting 
+avahi autoipd howl-compat mdnsresponder-compat
 -apache2
 "
 
