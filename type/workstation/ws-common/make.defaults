@@ -321,3 +321,7 @@ LDFLAGS="${LDFLAGS} -Wl,--hash-style=both"
 #FETCHCOMMAND="/usr/bin/aria2c -s 5 --http-proxy='proxy.sci.pfu.edu.ru:3128' --ftp-via-http-proxy=tunnel \${URI} --dir=\${DISTDIR}"
 #RESUMECOMMAND="/usr/bin/aria2c -s 5 --http-proxy='proxy.sci.pfu.edu.ru:3128' --ftp-via-http-proxy=tunnel \${URI} --dir=\${DISTDIR}"
 
+PORTAGE_ELOG_SYSTEM="save"
+PORTAGE_ELOG_CLASSES="warn error info log"
+
+

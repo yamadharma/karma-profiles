@@ -184,3 +184,6 @@ PORTDIR_OVERLAY="${PORTDIR_OVERLAY} /usr/local/share/portage/local"
 
 ECVS_OFFLINE=1
 
+PORTAGE_ELOG_SYSTEM="save"
+PORTAGE_ELOG_CLASSES="warn error info log"
+
