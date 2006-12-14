@@ -54,8 +54,6 @@ idea
 caps cap
 emacs-w3 imlib2 lynxkeymap
 xvid live divx
-selinux
-hardened
 xprint
 mailwrapper md5sum
 ucs2
@@ -81,7 +79,6 @@ nodrm
 rdesktop
 dlz idn
 erandom urandom
-glibc-omitfp
 pcre
 7zip
 sensord rrdtool
