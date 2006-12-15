@@ -133,6 +133,7 @@ objc-gc
 smbkrb5passwd
 threadsafe
 glsa qa 
+charconv
 -gnustep
 -opengl 
 "
