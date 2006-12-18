@@ -1,4 +1,5 @@
 sci-physics/root 	kerberos
 net-misc/curl		kerberos
-# dev-db/unixODBC		gnome
+media-video/totem	nsplugin
+
 
