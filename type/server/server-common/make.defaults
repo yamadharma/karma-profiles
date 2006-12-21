@@ -134,6 +134,7 @@ smbkrb5passwd
 threadsafe
 glsa qa 
 charconv
+pop smime buffysize mbox
 -gnustep
 -opengl 
 "

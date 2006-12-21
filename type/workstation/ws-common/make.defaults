@@ -253,6 +253,8 @@ libnotify tagwriting
 avahi autoipd howl-compat mdnsresponder-compat
 keyring
 aiglx
+pop smime buffysize mbox
+srv
 -apache2
 "
 
