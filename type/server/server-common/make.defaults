@@ -135,6 +135,7 @@ threadsafe
 glsa qa 
 charconv
 pop smime buffysize mbox
+fasttrack gnutella magic
 -gnustep
 -opengl 
 "

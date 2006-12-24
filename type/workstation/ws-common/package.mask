@@ -1,0 +1,2 @@
+#-~x11-drivers/nvidia-drivers-1.0.9742
+-=app-cdr/k3b-1.0_rc*
