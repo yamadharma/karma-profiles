@@ -123,7 +123,6 @@ javacomm
 fam memcache webdav overlays
 emacs
 tcl
-vhosts
 bittorrent metalink
 jce
 vim-pager
@@ -161,6 +160,7 @@ fasttrack gnutella magic
 # srvdir
 # eap-tls
 # ecf
+# vhosts
 
 LINGUAS="ru"
 LANGUAGE=RUSS
