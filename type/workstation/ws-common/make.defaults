@@ -199,7 +199,6 @@ unicode
 mudflap
 javacomm 
 gimp overlays
-iontruetype
 swig
 bcp bjam pyste
 ilbc vorbis-psy
@@ -258,6 +257,7 @@ srv
 fasttrack gnutella magic
 glade gnomecanvas
 cdda corba mod rtsp seamonkey shout skins stream vlm wxwindows
+iontruetype ionunicode
 -apache2
 "
 
