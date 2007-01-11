@@ -135,6 +135,7 @@ glsa qa
 charconv
 pop smime buffysize mbox
 fasttrack gnutella magic
+glep
 -gnustep
 -opengl 
 "
