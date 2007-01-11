@@ -2,3 +2,4 @@
 -=net-www/netscape-flash-9*
 -gnustep-libs/popplerkit
 -gnustep-apps/vindaloo
+-media-video/avidemux
