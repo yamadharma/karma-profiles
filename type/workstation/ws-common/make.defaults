@@ -262,6 +262,8 @@ portaudio19
 glep
 lame mp3rtp
 numeric
+addbookmarks alias autoreplace connectionstatus contactnotes highlight history statistics texteffect trnslator webpresence 
+idle trayicon xhtml
 -apache2
 "
 
