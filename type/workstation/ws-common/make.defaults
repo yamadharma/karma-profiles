@@ -265,6 +265,7 @@ numeric
 addbookmarks alias autoreplace connectionstatus contactnotes highlight history statistics texteffect trnslator webpresence 
 idle trayicon xhtml
 xulrunner
+eolconv
 -apache2
 "
 
