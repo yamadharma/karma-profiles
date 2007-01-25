@@ -266,6 +266,7 @@ addbookmarks alias autoreplace connectionstatus contactnotes highlight history s
 idle trayicon xhtml
 xulrunner
 eolconv
+new-login
 -apache2
 "
 
