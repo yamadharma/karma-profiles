@@ -267,6 +267,11 @@ idle trayicon xhtml
 xulrunner
 eolconv
 new-login
+epydoc
+zsh-completion contrarius cran
+mfd-rewrites rpm diskio
+qhull ginac
+netmeeting translator
 -apache2
 "
 
@@ -313,7 +318,8 @@ LANGUAGES=""
 
 #CONFIG_PROTECT_MASK="/etc/gconf /etc/init.d /etc/hotplug"
 
-FEATURES="sandbox usersandbox userpriv ccache candy -strict prelink confcache parallel-fetch metadata-transfer sfperms userfetch"
+FEATURES="sandbox usersandbox userpriv ccache candy -strict prelink confcache parallel-fetch metadata-transfer userfetch"
+#sfperms 
 
 SEARCH_DIRS="/usr/GNUstep"
 
@@ -340,4 +346,4 @@ LDFLAGS="${LDFLAGS} -Wl,--hash-style=both"
 PORTAGE_ELOG_SYSTEM="save"
 PORTAGE_ELOG_CLASSES="warn error info log"
 
-
+# PORTAGE_DEBUG=1
