@@ -26,7 +26,6 @@ innodb
 ruby
 mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm
 acpi
-gnustep
 faad
 multimaster
 cscope
@@ -138,8 +137,7 @@ fasttrack gnutella magic
 glep
 zsh-completion contrarius cran
 mfd-rewrites rpm diskio
--gnustep
--opengl 
+rcc
 "
 # l7filter
 # pam_console 
@@ -164,6 +162,7 @@ mfd-rewrites rpm diskio
 # eap-tls
 # ecf
 # vhosts
+# -opengl 
 
 LINGUAS="ru"
 LANGUAGE=RUSS
