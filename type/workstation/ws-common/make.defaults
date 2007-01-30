@@ -273,6 +273,7 @@ mfd-rewrites rpm diskio
 qhull ginac
 netmeeting translator
 zeroconf
+kipi
 -apache2
 "
 
