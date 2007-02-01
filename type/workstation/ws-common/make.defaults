@@ -274,6 +274,7 @@ qhull ginac
 netmeeting translator
 zeroconf
 kipi
+device-mapper
 -apache2
 "
 

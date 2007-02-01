@@ -138,6 +138,7 @@ glep
 zsh-completion contrarius cran
 mfd-rewrites rpm diskio
 rcc
+device-mapper
 "
 # l7filter
 # pam_console 
