@@ -10,7 +10,6 @@ dvd dvdr
 ggi
 directfb
 fbcon
-emacs.ecf
 leim
 alsa
 mysql postgres
@@ -109,7 +108,7 @@ dts aac
 # 3dnow
 # threads
 # pie hardened
-
+# emacs.ecf
 
 ARCH="x86"
 COMPILER="gcc3"

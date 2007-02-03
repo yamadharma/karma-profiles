@@ -1,7 +1,16 @@
 # Copyright 2002 Gentoo Technologies, Inc.
 # System-wide defaults for the gcc 3.2 Portage system
 
-USE="oss sse apm avi berkdb crypt encode gdbm gif gpm gtk gtk2 imlib
+
+
+USE="${USE} \
+oss \
+sse \
+apm \
+avi \
+berkdb \
+crypt 
+encode gdbm gif gpm gtk gtk2 imlib
 java jpeg gnome libg++ libwww mikmod mmx motif mpeg ncurses nls oggvorbis
 opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl
 svga tcpd truetype X xml2 xmms xv zlib
@@ -13,12 +22,15 @@ fbcon
 leim
 alsa
 postgres
-sasl kerberos 
+sasl 
+kerberos 
 samba
 crypt xfs acpi4linux
 usb
 tiff
-doc ruby tcltk
+doc 
+ruby 
+tcltk
 slp
 curl flash xml
 snmp imap
@@ -260,7 +272,7 @@ cdda corba mod rtsp seamonkey shout skins stream vlm wxwindows
 iontruetype ionunicode
 portaudio19
 glep
-lame mp3rtp
+lame mp3rtp wavpack
 numeric
 addbookmarks alias autoreplace connectionstatus contactnotes highlight history statistics texteffect trnslator webpresence 
 idle trayicon xhtml
@@ -270,8 +282,10 @@ new-login
 epydoc
 zsh-completion contrarius cran
 mfd-rewrites rpm diskio
-qhull ginac
-netmeeting translator
+qhull 
+ginac
+netmeeting 
+translator
 zeroconf
 kipi
 device-mapper
@@ -350,3 +364,4 @@ PORTAGE_ELOG_SYSTEM="save"
 PORTAGE_ELOG_CLASSES="warn error info log"
 
 # PORTAGE_DEBUG=1
+
