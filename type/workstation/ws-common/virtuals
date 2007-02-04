@@ -53,3 +53,4 @@ virtual/blas			app-sci/blas-atlas
 virtual/lapack			app-sci/lapack-atlas
 virtual/fam             	app-admin/gamin
 virtual/gnustep-back    	gnustep-base/gnustep-back-art
+virtual/dev-manager		sys-fs/udev
