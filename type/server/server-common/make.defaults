@@ -1,43 +1,43 @@
 # Copyright 2002 Gentoo Technologies, Inc.
 # System-wide defaults for the gcc 3.2 Portage system
 
-USE="sse apm avi berkdb crypt encode gdbm gif gpm imlib
-java jpeg libg++ libwww mmx mpeg ncurses nls oggvorbis
-pam pdflib png python qtmt quicktime readline slang spell ssl
-tcpd xml2 xmms zlib
-ldap
-dvd
-fbcon
-leim
-mysql postgres
-sasl kerberos 
-samba
-crypt xfs acpi4linux
-usb
-tiff
-ruby 
-slp
-curl flash xml
-snmp imap
-perl
-plotutils
-acl
-innodb
-ruby
-mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm
-acpi
-faad
-multimaster
-cscope
-svg
-evms2
-gd
-skey
-matroska
-guile xface
-cups ppds
-jbig lcms wmf
-nptl nptlonly pic
+USE="sse apm avi berkdb crypt encode gdbm gif gpm imlib \
+java jpeg libg++ libwww mmx mpeg ncurses nls oggvorbis \
+pam pdflib png python qtmt quicktime readline slang spell ssl \
+tcpd xml2 xmms zlib \
+ldap \
+dvd \
+fbcon \
+leim \
+mysql postgres \
+sasl kerberos \
+samba \
+crypt xfs acpi4linux \
+usb \
+tiff \
+ruby \
+slp \
+curl flash xml \
+snmp imap \
+perl \
+plotutils \
+acl \
+innodb \
+ruby \
+mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm \
+acpi \
+faad \
+multimaster \
+cscope \
+svg \
+evms2 \
+gd \
+skey \
+matroska \
+guile xface \
+cups ppds \
+jbig lcms wmf \
+nptl nptlonly pic \
 foomaticdb
 flac
 ofx

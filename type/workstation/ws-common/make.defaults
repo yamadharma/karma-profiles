@@ -9,32 +9,26 @@ sse \
 apm \
 avi \
 berkdb \
-crypt 
-encode gdbm gif gpm gtk gtk2 imlib
-java jpeg gnome libg++ libwww mikmod mmx motif mpeg ncurses nls oggvorbis
-opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl
-svga tcpd truetype X xml2 xmms xv zlib
-ldap
-dvd dvdr
-ggi
-directfb
-fbcon
-leim
-alsa
-postgres
-sasl 
-kerberos 
-samba
-crypt xfs acpi4linux
-usb
-tiff
-doc 
-ruby 
-tcltk
-slp
-curl flash xml
-snmp imap
-tcltk
+crypt \
+encode gdbm gif gpm gtk gtk2 imlib \
+java jpeg gnome libg++ libwww mikmod mmx motif mpeg ncurses nls oggvorbis \
+opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl \
+svga tcpd truetype X xml2 xmms xv zlib \
+ldap \
+dvd dvdr \
+ggi \
+directfb \
+fbcon \
+leim \
+alsa \
+postgres \
+sasl \
+kerberos \
+samba \
+crypt xfs acpi4linux \
+usb tiff doc ruby tcltk slp curl flash xml \
+snmp imap \
+tcltk \
 perl
 plotutils
 acl

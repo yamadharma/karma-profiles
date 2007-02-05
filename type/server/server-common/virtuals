@@ -20,7 +20,6 @@ virtual/cron			sys-apps/fcron
 virtual/xemacs			app-editors/xemacs
 virtual/sylpheed		mail-client/sylpheed
 virtual/php			dev-php/mod_php
-virtual/textbrowser		net-www/links
 virtual/mda			mail-filter/procmail
 virtual/krb5			app-crypt/heimdal
 virtual/bootloader		sys-boot/grub
@@ -35,7 +34,6 @@ virtual/antivirus		app-antivirus/clamav
 virtual/aspell-dict		app-dicts/aspell-en
 virtual/skkserv			app-i18n/skkserv
 virtual/snmp			net-analyzer/net-snmp
-virtual/winkernel		sys-kernel/win4lin-sources
 virtual/imap-c-client		net-libs/c-client
 virtual/wine			app-emulation/wine
 virtual/flim			app-emacs/flim
@@ -57,3 +55,4 @@ virtual/blas			app-sci/blas-atlas
 virtual/lapack			app-sci/lapack-atlas
 virtual/fam             	app-admin/gamin
 virtual/gnustep-back    	gnustep-base/gnustep-back-art
+virtual/dev-manager		sys-fs/udev
