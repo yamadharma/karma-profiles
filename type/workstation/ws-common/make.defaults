@@ -255,7 +255,7 @@ plugins
 glsa qa 
 jingle jrtplib ortp gnet sofia-sip
 libnotify tagwriting 
-avahi autoipd howl-compat mdnsresponder-compat
+avahi autoipd howl-compat
 keyring
 aiglx
 pop smime buffysize mbox
@@ -320,6 +320,7 @@ device-mapper
 # -userlocales
 # jackmidi
 # agg
+# mdnsresponder-compat
 
 LINGUAS="ru"
 LANGUAGE=RUSS
@@ -358,4 +359,6 @@ PORTAGE_ELOG_SYSTEM="save"
 PORTAGE_ELOG_CLASSES="warn error info log"
 
 # PORTAGE_DEBUG=1
+
+USE_EXPAND="PALUDIS_HOOKS"
 
