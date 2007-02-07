@@ -284,6 +284,7 @@ zeroconf \
 kipi \
 device-mapper \
 fping \
+inquisitio \
 -apache2 \
 "
 

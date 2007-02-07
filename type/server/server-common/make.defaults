@@ -131,14 +131,15 @@ objc-gc
 smbkrb5passwd
 threadsafe
 glsa qa 
-charconv
-pop smime buffysize mbox
-fasttrack gnutella magic
-glep
-zsh-completion contrarius cran
-mfd-rewrites rpm diskio
-rcc
-device-mapper
+charconv \
+pop smime buffysize mbox \
+fasttrack gnutella magic \
+glep \
+zsh-completion contrarius cran \
+mfd-rewrites rpm diskio \
+rcc \
+device-mapper \
+inquisitio \
 "
 # l7filter
 # pam_console 
