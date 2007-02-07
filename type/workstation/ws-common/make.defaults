@@ -270,20 +270,21 @@ lame mp3rtp wavpack
 numeric
 addbookmarks alias autoreplace connectionstatus contactnotes highlight history statistics texteffect trnslator webpresence 
 idle trayicon xhtml
-xulrunner
-eolconv
-new-login
-epydoc
-zsh-completion contrarius cran
-mfd-rewrites rpm diskio
-qhull 
-ginac
-netmeeting 
-translator
-zeroconf
-kipi
-device-mapper
--apache2
+xulrunner \
+eolconv \
+new-login \
+epydoc \
+zsh-completion contrarius cran \
+mfd-rewrites rpm diskio \
+qhull \
+ginac \
+netmeeting \
+translator \
+zeroconf \
+kipi \
+device-mapper \
+fping \
+-apache2 \
 "
 
 # pam_console
