@@ -29,13 +29,11 @@ crypt xfs acpi4linux \
 usb tiff doc ruby tcltk slp curl flash xml \
 snmp imap \
 tcltk \
-perl
-plotutils
-acl
-innodb
-ruby
-mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm
-tetex
+perl plotutils acl \
+innodb ruby \
+mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm \
+mozdom replytolist \
+tetex \
 acpi
 Xaw3d
 gnustep
@@ -285,6 +283,7 @@ kipi \
 device-mapper \
 fping \
 inquisitio \
+galago thunderbird \
 -apache2 \
 "
 
