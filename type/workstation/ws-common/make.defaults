@@ -284,6 +284,7 @@ device-mapper \
 fping \
 inquisitio \
 galago thunderbird \
+pike fontconfig \
 -apache2 \
 "
 
