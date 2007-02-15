@@ -1,8 +1,8 @@
-sci-physics/root 	kerberos
-net-misc/curl		kerberos
-media-video/totem	nsplugin
-media-video/vlc		nsplugin
-net-fs/nfs-utils	kerberos
-
+sci-physics/root 		kerberos
+net-misc/curl			kerberos
+media-video/totem		nsplugin
+media-video/vlc			nsplugin
+net-fs/nfs-utils		kerberos
+=kde-base/kopete-3.5.5*		jingle
 
 

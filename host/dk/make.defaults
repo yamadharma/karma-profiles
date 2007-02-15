@@ -1,2 +1,2 @@
 USE="mpi"
-VIDEO_CARDS="${VIDEO_CARDS} i810 nv nvidia sis"
+VIDEO_CARDS="${VIDEO_CARDS} i810 nv nvidia sis fglrx radeon"

@@ -285,6 +285,7 @@ fping \
 inquisitio \
 galago thunderbird \
 pike fontconfig \
+toolkit-scroll-bars xft  gzip-el \
 -apache2 \
 "
 
