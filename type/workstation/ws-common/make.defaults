@@ -286,6 +286,7 @@ inquisitio \
 galago thunderbird \
 pike fontconfig \
 toolkit-scroll-bars xft  gzip-el \
+glib pch qt3support sqlite3 \
 -apache2 \
 "
 
