@@ -140,6 +140,7 @@ mfd-rewrites rpm diskio \
 rcc \
 device-mapper \
 inquisitio \
+purge \
 "
 # l7filter
 # pam_console 

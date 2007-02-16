@@ -287,6 +287,8 @@ galago thunderbird \
 pike fontconfig \
 toolkit-scroll-bars xft  gzip-el \
 glib pch qt3support sqlite3 \
+purge \
+daap \
 -apache2 \
 "
 
