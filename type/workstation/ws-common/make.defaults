@@ -1,6 +1,4 @@
 # Copyright 2002 Gentoo Technologies, Inc.
-# System-wide defaults for the gcc 3.2 Portage system
-
 
 
 USE="${USE} \
@@ -34,18 +32,18 @@ innodb ruby \
 mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm \
 mozdom replytolist \
 tetex \
-acpi
-Xaw3d
-gnustep
-faad
-multimaster
-vim-with-x cscope
-svg
-jack jack-tmpfs
-evms2
-gd
-skey
-matroska
+acpi \
+Xaw3d \
+gnustep \
+faad \
+multimaster \
+vim-with-x cscope \
+svg \
+jack jack-tmpfs \
+evms2 \
+gd \
+skey \
+matroska \
 guile xface
 cups ppds
 jbig lcms wmf
