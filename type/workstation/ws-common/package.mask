@@ -6,7 +6,7 @@
 -dev-lang/lua-wrapper
 -=sys-libs/slang-2*
 # mozilla-thunderbird-2
-->=x11-plugins/enigmail-0.94.1-r1
-->=mail-client/mozilla-thunderbird-2.0_alpha1
+-=x11-plugins/enigmail-0.94.2-r1
+->=mail-client/mozilla-thunderbird-2.0_beta1
 -x11-plugins/replytolist
 #
