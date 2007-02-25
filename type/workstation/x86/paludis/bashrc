@@ -11,7 +11,7 @@ case "${PN}" in
     automake|glibc|e2fsprogs|neon|gettext|tar)
          export SKIP_FUNCTIONS=test
          ;;
-    pike|koffice*)
+    pike|koffice*|monodoc|mono-tools)
          export SKIP_FUNCTIONS=test
          ;;
 esac
