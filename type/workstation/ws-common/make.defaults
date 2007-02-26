@@ -1,5 +1,8 @@
 # Copyright 2002 Gentoo Technologies, Inc.
 
+USE_EXPAND="PALUDIS_HOOKS"
+# USE_EXPAND="VIDEO_CARDS"
+
 
 USE="${USE} \
 oss \
@@ -343,7 +346,7 @@ SEARCH_DIRS="/usr/GNUstep"
 #VIDEO_CARDS="video_cards_i810 video_cards_nv video_cards_nvidia video_cards_sis"
 
 INPUT_DEVICES="keyboard mouse evdev"
-VIDEO_CARDS="-* nv nvidia"
+VIDEO_CARDS="nv nvidia"
 #VIDEO_CARDS="i810 nv nvidia"
 
 PORTDIR=/usr/share/portage
@@ -365,6 +368,4 @@ PORTAGE_ELOG_CLASSES="warn error info log"
 
 # PORTAGE_DEBUG=1
 
-USE_EXPAND="PALUDIS_HOOKS"
-USE_EXPAND="VIDEO_CARDS"
 
