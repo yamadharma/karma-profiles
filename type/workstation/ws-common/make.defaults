@@ -2,7 +2,7 @@
 
 USE_EXPAND="PALUDIS_HOOKS"
 # USE_EXPAND="VIDEO_CARDS"
-
+# USE_EXPAND="VIDEO_CARDS INPUT_DEVICES LINGUAS PALUDIS_HOOKS"
 
 USE="${USE} \
 oss \
@@ -347,7 +347,9 @@ SEARCH_DIRS="/usr/GNUstep"
 
 INPUT_DEVICES="keyboard mouse evdev"
 VIDEO_CARDS="nv nvidia"
+#VIDEO_CARDS="-* nv nvidia"
 #VIDEO_CARDS="i810 nv nvidia"
+VIDEO_CARDS="i810"
 
 PORTDIR=/usr/share/portage
 COMPORTDIR=/com/lib/portage
