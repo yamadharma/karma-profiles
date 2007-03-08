@@ -54,3 +54,4 @@ virtual/lapack			app-sci/lapack-atlas
 virtual/fam             	app-admin/gamin
 virtual/gnustep-back    	gnustep-base/gnustep-back-art gnustep-base/gnustep-back-cairo
 virtual/dev-manager		sys-fs/udev
+virtual/cdrtools		app-cdr/cdrtools

@@ -4,5 +4,5 @@ media-video/totem		nsplugin
 media-video/vlc			nsplugin
 net-fs/nfs-utils		kerberos
 =kde-base/kopete-3.5.5*		jingle
-
+=media-libs/mlt-0.2.2*		mmx
 

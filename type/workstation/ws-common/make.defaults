@@ -290,7 +290,7 @@ toolkit-scroll-bars xft  gzip-el \
 glib pch qt3support sqlite3 \
 purge \
 daap sdl-image jackmidi \
-emf \
+emf lash fluidsynth \
 -apache2 \
 "
 
