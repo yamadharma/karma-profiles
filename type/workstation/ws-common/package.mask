@@ -1,9 +1,6 @@
--=app-cdr/k3b-1.0_rc*
--=net-www/netscape-flash-9*
 -gnustep-libs/popplerkit
 -gnustep-apps/vindaloo
 -media-video/avidemux
--dev-lang/lua-wrapper
 -=sys-libs/slang-2*
 # mozilla-thunderbird-2
 -=x11-plugins/enigmail-0.94.3-r1
