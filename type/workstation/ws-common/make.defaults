@@ -291,6 +291,7 @@ glib pch qt3support sqlite3 \
 purge \
 daap sdl-image jackmidi \
 emf lash fluidsynth \
+dvdnav mp2 pnm radio \
 -apache2 \
 "
 
