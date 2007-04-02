@@ -292,6 +292,7 @@ purge \
 daap sdl-image jackmidi \
 emf lash fluidsynth \
 dvdnav mp2 pnm radio \
+gnome-print  portage \
 -apache2 \
 "
 
