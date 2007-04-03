@@ -8,3 +8,8 @@
 -x11-plugins/replytolist
 #
 ->=app-office/dia-0.96_pre3
+#
+->=kde-misc/krusader-1.80.0_beta1
+#
+->=sys-apps/hal-0.5.9_rc2
+->=app-misc/hal-info-20070326

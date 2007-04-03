@@ -1,1 +1,4 @@
 -=sys-libs/slang-2*
+#
+->=sys-apps/hal-0.5.9_rc2
+->=app-misc/hal-info-20070326

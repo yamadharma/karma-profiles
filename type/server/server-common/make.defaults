@@ -141,6 +141,7 @@ rcc \
 device-mapper \
 inquisitio \
 purge \
+disk-partition dmi \
 "
 # l7filter
 # pam_console 
