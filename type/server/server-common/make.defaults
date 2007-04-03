@@ -140,7 +140,7 @@ mfd-rewrites rpm diskio \
 rcc \
 device-mapper \
 inquisitio \
-purge \
+purge portage \
 disk-partition dmi \
 "
 # l7filter
