@@ -6,4 +6,6 @@
 # This file describes the parent profile to this.  In most cases this will
 # just be the name of the parent directory
 #..
-../../../../../../../share/portage/profiles/selinux/2005.1/amd64
+#../../../../../../../share/portage/profiles/selinux/2005.1/amd64
+../../../../../../../share/portage/profiles/selinux/amd64/2006.1
+

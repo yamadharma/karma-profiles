@@ -193,4 +193,8 @@ ECVS_OFFLINE=1
 PORTAGE_ELOG_SYSTEM="save"
 PORTAGE_ELOG_CLASSES="warn error info log"
 
+# For paludis
+
 USE_EXPAND="PALUDIS_HOOKS"
+
+PALUDIS_HOOKS="eselect" 

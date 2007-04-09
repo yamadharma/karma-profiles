@@ -294,6 +294,7 @@ emf lash fluidsynth \
 dvdnav mp2 pnm radio \
 gnome-print  portage extra-cardsets \
 disk-partition dmi \
+dia postscript \
 -apache2 \
 "
 
