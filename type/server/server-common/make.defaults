@@ -141,7 +141,7 @@ rcc \
 device-mapper \
 inquisitio \
 purge portage \
-disk-partition dmi \
+disk-partition dmi xcb \
 "
 # l7filter
 # pam_console 
