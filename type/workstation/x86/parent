@@ -7,7 +7,8 @@
 # just be the name of the parent directory
 #..
 #../../../../../../../share/portage/profiles/default-linux/x86/2006.0
-../../../../../../../share/portage/profiles/default-linux/x86/2006.1/desktop
+#../../../../../../../share/portage/profiles/default-linux/x86/2006.1/desktop
+../../../../../../../share/portage/profiles/default-linux/x86/2007.0/desktop
 
 
 
