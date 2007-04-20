@@ -295,6 +295,7 @@ dvdnav mp2 pnm radio \
 gnome-print  portage extra-cardsets \
 disk-partition dmi \
 dia postscript xcb tta \
+applet gsf \
 -apache2 \
 "
 
