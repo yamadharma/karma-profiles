@@ -13,3 +13,5 @@
 #
 ->=sys-apps/hal-0.5.9_rc2
 ->=app-misc/hal-info-20070326
+#
+-=app-editors/emacs-cvs-23.0.0*
