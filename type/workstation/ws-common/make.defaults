@@ -376,11 +376,21 @@ LDFLAGS="${LDFLAGS} -Wl,--hash-style=both"
 PORTAGE_ELOG_SYSTEM="save"
 PORTAGE_ELOG_CLASSES="warn error info log"
 
+ELISP_DISABLE_ELC=1
+
 # PORTAGE_DEBUG=1
+
+# Gnustep
+
+USE_EXPAND="${USE_EXPAND} GNUSTEP_LAYOUT"
+
+GNUSTEP_LAYOUT=gnustep
+# GNUSTEP_LAYOUT=fhs-system
+# USE="${USE} non-flattened"
 
 # For paludis
 
-USE_EXPAND="PALUDIS_HOOKS"
+USE_EXPAND="${USE_EXPAND} PALUDIS_HOOKS"
 
 PALUDIS_HOOKS="eselect" 
 
