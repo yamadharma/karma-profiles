@@ -388,6 +388,9 @@ GNUSTEP_LAYOUT=gnustep
 # GNUSTEP_LAYOUT=fhs-system
 # USE="${USE} non-flattened"
 
+#
+ALSA_CARDS=""
+
 # For paludis
 
 USE_EXPAND="${USE_EXPAND} PALUDIS_HOOKS"
