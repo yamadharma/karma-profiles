@@ -1,7 +1,8 @@
 # Copyright 2002 Gentoo Technologies, Inc.
 # System-wide defaults for the gcc 3.2 Portage system
 
-USE="sse apm avi berkdb crypt encode gdbm gif gpm imlib \
+USE="${USE} \
+sse apm avi berkdb crypt encode gdbm gif gpm imlib \
 java jpeg libg++ libwww mmx mpeg ncurses nls oggvorbis \
 pam pdflib png python qtmt quicktime readline slang spell ssl \
 tcpd xml2 xmms zlib \
@@ -38,99 +39,99 @@ guile xface \
 cups ppds \
 jbig lcms wmf \
 nptl nptlonly pic \
-foomaticdb
-flac
-ofx
-lirc
-v4l v4l2
-javascript
-mad
-dedicated
-socks5
-pg-hier pg-vacuumdelay pg-intdatetime
-f77 gcj objc
-idea
-caps cap
-emacs-w3 imlib2 lynxkeymap
-xvid live divx
-xprint
-mailwrapper md5sum
-ucs2
-lzw-tiff lzw
-oav
-winbind quotas libclamav
-hal
-bash-completion
-fortran
-dnsdb lmtp exiscan-acl syslog wildlsearch mbox
-lm_sensors
-fftw
-bzip2 ecc
-sysfs sysvipc 
-threads
-ipv6
-expat ithreads
-logrotate 
-underscores
-pam_timestamp
-rrdtool
-nodrm
-rdesktop
-dlz idn
-erandom urandom
-pcre
-7zip
-sensord rrdtool
-exim neural virtual-users
-fastcgi mcal memlimit
-customlog
-srp ntlm_unsupported_patch 
-async automount syslog
-inode session
-big-tables extraengine geometry utf8 cluster
-idn
-xattr
-spf srs
-unsupported_8bit 
-virus-scan
-rle
-lua
-follow-xff
-tools
-unicode
-blas hdf hdf5
-diet
-truetype
-objc++
-yaz
-cgi xmlreader xmlrpc xmlwriter xpm zip hash overload vm-switch pdo reflection
-iconv inifile bcmath curl curlwrappers pcntl flatfile
-mysql mysqli
-sharedext wddx
-dba cli
-mod_pubsub mod_irc mod_muc web
-mime pdf
-fuse
-filter sqlite nfs
-nodrm
-kernel_linux
-xinetd msdfs
-gmp mhash ming
-tdb recursor
-aio
-javacomm
-fam memcache webdav overlays
-emacs
-tcl
-bittorrent metalink
-jce
-vim-pager
-finger ftp gopher
-hpn ares
-objc-gc
-smbkrb5passwd
-threadsafe
-glsa qa 
+foomaticdb \
+flac \
+ofx \
+lirc \
+v4l v4l2 \
+javascript \
+mad \
+dedicated \
+socks5 \
+pg-hier pg-vacuumdelay pg-intdatetime \
+f77 gcj objc \
+idea \
+caps cap \
+emacs-w3 imlib2 lynxkeymap \
+xvid live divx \
+xprint \
+mailwrapper md5sum \
+ucs2 \
+lzw-tiff lzw \
+oav \
+winbind quotas libclamav \
+hal \
+bash-completion \
+fortran \
+dnsdb lmtp exiscan-acl syslog wildlsearch mbox \
+lm_sensors \
+fftw \
+bzip2 ecc \
+sysfs sysvipc  \
+threads \
+ipv6 \
+expat ithreads \
+logrotate  \
+underscores \
+pam_timestamp \
+rrdtool \
+nodrm \
+rdesktop \
+dlz idn \
+erandom urandom \
+pcre \
+7zip \
+sensord rrdtool \
+exim neural virtual-users \
+fastcgi mcal memlimit \
+customlog \
+srp ntlm_unsupported_patch  \
+async automount syslog \
+inode session \
+big-tables extraengine geometry utf8 cluster \
+idn \
+xattr \
+spf srs \
+unsupported_8bit  \
+virus-scan \
+rle \
+lua \
+follow-xff \
+tools \
+unicode \
+blas hdf hdf5 \
+diet \
+truetype \
+objc++ \
+yaz \
+cgi xmlreader xmlrpc xmlwriter xpm zip hash overload vm-switch pdo reflection \
+iconv inifile bcmath curl curlwrappers pcntl flatfile \
+mysql mysqli \
+sharedext wddx \
+dba cli \
+mod_pubsub mod_irc mod_muc web \
+mime pdf \
+fuse \
+filter sqlite nfs \
+nodrm \
+kernel_linux \
+xinetd msdfs \
+gmp mhash ming \
+tdb recursor \
+aio \
+javacomm \
+fam memcache webdav overlays \
+emacs \
+tcl \
+bittorrent metalink \
+jce \
+vim-pager \
+finger ftp gopher \
+hpn ares \
+objc-gc \
+smbkrb5passwd \
+threadsafe \
+glsa qa  \
 charconv \
 pop smime buffysize mbox \
 fasttrack gnutella magic \
