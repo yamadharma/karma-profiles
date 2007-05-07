@@ -143,6 +143,7 @@ device-mapper \
 inquisitio \
 purge portage \
 disk-partition dmi \
+afs \
 "
 # l7filter
 # pam_console 
