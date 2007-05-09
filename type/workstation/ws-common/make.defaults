@@ -290,7 +290,9 @@ gnome-print  portage extra-cardsets \
 disk-partition dmi \
 dia postscript xcb tta \
 applet gsf \
-vim-syntax dc1394"
+vim-syntax dc1394 \
+lapack \
+"
 
 # pam_console
 # extensions
