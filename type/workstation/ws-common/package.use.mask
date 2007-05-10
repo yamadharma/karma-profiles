@@ -7,4 +7,5 @@ net-fs/nfs-utils		kerberos
 =media-libs/mlt-0.2.2*		mmx
 =dev-libs/DirectFB-extra-0.9.25*	mmx
 =media-video/cinelerra-cvs-20070122	mmx 
+x11-libs/wxGTK			odbc
 
