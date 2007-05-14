@@ -2,3 +2,7 @@
 #
 ->=sys-apps/hal-0.5.9_rc2
 ->=app-misc/hal-info-20070326
+#
+-=net-fs/openafs-1.5*
+-=net-fs/openafs-kernel-1.5*
+
