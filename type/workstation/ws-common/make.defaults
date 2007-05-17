@@ -293,6 +293,7 @@ applet gsf \
 vim-syntax dc1394 \
 lapack \
 cvs subversion \
+elisp networking regex deprecated discouraged \
 "
 
 # pam_console
