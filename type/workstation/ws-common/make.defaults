@@ -294,6 +294,7 @@ vim-syntax dc1394 \
 lapack \
 cvs subversion \
 elisp networking regex deprecated discouraged \
+d \
 "
 
 # pam_console

@@ -144,6 +144,7 @@ inquisitio \
 purge portage \
 disk-partition dmi \
 afs \
+d \
 "
 # l7filter
 # pam_console 
