@@ -295,6 +295,7 @@ lapack \
 cvs subversion \
 elisp networking regex deprecated discouraged \
 d \
+itcl octave \
 "
 
 # pam_console
