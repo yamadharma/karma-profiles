@@ -8,4 +8,4 @@ net-fs/nfs-utils		kerberos
 =dev-libs/DirectFB-extra-0.9.25*	mmx
 =media-video/cinelerra-cvs-20070122	mmx 
 x11-libs/wxGTK			odbc
-dev-java/sun-jdk 	-nsplugin
+#dev-java/sun-jdk 	-nsplugin
