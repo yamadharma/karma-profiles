@@ -1,5 +1,5 @@
 sci-physics/root 		kerberos
-net-misc/curl			kerberos
+#net-misc/curl			kerberos
 media-video/totem		nsplugin
 media-video/vlc			nsplugin
 net-fs/nfs-utils		kerberos
