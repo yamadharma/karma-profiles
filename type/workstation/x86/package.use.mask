@@ -1,0 +1,11 @@
+sci-physics/root 		kerberos mysql
+#net-misc/curl			kerberos
+media-video/totem		nsplugin
+media-video/vlc			nsplugin
+net-fs/nfs-utils		kerberos
+=kde-base/kopete-3.5.5*		jingle
+=media-libs/mlt-0.2.2*		mmx
+=dev-libs/DirectFB-extra-0.9.25*	mmx
+=media-video/cinelerra-cvs-20070122	mmx 
+x11-libs/wxGTK			odbc
+#dev-java/sun-jdk 	-nsplugin
