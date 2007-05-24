@@ -296,6 +296,7 @@ cvs subversion \
 elisp networking regex deprecated discouraged \
 d \
 itcl octave \
+zrtp blender-game \
 "
 
 # pam_console
