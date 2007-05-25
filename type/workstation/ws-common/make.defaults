@@ -297,6 +297,7 @@ elisp networking regex deprecated discouraged \
 d \
 itcl octave \
 zrtp blender-game \
+fltk \
 "
 
 # pam_console

@@ -29,4 +29,16 @@
 -=net-fs/openafs-kernel-1.5*
 #
 ->=net-im/psi-0.11_alpha0
+#
+# Stefan Schweizer <genstef@gentoo.org> (7 may 2007)
+# mask new alsa release. Until it is fully added and tested
+-~media-libs/alsa-lib-1.0.14_rc4
+-~media-plugins/alsa-plugins-1.0.14_rc4
+-~media-libs/alsa-oss-1.0.14_rc4
+-~media-sound/alsa-headers-1.0.14_rc4
+#need to figure out which drivers/firmwares got added
+-~media-sound/alsa-driver-1.0.14_rc4
+-~media-sound/alsa-firmware-1.0.14_rc4
+#seq patch needs to be ported
+-~media-sound/alsa-utils-1.0.14_rc4
 

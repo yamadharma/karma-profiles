@@ -9,3 +9,4 @@ net-fs/nfs-utils		kerberos
 =media-video/cinelerra-cvs-20070122	mmx 
 x11-libs/wxGTK			odbc
 #dev-java/sun-jdk 	-nsplugin
+=net-www/gnash-0.7.2_p20099999	kde
