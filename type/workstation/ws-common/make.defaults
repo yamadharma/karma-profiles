@@ -298,6 +298,7 @@ d \
 itcl octave \
 zrtp blender-game \
 fltk \
+additions vditool \
 "
 
 # pam_console
