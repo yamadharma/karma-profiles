@@ -299,6 +299,7 @@ itcl octave \
 zrtp blender-game \
 fltk \
 additions vditool \
+hardware-carrier transmitter \
 "
 
 # pam_console
