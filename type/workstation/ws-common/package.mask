@@ -14,7 +14,7 @@
 ->=sys-apps/hal-0.5.9_rc2
 ->=app-misc/hal-info-20070326
 #
--=app-editors/emacs-cvs-23.0.0*
+->=app-editors/emacs-cvs-23
 #
 ->=dev-lang/ghc-6.6
 -=dev-lang/ghc-bin-6.6

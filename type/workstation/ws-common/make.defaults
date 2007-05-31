@@ -221,7 +221,7 @@ libsamplerate \
 amr \
 aotuv \
 hpn ares \
-szip gcl ansi hlapi \
+szip ansi hlapi \
 netjack \
 follow-xff underscores \
 sound \
@@ -300,8 +300,11 @@ zrtp blender-game \
 fltk \
 additions vditool \
 hardware-carrier transmitter \
+sbcl ldb new-clx \
 "
 
+
+# -gcl 
 # pam_console
 # extensions
 # fusion

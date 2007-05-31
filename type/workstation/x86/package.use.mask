@@ -9,3 +9,4 @@ net-fs/nfs-utils		kerberos
 =media-video/cinelerra-cvs-20070122	mmx 
 x11-libs/wxGTK			odbc
 #dev-java/sun-jdk 	-nsplugin
+=dev-lisp/clisp-2.41	postgres
