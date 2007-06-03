@@ -301,7 +301,7 @@ fltk \
 additions vditool \
 hardware-carrier transmitter \
 sbcl ldb new-clx \
-maps \
+maps hipe kpoll smp \
 "
 
 
