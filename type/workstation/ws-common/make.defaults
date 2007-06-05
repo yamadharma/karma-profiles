@@ -302,6 +302,7 @@ additions vditool \
 hardware-carrier transmitter \
 sbcl ldb new-clx \
 maps hipe kpoll smp \
+afs
 "
 
 
