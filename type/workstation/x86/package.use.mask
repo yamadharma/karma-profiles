@@ -1,4 +1,4 @@
-sci-physics/root 		kerberos mysql
+sci-physics/root 		kerberos mysql afs
 #net-misc/curl			kerberos
 media-video/totem		nsplugin
 media-video/vlc			nsplugin
