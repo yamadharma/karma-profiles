@@ -302,7 +302,9 @@ additions vditool \
 hardware-carrier transmitter \
 sbcl ldb new-clx \
 maps hipe kpoll smp \
-afs
+afs sys-libs tracker \
+newspr networkmanager macmenu \
+qt-copy pertty transparency kickoff \
 "
 
 

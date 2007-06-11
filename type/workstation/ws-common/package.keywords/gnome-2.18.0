@@ -1,0 +1,81 @@
+
+# ---
+# BEGIN: gnome-base/gnome-2.18.0
+# ---
+=gnome-base/gnome-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/evolution-data-server-1.10.1-r2 x86 ~x86 amd64 ~amd64
+=gnome-base/gnome-volume-manager-2.17* x86 ~x86 amd64 ~amd64
+=gnome-base/gnome-volume-manager-2.18* x86 ~x86 amd64 ~amd64
+=www-client/epiphany-2.18* x86 ~x86 amd64 ~amd64
+=net-analyzer/gnome-nettool-2.18* x86 ~x86 amd64 ~amd64
+=x11-libs/libwnck-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/eel-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/deskbar-applet-2.18.1 x86 ~x86 amd64 ~amd64
+=dev-libs/atk-1.18.0 x86 ~x86 amd64 ~amd64
+=gnome-base/libbonoboui-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/gnome-games-2.18* x86 ~x86 amd64 ~amd64
+=dev-python/pygtkglext-1.1* x86 ~x86 amd64 ~amd64
+=dev-python/gnome-python-desktop-2.18* x86 ~x86 amd64 ~amd64
+=x11-wm/metacity-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/gnome-panel-2.18* x86 ~x86 amd64 ~amd64
+=x11-libs/pango-1.16* x86 ~x86 amd64 ~amd64
+=gnome-extra/yelp-2.18* x86 ~x86 amd64 ~amd64
+=app-arch/file-roller-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/gcalctool-5.9* x86 ~x86 amd64 ~amd64
+=gnome-base/libgnome-2.18* x86 ~x86 amd64 ~amd64
+=app-text/evince-0.8* x86 ~x86 amd64 ~amd64
+=x11-themes/gnome-icon-theme-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/gconf-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/gucharmap-1.10* x86 ~x86 amd64 ~amd64
+=gnome-extra/fast-user-switch-applet-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/zenity-2.18* x86 ~x86 amd64 ~amd64
+=app-text/gnome-doc-utils-0.10* x86 ~x86 amd64 ~amd64
+=gnome-extra/gnome-screensaver-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/libgnomekbd-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/libgnomeui-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/libgtop-2.14* x86 ~x86 amd64 ~amd64
+=gnome-base/libgtop-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/evolution-webcal-2.10.0 x86 ~x86 amd64 ~amd64
+=gnome-extra/gnome-keyring-manager-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/libgnomeprint-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/gconf-editor-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/gnome-menus-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/gtkhtml-3.14* x86 ~x86 amd64 ~amd64
+=gnome-base/gnome-vfs-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/libgnomeprintui-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/gnome-desktop-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/bug-buddy-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/nautilus-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/gdm-2.18* x86 ~x86 amd64 ~amd64
+=sys-auth/consolekit-0.2* x86 ~x86 amd64 ~amd64
+=media-sound/esound-0.2.38* x86 ~x86 amd64 ~amd64
+=x11-themes/gtk-engines-2.10.1 x86 ~x86 amd64 ~amd64
+=x11-terms/gnome-terminal-2.18* x86 ~x86 amd64 ~amd64
+=x11-libs/vte-0.16* x86 ~x86 amd64 ~amd64
+=gnome-base/gnome-applets-2.18* x86 ~x86 amd64 ~amd64
+=app-editors/gedit-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/control-center-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/gnome-power-manager-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/libbonobo-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/gnome-media-2.18* x86 ~x86 amd64 ~amd64
+=x11-misc/alacarte-0.11.3 x86 ~x86 amd64 ~amd64
+=net-misc/vino-2.18* x86 ~x86 amd64 ~amd64
+=mail-client/evolution-2.10* x86 ~x86 amd64 ~amd64
+=gnome-extra/nautilus-cd-burner-2.18* x86 ~x86 amd64 ~amd64
+=media-gfx/eog-2.18* x86 ~x86 amd64 ~amd64
+=media-video/totem-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/gnome-keyring-0.8* x86 ~x86 amd64 ~amd64
+=app-admin/sabayon-2.18* x86 ~x86 amd64 ~amd64
+=gnome-base/gnome-session-2.18* x86 ~x86 amd64 ~amd64
+=dev-libs/libIDL-0.8.8 x86 ~x86 amd64 ~amd64
+=x11-themes/gnome-themes-2.18* x86 ~x86 amd64 ~amd64
+=gnome-extra/gnome-utils-2.18* x86 ~x86 amd64 ~amd64
+#
+=net-misc/networkmanager-0.6* x86 ~x86 amd64 ~amd64
+=dev-libs/libnl-1* x86 ~x86 amd64 ~amd64
+=net-misc/dhcdbd-2.7* x86 ~x86 amd64 ~amd64
+=gnome-extra/nm-applet-0.6* x86 ~x86 amd64 ~amd64
+# ---
+# END: gnome-base/gnome-2.18.0
+# ---
+

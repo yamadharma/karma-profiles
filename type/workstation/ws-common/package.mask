@@ -30,4 +30,4 @@
 #
 ->=net-im/psi-0.11_alpha0
 #
--=app-emulation/virtualbox-9999
+-app-text/texlive

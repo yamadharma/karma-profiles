@@ -1,4 +1,4 @@
-sci-physics/root 		kerberos
+sci-physics/root 		kerberos afs
 #net-misc/curl			kerberos
 media-video/totem		nsplugin
 media-video/vlc			nsplugin
