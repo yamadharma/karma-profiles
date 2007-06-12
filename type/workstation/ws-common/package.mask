@@ -15,6 +15,7 @@
 ->=app-misc/hal-info-20070326
 #
 ->=app-editors/emacs-cvs-23
+->=virtual/emacs-23
 #
 ->=dev-lang/ghc-6.6
 -=dev-lang/ghc-bin-6.6
