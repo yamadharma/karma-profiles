@@ -10,3 +10,4 @@ net-fs/nfs-utils		kerberos
 x11-libs/wxGTK			odbc
 #dev-java/sun-jdk 	-nsplugin
 =dev-lisp/clisp-2.41	postgres
+=app-pda/pilot-link-0.12.2	tcl
