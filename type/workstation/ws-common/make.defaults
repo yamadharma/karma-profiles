@@ -303,10 +303,11 @@ hardware-carrier transmitter \
 sbcl ldb new-clx \
 maps hipe kpoll smp \
 afs sys-libs tracker \
-newspr networkmanager macmenu \
+newspr networkmanager \
 qt-copy pertty transparency kickoff \
 "
 
+# macmenu
 
 # -gcl 
 # pam_console
