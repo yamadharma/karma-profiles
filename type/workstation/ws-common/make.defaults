@@ -305,6 +305,7 @@ maps hipe kpoll smp \
 afs sys-libs tracker \
 newspr networkmanager \
 qt-copy pertty transparency kickoff \
+network-cron \
 "
 
 # macmenu

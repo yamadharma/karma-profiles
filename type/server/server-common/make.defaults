@@ -145,6 +145,7 @@ purge portage \
 disk-partition dmi \
 afs \
 d \
+network-cron \
 "
 # l7filter
 # pam_console 
