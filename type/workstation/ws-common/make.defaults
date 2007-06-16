@@ -304,6 +304,8 @@ afs sys-libs tracker \
 newspr networkmanager \
 qt-copy pertty transparency kickoff \
 network-cron \
+gpac \
+mdnsresponder-compat \
 "
 
 # macmenu
@@ -343,7 +345,6 @@ network-cron \
 # -userlocales
 # jackmidi
 # agg
-# mdnsresponder-compat
 # -apache2 
 # ggi
 
