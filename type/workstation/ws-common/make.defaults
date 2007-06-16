@@ -17,7 +17,6 @@ opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl \
 svga tcpd truetype X xml2 xmms xv zlib \
 ldap \
 dvd dvdr \
-ggi \
 directfb \
 fbcon \
 leim \
@@ -41,8 +40,7 @@ gnustep \
 faad \
 multimaster \
 vim-with-x cscope \
-svg \
-jack jack-tmpfs \
+svg jack jack-tmpfs \
 evms2 \
 gd \
 skey \
@@ -346,7 +344,8 @@ network-cron \
 # jackmidi
 # agg
 # mdnsresponder-compat
-# -apache2 \
+# -apache2 
+# ggi
 
 LINGUAS="ru"
 LANGUAGE="RUSS"
