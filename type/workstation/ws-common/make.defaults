@@ -306,6 +306,8 @@ qt-copy pertty transparency kickoff \
 network-cron \
 gpac \
 mdnsresponder-compat \
+dvi xcomposite \
+kdehiddenvisibility kig-scripting akode \
 "
 
 # macmenu
