@@ -11,3 +11,5 @@ x11-libs/wxGTK			odbc
 #dev-java/sun-jdk 	-nsplugin
 =dev-lisp/clisp-2.41	postgres
 =app-pda/pilot-link-0.12.2	tcl
+=kde-base/kicker-3.5.7		kickoff
+
