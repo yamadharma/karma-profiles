@@ -1,0 +1,3 @@
+COMPORTDIR=/com/lib/portage
+PKGDIR=${COMPORTDIR}/packages/vserver--x86_64
+
