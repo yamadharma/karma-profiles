@@ -1,4 +1,5 @@
 # VIDEO_CARDS="${VIDEO_CARDS} i810"
+USE="sse2"
 #
 COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/ws--pentium4
