@@ -27,23 +27,15 @@ innodb \
 ruby \
 mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm \
 acpi \
-faad \
 multimaster \
 cscope \
 svg \
 evms2 \
 gd \
 skey \
-matroska \
 guile xface \
-cups ppds \
 jbig lcms wmf \
 nptl nptlonly pic \
-foomaticdb \
-flac \
-ofx \
-lirc \
-v4l v4l2 \
 javascript \
 mad \
 dedicated \
@@ -171,6 +163,10 @@ network-cron \
 # ecf
 # vhosts
 # -opengl 
+
+# cups ppds \
+# foomaticdb flac ofx lirc v4l v4l2 \
+# faad matroska \
 
 LINGUAS="ru"
 LANGUAGE=RUSS
