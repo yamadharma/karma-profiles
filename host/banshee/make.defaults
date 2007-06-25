@@ -1,3 +1,7 @@
-VIDEO_CARDS="${VIDEO_CARDS} i810"
+###
 CFLAGS="-march=pentium-m -O3 -pipe"
 CXXFLAGS="${CFLAGS}"
+#
+USE="pcmcia"
+#
+VIDEO_CARDS="${VIDEO_CARDS} i810"
