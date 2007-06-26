@@ -284,7 +284,7 @@ purge \
 daap sdl-image jackmidi \
 emf lash fluidsynth \
 dvdnav mp2 pnm radio \
-gnome-print  portage extra-cardsets \
+gnome-print  extra-cardsets \
 disk-partition dmi \
 dia postscript xcb tta \
 applet gsf \
@@ -311,6 +311,7 @@ kdehiddenvisibility kig-scripting akode \
 amrnb amrwb hdri \
 "
 
+# portage
 # macmenu
 # accessibility 
 # -gcl 

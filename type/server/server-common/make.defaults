@@ -8,7 +8,6 @@ pam pdflib png python qtmt quicktime readline slang spell ssl \
 tcpd xml2 xmms zlib \
 ldap \
 dvd \
-fbcon \
 leim \
 mysql postgres \
 sasl kerberos \
@@ -109,7 +108,6 @@ nodrm \
 kernel_linux \
 xinetd msdfs \
 gmp mhash ming \
-tdb recursor \
 aio \
 javacomm \
 fam memcache webdav overlays \
@@ -133,12 +131,19 @@ mfd-rewrites rpm diskio \
 rcc \
 device-mapper \
 inquisitio \
-purge portage \
+purge \
 disk-partition dmi \
 afs \
 d \
 network-cron \
+java5 \
+log4j servletapi avalon-framework avalon-logkit javamail jms jmx \
 "
+
+USE="${USE} \
+-cups \
+"
+# portage
 # l7filter
 # pam_console 
 # extensions
@@ -167,6 +172,8 @@ network-cron \
 # cups ppds \
 # foomaticdb flac ofx lirc v4l v4l2 \
 # faad matroska \
+# tdb recursor \
+# fbcon \
 
 LINGUAS="ru"
 LANGUAGE=RUSS
@@ -197,4 +204,4 @@ PORTAGE_ELOG_CLASSES="warn error info log"
 
 USE_EXPAND="PALUDIS_HOOKS"
 
-PALUDIS_HOOKS="eselect" 
+PALUDIS_HOOKS="eselect"

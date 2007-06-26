@@ -2,5 +2,6 @@ sci-physics/root 	kerberos
 net-misc/curl		kerberos
 media-video/totem	nsplugin
 net-fs/nfs-utils	kerberos
+net-analyzer/flow-tools	postgres
 
 
