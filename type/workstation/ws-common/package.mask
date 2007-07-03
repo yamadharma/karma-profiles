@@ -34,3 +34,5 @@
 -app-text/texlive
 #
 ->=kde-base/kpilot-3.5.6
+#
+-media-libs/libdca
