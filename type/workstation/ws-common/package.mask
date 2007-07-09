@@ -37,3 +37,4 @@
 #
 -media-libs/libdca
 #
+-dev-haskell/x11
