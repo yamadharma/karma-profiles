@@ -3,8 +3,8 @@
 -media-video/avidemux
 -=sys-libs/slang-2*
 # mozilla-thunderbird-2
--=x11-plugins/enigmail-0.94.3-r1
-->=mail-client/mozilla-thunderbird-2.0_beta2
+#-=x11-plugins/enigmail-0.94.3-r1
+#->=mail-client/mozilla-thunderbird-2.0_beta2
 -x11-plugins/replytolist
 #
 ->=app-office/dia-0.96_pre3
