@@ -187,7 +187,7 @@ LANGUAGE=RUSS
 FEATURES="sandbox usersandbox userpriv -strict loadpolicy candy confcache parallel-fetch metadata-transfer userfetch"
 #  ccache
 
-POLICYDIR=/etc/security/selinux/src/policy
+#POLICYDIR=/etc/security/selinux/src/policy
 
 PORTDIR=/usr/share/portage
 COMPORTDIR=/com/lib/portage
