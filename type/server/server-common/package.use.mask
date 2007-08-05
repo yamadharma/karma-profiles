@@ -3,5 +3,5 @@ net-misc/curl		kerberos
 media-video/totem	nsplugin
 net-fs/nfs-utils	kerberos
 net-analyzer/flow-tools	postgres
-
+=net-misc/openssh-4.6*		ldap
 

@@ -11,3 +11,4 @@ x11-libs/wxGTK			odbc
 #dev-java/sun-jdk 	-nsplugin
 =app-pda/pilot-link-0.12.2	tcl
 =kde-base/kicker-3.5.7		kdehiddenvisibility
+=net-misc/openssh-4.6*		ldap
