@@ -193,7 +193,7 @@ modplug mplayer rar subtitles vdr openal xosd  \
 xinetd msdfs \
 aio \
 dmi firefox \
-nvtv beagle \
+nvtv \
 unicode \
 mudflap \
 javacomm  \
@@ -317,6 +317,7 @@ bonjour prediction silc \
 clvm cman \
 "
 
+# beagle
 # portage
 # macmenu
 # accessibility 

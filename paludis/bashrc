@@ -14,4 +14,7 @@ case "${PN}" in
     pike|koffice*|monodoc|mono-tools|libevent)
          export SKIP_FUNCTIONS=test
          ;;
+    mysql)
+         export SKIP_FUNCTIONS=test
+         ;;
 esac
