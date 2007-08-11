@@ -315,6 +315,7 @@ net qos zero-penalty-hit \
 nfsexport \
 bonjour prediction silc \
 clvm cman \
+xosd \
 "
 
 # beagle
@@ -414,6 +415,9 @@ GNUSTEP_LAYOUT=gnustep
 
 #
 #ALSA_CARDS=""
+
+PORTAGE_NICENESS=5
+PORTAGE_TMPFS="/dev/shm"
 
 # For paludis
 
