@@ -11,6 +11,7 @@ x11-libs/wxGTK			odbc
 #dev-java/sun-jdk 	-nsplugin
 =dev-lisp/clisp-2.41	postgres
 =app-pda/pilot-link-0.12.2	tcl
-=kde-base/kicker-3.5.7		kdehiddenvisibility
+=kde-base/kicker-3.5.7*		kdehiddenvisibility
 =net-misc/openssh-4.6*		ldap
 media-sound/ardour		sys-libs
+dev-libs/cyrus-sasl		gdbm

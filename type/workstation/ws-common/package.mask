@@ -26,3 +26,5 @@
 -media-libs/libdca
 #
 -dev-haskell/x11
+#
+-gnustep-apps/gworkspace
