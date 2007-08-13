@@ -314,7 +314,7 @@ ical gammu obex \
 net qos zero-penalty-hit \
 nfsexport \
 bonjour prediction silc \
-clvm cman \
+clvm cman lvm2 \
 xosd \
 "
 
