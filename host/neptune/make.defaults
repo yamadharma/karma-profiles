@@ -1,9 +1,12 @@
-###
-CFLAGS="-march=pentium4 -mtune=pentium4 -O3 -pipe"
+
+CFLAGS="-march=pentium4 -mtune=pentium4 -O2 -pipe -mno-tls-direct-seg-refs"
 CXXFLAGS="${CFLAGS}"
-#
+
 USE="sse2"
-#
+
+#COMPORTDIR=/com/lib/portage
+#PKGDIR=${COMPORTDIR}/packages/server-openvz--pentium4
+
 COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/server-openvz--pentium4
-#
+PKGDIR=${COMPORTDIR}/packages/xen-server--x86
+
