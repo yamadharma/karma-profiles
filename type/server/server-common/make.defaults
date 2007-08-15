@@ -142,6 +142,7 @@ ioemu pygrub screen \
 qos zero-penalty-hit \
 clvm cman lvm2 \
 xcb \
+ctype \
 "
 
 USE="${USE} \

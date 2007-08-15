@@ -1,2 +1,7 @@
-USE="mpi afs"
+USE="mpi afs cpudetection"
 VIDEO_CARDS="${VIDEO_CARDS} i810 nv nvidia sis fglrx radeon"
+#
+COMPORTDIR=/com/lib/portage
+PKGDIR=${COMPORTDIR}/packages/ws--pentium4
+
+ECVS_OFFLINE=1
