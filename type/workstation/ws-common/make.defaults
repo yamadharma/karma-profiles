@@ -318,8 +318,10 @@ clvm cman lvm2 \
 xosd \
 ctype \
 teletext \
+cxx \
 "
 
+# f90
 # beagle
 # portage
 # macmenu

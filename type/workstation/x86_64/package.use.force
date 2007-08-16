@@ -3,3 +3,4 @@ games-rpg/nwn-data		videos cdinstall
 =net-im/skype-1.4.0.74		static
 x11-libs/qt			accessibility 
 dev-cpp/gtkmm			accessibility
+sci-libs/hdf5			static

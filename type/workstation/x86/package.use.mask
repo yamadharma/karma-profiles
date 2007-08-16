@@ -15,3 +15,5 @@ x11-libs/wxGTK			odbc
 =net-misc/openssh-4.6*		ldap
 media-sound/ardour		sys-libs
 dev-libs/cyrus-sasl		gdbm
+sci-libs/hdf5			mpi
+

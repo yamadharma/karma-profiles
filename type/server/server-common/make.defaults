@@ -143,6 +143,7 @@ qos zero-penalty-hit \
 clvm cman lvm2 \
 xcb \
 ctype \
+cxx \
 "
 
 USE="${USE} \
