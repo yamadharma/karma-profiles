@@ -5,3 +5,6 @@ COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/ws--pentium4
 
 ECVS_OFFLINE=1
+
+CFLAGS="-march=i686 -mtune=pentium4 -O2 -pipe -mno-tls-direct-seg-refs"
+CXXFLAGS="${CFLAGS}"

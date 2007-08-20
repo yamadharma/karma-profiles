@@ -144,6 +144,7 @@ clvm cman lvm2 \
 xcb \
 ctype \
 cxx \
+regex \
 "
 
 USE="${USE} \
