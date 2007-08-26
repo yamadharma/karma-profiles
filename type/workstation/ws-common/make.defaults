@@ -302,7 +302,7 @@ sbcl ldb new-clx \
 maps hipe kpoll smp \
 afs sys-libs tracker \
 newspr networkmanager \
-qt-copy pertty transparency kickoff \
+qt-copy pertty transparency \
 network-cron \
 gpac \
 mdnsresponder-compat \
@@ -323,6 +323,7 @@ id3 mp4live mpeg2 player \
 alisp mixer tv \
 "
 
+# kickoff
 # neXt 
 # f90
 # beagle
