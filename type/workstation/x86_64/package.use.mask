@@ -8,8 +8,7 @@ net-fs/nfs-utils		kerberos
 =dev-libs/DirectFB-extra-0.9.25*	mmx
 =media-video/cinelerra-cvs-20070122	mmx 
 x11-libs/wxGTK			odbc
-#dev-java/sun-jdk 	-nsplugin
-=app-pda/pilot-link-0.12.2	tcl
+#=app-pda/pilot-link-0.12.2	tcl
 =kde-base/kicker-3.5.7*		kdehiddenvisibility
 =net-misc/openssh-4.6*		ldap
 media-sound/ardour		sys-libs

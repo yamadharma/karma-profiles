@@ -160,7 +160,7 @@ latex jit screen  \
 asf \
 blas hdf hdf5 \
 binfilter \
-neXt dnd freewnn mule  \
+dnd freewnn mule  \
 diet \
 clock-screen key-screen mouse search-screen \
 djvu \
@@ -320,8 +320,10 @@ ctype \
 teletext \
 cxx \
 id3 mp4live mpeg2 player \
+alisp mixer tv \
 "
 
+# neXt 
 # f90
 # beagle
 # portage

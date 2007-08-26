@@ -28,3 +28,5 @@
 -dev-haskell/x11
 #
 -gnustep-apps/gworkspace
+#
+->=app-pda/pilot-link-0.12.2
