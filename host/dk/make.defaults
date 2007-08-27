@@ -1,4 +1,6 @@
-USE="mpi afs cpudetection"
+USE="mpi pbs \
+afs cpudetection"
+
 VIDEO_CARDS="${VIDEO_CARDS} i810 nv nvidia sis fglrx radeon"
 #
 COMPORTDIR=/com/lib/portage
