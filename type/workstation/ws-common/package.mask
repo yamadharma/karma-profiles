@@ -30,3 +30,6 @@
 -gnustep-apps/gworkspace
 #
 ->=app-pda/pilot-link-0.12.2
+#
+->=media-libs/portaudio-19_pre061121
+
