@@ -375,8 +375,8 @@ LANGUAGES=""
 
 #CONFIG_PROTECT_MASK="/etc/gconf /etc/init.d /etc/hotplug"
 
-FEATURES="sandbox usersandbox userpriv ccache candy -strict prelink confcache parallel-fetch metadata-transfer userfetch"
-#sfperms 
+FEATURES="sandbox usersandbox userpriv candy -strict prelink confcache parallel-fetch metadata-transfer userfetch"
+#sfperms ccache
 
 SEARCH_DIRS="/usr/GNUstep"
 

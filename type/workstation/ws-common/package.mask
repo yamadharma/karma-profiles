@@ -12,9 +12,6 @@
 ->=sys-apps/hal-0.5.9_rc2
 ->=app-misc/hal-info-20070326
 #
-->=app-editors/emacs-cvs-23
-->=virtual/emacs-23
-#
 -=sci-visualization/gnuplot-4.2*
 #
 ->=net-im/psi-0.11_alpha0
@@ -32,4 +29,7 @@
 ->=app-pda/pilot-link-0.12.2
 #
 ->=media-libs/portaudio-19_pre061121
+#
+-~app-editors/emacs-cvs-23.0.0
+->=virtual/emacs-23
 
