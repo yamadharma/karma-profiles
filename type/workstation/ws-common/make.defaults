@@ -14,7 +14,7 @@ crypt \
 encode gdbm gif gpm gtk gtk2 imlib \
 java jpeg gnome libg++ libwww mikmod mmx motif mpeg ncurses nls oggvorbis \
 opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl \
-svga tcpd truetype X xml2 xmms xv zlib \
+tcpd truetype X xml2 xmms xv zlib \
 ldap \
 dvd dvdr \
 directfb \
@@ -325,6 +325,7 @@ xsl \
 aspnet aspnetedit boo \
 "
 
+# svga 
 # kickoff
 # neXt 
 # f90
