@@ -32,4 +32,5 @@
 #
 -~app-editors/emacs-cvs-23.0.0
 ->=virtual/emacs-23
+-=app-mobilephone/kmobiletools-0.5*
 
