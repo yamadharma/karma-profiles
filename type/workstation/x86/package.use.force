@@ -2,4 +2,5 @@ games-rpg/nwn-data		videos cdinstall
 x11-libs/qt			accessibility 
 dev-cpp/gtkmm			accessibility
 sci-libs/hdf5			static
+sys-apps/sysvinit		static
 
