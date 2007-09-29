@@ -18,6 +18,7 @@ sci-libs/hdf5			mpi
 media-sound/jack-audio-connection-kit	portaudio
 media-sound/timidity++		portaudio
 media-gfx/ksquirrel		kdeenablefinal
+dev-util/bzr-gtk		libnotify
 
 
 
