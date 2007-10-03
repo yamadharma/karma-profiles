@@ -313,7 +313,7 @@ ical gammu obex \
 net qos zero-penalty-hit \
 nfsexport \
 bonjour prediction silc \
-clvm cman lvm2 \
+cman lvm2 \
 xosd \
 ctype \
 teletext \
@@ -326,6 +326,7 @@ aspnet aspnetedit boo \
 nemesi gtksourceview \
 "
 
+# clvm 
 # svga 
 # kickoff
 # neXt 
