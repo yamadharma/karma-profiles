@@ -17,8 +17,6 @@ opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl \
 tcpd truetype X xml2 xmms xv zlib \
 ldap \
 dvd dvdr \
-directfb \
-fbcon \
 leim \
 alsa \
 postgres \
@@ -192,7 +190,6 @@ modplug mplayer rar subtitles vdr openal xosd  \
 xinetd msdfs \
 aio \
 dmi firefox \
-nvtv \
 unicode \
 mudflap \
 javacomm  \
@@ -324,8 +321,11 @@ camera jng \
 xsl \
 aspnet aspnetedit boo \
 nemesi gtksourceview \
+16bit bsf hddtemp \
 "
 
+# directfb fbcon \
+# nvtv 
 # clvm 
 # svga 
 # kickoff
