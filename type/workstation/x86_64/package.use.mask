@@ -1,7 +1,6 @@
 sci-physics/root 		kerberos afs
 media-video/totem		nsplugin
 media-video/vlc			nsplugin
-net-fs/nfs-utils		kerberos
 =media-libs/mlt-0.2.2*		mmx
 =media-video/cinelerra-cvs-20070122	mmx 
 x11-libs/wxGTK			odbc
@@ -15,4 +14,7 @@ media-sound/timidity++		portaudio
 dev-util/bzr-gtk		libnotify
 media-video/vlc			win32codecs
 # For gcj
-sys-devel/gcc 			gcj
+# sys-devel/gcc 			gcj
+# Heimdal issues
+dev-libs/openssl		kerberos
+net-fs/nfs-utils		kerberos
