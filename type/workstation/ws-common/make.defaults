@@ -322,7 +322,7 @@ xsl \
 aspnet aspnetedit boo \
 nemesi gtksourceview \
 16bit bsf hddtemp \
-solver \
+solver audit \
 "
 
 # directfb fbcon \

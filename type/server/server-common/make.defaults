@@ -144,7 +144,7 @@ clvm cman lvm2 \
 xcb \
 ctype \
 cxx \
-regex \
+regex audit \
 "
 
 USE="${USE} \
