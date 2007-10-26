@@ -323,6 +323,7 @@ aspnet aspnetedit boo \
 nemesi gtksourceview \
 16bit bsf hddtemp \
 solver audit \
+context cyrillic extra games graphics humanities music omega pstricks publishers science xetex \
 "
 
 # directfb fbcon \
