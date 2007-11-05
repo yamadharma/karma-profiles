@@ -324,6 +324,7 @@ nemesi gtksourceview \
 16bit bsf hddtemp \
 solver audit \
 context cyrillic extra games graphics humanities music omega pstricks publishers science xetex lyx \
+wideband \
 "
 
 # directfb fbcon \

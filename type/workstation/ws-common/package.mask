@@ -39,3 +39,5 @@
 -app-text/texlive
 #
 -=media-sound/ardour-2.1
+#
+-net-misc/networkmanager-pptp
