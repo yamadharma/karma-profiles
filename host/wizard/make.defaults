@@ -1,3 +1,4 @@
+VIDEO_CARDS="radeon"
 #
 COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/ws--amd64
