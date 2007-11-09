@@ -19,4 +19,6 @@ dev-util/bzr-gtk		libnotify
 # Heimdal issues
 dev-libs/openssl		kerberos
 net-fs/nfs-utils		kerberos
+app-editors/emacs-cvs		kerberos
+
 
