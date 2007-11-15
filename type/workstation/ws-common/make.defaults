@@ -326,6 +326,7 @@ solver audit \
 context cyrillic extra games graphics humanities music omega pstricks publishers science xetex lyx \
 wideband \
 espeak html aften \
+sftp \
 "
 
 # directfb fbcon \
