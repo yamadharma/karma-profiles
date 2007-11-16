@@ -145,7 +145,7 @@ xcb \
 ctype \
 cxx \
 regex audit \
-sftp \
+sftp ads \
 "
 
 USE="${USE} \
