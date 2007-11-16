@@ -5,4 +5,6 @@
 #
 -=net-fs/openafs-1.5*
 -=net-fs/openafs-kernel-1.5*
+#
+-=app-crypt/heimdal-1.0.1
 
