@@ -327,6 +327,7 @@ context cyrillic extra games graphics humanities music omega pstricks publishers
 wideband \
 espeak html aften \
 sftp ads \
+adf unpaper \
 "
 
 # directfb fbcon \
@@ -379,6 +380,7 @@ sftp ads \
 # ggi
 
 LINGUAS="ru"
+# LINGUAS="ru en"
 LANGUAGE="RUSS"
 # For gcc (prevent clash with GNUstep)
 LANGUAGES=""
