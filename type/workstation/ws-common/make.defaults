@@ -328,6 +328,7 @@ wideband \
 espeak html aften \
 sftp ads \
 adf unpaper \
+kpathsea \
 "
 
 # directfb fbcon \
