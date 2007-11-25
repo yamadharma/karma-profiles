@@ -328,7 +328,9 @@ wideband \
 espeak html aften \
 sftp ads \
 adf unpaper \
-kpathsea \
+kpathsea tex \
+id3tag soundtouch twolame vamp \
+policykit \
 "
 
 # directfb fbcon \
