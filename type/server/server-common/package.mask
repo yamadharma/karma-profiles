@@ -12,3 +12,4 @@
 -~app-editors/emacs-cvs-23.0.60
 ->=virtual/emacs-23
 #
+=app-portage/eix-0.10.2

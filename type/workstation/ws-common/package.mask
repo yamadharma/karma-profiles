@@ -53,3 +53,7 @@
 ->=app-emulation/emul-linux-x86-medialibs-20071112  
 ->=app-emulation/emul-linux-x86-qtlibs-20071112  
 ->=app-emulation/emul-linux-x86-sdl-20071112  
+#
+#
+#
+=app-portage/eix-0.10.2

@@ -146,6 +146,7 @@ ctype \
 cxx \
 regex audit \
 sftp ads \
+policykit portage visibility \
 "
 
 USE="${USE} \
