@@ -331,6 +331,7 @@ adf unpaper \
 kpathsea tex \
 id3tag soundtouch twolame vamp \
 policykit portage visibility \
+darcs git gpg \
 "
 
 # directfb fbcon \
@@ -382,8 +383,8 @@ policykit portage visibility \
 # -apache2 
 # ggi
 
-LINGUAS="ru"
-# LINGUAS="ru en"
+#vLINGUAS="ru"
+LINGUAS="ru en"
 LANGUAGE="RUSS"
 # For gcc (prevent clash with GNUstep)
 LANGUAGES=""

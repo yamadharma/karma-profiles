@@ -57,3 +57,6 @@
 #
 #
 =app-portage/eix-0.10.2
+=net-im/pidgin-2.3.0
+#
+-=app-text/acroread-8.1.1
