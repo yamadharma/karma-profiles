@@ -452,5 +452,5 @@ USE_EXPAND="${USE_EXPAND} PALUDIS_HOOKS"
 PALUDIS_HOOKS="eselect"
 
 #GENTOO_MIRRORS="http://mirror.yandex.ru/gentoo-distfiles/ ftp://mark.sci.pfu.edu.ru/gentoo/ ftp://ftp.linux.ee/pub/gentoo/distfiles/ http://ftp.linux.ee/pub/gentoo/distfiles/ http://ftp.vein.hu/pub/linux/distributions/gentoo/ http://ftp.uoi.gr/mirror/OS/gentoo/ http://ds.thn.htu.se/linux/gentoo"
-GENTOO_MIRRORS="http://mirror.yandex.ru/gentoo-distfiles/ ftp://ftp.linux.ee/pub/gentoo/distfiles/ http://ftp.linux.ee/pub/gentoo/distfiles/ http://ftp.vein.hu/pub/linux/distributions/gentoo/ http://ftp.uoi.gr/mirror/OS/gentoo/ http://ds.thn.htu.se/linux/gentoo"
+GENTOO_MIRRORS="http://mirror.yandex.ru/gentoo-distfiles/ ftp://ftp.linux.ee/pub/gentoo/distfiles/ http://ftp.linux.ee/pub/gentoo/distfiles/ http://ftp.vein.hu/pub/linux/distributions/gentoo/ http://ds.thn.htu.se/linux/gentoo"
 
