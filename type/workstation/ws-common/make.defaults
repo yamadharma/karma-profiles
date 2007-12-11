@@ -332,6 +332,7 @@ kpathsea tex \
 id3tag soundtouch twolame vamp \
 policykit portage visibility \
 darcs git gpg \
+file neon \
 "
 
 # directfb fbcon \
