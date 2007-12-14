@@ -19,3 +19,7 @@ media-video/vlc			win32codecs
 dev-libs/openssl		kerberos
 net-fs/nfs-utils		kerberos
 app-editors/emacs-cvs		kerberos
+# GCJ
+sys-libs/db			java
+dev-libs/cyrus-sasl		java
+dev-java/xmlgraphics-commons	jpeg

@@ -1,5 +1,5 @@
-COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/server--pentium4
+#COMPORTDIR=/com/lib/portage
+#PKGDIR=${COMPORTDIR}/packages/server--pentium4
 #
-CFLAGS="-march=pentium4 -mtune=pentium4 -O2 -pipe"
-CXXFLAGS="${CFLAGS}"
+#CFLAGS="-march=pentium4 -mtune=pentium4 -O2 -pipe"
+#CXXFLAGS="${CFLAGS}"

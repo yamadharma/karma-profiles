@@ -333,6 +333,8 @@ id3tag soundtouch twolame vamp \
 policykit portage visibility \
 darcs git gpg \
 file neon \
+deskbar \
+log4j servletapi \
 "
 
 # directfb fbcon \

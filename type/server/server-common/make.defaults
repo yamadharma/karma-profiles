@@ -40,7 +40,7 @@ mad \
 dedicated \
 socks5 \
 pg-hier pg-vacuumdelay pg-intdatetime \
-f77 gcj objc \
+f77 objc \
 idea \
 caps cap \
 emacs-w3 imlib2 lynxkeymap \
@@ -147,11 +147,15 @@ cxx \
 regex audit \
 sftp ads \
 policykit portage visibility \
+darcs git gpg \
+file neon \
+log4j servletapi \
 "
 
 USE="${USE} \
 -cups \
 "
+# gcj 
 # portage
 # l7filter
 # pam_console 
