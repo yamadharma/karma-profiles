@@ -13,15 +13,13 @@ sci-libs/hdf5			mpi
 media-sound/jack-audio-connection-kit	portaudio
 media-sound/timidity++		portaudio
 dev-util/bzr-gtk		libnotify
-# For gcj
-# sys-devel/gcc 			gcj
 # Heimdal issues
 dev-libs/openssl		kerberos
 net-fs/nfs-utils		kerberos
 app-editors/emacs-cvs		kerberos
 # GCJ
-sys-libs/db			java
-dev-libs/cyrus-sasl		java
+#sys-libs/db			java
+#dev-libs/cyrus-sasl		java
 #dev-java/xmlgraphics-commons	jpeg
-net-dns/libidn			java
+#net-dns/libidn			java
 
