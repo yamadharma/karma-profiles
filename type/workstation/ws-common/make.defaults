@@ -305,7 +305,7 @@ mdnsresponder-compat \
 dvi xcomposite \
 kdehiddenvisibility kig-scripting akode \
 amrnb amrwb hdri \
-java5 hyphenation jai jimi \
+java5 hyphenation jai \
 ical gammu obex \
 net qos zero-penalty-hit \
 nfsexport \
@@ -335,8 +335,10 @@ darcs git gpg \
 file neon \
 deskbar \
 log4j servletapi \
+resolvconf \
 "
 
+# jimi
 # directfb fbcon \
 # nvtv 
 # clvm 

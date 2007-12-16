@@ -1,11 +1,27 @@
-sci-physics/root 		kerberos
-#net-misc/curl			kerberos
+# sci-physics/root 		kerberos mysql afs
 media-video/totem		nsplugin
 media-video/vlc			nsplugin
-net-fs/nfs-utils		kerberos
-=kde-base/kopete-3.5.5*		jingle
 =media-libs/mlt-0.2.2*		mmx
-=dev-libs/DirectFB-extra-0.9.25*	mmx
-=media-video/cinelerra-cvs-20070122	mmx 
+# =media-video/cinelerra-cvs-20070122	mmx 
 x11-libs/wxGTK			odbc
-#dev-java/sun-jdk 	-nsplugin
+=dev-lisp/clisp-2.41	postgres
+=kde-base/kicker-3.5.7*		kdehiddenvisibility
+=net-misc/openssh-4.6*		ldap
+media-sound/ardour		sys-libs
+dev-libs/cyrus-sasl		gdbm
+sci-libs/hdf5			mpi
+media-sound/jack-audio-connection-kit	portaudio
+media-sound/timidity++		portaudio
+dev-util/bzr-gtk		libnotify
+# For gcj
+# sys-devel/gcc 			gcj
+# Heimdal issues
+dev-libs/openssl		kerberos
+net-fs/nfs-utils		kerberos
+app-editors/emacs-cvs		kerberos
+# GCJ
+sys-libs/db			java
+dev-libs/cyrus-sasl		java
+#dev-java/xmlgraphics-commons	jpeg
+net-dns/libidn			java
+

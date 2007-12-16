@@ -9,3 +9,6 @@ sys-block/partimage		ssl
 dev-libs/openssl		kerberos
 net-fs/nfs-utils		kerberos
 app-editors/emacs-cvs		kerberos
+#
+net-dns/bind			berkdb
+

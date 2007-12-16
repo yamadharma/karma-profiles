@@ -1,25 +1,2 @@
 sci-physics/root 		kerberos afs
-media-video/totem		nsplugin
-media-video/vlc			nsplugin
-=media-libs/mlt-0.2.2*		mmx
-=media-video/cinelerra-cvs-20070122	mmx 
-x11-libs/wxGTK			odbc
-=kde-base/kicker-3.5.7*		kdehiddenvisibility
-=net-misc/openssh-4.6*		ldap
-media-sound/ardour		sys-libs
-dev-libs/cyrus-sasl		gdbm
-sci-libs/hdf5			mpi
-media-sound/jack-audio-connection-kit	portaudio
-media-sound/timidity++		portaudio
-dev-util/bzr-gtk		libnotify
 media-video/vlc			win32codecs
-# For gcj
-# sys-devel/gcc 			gcj
-# Heimdal issues
-dev-libs/openssl		kerberos
-net-fs/nfs-utils		kerberos
-app-editors/emacs-cvs		kerberos
-# GCJ
-sys-libs/db			java
-dev-libs/cyrus-sasl		java
-dev-java/xmlgraphics-commons	jpeg

@@ -150,6 +150,7 @@ policykit portage visibility \
 darcs git gpg \
 file neon \
 log4j servletapi \
+odbc \
 "
 
 USE="${USE} \
