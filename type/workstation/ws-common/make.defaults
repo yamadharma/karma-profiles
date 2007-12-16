@@ -333,6 +333,7 @@ id3tag soundtouch twolame vamp \
 policykit portage visibility \
 darcs git gpg \
 file neon \
+jimi \
 deskbar \
 log4j servletapi \
 resolvconf \
