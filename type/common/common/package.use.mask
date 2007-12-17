@@ -17,7 +17,8 @@ app-editors/emacs-cvs		kerberos
 # GCJ
 #sys-libs/db			java
 #dev-libs/cyrus-sasl		java
-#dev-java/xmlgraphics-commons	jpeg
+dev-java/xmlgraphics-commons	jpeg
+dev-java/batik			tcl
 #net-dns/libidn			java
 #{{{ rpm-5
 =net-analyzer/net-snmp-5.4*	rpm

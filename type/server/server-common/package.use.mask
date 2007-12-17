@@ -1,14 +1,5 @@
-sci-physics/root 		kerberos
-media-video/totem		nsplugin
-net-analyzer/flow-tools		postgres
-=net-misc/openssh-4.6*		ldap
-dev-libs/cyrus-sasl		gdbm
-www-client/elinks		guile
-sys-block/partimage		ssl
-# Heimdal issues
-dev-libs/openssl		kerberos
-net-fs/nfs-utils		kerberos
-app-editors/emacs-cvs		kerberos
-#
 net-dns/bind			berkdb
+sys-libs/db			java
+dev-libs/cyrus-sasl		java
+
 
