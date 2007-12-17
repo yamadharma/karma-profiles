@@ -336,7 +336,7 @@ file neon \
 jimi \
 deskbar \
 log4j servletapi \
-netpbm \
+netpbm umfpack \
 "
 
 # jimi
