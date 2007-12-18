@@ -3,7 +3,7 @@
 
 USE="${USE} \
 sse apm avi berkdb crypt encode gdbm gif gpm imlib \
-java jpeg libg++ libwww mmx mpeg ncurses nls oggvorbis \
+jpeg libg++ libwww mmx mpeg ncurses nls oggvorbis \
 pam pdflib png python qtmt quicktime readline slang spell ssl \
 tcpd xml2 xmms zlib \
 ldap \
@@ -136,7 +136,6 @@ disk-partition dmi \
 afs \
 d \
 network-cron \
-java5 \
 log4j servletapi avalon-framework avalon-logkit javamail jms jmx \
 ioemu pygrub screen \
 qos zero-penalty-hit \
@@ -156,12 +155,14 @@ odbc \
 USE="${USE} \
 -cups \
 "
+# java java5 \
 # gcj 
 # portage
 # l7filter
 # pam_console 
 # extensions
 # imq
+# 
 
 # unicode
 # erandom uclibc
