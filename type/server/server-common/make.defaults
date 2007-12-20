@@ -101,7 +101,7 @@ mysql mysqli \
 sharedext wddx \
 dba cli \
 mod_pubsub mod_irc mod_muc web \
-mime pdf \
+mime \
 fuse \
 filter sqlite nfs \
 nodrm \
@@ -145,7 +145,7 @@ ctype \
 cxx \
 regex audit \
 sftp ads \
-policykit portage visibility \
+policykit portage \
 darcs git gpg \
 file neon \
 log4j servletapi \
@@ -155,6 +155,7 @@ odbc \
 USE="${USE} \
 -cups \
 "
+# visibility pdf
 # java java5 \
 # gcj 
 # portage
