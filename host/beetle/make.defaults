@@ -1,8 +1,8 @@
 # VIDEO_CARDS="${VIDEO_CARDS} i810"
-USE="sse2"
+#USE="sse2"
 #
 COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/ws--pentium4
 #
-CFLAGS="-march=pentium4 -mtune=pentium4 -O2 -pipe"
-CXXFLAGS="${CFLAGS}"
+#CFLAGS="-march=pentium4 -mtune=pentium4 -O2 -pipe"
+#CXXFLAGS="${CFLAGS}"

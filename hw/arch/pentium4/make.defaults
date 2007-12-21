@@ -1,0 +1,4 @@
+USE="sse2"
+
+CFLAGS="-march=pentium4 -mtune=pentium4 -O2 -pipe"
+CXXFLAGS="${CFLAGS}"

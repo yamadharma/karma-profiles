@@ -407,7 +407,8 @@ SEARCH_DIRS="/usr/GNUstep"
 #VIDEO_CARDS="video_cards_i810 video_cards_nv video_cards_nvidia video_cards_sis"
 
 INPUT_DEVICES="keyboard mouse evdev"
-VIDEO_CARDS="nv nvidia"
+
+#VIDEO_CARDS="nv nvidia"
 #VIDEO_CARDS="-* nv nvidia"
 #VIDEO_CARDS="i810 nv nvidia"
 #VIDEO_CARDS="i810"
