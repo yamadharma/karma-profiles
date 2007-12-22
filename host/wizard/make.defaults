@@ -1,5 +1,5 @@
-VIDEO_CARDS="radeon"
+#VIDEO_CARDS="radeon"
 #
-COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/ws--amd64
+#COMPORTDIR=/com/lib/portage
+#PKGDIR=${COMPORTDIR}/packages/ws--amd64
 #

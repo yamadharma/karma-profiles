@@ -1,11 +1,15 @@
 # VIDEO_CARDS="${VIDEO_CARDS} i810"
-USE="
-3dnow 3dnowext mmx mmx2 mmxext sse sse2 sse3 \
-lirc
-"
+
+USE="lirc"
+
+#USE="
+#3dnow 3dnowext mmx mmx2 mmxext sse sse2 sse3 \
+#lirc
+#"
+#
 #
 COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/amd64
 #
-CFLAGS="-march=athlon64 -mtune=athlon64 -O2 -pipe -pipe -fforce-addr -falign-functions=4 -fprefetch-loop-arrays -fomit-frame-pointer"
-CXXFLAGS="${CFLAGS}"
+#CFLAGS="-march=athlon64 -mtune=athlon64 -O2 -pipe -pipe -fforce-addr -falign-functions=4 -fprefetch-loop-arrays -fomit-frame-pointer"
+#CXXFLAGS="${CFLAGS}"
