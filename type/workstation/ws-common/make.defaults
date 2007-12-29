@@ -337,6 +337,7 @@ jimi \
 deskbar \
 log4j servletapi \
 netpbm umfpack \
+lv2 \
 "
 
 # jimi
