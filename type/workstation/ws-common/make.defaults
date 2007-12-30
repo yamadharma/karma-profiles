@@ -338,7 +338,7 @@ deskbar \
 log4j servletapi \
 netpbm umfpack \
 lv2 \
-otr \
+otr asyncns \
 "
 
 # jimi
