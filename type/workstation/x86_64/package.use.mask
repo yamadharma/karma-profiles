@@ -1,2 +1,2 @@
-sci-physics/root 		kerberos afs
+#sci-physics/root 		kerberos afs
 media-video/vlc			win32codecs

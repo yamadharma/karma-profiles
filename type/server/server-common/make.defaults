@@ -3,7 +3,7 @@
 
 USE="${USE} \
 apm avi berkdb crypt encode gdbm gif gpm imlib \
-jpeg libg++ libwww mmx mpeg ncurses nls oggvorbis \
+jpeg libg++ libwww mpeg ncurses nls oggvorbis \
 pam pdflib png python qtmt quicktime readline slang spell ssl \
 tcpd xml2 xmms zlib \
 ldap \
@@ -147,16 +147,12 @@ darcs git gpg \
 file neon \
 log4j servletapi \
 odbc \
-"
-
 # Файловые системы
-USE="${USE} \
 clvm \
-"
-
-USE="${USE} \
+# Отключить
 -cups \
 "
+
 # visibility pdf
 # java java5 \
 # gcj 

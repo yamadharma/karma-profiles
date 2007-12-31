@@ -5,19 +5,17 @@
 # USE_EXPAND="VIDEO_CARDS INPUT_DEVICES LINGUAS PALUDIS_HOOKS"
 
 USE="${USE} \
-oss \
 apm \
 avi \
 berkdb \
 crypt \
 encode gdbm gif gpm gtk gtk2 imlib \
-java jpeg gnome libg++ libwww mikmod mmx motif mpeg ncurses nls oggvorbis \
+java jpeg gnome libg++ libwww mikmod motif mpeg ncurses nls oggvorbis \
 opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl \
 tcpd truetype X xml2 xmms xv zlib \
 ldap \
 dvd dvdr \
 leim \
-alsa \
 postgres \
 sasl \
 kerberos \
@@ -37,7 +35,7 @@ gnustep \
 faad \
 multimaster \
 vim-with-x cscope \
-svg jack jack-tmpfs \
+svg \
 gd \
 skey \
 matroska \
@@ -251,7 +249,7 @@ fasttrack gnutella magic \
 glade gnomecanvas \
 cdda corba mod rtsp seamonkey shout skins stream vlm wxwindows \
 iontruetype ionunicode \
-glep lame mp3rtp wavpack \
+glep \
 numeric \
 addbookmarks alias autoreplace connectionstatus contactnotes highlight history statistics texteffect trnslator webpresence \
 idle trayicon xhtml \
@@ -337,6 +335,10 @@ netpbm umfpack \
 lv2 \
 otr asyncns \
 sparse metis supernodal \
+# Звук
+oss alsa \
+lame mp3rtp wavpack \
+jack jack-tmpfs \
 "
 
 # jimi
