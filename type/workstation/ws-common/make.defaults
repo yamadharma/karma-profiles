@@ -339,6 +339,7 @@ log4j servletapi \
 netpbm umfpack \
 lv2 \
 otr asyncns \
+sparse metis supernodal \
 "
 
 # jimi
