@@ -1,5 +1,13 @@
 USE="\
-openmp"
+openmp \
+evms2 \
+"
+
+# Файловые системы
+USE="${USE} \
+afs \
+cman lvm2 \
+"
 
 LINGUAS="ru en"
 

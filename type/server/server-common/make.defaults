@@ -2,7 +2,7 @@
 # System-wide defaults for the gcc 3.2 Portage system
 
 USE="${USE} \
-sse apm avi berkdb crypt encode gdbm gif gpm imlib \
+apm avi berkdb crypt encode gdbm gif gpm imlib \
 jpeg libg++ libwww mmx mpeg ncurses nls oggvorbis \
 pam pdflib png python qtmt quicktime readline slang spell ssl \
 tcpd xml2 xmms zlib \
@@ -29,7 +29,6 @@ acpi \
 multimaster \
 cscope \
 svg \
-evms2 \
 gd \
 skey \
 guile xface \
@@ -133,13 +132,11 @@ device-mapper \
 inquisitio \
 purge \
 disk-partition dmi \
-afs \
 d \
 network-cron \
 log4j servletapi avalon-framework avalon-logkit javamail jms jmx \
 ioemu pygrub screen \
 qos zero-penalty-hit \
-clvm cman lvm2 \
 xcb \
 ctype \
 cxx \
@@ -150,6 +147,11 @@ darcs git gpg \
 file neon \
 log4j servletapi \
 odbc \
+"
+
+# Файловые системы
+USE="${USE} \
+clvm \
 "
 
 USE="${USE} \

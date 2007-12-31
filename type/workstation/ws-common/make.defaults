@@ -6,7 +6,6 @@
 
 USE="${USE} \
 oss \
-sse \
 apm \
 avi \
 berkdb \
@@ -39,7 +38,6 @@ faad \
 multimaster \
 vim-with-x cscope \
 svg jack jack-tmpfs \
-evms2 \
 gd \
 skey \
 matroska \
@@ -296,7 +294,7 @@ additions vditool \
 hardware-carrier transmitter \
 sbcl ldb new-clx \
 maps hipe kpoll smp \
-afs sys-libs tracker \
+sys-libs tracker \
 newspr networkmanager \
 qt-copy pertty transparency \
 network-cron \
@@ -310,7 +308,6 @@ ical gammu obex \
 net qos zero-penalty-hit \
 nfsexport \
 bonjour prediction silc \
-cman lvm2 \
 xosd \
 ctype \
 teletext \
