@@ -323,7 +323,6 @@ wideband \
 espeak html aften \
 sftp ads \
 adf unpaper \
-kpathsea tex \
 id3tag soundtouch twolame vamp \
 policykit portage visibility \
 darcs git gpg \
@@ -339,6 +338,8 @@ sparse metis supernodal \
 oss alsa \
 lame mp3rtp wavpack \
 jack jack-tmpfs \
+# TeX
+kpathsea tex \
 "
 
 # jimi

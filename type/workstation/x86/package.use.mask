@@ -1,2 +1,2 @@
-sci-physics/root 		kerberos mysql afs
+
 

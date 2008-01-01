@@ -1,4 +1,3 @@
-# sci-physics/root 		kerberos mysql afs
 media-video/totem		nsplugin
 media-video/vlc			nsplugin
 =media-libs/mlt-0.2.2*		mmx

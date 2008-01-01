@@ -23,4 +23,4 @@ dev-java/batik			tcl
 #{{{ rpm-5
 =net-analyzer/net-snmp-5.4*	rpm
 #}}}
-#=dev-python/numpy-1.0.4*	lapack
+sci-physics/root 		mysql kerberos afs
