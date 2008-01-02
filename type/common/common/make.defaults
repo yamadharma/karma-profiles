@@ -48,3 +48,5 @@ PALUDIS_HOOKS="eselect"
 
 
 GENTOO_MIRRORS="http://mirror.yandex.ru/gentoo-distfiles/ ftp://ftp.linux.ee/pub/gentoo/distfiles/ http://ftp.linux.ee/pub/gentoo/distfiles/ http://ds.thn.htu.se/linux/gentoo"
+
+AUTOCLEAN="yes"
