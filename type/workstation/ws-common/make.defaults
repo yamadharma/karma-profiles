@@ -334,11 +334,9 @@ netpbm umfpack \
 lv2 \
 otr asyncns \
 sparse metis supernodal \
-# Звук
 oss alsa \
 lame mp3rtp wavpack \
 jack jack-tmpfs \
-# TeX
 kpathsea tex \
 "
 

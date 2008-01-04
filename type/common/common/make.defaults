@@ -1,7 +1,6 @@
 USE="\
 openmp \
 evms2 \
-# Файловые системы
 afs \
 cman lvm2 \
 "

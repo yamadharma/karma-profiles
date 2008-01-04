@@ -147,9 +147,7 @@ darcs git gpg \
 file neon \
 log4j servletapi \
 odbc \
-# Файловые системы
 clvm \
-# Отключить
 -cups \
 "
 
