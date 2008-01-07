@@ -1,7 +1,7 @@
 media-video/totem		nsplugin
 media-video/vlc			nsplugin
 =media-libs/mlt-0.2.2*		mmx
-x11-libs/wxGTK			odbc
+=x11-libs/wxGTK-2.6*		odbc
 =dev-lisp/clisp-2.41		postgres
 =net-misc/openssh-4.6*		ldap
 media-sound/ardour		sys-libs

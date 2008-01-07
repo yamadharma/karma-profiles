@@ -1,8 +1,6 @@
 media-video/totem		nsplugin
 media-video/vlc			nsplugin
 =media-libs/mlt-0.2.2*		mmx
-# =media-video/cinelerra-cvs-20070122	mmx 
-x11-libs/wxGTK			odbc
 =dev-lisp/clisp-2.41	postgres
 =kde-base/kicker-3.5.7*		kdehiddenvisibility
 =net-misc/openssh-4.6*		ldap
