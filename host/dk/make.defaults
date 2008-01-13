@@ -1,12 +1,13 @@
 USE="mpi pbs \
 afs cpudetection"
 
-VIDEO_CARDS="${VIDEO_CARDS} i810 nv nvidia sis fglrx radeon"
+#VIDEO_CARDS="${VIDEO_CARDS} i810 nv nvidia sis fglrx radeon"
 #
+
 COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/ws--pentium4
 
-ECVS_OFFLINE=1
-
-CFLAGS="-march=i686 -mtune=i686 -O2 -pipe"
+CFLAGS="-march=i686 -mtune=pentium4 -O2 -pipe"
 CXXFLAGS="${CFLAGS}"
+
+ECVS_OFFLINE=1
