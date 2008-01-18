@@ -343,6 +343,7 @@ javamail jms jmx \
 avalon-framework avalon-logkit \
 "
 
+# cint7 \
 # jimi
 # directfb fbcon \
 # nvtv 

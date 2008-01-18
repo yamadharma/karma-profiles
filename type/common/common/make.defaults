@@ -3,6 +3,7 @@ openmp \
 evms2 \
 afs \
 cman lvm2 \
+nptl \
 "
 
 LINGUAS="ru en"
