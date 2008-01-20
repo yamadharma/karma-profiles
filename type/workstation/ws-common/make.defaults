@@ -343,6 +343,7 @@ javamail jms jmx \
 avalon-framework avalon-logkit \
 htmlhandbook nova fits newxkb \
 vnc \
+R \
 "
 
 # cint7 \
