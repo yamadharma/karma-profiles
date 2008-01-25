@@ -1,3 +1,4 @@
 ../../type/workstation/x86
 ../../hw/arch/pentium4
-../../hw/video/ati_fglrx
+../../hw/video/ati
+

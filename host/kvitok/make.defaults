@@ -1,5 +1,3 @@
-#VIDEO_CARDS="fglrx radeon"
-#USE="sse2"
 #
 COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/ws--pentium4
