@@ -1,5 +1,7 @@
 # Проблемы с Openoffice
 =dev-lang/mono-1.2.6*
+# Переход на app-text/ghostscript-gpl
+app-text/ghostscript-esp
 
 # From package.mask
 
@@ -13,3 +15,4 @@
 ->=virtual/gnustep-back-0.13.0
 ->=gnustep-apps/gorm-1.2.2
 ->=gnustep-apps/simpleagenda-0.33
+
