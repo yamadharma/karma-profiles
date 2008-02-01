@@ -16,3 +16,5 @@ app-text/ghostscript-esp
 ->=gnustep-apps/gorm-1.2.2
 ->=gnustep-apps/simpleagenda-0.33
 
+#
+->=app-arch/rpm-4.4.7-r3
