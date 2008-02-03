@@ -18,3 +18,6 @@ app-text/ghostscript-esp
 
 #
 ->=app-arch/rpm-4.4.7-r3
+
+# Clash with hal
+=sys-apps/parted-1.8.8

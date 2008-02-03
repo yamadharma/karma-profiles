@@ -344,6 +344,7 @@ avalon-framework avalon-logkit \
 htmlhandbook nova fits newxkb \
 vnc \
 R \
+libotf \
 "
 
 # cint7 \

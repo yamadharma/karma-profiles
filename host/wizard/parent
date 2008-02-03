@@ -1,3 +1,4 @@
 ../../type/workstation/x86_64
 ../../hw/arch/k8
+../../hw/platform/notebook
 ../../hw/video/ati_fglrx
