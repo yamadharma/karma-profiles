@@ -345,6 +345,7 @@ htmlhandbook nova fits newxkb \
 vnc \
 R \
 libotf \
+cdio taglib vcdx \
 "
 
 # cint7 \

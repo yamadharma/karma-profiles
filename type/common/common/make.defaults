@@ -4,6 +4,7 @@ evms2 \
 afs \
 cman lvm2 \
 nptl \
+libgcrypt \
 "
 
 LINGUAS="ru en"
