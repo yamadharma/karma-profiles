@@ -271,3 +271,5 @@
 ->=app-crypt/qca-logger-2.0.0_beta2
 ->=app-crypt/qca-ossl-2.0.0_beta3
 ->=app-crypt/qca-pkcs11-2.0.0_beta2
+
+-~media-sound/amarok-1.4.9999
