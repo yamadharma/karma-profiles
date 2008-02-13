@@ -24,3 +24,4 @@ dev-java/batik			tcl
 =net-analyzer/net-snmp-5.4*	rpm
 #}}}
 sci-physics/root 		mysql kerberos afs
+=net-fs/autofs-5.0.3*		sasl

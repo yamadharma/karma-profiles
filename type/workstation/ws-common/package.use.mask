@@ -20,5 +20,5 @@ app-editors/emacs-cvs		kerberos
 #dev-java/xmlgraphics-commons	jpeg
 #net-dns/libidn			java
 # Slang
-=media-sound/timidity++-2.13.2* slang
+#=media-sound/timidity++-2.13.2* slang
 
