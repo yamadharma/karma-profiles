@@ -22,3 +22,7 @@ app-text/ghostscript-esp
 
 # Clash with hal
 =sys-apps/parted-1.8.8
+
+# Sebastien Fabbro <bicatali@gentoo.org> (05 Feb 2008)
+# sci-libs/metis-5.* still experimental
+->=sci-libs/metis-4.99
