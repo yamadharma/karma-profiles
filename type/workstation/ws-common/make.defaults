@@ -346,6 +346,7 @@ vnc \
 R \
 libotf \
 cdio taglib vcdx \
+nuv \
 "
 
 # cint7 \
