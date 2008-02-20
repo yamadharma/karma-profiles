@@ -146,11 +146,11 @@ policykit portage \
 darcs git gpg \
 file neon \
 log4j servletapi \
-odbc \
 clvm \
 -cups \
 "
 
+# odbc \
 # visibility pdf
 # java java5 \
 # gcj 
