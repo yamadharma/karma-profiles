@@ -5,6 +5,7 @@ afs \
 cman lvm2 \
 nptl \
 libgcrypt \
+m17n-lib \
 "
 
 LINGUAS="ru en"
