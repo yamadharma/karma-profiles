@@ -6,6 +6,7 @@ cman lvm2 \
 nptl \
 libgcrypt \
 m17n-lib \
+jfs ntfs reiserfs fat \
 "
 
 LINGUAS="ru en"
