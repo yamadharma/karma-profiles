@@ -26,3 +26,5 @@ dev-java/batik			tcl
 sci-physics/root 		mysql kerberos afs
 =net-fs/autofs-5.0.3*		sasl
 dev-util/subversion		ruby
+dev-libs/cyrus-sasl		postgres
+
