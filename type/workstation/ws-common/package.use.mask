@@ -17,6 +17,3 @@ app-editors/emacs-cvs		kerberos
 #
 =net-libs/libsoup-2.2.105-r1	doc
 #
-=sun-jdk/blackdown-jdk-1.4*	doc
-=sun-jdk/sun-jdk-1.4*		doc
-=sun-jdk/sun-jdk-1.5*		doc
