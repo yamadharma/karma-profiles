@@ -31,5 +31,5 @@ dev-libs/cyrus-sasl		postgres
 dev-java/blackdown-jdk		doc
 =dev-java/sun-jdk-1.4*		doc
 =dev-java/sun-jdk-1.5		doc
-
+# kde-misc/tellico		yaz
 
