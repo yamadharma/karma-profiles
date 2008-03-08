@@ -349,6 +349,7 @@ libotf \
 cdio taglib vcdx \
 nuv \
 tesseract \
+extrafilters \
 "
 
 # cint7 \
