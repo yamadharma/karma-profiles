@@ -14,6 +14,7 @@ dev-util/bzr-gtk		libnotify
 dev-libs/openssl		kerberos
 net-fs/nfs-utils		kerberos
 app-editors/emacs-cvs		kerberos
-#
+# Temporary 
 =net-libs/libsoup-2.2.105-r1	doc
+=sci-visualization/qtiplot-0.9.3	doc
 #
