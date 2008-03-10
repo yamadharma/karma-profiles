@@ -350,6 +350,7 @@ cdio taglib vcdx \
 nuv \
 tesseract \
 extrafilters \
+opengl-video opengl-xvmc iptv \
 "
 
 # cint7 \
