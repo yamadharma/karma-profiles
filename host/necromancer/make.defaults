@@ -1,4 +1,5 @@
-CFLAGS="-march=pentium4 -O3 -pipe"
+COMPORTDIR=/com/lib/portage
+PKGDIR=${COMPORTDIR}/packages/server--pentium4
+#
+CFLAGS="-march=pentium4 -mtune=pentium4 -O2 -pipe"
 CXXFLAGS="${CFLAGS}"
-
-USE="sse2"
