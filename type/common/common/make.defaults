@@ -7,6 +7,7 @@ nptl \
 libgcrypt \
 m17n-lib \
 jfs ntfs reiserfs fat \
+gcrypt pcap smi \
 "
 
 LINGUAS="ru en"
