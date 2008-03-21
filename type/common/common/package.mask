@@ -29,3 +29,7 @@ app-text/ghostscript-esp
 # Sebastien Fabbro <bicatali@gentoo.org> (05 Feb 2008)
 # sci-libs/metis-5.* still experimental
 ->=sci-libs/metis-4.99
+#
+-=dev-libs/nss-3.12_alpha*
+-=dev-libs/nss-3.12_beta*
+-=dev-libs/nspr-4.7.1_beta*
