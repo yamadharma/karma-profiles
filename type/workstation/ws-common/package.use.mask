@@ -18,5 +18,6 @@ app-editors/emacs-cvs		kerberos
 =net-libs/libsoup-2.2.105-r1	doc
 =sci-visualization/qtiplot-0.9.3	doc
 #
+=sci-mathematics/glpk-4.27	mysql
 
 

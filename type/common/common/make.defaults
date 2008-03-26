@@ -8,6 +8,9 @@ libgcrypt \
 m17n-lib \
 jfs ntfs reiserfs fat \
 gcrypt pcap smi \
+networking \
+sqlite3 \
+json \
 "
 
 LINGUAS="ru en"

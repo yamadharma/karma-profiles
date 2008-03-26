@@ -33,4 +33,5 @@ dev-java/blackdown-jdk		doc
 =dev-java/sun-jdk-1.5*		doc
 # kde-misc/tellico		yaz
 #
+net-analyzer/flow-tools		postgres
 
