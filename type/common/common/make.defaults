@@ -11,6 +11,7 @@ gcrypt pcap smi \
 networking \
 sqlite3 \
 json \
+gzip-el \
 "
 
 LINGUAS="ru en"
