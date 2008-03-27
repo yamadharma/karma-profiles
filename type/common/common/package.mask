@@ -33,3 +33,6 @@ app-text/ghostscript-esp
 -=dev-libs/nss-3.12_alpha*
 -=dev-libs/nss-3.12_beta*
 -=dev-libs/nspr-4.7.1_beta*
+
+# Temporary
+=app-office/openoffice-2.4.0

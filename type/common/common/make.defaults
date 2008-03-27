@@ -10,7 +10,7 @@ jfs ntfs reiserfs fat \
 gcrypt pcap smi \
 networking \
 sqlite3 \
-json \
+json ldap-sasl \
 gzip-el \
 "
 
