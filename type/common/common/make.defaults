@@ -12,6 +12,7 @@ networking \
 sqlite3 \
 json ldap-sasl \
 gzip-el \
+lzo \
 "
 
 LINGUAS="ru en"
