@@ -1,1 +1,1 @@
-USE="lighttpd"
+USE="lighttpd fastcgi cgi"
