@@ -269,7 +269,7 @@ device-mapper \
 fping \
 inquisitio \
 galago thunderbird \
-pike fontconfig \
+fontconfig \
 toolkit-scroll-bars xft  gzip-el \
 glib pch qt3support sqlite3 \
 purge \
@@ -354,6 +354,7 @@ opengl-video opengl-xvmc iptv \
 openxml \
 "
 
+# pike
 # cint7 \
 # jimi
 # directfb fbcon \

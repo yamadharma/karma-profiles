@@ -12,7 +12,7 @@ networking \
 sqlite3 \
 json ldap-sasl \
 gzip-el \
-lzo \
+lzo lzma \
 vim-syntax \
 "
 
