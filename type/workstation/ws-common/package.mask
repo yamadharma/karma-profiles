@@ -274,3 +274,8 @@
 ->=app-crypt/qca-pkcs11-2.0.0_beta2
 
 -~media-sound/amarok-1.4.9999
+
+# Stefan Schweizer <genstef@gentoo.org> (1 Apr 2008)
+# New library, API compatibility with evince/xpdf/okular/epdfview needs to be checked first
+->=app-text/poppler-0.8.0
+->=app-text/poppler-bindings-0.8.0

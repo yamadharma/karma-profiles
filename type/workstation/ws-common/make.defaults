@@ -352,6 +352,7 @@ tesseract \
 extrafilters \
 opengl-video opengl-xvmc iptv \
 openxml \
+sourceview tunepimp epiphany gedit \
 "
 
 # pike
