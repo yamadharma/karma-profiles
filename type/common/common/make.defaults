@@ -15,7 +15,6 @@ gzip-el \
 lzo lzma \
 vim-syntax \
 archive \
-consolekit \
 "
 
 LINGUAS="ru en"
