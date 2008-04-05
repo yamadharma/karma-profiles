@@ -36,3 +36,4 @@ app-text/ghostscript-esp
 
 # Temporary
 =app-office/openoffice-2.4.0
+=net-fs/openafs-kernel-1.4.7_pre2-r1
