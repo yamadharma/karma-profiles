@@ -354,6 +354,7 @@ opengl-video opengl-xvmc iptv \
 openxml \
 sourceview tunepimp epiphany gedit \
 consolekit \
+freesound \
 "
 
 # pike
