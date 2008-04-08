@@ -1,0 +1,4 @@
+USE="imagemagick math \
+latex kpathsea \
+"
+
