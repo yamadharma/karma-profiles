@@ -1,0 +1,2 @@
+USE="flexresp snortsam inline dynamicplugin timestats perfprofiling linux-smp-stats flexresp2 react sguil gre"
+
