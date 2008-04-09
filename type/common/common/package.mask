@@ -30,9 +30,10 @@ app-text/ghostscript-esp
 # sci-libs/metis-5.* still experimental
 ->=sci-libs/metis-4.99
 #
--=dev-libs/nss-3.12_alpha*
--=dev-libs/nss-3.12_beta*
--=dev-libs/nspr-4.7.1_beta*
+# Raúl Porcel <armin76@gentoo.org> (12 Dec 2007)
+# P.mask snapshots
+->=dev-libs/nss-3.12_alpha1
+->=dev-libs/nspr-4.7.1_beta1
 
 # Temporary
 =app-office/openoffice-2.4.0
