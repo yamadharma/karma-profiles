@@ -355,6 +355,7 @@ openxml \
 sourceview tunepimp epiphany gedit \
 consolekit \
 freesound \
+postproc \
 "
 
 # pike

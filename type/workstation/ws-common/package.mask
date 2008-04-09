@@ -279,3 +279,8 @@
 # New library, API compatibility with evince/xpdf/okular/epdfview needs to be checked first
 ->=app-text/poppler-0.8.0
 ->=app-text/poppler-bindings-0.8.0
+
+# Steve Dibb <beandog@gentoo.org> (12 Mar 2007)
+# needs testing
+->=media-video/transcode-1.1.0_alpha4
+
