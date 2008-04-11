@@ -284,3 +284,6 @@
 # needs testing
 ->=media-video/transcode-1.1.0_alpha4
 
+# Marius Mauch <genone@gentoo.org> (17 Jan 2006)
+# Development version
+->=dev-util/gambas-1.9
