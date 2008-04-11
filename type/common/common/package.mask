@@ -36,5 +36,3 @@ app-text/ghostscript-esp
 ->=dev-libs/nspr-4.7.1_beta1
 
 # Temporary
-=app-office/openoffice-2.4.0
-=net-fs/openafs-kernel-1.4.7_pre2-r1
