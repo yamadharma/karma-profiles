@@ -1,6 +1,6 @@
 COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/ws--k8
 
-PORTAGE_BINHOST="ftp://mark.sci.pfu.edu.ru/ws--k8/"
+PORTAGE_BINHOST="ftp://mark.sci.pfu.edu.ru/ws--k8/All"
 
 ELISP_DISABLE_ELC=1
