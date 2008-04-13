@@ -9,7 +9,7 @@ USE="lirc"
 #
 #
 COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/amd64
+PKGDIR=${COMPORTDIR}/packages/ws--k8
 #
 #CFLAGS="-march=athlon64 -mtune=athlon64 -O2 -pipe -pipe -fforce-addr -falign-functions=4 -fprefetch-loop-arrays -fomit-frame-pointer"
 #CXXFLAGS="${CFLAGS}"
