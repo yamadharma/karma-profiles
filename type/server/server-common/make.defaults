@@ -9,7 +9,6 @@ tcpd xml2 xmms zlib \
 ldap \
 dvd \
 leim \
-mysql postgres \
 sasl kerberos \
 samba \
 crypt xfs acpi4linux \
@@ -96,7 +95,6 @@ objc++ \
 yaz \
 cgi xmlreader xmlrpc xmlwriter xpm zip hash overload vm-switch pdo reflection \
 iconv inifile bcmath curl curlwrappers pcntl flatfile \
-mysql mysqli \
 sharedext wddx \
 dba cli \
 mod_pubsub mod_irc mod_muc web \

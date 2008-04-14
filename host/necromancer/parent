@@ -4,6 +4,8 @@
 ../../soft/ossim
 ../../soft/lighttpd
 ../../soft/php
+../../soft/mysql
+../../soft/postgres
 ../../soft/snort
 ../../soft/prelude
 

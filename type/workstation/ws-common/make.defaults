@@ -16,7 +16,6 @@ tcpd truetype X xml2 xmms xv zlib \
 ldap \
 dvd dvdr \
 leim \
-postgres \
 sasl \
 kerberos \
 samba \
@@ -165,7 +164,6 @@ objc++  \
 calendar cddb yaz \
 cgi xmlreader xmlrpc xmlwriter xpm zip hash overload vm-switch pdo reflection \
 iconv inifile bcmath curl curlwrappers pcntl flatfile \
-mysql mysqli \
 sharedext wddx \
 iodbc \
 extras \
@@ -356,8 +354,11 @@ sourceview tunepimp epiphany gedit \
 consolekit \
 freesound \
 postproc atmo \
+hardcoded-tables \
 "
 
+# postgres \
+# mysql mysqli \
 # pike
 # cint7 \
 # jimi

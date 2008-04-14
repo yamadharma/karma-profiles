@@ -1,5 +1,5 @@
-../../type/workstation/x86_64
-../../hw/arch/k8
+../../type/workstation/x86
+../../hw/arch/athlon
 ../../hw/platform/notebook
 ../../hw/video/ati
 ../../hw/video/ati_fglrx
