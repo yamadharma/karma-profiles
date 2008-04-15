@@ -291,6 +291,11 @@
 -=media-gfx/blender-2.45-r1
 -=x11-misc/xvidcap-1.1.7_rc1
 
+# Ben de Groot <yngwin@gentoo.org> (7 Apr 2008)
+# Versioning scheme change after pkgmove from -svn
+->=media-libs/x264-20000101
+->=media-video/x264-encoder-20000101
+
 # Marius Mauch <genone@gentoo.org> (17 Jan 2006)
 # Development version
 ->=dev-util/gambas-1.9
