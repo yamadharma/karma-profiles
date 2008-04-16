@@ -299,3 +299,6 @@
 # Marius Mauch <genone@gentoo.org> (17 Jan 2006)
 # Development version
 ->=dev-util/gambas-1.9
+
+# Temporary
+net-voip/wengophone
