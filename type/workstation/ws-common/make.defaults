@@ -355,6 +355,7 @@ consolekit \
 freesound \
 postproc atmo \
 hardcoded-tables \
+grammar math ots thesaurus wordperfect \
 "
 
 # postgres \
