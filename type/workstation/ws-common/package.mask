@@ -301,4 +301,4 @@
 ->=dev-util/gambas-1.9
 
 # Temporary
-net-voip/wengophone
+#net-voip/wengophone
