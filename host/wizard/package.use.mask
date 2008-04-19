@@ -1,3 +1,4 @@
 kde-base/kdelibs:kde-4		3dnow
+kde-base/ksplash:kde-4		3dnow
 
 
