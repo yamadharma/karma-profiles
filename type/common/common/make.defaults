@@ -23,13 +23,16 @@ FEATURES="sandbox usersandbox userpriv candy -strict prelink confcache parallel-
 
 SEARCH_DIRS="/usr/GNUstep"
 
-PORTDIR=/usr/share/portage
-COMPORTDIR=/com/lib/portage
-DISTDIR=${COMPORTDIR}/distfiles
-PKGDIR=${COMPORTDIR}/packages
-PORT_LOGDIR=/var/log/portage
+PORTDIR="/usr/share/portage/"
+COMPORTDIR="/com/lib/portage/"
+DISTDIR="${COMPORTDIR}/distfiles/"
+PKGDIR="${COMPORTDIR}/packages/"
+PORT_LOGDIR="/var/log/portage/"
 
-PORTDIR_OVERLAY="${PORTDIR_OVERLAY} /usr/local/share/portage/local"
+#LOCAL_PORTDIR="/usr/share/portage/local/"
+
+PORTDIR_OVERLAY="/usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
+# PORTDIR_OVERLAY="/usr/local/share/portage/local/"
 
 LDFLAGS="${LDFLAGS} -Wl,--hash-style=both"
 
