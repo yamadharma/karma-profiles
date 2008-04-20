@@ -36,3 +36,14 @@ app-text/ghostscript-esp
 ->=dev-libs/nspr-4.7.1_beta1
 
 # Temporary
+
+
+
+
+# Unmask
+
+# Diego Pettenò <flameeyes@gentoo.org> (19 Apr 2008)
+# Masked until we remove "children" .la files, or get better tools -
+# like a revdep-rebuild that does not require an actual rebuild.
+-~dev-libs/popt-1.14
+-=media-libs/libogg-1.1.3-r1

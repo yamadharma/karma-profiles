@@ -10,10 +10,6 @@ sci-libs/hdf5			mpi
 media-sound/jack-audio-connection-kit	portaudio
 media-sound/timidity++		portaudio
 dev-util/bzr-gtk		libnotify
-# Heimdal issues
-dev-libs/openssl		kerberos
-net-fs/nfs-utils		kerberos
-app-editors/emacs-cvs		kerberos
 
 media-libs/swfdec		oss
 media-sound/amarok		mysql postgres

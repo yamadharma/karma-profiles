@@ -12,7 +12,7 @@ media-sound/timidity++		portaudio
 dev-util/bzr-gtk		libnotify
 # Heimdal issues
 dev-libs/openssl		kerberos
-net-fs/nfs-utils		kerberos
+# net-fs/nfs-utils		kerberos
 app-editors/emacs-cvs		kerberos
 # GCJ
 #sys-libs/db			java
