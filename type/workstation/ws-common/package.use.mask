@@ -18,4 +18,5 @@ media-sound/amarok		mysql postgres
 =net-libs/libsoup-2.2.105-r1	doc
 =sci-visualization/qtiplot-0.9.4	doc
 
+app-accessibility/espeak	pulseaudio
 
