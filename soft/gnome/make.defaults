@@ -1,0 +1,5 @@
+USE="gnome gnome-keyring \
+glade gnomecanvas \
+gnome-print \
+"
+

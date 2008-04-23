@@ -10,7 +10,7 @@ avi \
 berkdb \
 crypt \
 encode gdbm gif gpm gtk gtk2 imlib \
-java jpeg gnome libg++ libwww mikmod motif mpeg ncurses nls oggvorbis \
+java jpeg libg++ libwww mikmod motif mpeg ncurses nls oggvorbis \
 opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl \
 tcpd truetype X xml2 xmms xv zlib \
 ldap \
@@ -244,7 +244,6 @@ aiglx \
 pop smime buffysize mbox \
 srv \
 fasttrack gnutella magic \
-glade gnomecanvas \
 cdda corba mod rtsp seamonkey shout skins stream vlm wxwindows \
 iontruetype ionunicode \
 glep \
@@ -274,7 +273,7 @@ purge \
 daap sdl-image jackmidi \
 emf lash fluidsynth \
 dvdnav mp2 pnm radio \
-gnome-print  extra-cardsets \
+extra-cardsets \
 disk-partition dmi \
 dia postscript xcb tta \
 applet gsf \
