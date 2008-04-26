@@ -1,2 +1,4 @@
 # For sci-physics/root compatibility
 net-libs/libwww		mysql
+# For media-tv/mythtv
+=x11-libs/qt-3*		mysql
