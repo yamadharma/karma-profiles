@@ -1,15 +1,5 @@
-# VIDEO_CARDS="${VIDEO_CARDS} i810"
-
-USE="lirc"
-
-#USE="
-#3dnow 3dnowext mmx mmx2 mmxext sse sse2 sse3 \
-#lirc
-#"
-#
-#
 COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/ws--k8
-#
-#CFLAGS="-march=athlon64 -mtune=athlon64 -O2 -pipe -pipe -fforce-addr -falign-functions=4 -fprefetch-loop-arrays -fomit-frame-pointer"
-#CXXFLAGS="${CFLAGS}"
+
+USE="lirc"
+# FOO2ZJS_DEVICES="sa300"
