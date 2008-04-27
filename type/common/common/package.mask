@@ -47,3 +47,8 @@ app-text/ghostscript-esp
 # like a revdep-rebuild that does not require an actual rebuild.
 -~dev-libs/popt-1.14
 -=media-libs/libogg-1.1.3-r1
+
+# Samuli Suominen <drac@gentoo.org> (27 Apr 2008)
+# New Midnight Commander masked for testing.
+# Functional ebuild, but it needs still work.
+-=app-misc/mc-4.6.2_pre1
