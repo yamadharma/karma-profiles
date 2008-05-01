@@ -12,6 +12,7 @@ media-sound/timidity++		portaudio
 dev-util/bzr-gtk		libnotify
 
 media-libs/swfdec		oss
+media-sound/amarok		-real
 
 # Temporary 
 =net-libs/libsoup-2.2.105-r1	doc
