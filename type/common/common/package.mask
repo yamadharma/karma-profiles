@@ -52,3 +52,7 @@ app-text/ghostscript-esp
 # New Midnight Commander masked for testing.
 # Functional ebuild, but it needs still work.
 -=app-misc/mc-4.6.2_pre1
+
+# Tiziano Müller <dev-zero@gentoo.org> (8 Mar 2008)
+# Mask pre-version
+-=net-fs/samba-3.2*
