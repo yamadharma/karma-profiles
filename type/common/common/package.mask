@@ -53,3 +53,8 @@ app-text/ghostscript-esp
 # Functional ebuild, but it needs still work.
 -=app-misc/mc-4.6.2_pre1
 
+# Chris PeBenito <pebenito@gentoo.org> (17 Apr 2008)
+# pending testing against policy
+->=sys-apps/baselayout-2.0.0
+-sys-apps/openrc
+-sys-apps/makedev
