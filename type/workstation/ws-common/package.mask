@@ -309,3 +309,9 @@
 # Temporary
 =media-tv/mythtv-0.21_p17100
 
+# Gilles Dartiguelongue <eva@gentoo.org> (24 Jan 2008)
+# add masked gnome-system-tools-2.20 and dependencies
+# for testing purpose
+-dev-libs/liboobs
+->=app-admin/system-tools-backends-2
+->=app-admin/gnome-system-tools-2.20
