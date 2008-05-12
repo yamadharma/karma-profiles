@@ -315,3 +315,7 @@
 -dev-libs/liboobs
 ->=app-admin/system-tools-backends-2
 ->=app-admin/gnome-system-tools-2.20
+
+# Luca Barbato <lu_zero@gentoo.org> (28 Jan 2008)
+# linking broken
+-=app-emulation/qemu-user-0.9.1
