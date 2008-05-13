@@ -58,3 +58,12 @@ app-text/ghostscript-esp
 ->=sys-apps/baselayout-2.0.0
 -sys-apps/openrc
 -sys-apps/makedev
+
+# Tobias Scherbaum <dertobi123@gentoo.org> (27 Apr 2008)
+# Nagios-3 with changed install paths, masked for testing.
+->=net-analyzer/nagios-plugins-1.4.11-r102
+->=net-analyzer/nagios-nsca-2.7.2-r100
+->=net-analyzer/nagios-3.0.1
+->=net-analyzer/nagios-core-3.0.1
+->=net-analyzer/nagios-nrpe-2.12-r101
+->=net-analyzer/nagios-imagepack-1.0-r100

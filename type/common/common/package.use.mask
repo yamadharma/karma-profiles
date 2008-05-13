@@ -36,3 +36,4 @@ dev-java/blackdown-jdk		doc
 net-analyzer/flow-tools		postgres
 
 =sys-devel/gcc-3*		gtk d gcj libffi fortran doc objc
+app-admin/sudo			skey
