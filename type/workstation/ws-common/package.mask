@@ -32,8 +32,8 @@
 #
 -=app-mobilephone/kmobiletools-0.5*
 #
--~app-editors/emacs-cvs-23.0.0_p20070920
--~app-editors/emacs-cvs-23.0.60
+#-~app-editors/emacs-cvs-23.0.0_p20070920
+#-~app-editors/emacs-cvs-23.0.60
 ->=virtual/emacs-23
 #
 -app-text/texlive

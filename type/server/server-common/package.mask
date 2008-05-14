@@ -8,8 +8,8 @@
 #
 -=app-crypt/heimdal-1.0.1
 #
--~app-editors/emacs-cvs-23.0.0_p20070920
--~app-editors/emacs-cvs-23.0.60
+#-~app-editors/emacs-cvs-23.0.0_p20070920
+#-~app-editors/emacs-cvs-23.0.60
 ->=virtual/emacs-23
 #
 =app-portage/eix-0.10.2
