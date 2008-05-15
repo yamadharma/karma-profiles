@@ -290,7 +290,7 @@
 # Luca Barbato <lu_zero@gentoo.org> (26 Mar 2008)
 # huge ffmpeg migration mask, append to this further packages working
 # with the new include layout
-->=media-video/ffmpeg-0.4.9_p20080326
+->=media-video/ffmpeg-0.4.9_p20080206
 -=media-gfx/blender-2.45-r3
 -=x11-misc/xvidcap-1.1.7_rc1
 
