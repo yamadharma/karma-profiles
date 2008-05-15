@@ -37,7 +37,7 @@ app-text/ghostscript-esp
 
 # Temporary
 
-
+=app-portage/gentoolkit-0.2.4_rc4
 
 
 # Unmask
