@@ -264,7 +264,7 @@
 
 # Peter Volkov <pva@gentoo.org> (28 Sep 2007)
 # masked for testing
-->=app-doc/kchmviewer-4.0_beta1
+->=app-text/kchmviewer-4.0_beta1
 
 
 # Wulf C. Krueger <philantrop@gentoo.org> (13 Jan 2008)
