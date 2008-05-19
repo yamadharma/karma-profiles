@@ -61,3 +61,9 @@ app-text/ghostscript-esp
 ->=net-analyzer/nagios-core-3.0.1
 ->=net-analyzer/nagios-nrpe-2.12-r101
 ->=net-analyzer/nagios-imagepack-1.0-r100
+
+# Doug Goldstein <cardoe@gentoo.org> (16 Nov 2007)
+# new heimdal version that's not too tested
+# anyone looking to take over maintaining heimdal
+# from seemant would make both of us happy
+-=app-crypt/heimdal-1.0.1
