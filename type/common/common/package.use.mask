@@ -37,3 +37,6 @@ net-analyzer/flow-tools		postgres
 
 =sys-devel/gcc-3*		gtk d gcj libffi fortran doc objc
 app-admin/sudo			skey
+
+
+=net-misc/neon-0.26*		socks5
