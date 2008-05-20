@@ -16,6 +16,7 @@ lzo lzma \
 vim-syntax \
 archive \
 aspell \
+pkcs11 \
 "
 
 LINGUAS="ru en"

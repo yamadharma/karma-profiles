@@ -19,12 +19,6 @@ app-text/ghostscript-esp
 ->=gnustep-apps/gorm-1.2.2
 ->=gnustep-apps/simpleagenda-0.33
 
-#
-->=app-arch/rpm-4.4.7-r3
-->=net-im/skype-2.0.0.13
-
-# Clash with hal
-=sys-apps/parted-1.8.8
 
 # Sebastien Fabbro <bicatali@gentoo.org> (05 Feb 2008)
 # sci-libs/metis-5.* still experimental
@@ -67,3 +61,7 @@ app-text/ghostscript-esp
 # anyone looking to take over maintaining heimdal
 # from seemant would make both of us happy
 -=app-crypt/heimdal-1.0.1
+
+# Vlastimil Babka <caster@gentoo.org> (20 May 2008)
+# Masked for testing
+-=app-arch/rpm-5*
