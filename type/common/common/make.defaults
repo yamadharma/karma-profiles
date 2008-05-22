@@ -16,7 +16,7 @@ lzo lzma \
 vim-syntax \
 archive \
 aspell \
-pkcs11 \
+pkcs11 libssh2 \
 "
 
 LINGUAS="ru en"
