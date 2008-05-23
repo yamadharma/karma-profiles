@@ -97,7 +97,6 @@ sysfs sysvipc  \
 ffmpeg win32codecs vorbis djbfft threads a52 \
 sox \
 expat ithreads \
-gnutls \
 avalon \
 mjpeg fame \
 musepack css \

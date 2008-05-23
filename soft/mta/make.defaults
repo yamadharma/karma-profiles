@@ -1,2 +1,5 @@
-USE="dkim"
+USE="exim \
+dnsdb exiscan-acl ltmp \
+dkim \
+"
 

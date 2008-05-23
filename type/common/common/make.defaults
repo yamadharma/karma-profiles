@@ -17,6 +17,7 @@ vim-syntax \
 archive \
 aspell \
 pkcs11 libssh2 \
+gnutls \
 "
 
 LINGUAS="ru en"
