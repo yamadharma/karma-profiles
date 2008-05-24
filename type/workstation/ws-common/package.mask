@@ -345,3 +345,8 @@
 # Jim Ramsay <lack@gentoo.org> (15 May 2008)
 # New beta version of netscape-flash released, masked for testing.
 #-=net-www/netscape-flash-10_beta*
+
+# Tony Vroon <chainsaw@gentoo.org> (08 May 2008)
+# Beta driver, unsupported by nVidia
+-~x11-drivers/nvidia-drivers-173.08
+-~media-video/nvidia-settings-173.08
