@@ -5,7 +5,6 @@
 # USE_EXPAND="VIDEO_CARDS INPUT_DEVICES LINGUAS PALUDIS_HOOKS"
 
 USE="${USE} \
-apm \
 avi \
 berkdb \
 crypt \
@@ -358,6 +357,7 @@ cdrom \
 xtom \
 "
 
+# apm \
 # postgres \
 # mysql mysqli \
 # pike
