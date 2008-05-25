@@ -1,1 +1,2 @@
 VIDEO_CARDS="nv nvidia"
+USE="cg"

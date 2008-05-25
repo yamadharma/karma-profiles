@@ -1,0 +1,4 @@
+USE="fmod \
+jack netjack jackmidi jack-tmpfs \
+"
+

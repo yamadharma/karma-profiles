@@ -1,0 +1,5 @@
+USE="kde \
+kdeenablefinal \
+kdehiddenvisibility kig-scripting akode \
+"
+

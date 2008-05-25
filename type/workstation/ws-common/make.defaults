@@ -42,7 +42,6 @@ cups ppds \
 jbig lcms wmf \
 nptl nptlonly pic \
 foomaticdb \
-kde \
 flac \
 ofx \
 emacs \
@@ -123,7 +122,6 @@ nsplugin  \
 big-tables extraengine geometry utf8 cluster \
 idn \
 xattr \
-kdeenablefinal \
 nautilus t1lib  \
 pccts musicbrainz \
 urandom \
@@ -208,7 +206,6 @@ amr \
 aotuv \
 hpn ares \
 szip ansi hlapi \
-netjack \
 follow-xff underscores \
 sound \
 gconf \
@@ -268,7 +265,7 @@ fontconfig \
 toolkit-scroll-bars xft  gzip-el \
 glib pch qt3support sqlite3 \
 purge \
-daap sdl-image jackmidi \
+daap sdl-image \
 emf lash fluidsynth \
 dvdnav mp2 pnm radio \
 extra-cardsets \
@@ -294,7 +291,6 @@ network-cron \
 gpac \
 mdnsresponder-compat \
 dvi xcomposite \
-kdehiddenvisibility kig-scripting akode \
 amrnb amrwb hdri \
 java5 hyphenation jai \
 ical gammu obex \
@@ -331,7 +327,6 @@ otr asyncns \
 sparse metis supernodal \
 oss alsa \
 lame mp3rtp wavpack \
-jack jack-tmpfs \
 kpathsea tex \
 jadetex tex4ht \
 apisupport cnd harness ide identity j2ee mobility nb profiler soa stableuc uml visualweb \
