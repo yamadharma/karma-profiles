@@ -346,7 +346,6 @@
 # New beta version of netscape-flash released, masked for testing.
 -=net-www/netscape-flash-10_beta*
 
-# Tony Vroon <chainsaw@gentoo.org> (08 May 2008)
-# Beta driver, unsupported by nVidia
--~x11-drivers/nvidia-drivers-173.08
--~media-video/nvidia-settings-173.08
+# Ingmar Vanhassel <ingmar@gentoo.org (25 May 2008)
+# Needs Qt-4.4.0, which is package.mask'ed.
+->=dev-python/PyQt4-4.4.2
