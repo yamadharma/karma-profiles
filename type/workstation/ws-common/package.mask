@@ -354,3 +354,10 @@
 # Beta driver, unsupported by nVidia
 -~x11-drivers/nvidia-drivers-173.08
 -~media-video/nvidia-settings-173.08
+
+# Alexis Ballier <aballier@gentoo.org> (30 Mar 2007)
+# Portaudio v19 : api changes
+->=media-libs/portaudio-19_pre061121
+->=media-sound/jack-audio-connection-kit-0.109.2-r1
+->=media-sound/mixxx-1.6.0_beta2
+->=media-sound/timidity++-2.13.2-r7
