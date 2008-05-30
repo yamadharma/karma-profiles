@@ -350,6 +350,7 @@ hardcoded-tables \
 grammar math ots thesaurus wordperfect \
 cdrom \
 xtom \
+kexi cdf netcdf \
 "
 
 # apm \
