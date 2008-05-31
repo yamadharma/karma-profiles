@@ -8,9 +8,7 @@ media-sound/ardour		sys-libs
 dev-libs/cyrus-sasl		gdbm
 sci-libs/hdf5			mpi
 media-sound/jack-audio-connection-kit	portaudio
-media-sound/timidity++		portaudio
 dev-util/bzr-gtk		libnotify
-
 media-libs/swfdec		oss
 media-sound/amarok		-real
 
