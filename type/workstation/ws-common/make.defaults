@@ -107,7 +107,6 @@ ieee1394 \
 tidy \
 lua \
 nocd \
-mono \
 libgda \
 glibc-omitfp \
 haskell pascal php ada sql \
