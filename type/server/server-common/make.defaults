@@ -141,7 +141,7 @@ cxx \
 regex audit \
 sftp ads \
 policykit portage \
-darcs git gpg \
+gpg \
 file neon \
 log4j servletapi \
 clvm \
