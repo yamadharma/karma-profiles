@@ -1,4 +1,4 @@
 USE="ogre ois devil \
-cegui \
+cegui allegro \
 "
 # allegro
