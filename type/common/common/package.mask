@@ -33,9 +33,6 @@ app-text/ghostscript-esp
 
 =app-portage/gentoolkit-0.2.4_rc4
 
-
-=x11-drivers/xf86-input-evdev-1.99.2
-
 # Unmask
 
 # Diego Pettenò <flameeyes@gentoo.org> (19 Apr 2008)
