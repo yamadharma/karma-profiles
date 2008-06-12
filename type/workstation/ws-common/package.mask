@@ -293,6 +293,11 @@
 -=media-gfx/blender-2.45-r3
 -=x11-misc/xvidcap-1.1.7_rc1
 
+# Samuli Suominen <drac@gentoo.org> (12 Feb 2008)
+# If 0.20 fails with hardmasked ffmpeg snapshot,
+# try this instead.
+-~media-video/ffmpeg2theora-9999
+
 
 # Ben de Groot <yngwin@gentoo.org> (7 Apr 2008)
 # Versioning scheme change after pkgmove from -svn
