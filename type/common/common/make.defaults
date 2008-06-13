@@ -18,6 +18,8 @@ archive \
 aspell \
 pkcs11 libssh2 \
 gnutls \
+sctp \
+inotify \
 "
 
 LINGUAS="ru en"
