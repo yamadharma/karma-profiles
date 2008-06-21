@@ -1,4 +1,5 @@
 USE="ogre ois devil \
 cegui allegro \
+double-precision \
 "
 # allegro
