@@ -17,7 +17,7 @@ tiff \
 ruby \
 slp \
 curl flash xml \
-snmp imap \
+imap \
 perl \
 plotutils \
 acl \

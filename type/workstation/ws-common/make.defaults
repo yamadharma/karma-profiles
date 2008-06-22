@@ -20,7 +20,7 @@ kerberos \
 samba \
 crypt xfs acpi4linux \
 usb tiff doc ruby tcltk slp curl flash xml \
-snmp imap \
+imap \
 tcltk \
 perl plotutils acl \
 innodb ruby \
@@ -350,6 +350,7 @@ cdrom \
 xtom \
 kexi cdf netcdf \
 hyperestraier \
+iceweasel \
 "
 
 # apm \
