@@ -258,7 +258,7 @@
 -=kde-base/phonon-4*
 -=kde-base/plasma-4*
 -=kde-base/poxml-4*
-~kde-base/qimageblitz-0.0.4
+-~kde-base/qimageblitz-0.0.4
 -=kde-base/secpolicy-4*
 -=kde-base/solid-4*
 -=kde-base/soliduiserver-4*

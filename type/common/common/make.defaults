@@ -20,6 +20,7 @@ pkcs11 libssh2 \
 gnutls \
 sctp \
 inotify \
+icu \
 "
 
 LINGUAS="ru en"
