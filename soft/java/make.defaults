@@ -1,0 +1,5 @@
+USE="java java5 java6 \
+javamail jms jmx \
+avalon-framework avalon-logkit \
+"
+

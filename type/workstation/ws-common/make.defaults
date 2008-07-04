@@ -9,7 +9,7 @@ avi \
 berkdb \
 crypt \
 encode gdbm gif gpm gtk gtk2 imlib \
-java libg++ libwww mikmod motif mpeg ncurses nls \
+libg++ libwww mikmod motif mpeg ncurses nls \
 opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl \
 tcpd truetype X xml2 xmms xv zlib \
 ldap \
@@ -288,7 +288,7 @@ gpac \
 mdnsresponder-compat \
 dvi xcomposite \
 amrnb amrwb hdri \
-java5 hyphenation jai \
+hyphenation jai \
 ical gammu obex \
 net qos zero-penalty-hit \
 nfsexport \
@@ -324,8 +324,6 @@ sparse metis supernodal \
 kpathsea tex \
 jadetex tex4ht \
 apisupport cnd harness ide identity j2ee mobility nb profiler soa stableuc uml visualweb \
-javamail jms jmx \
-avalon-framework avalon-logkit \
 htmlhandbook nova fits newxkb \
 vnc \
 R \
