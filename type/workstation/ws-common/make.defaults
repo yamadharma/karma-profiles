@@ -9,7 +9,7 @@ avi \
 berkdb \
 crypt \
 encode gdbm gif gpm gtk gtk2 imlib \
-java libg++ libwww mikmod motif mpeg ncurses nls oggvorbis \
+java libg++ libwww mikmod motif mpeg ncurses nls \
 opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl \
 tcpd truetype X xml2 xmms xv zlib \
 ldap \
@@ -41,7 +41,6 @@ cups ppds \
 jbig lcms \
 nptl nptlonly pic \
 foomaticdb \
-flac \
 ofx \
 emacs \
 xinerama \
@@ -86,12 +85,11 @@ mozilla \
 pcre \
 gtkhtml  \
 auctex \
-mp3 \
 lm_sensors \
 fftw \
 bzip2 ecc \
 sysfs sysvipc  \
-ffmpeg win32codecs vorbis djbfft threads a52 \
+ffmpeg win32codecs djbfft threads a52 \
 sox \
 expat ithreads \
 avalon \
@@ -323,8 +321,6 @@ netpbm umfpack \
 lv2 \
 otr asyncns \
 sparse metis supernodal \
-oss alsa \
-lame mp3rtp wavpack \
 kpathsea tex \
 jadetex tex4ht \
 apisupport cnd harness ide identity j2ee mobility nb profiler soa stableuc uml visualweb \
