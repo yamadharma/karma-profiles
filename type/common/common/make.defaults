@@ -21,6 +21,7 @@ gnutls \
 sctp \
 inotify \
 icu iconv \
+adns \
 "
 
 LINGUAS="ru en"
