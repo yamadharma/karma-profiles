@@ -1,8 +1,9 @@
-USE="fmod \
+USE="\
+oss alsa \
 jack netjack jackmidi jack-tmpfs \
 amarok \
 flac mp3 vorbis oggvorbis wavpack ape \
 lame mp3rtp \
-oss alsa \
+mtp fmod \
 "
 

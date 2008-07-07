@@ -211,7 +211,6 @@ lcd crciprec \
 doomsday \
 xforms \
 gmedia realmedia wmp \
-mtp \
 moznopango \
 stlport bogofilter epeg gpgme hevea obby xapian gsl \
 srt \
