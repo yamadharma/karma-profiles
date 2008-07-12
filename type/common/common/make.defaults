@@ -26,7 +26,12 @@ adns \
 
 LINGUAS="ru en"
 
-FEATURES="sandbox usersandbox userpriv candy -strict prelink confcache parallel-fetch metadata-transfer userfetch"
+FEATURES="\
+sandbox usersandbox \
+userpriv candy prelink confcache parallel-fetch userfetch \
+metadata-transfer \
+-strict \
+"
 
 SEARCH_DIRS="/usr/GNUstep"
 

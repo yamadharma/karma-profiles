@@ -1,4 +1,4 @@
-USE="java java5 java6 \
+USE="java java5 java6 gcj \
 javamail jms jmx \
 avalon-framework avalon-logkit \
 "
