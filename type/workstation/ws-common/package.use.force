@@ -4,3 +4,5 @@ net-libs/libwww		mysql
 =x11-libs/qt-3*		mysql
 #
 media-sound/amarok	mysql
+net-im/skype		qt-static
+
