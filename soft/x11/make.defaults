@@ -1,0 +1,8 @@
+USE="X \
+Xaw3d motif \
+xforms \
+vim-with-x \
+xinerama \
+xprint \
+"
+

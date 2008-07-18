@@ -8,5 +8,9 @@
 ../../../soft/graphics
 ../../../soft/snmp
 ../../../soft/java
+../../../soft/x11
+../../../soft/x11-qt
+../../../soft/mozilla
+../../../soft/tex
 
 

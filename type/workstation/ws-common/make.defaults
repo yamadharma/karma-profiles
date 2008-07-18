@@ -9,9 +9,9 @@ avi \
 berkdb \
 crypt \
 encode gdbm gif gpm gtk gtk2 imlib \
-libg++ libwww mikmod motif mpeg ncurses nls \
+libg++ libwww mikmod mpeg ncurses nls \
 opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl \
-tcpd truetype X xml2 xmms xv zlib \
+tcpd truetype xml2 xmms xv zlib \
 ldap \
 dvd dvdr \
 leim \
@@ -24,15 +24,11 @@ imap \
 tcltk \
 perl plotutils acl \
 innodb ruby \
-mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm \
-mozdom replytolist \
-tetex \
 acpi \
-Xaw3d \
 gnustep \
 faad \
 multimaster \
-vim-with-x cscope \
+cscope \
 gd \
 skey \
 matroska \
@@ -43,7 +39,6 @@ nptl nptlonly pic \
 foomaticdb \
 ofx \
 emacs \
-xinerama \
 v4l v4l2 \
 javascript \
 mad \
@@ -54,7 +49,6 @@ idea \
 caps cap \
 emacs-w3 imlib2 lynxkeymap \
 xvid live divx \
-xprint \
 mailwrapper md5sum \
 ucs2 \
 mmap speex \
@@ -79,9 +73,7 @@ glut \
 cdr nntp \
 fortran \
 sqlite odbc vidix \
-mmx2 \
 dts aac \
-mozilla \
 pcre \
 gtkhtml  \
 auctex \
@@ -175,10 +167,9 @@ junit \
 modplug mplayer rar subtitles vdr openal xosd  \
 xinetd msdfs \
 aio \
-dmi firefox \
+dmi \
 unicode \
 mudflap \
-javacomm  \
 gimp overlays \
 swig \
 bcp bjam pyste \
@@ -209,22 +200,14 @@ objc-gc \
 cern \
 lcd crciprec \
 doomsday \
-xforms \
 gmedia realmedia wmp \
-moznopango \
 stlport bogofilter epeg gpgme hevea obby xapian gsl \
 srt \
 utempter \
 pulseaudio icecast \
 rdesktop \
-qt3 qt4 \
 enca \
 threadsafe \
-arts artswrappersuid  \
-esd \
-ladspa \
-rhythmbox \
-plugins \
 glsa qa  \
 jingle jrtplib ortp gnet sofia-sip \
 libnotify tagwriting  \
@@ -240,7 +223,6 @@ glep \
 numeric \
 addbookmarks alias autoreplace connectionstatus contactnotes highlight history statistics texteffect trnslator webpresence \
 idle trayicon xhtml \
-xulrunner \
 eolconv \
 new-login \
 epydoc \
@@ -304,12 +286,10 @@ aspnet aspnetedit boo \
 nemesi gtksourceview \
 16bit bsf hddtemp \
 solver audit \
-context cyrillic extra games graphics humanities music omega pstricks publishers science xetex lyx \
 wideband \
 espeak html aften \
 sftp ads \
 adf unpaper \
-id3tag soundtouch twolame vamp \
 policykit portage visibility \
 darcs git gpg \
 file neon \
@@ -320,8 +300,6 @@ netpbm umfpack \
 lv2 \
 otr asyncns \
 sparse metis supernodal \
-kpathsea tex \
-jadetex tex4ht \
 apisupport cnd harness ide identity j2ee mobility nb profiler soa stableuc uml visualweb \
 htmlhandbook nova fits newxkb \
 vnc \
@@ -343,7 +321,6 @@ cdrom \
 xtom \
 kexi cdf netcdf \
 hyperestraier \
-iceweasel \
 "
 
 # apm \

@@ -335,7 +335,6 @@
 
 # Temporary mask
 =media-video/gnome-subtitles-0.8
-=app-crypt/seahorse-2.22.3
 
 # Gilles Dartiguelongue <eva@gentoo.org> (24 Jan 2008)
 # add masked gnome-system-tools-2.20 and dependencies

@@ -1,0 +1,9 @@
+USE="\
+mozilla  firefox \
+xulrunner \
+iceweasel \
+mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm \
+mozdom replytolist \
+moznopango \
+"
+

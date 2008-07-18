@@ -13,9 +13,7 @@ media-libs/swfdec		oss
 media-sound/amarok		-real
 
 # Temporary 
-#=net-libs/libsoup-2.2.105-r1	doc
-#=sci-visualization/qtiplot-0.9.4	doc
-
+=x11-libs/pixman-0.11.8		sse2
 app-accessibility/espeak	pulseaudio
 =dev-util/netbeans-6.1*		doc
 
