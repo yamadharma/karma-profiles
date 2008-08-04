@@ -13,7 +13,7 @@ media-libs/swfdec		oss
 media-sound/amarok		-real
 
 # Temporary 
-=x11-libs/pixman-0.11.8		sse2
+#=x11-libs/pixman-0.11.8		sse2
 app-accessibility/espeak	pulseaudio
 =dev-util/netbeans-6.1*		doc
 
