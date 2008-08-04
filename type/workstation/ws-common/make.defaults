@@ -143,7 +143,7 @@ djvu \
 jabber \
 source \
 rhino \
-x264 bl mp4 \
+bl \
 objc++  \
 calendar cddb yaz \
 cgi xmlreader xmlrpc xmlwriter xpm zip hash overload vm-switch pdo reflection \
@@ -202,7 +202,6 @@ lcd crciprec \
 doomsday \
 gmedia realmedia wmp \
 stlport bogofilter epeg gpgme hevea obby xapian gsl \
-srt \
 utempter \
 pulseaudio icecast \
 rdesktop \
