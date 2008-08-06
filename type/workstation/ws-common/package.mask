@@ -333,9 +333,6 @@
 # Development version
 ->=dev-util/gambas-1.9
 
-# Temporary mask
-=media-video/gnome-subtitles-0.8
-
 # Gilles Dartiguelongue <eva@gentoo.org> (24 Jan 2008)
 # add masked gnome-system-tools-2.20 and dependencies
 # for testing purpose
@@ -394,3 +391,15 @@
 # Markus Dittrich <markusle@gentoo.org> (24 Jul 2008)
 # New octave-3 core package. Needs a bit more testing.
 -=sci-mathematics/octave-3*
+
+
+
+
+
+
+
+
+
+# Temporary mask
+=media-video/gnome-subtitles-0.8
+# =dev-libs/rasqal-0.9.16

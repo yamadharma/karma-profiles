@@ -1,1 +1,2 @@
-../../type/server/xen-server--x86_64
+../../type/server/server--x86_64
+../../hw/arch/nocona

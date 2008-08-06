@@ -41,7 +41,7 @@ pg-hier pg-vacuumdelay pg-intdatetime \
 f77 objc \
 idea \
 caps cap \
-emacs-w3 imlib2 lynxkeymap \
+imlib2 lynxkeymap \
 xvid live divx \
 xprint \
 mailwrapper md5sum \
@@ -108,7 +108,6 @@ gmp mhash ming \
 aio \
 javacomm \
 fam memcache webdav overlays \
-emacs \
 tcl \
 bittorrent metalink \
 jce \

@@ -1,6 +1,5 @@
 COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/xen-server--nocona
+PKGDIR=${COMPORTDIR}/packages/server--nocona
 
-CFLAGS="-march=nocona -mtune=nocona -O2 -pipe -mno-tls-direct-seg-refs"
-CXXFLAGS="${CFLAGS}"
+FEATURES="fixpackages"
 
