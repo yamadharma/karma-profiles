@@ -270,7 +270,7 @@ dvi xcomposite \
 amrnb amrwb hdri \
 hyphenation jai \
 ical gammu obex \
-net qos zero-penalty-hit \
+net zero-penalty-hit \
 nfsexport \
 bonjour prediction silc \
 xosd \

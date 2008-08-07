@@ -133,7 +133,7 @@ d \
 network-cron \
 log4j servletapi avalon-framework avalon-logkit javamail jms jmx \
 ioemu pygrub screen \
-qos zero-penalty-hit \
+zero-penalty-hit \
 xcb \
 ctype \
 cxx \

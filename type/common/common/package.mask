@@ -29,11 +29,6 @@ app-text/ghostscript-esp
 ->=dev-libs/nss-3.12_alpha1
 ->=dev-libs/nspr-4.7.1_beta1
 
-# Temporary
-
-=app-portage/gentoolkit-0.2.4_rc4
-=sys-apps/iproute2-2.6.25.20080417
-
 
 # Unmask
 
@@ -57,12 +52,15 @@ app-text/ghostscript-esp
 ->=net-analyzer/nagios-nrpe-2.12-r101
 ->=net-analyzer/nagios-imagepack-1.0-r100
 
-# Doug Goldstein <cardoe@gentoo.org> (16 Nov 2007)
-# new heimdal version that's not too tested
-# anyone looking to take over maintaining heimdal
-# from seemant would make both of us happy
--=app-crypt/heimdal-1.0.1
-
 # Vlastimil Babka <caster@gentoo.org> (20 May 2008)
 # Masked for testing
 -=app-arch/rpm-5*
+
+# Tiziano Müller <dev-zero@gentoo.org> (8 Mar 2008)
+# Mask pre-version
+-=net-fs/samba-3.2*
+
+# Temporary masked
+
+=app-portage/gentoolkit-0.2.4_rc4
+=sys-apps/iproute2-2.6.25.20080417
