@@ -60,6 +60,12 @@ app-text/ghostscript-esp
 # Mask pre-version
 -=net-fs/samba-3.2*
 
+# Jeremy Olexa <darkside@gentoo.org> (20 Jun 2008)
+# Masked for removal in ~30 days by the treecleaners
+# Dead project and predecessor to dev-util/bzr, use that instead. bug #219236
+-dev-util/bazaar
+
+
 # Temporary masked
 
 =app-portage/gentoolkit-0.2.4_rc4
