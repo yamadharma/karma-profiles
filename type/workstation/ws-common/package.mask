@@ -9,9 +9,6 @@
 #
 ->=app-office/dia-0.96_pre3
 #
-->=sys-apps/hal-0.5.9_rc2
-->=app-misc/hal-info-20070326
-#
 -=sci-visualization/gnuplot-4.2*
 #
 ->=net-im/psi-0.11_alpha0

@@ -49,7 +49,6 @@ ucs2 \
 lzw-tiff lzw \
 oav \
 winbind quotas libclamav \
-hal \
 bash-completion \
 fortran \
 dnsdb lmtp exiscan-acl syslog wildlsearch mbox \
