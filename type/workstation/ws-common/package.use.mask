@@ -10,7 +10,6 @@ sci-libs/hdf5			mpi
 media-sound/jack-audio-connection-kit	portaudio
 dev-util/bzr-gtk		libnotify
 media-libs/swfdec		oss
-media-sound/amarok		-real
 
 # Temporary 
 #=x11-libs/pixman-0.11.8		sse2

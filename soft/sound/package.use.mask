@@ -1,3 +1,5 @@
 =media-plugins/audacious-plugins-1.5.1*		mtp
+=media-sound/amarok-1.4.10-r1			real
+
 
 

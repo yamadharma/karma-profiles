@@ -1,5 +1,12 @@
 USE="kde \
 kdeenablefinal \
 kdehiddenvisibility kig-scripting akode \
+htmlhandbook plasma \
+ebook \
+captury \
+semantic-desktop \
+nepomuk \
+cviewer \
 "
+
 

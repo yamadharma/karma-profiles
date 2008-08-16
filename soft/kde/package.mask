@@ -1,0 +1,4 @@
+# Timo Gurr <tgurr@gentoo.org> (22 Feb 2008)
+# Mask KDE4 versions of ktorrent as long as KDE4 is masked.
+->=net-p2p/ktorrent-3.0.0
+
