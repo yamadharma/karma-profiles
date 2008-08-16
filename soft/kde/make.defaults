@@ -7,7 +7,9 @@ captury \
 semantic-desktop \
 nepomuk \
 cviewer \
-kipi \
+kipi \ 
+marble designer-plugin \
+addressbook \
 "
 
 
