@@ -65,6 +65,10 @@ app-text/ghostscript-esp
 # Dead project and predecessor to dev-util/bzr, use that instead. bug #219236
 -dev-util/bazaar
 
+# Marcus D. Hanwell <cryos@gentoo.org> (08 May 2008)
+# Masking new version until it has received a little more testing
+-~dev-util/cmake-2.6.0
+
 
 # Temporary masked
 
