@@ -1,2 +1,4 @@
-USE="xmp jpeg svg wmf jpeg2k"
+USE="xmp jpeg svg wmf jpeg2k \
+exiv2 \
+"
 
