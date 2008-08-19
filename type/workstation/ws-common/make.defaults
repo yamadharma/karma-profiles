@@ -437,3 +437,4 @@ USE_EXPAND="${USE_EXPAND} PALUDIS_HOOKS"
 
 PALUDIS_HOOKS="eselect"
 
+PORTDIR_OVERLAY="/usr/share/portage/local/layman/kdesvn-portage ${PORTDIR_OVERLAY}"
