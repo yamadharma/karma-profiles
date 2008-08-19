@@ -2,6 +2,7 @@ USE="\
 oss alsa \
 jack netjack jackmidi jack-tmpfs \
 amarok \
+cdaudio mp3tunes \
 flac mp3 vorbis oggvorbis wavpack ape \
 lame mp3rtp \
 mtp fmod \
