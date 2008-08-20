@@ -4,5 +4,5 @@
 # This file describes the parent profile to this.  In most cases this will
 # just be the name of the parent directory
 #..
-../../../../../../../share/portage/profiles/default-linux/amd64/2006.1/server
+../../../../../../../portage/profiles/default-linux/amd64/2006.1/server
 ../server-common

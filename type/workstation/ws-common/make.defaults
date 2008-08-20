@@ -376,65 +376,7 @@ hyperestraier \
 # -apache2 
 # ggi
 
-#vLINGUAS="ru"
 LINGUAS="ru en"
 LANGUAGE="RUSS"
-# For gcc (prevent clash with GNUstep)
-LANGUAGES=""
 
-
-#CONFIG_PROTECT_MASK="/etc/gconf /etc/init.d /etc/hotplug"
-
-FEATURES="sandbox usersandbox userpriv candy -strict prelink confcache parallel-fetch metadata-transfer userfetch"
-#sfperms ccache
-
-SEARCH_DIRS="/usr/GNUstep"
-
-#INPUT_DEVICES="input_devices_keyboard input_devices_mouse"
-#VIDEO_CARDS="video_cards_i810 video_cards_nv video_cards_nvidia video_cards_sis"
-
-INPUT_DEVICES="keyboard mouse evdev"
-
-#VIDEO_CARDS="nv nvidia"
-#VIDEO_CARDS="-* nv nvidia"
-#VIDEO_CARDS="i810 nv nvidia"
-#VIDEO_CARDS="i810"
-
-#CAMERAS="canon"
-
-LDFLAGS="${LDFLAGS} -Wl,--hash-style=both"
-
-# use aria2
-#FETCHCOMMAND="/usr/bin/aria2c -s 5 --http-proxy='proxy.sci.pfu.edu.ru:3128' --ftp-via-http-proxy=tunnel \${URI} --dir=\${DISTDIR}"
-#RESUMECOMMAND="/usr/bin/aria2c -s 5 --http-proxy='proxy.sci.pfu.edu.ru:3128' --ftp-via-http-proxy=tunnel \${URI} --dir=\${DISTDIR}"
-
-PORTAGE_ELOG_SYSTEM="save"
-PORTAGE_ELOG_CLASSES="warn error info log"
-
-ELISP_DISABLE_ELC=1
-
-# PORTAGE_DEBUG=1
-
-# Gnustep
-
-USE_EXPAND="${USE_EXPAND} GNUSTEP_LAYOUT"
-
-GNUSTEP_LAYOUT=gnustep
-# GNUSTEP_LAYOUT=fhs-system
-# USE="${USE} non-flattened"
-
-#
-#ALSA_CARDS=""
-
-PORTAGE_NICENESS=5
-PORTAGE_TMPFS="/dev/shm"
-
-LIRC_DEVICES="audio_alsa"
-
-# For paludis
-
-USE_EXPAND="${USE_EXPAND} PALUDIS_HOOKS"
-
-PALUDIS_HOOKS="eselect"
-
-PORTDIR_OVERLAY="/usr/share/portage/local/layman/kdesvn-portage ${PORTDIR_OVERLAY}"
+# PORTDIR_OVERLAY="/usr/share/portage/local/layman/kdesvn-portage ${PORTDIR_OVERLAY}"

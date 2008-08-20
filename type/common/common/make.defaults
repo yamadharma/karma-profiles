@@ -31,20 +31,23 @@ FEATURES="\
 sandbox usersandbox \
 userpriv candy prelink confcache parallel-fetch userfetch \
 metadata-transfer \
+preserve-libs \
 -strict \
 "
 
 SEARCH_DIRS="/usr/GNUstep"
 
-PORTDIR="/usr/share/portage/"
+PORTAGE_TMPDIR=/var/tmp
+
+PORTDIR="/usr/portage/"
 COMPORTDIR="/com/lib/portage/"
 DISTDIR="${COMPORTDIR}/distfiles/"
 PKGDIR="${COMPORTDIR}/packages/"
 PORT_LOGDIR="/var/log/portage/"
 
-#LOCAL_PORTDIR="/usr/share/portage/local/"
+#LOCAL_PORTDIR="/usr/portage/local/"
 
-PORTDIR_OVERLAY="/usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
+PORTDIR_OVERLAY="/usr/portage/local/layman/kdesvn-portage /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 # PORTDIR_OVERLAY="/usr/local/share/portage/local/"
 
 LDFLAGS="${LDFLAGS} -Wl,--hash-style=both"
