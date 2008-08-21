@@ -65,7 +65,13 @@ app-text/ghostscript-esp
 # Masking new version until it has received a little more testing
 -~dev-util/cmake-2.6.0
 
+# Samuli Suominen <drac@gentoo.org> (05 Jun 2008)
+# Masked for testing wrt #163724
+-dev-libs/libffi
+-x11-libs/gtk-server
+-virtual/libffi
 ->=dev-libs/g-wrap-1.9.11
+->=dev-scheme/guile-gnome-platform-2.16.0
 
 # Temporary masked
 
