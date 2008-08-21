@@ -65,6 +65,7 @@ app-text/ghostscript-esp
 # Masking new version until it has received a little more testing
 -~dev-util/cmake-2.6.0
 
+->=dev-libs/g-wrap-1.9.11
 
 # Temporary masked
 
