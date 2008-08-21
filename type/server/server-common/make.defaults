@@ -2,9 +2,9 @@
 # System-wide defaults for the gcc 3.2 Portage system
 
 USE="${USE} \
-apm avi berkdb crypt encode gdbm gif gpm imlib \
-jpeg libg++ libwww mpeg ncurses nls oggvorbis \
-pam pdflib png python qtmt quicktime readline slang spell ssl \
+apm avi berkdb crypt encode gdbm gpm imlib \
+libg++ libwww ncurses nls \
+pam python qtmt readline slang spell ssl \
 tcpd xml2 xmms zlib \
 ldap \
 dvd \
@@ -13,7 +13,6 @@ sasl kerberos \
 samba \
 crypt xfs acpi4linux \
 usb \
-tiff \
 ruby \
 slp \
 curl flash xml \
@@ -23,15 +22,12 @@ plotutils \
 acl \
 innodb \
 ruby \
-mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm \
 acpi \
 multimaster \
 cscope \
-svg \
 gd \
 skey \
-guile xface \
-jbig lcms wmf \
+guile \
 nptl nptlonly pic \
 javascript \
 mad \
@@ -143,7 +139,7 @@ gpg \
 file neon \
 log4j servletapi \
 clvm \
--cups \
+-cups -opengl \
 "
 
 # odbc \
