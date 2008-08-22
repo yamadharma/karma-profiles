@@ -1,5 +1,3 @@
-media-video/totem		nsplugin
-media-video/vlc			nsplugin
 =media-libs/mlt-0.2.2*		mmx
 =dev-lisp/clisp-2.41	postgres
 =kde-base/kicker-3.5.7*		kdehiddenvisibility

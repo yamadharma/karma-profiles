@@ -3,6 +3,7 @@ glade gnomecanvas \
 gnome-print \
 gcdmaster \
 webkit xslt \
+gnomecd \
 "
 # policykit
 

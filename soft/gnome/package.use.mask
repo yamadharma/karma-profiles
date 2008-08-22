@@ -1,1 +1,2 @@
-=gnome-extra/gnome-screensaver-2.23.3	doc
+=gnome-extra/gnome-screensaver-2.23.3		doc
+
