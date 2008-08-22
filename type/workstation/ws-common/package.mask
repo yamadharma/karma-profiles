@@ -297,13 +297,6 @@
 ->=app-crypt/qca-ossl-2.0.0_beta3
 ->=app-crypt/qca-pkcs11-2.0.0_beta2
 
--~media-sound/amarok-1.4.9999
-
-# Stefan Schweizer <genstef@gentoo.org> (1 Apr 2008)
-# New library, API compatibility with evince/xpdf/okular/epdfview needs to be checked first
-->=app-text/poppler-0.8.0
-->=app-text/poppler-bindings-0.8.0
-
 # Steve Dibb <beandog@gentoo.org> (12 Mar 2007)
 # needs testing
 ->=media-video/transcode-1.1.0_alpha4
@@ -319,16 +312,6 @@
 # If 0.20 fails with hardmasked ffmpeg snapshot,
 # try this instead.
 -~media-video/ffmpeg2theora-9999
-
-
-# Ben de Groot <yngwin@gentoo.org> (7 Apr 2008)
-# Versioning scheme change after pkgmove from -svn
-->=media-libs/x264-20000101
-->=media-video/x264-encoder-20000101
-
-# Marius Mauch <genone@gentoo.org> (17 Jan 2006)
-# Development version
-->=dev-util/gambas-1.9
 
 # Gilles Dartiguelongue <eva@gentoo.org> (24 Jan 2008)
 # add masked gnome-system-tools-2.20 and dependencies
@@ -347,18 +330,9 @@
 -=app-admin/keepassx-0.3.0a-r20
 -=app-admin/keepassx-0.3.1-r20
 
-# Jim Ramsay <lack@gentoo.org> (15 May 2008)
-# New beta version of netscape-flash released, masked for testing.
--=net-www/netscape-flash-10_beta*
-
 # Ingmar Vanhassel <ingmar@gentoo.org (25 May 2008)
 # Needs Qt-4.4.0, which is package.mask'ed.
 ->=dev-python/PyQt4-4.4.2
-
-# Tony Vroon <chainsaw@gentoo.org> (08 May 2008)
-# Beta driver, unsupported by nVidia
--~x11-drivers/nvidia-drivers-173.08
--~media-video/nvidia-settings-173.08
 
 # Alexis Ballier <aballier@gentoo.org> (30 Mar 2007)
 # Portaudio v19 : api changes
@@ -391,10 +365,6 @@
 -games-fps/quake4-data
 -games-fps/quake4-deltactf
 -games-fps/quake4-demo
-
-
-
-
 
 
 
