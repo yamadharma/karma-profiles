@@ -134,7 +134,7 @@ ctype \
 cxx \
 regex audit \
 sftp ads \
-policykit portage \
+portage \
 gpg \
 file neon \
 log4j servletapi \
