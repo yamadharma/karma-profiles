@@ -301,13 +301,6 @@
 # needs testing
 ->=media-video/transcode-1.1.0_alpha4
 
-# Luca Barbato <lu_zero@gentoo.org> (26 Mar 2008)
-# huge ffmpeg migration mask, append to this further packages working
-# with the new include layout
-->=media-video/ffmpeg-0.4.9_p20080206
--=media-gfx/blender-2.45-r3
--=x11-misc/xvidcap-1.1.7_rc1
-
 # Samuli Suominen <drac@gentoo.org> (12 Feb 2008)
 # If 0.20 fails with hardmasked ffmpeg snapshot,
 # try this instead.
