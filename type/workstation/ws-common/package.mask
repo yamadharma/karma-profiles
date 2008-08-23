@@ -367,7 +367,7 @@
 -games-fps/quake4-demo
 
 
-
+#
 # Temporary mask
 =media-video/gnome-subtitles-0.8
 # =dev-libs/rasqal-0.9.16

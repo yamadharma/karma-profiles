@@ -380,4 +380,4 @@ gecko \
 LINGUAS="ru en"
 LANGUAGE="RUSS"
 
-# PORTDIR_OVERLAY="/usr/share/portage/local/layman/kdesvn-portage ${PORTDIR_OVERLAY}"
+
