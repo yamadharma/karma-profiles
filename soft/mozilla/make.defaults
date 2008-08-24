@@ -1,5 +1,6 @@
 USE="\
 mozilla  firefox \
+firefox3 \
 xulrunner \
 iceweasel \
 mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm \
