@@ -2,8 +2,9 @@ USE="gnome gnome-keyring \
 glade gnomecanvas \
 gnome-print \
 gcdmaster \
-webkit xslt \
+xslt \
 gnomecd \
 "
+# webkit
 # policykit
 

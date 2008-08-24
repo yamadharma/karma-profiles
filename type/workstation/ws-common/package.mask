@@ -297,10 +297,6 @@
 ->=app-crypt/qca-ossl-2.0.0_beta3
 ->=app-crypt/qca-pkcs11-2.0.0_beta2
 
-# Steve Dibb <beandog@gentoo.org> (12 Mar 2007)
-# needs testing
-->=media-video/transcode-1.1.0_alpha4
-
 # Samuli Suominen <drac@gentoo.org> (12 Feb 2008)
 # If 0.20 fails with hardmasked ffmpeg snapshot,
 # try this instead.
