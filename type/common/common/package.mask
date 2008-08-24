@@ -73,6 +73,10 @@ app-text/ghostscript-esp
 ->=dev-libs/g-wrap-1.9.11
 ->=dev-scheme/guile-gnome-platform-2.16.0
 
+# Peter Volkov <pva@gentoo.org> (23 Aug 2008)
+# Masking release candidate
+-=dev-util/bzr-1.6_rc5
+
 # Temporary masked
 
 =app-portage/gentoolkit-0.2.4_rc4
