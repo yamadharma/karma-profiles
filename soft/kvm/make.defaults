@@ -1,4 +1,5 @@
 USE="\
+kvm \
 vde \
 "
 # havekernel \
