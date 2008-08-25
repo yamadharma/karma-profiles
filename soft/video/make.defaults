@@ -1,6 +1,7 @@
 USE="\
 ogm mp4 \
-srt \
+srt libass \
 x264 \
+dirac schroedinger \
 "
 

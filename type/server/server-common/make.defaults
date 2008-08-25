@@ -85,7 +85,6 @@ tools \
 unicode \
 blas hdf hdf5 \
 diet \
-truetype \
 objc++ \
 yaz \
 cgi xmlreader xmlrpc xmlwriter xpm zip hash overload vm-switch pdo reflection \
