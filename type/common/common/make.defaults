@@ -2,7 +2,7 @@ USE="\
 openmp \
 evms2 \
 afs \
-cman lvm2 \
+cman lvm lvm2 parted \
 nptl \
 libgcrypt \
 m17n-lib \
