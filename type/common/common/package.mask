@@ -73,12 +73,6 @@ app-text/ghostscript-esp
 ->=dev-libs/g-wrap-1.9.11
 ->=dev-scheme/guile-gnome-platform-2.16.0
 
-# Stefaan De Roeck <stefaan@gentoo.org> (09 Sep 2006)
-# 1.5.x is a development branch, people should test 1.4.x by default
--=net-fs/openafs-1.5*
--=net-fs/openafs-kernel-1.5*
-
-
 # Temporary masked
 
 =app-portage/gentoolkit-0.2.4_rc4
