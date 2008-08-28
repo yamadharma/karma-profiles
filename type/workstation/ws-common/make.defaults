@@ -98,7 +98,7 @@ lua \
 nocd \
 libgda \
 glibc-omitfp \
-haskell pascal php ada sql \
+haskell pascal php sql \
 7zip editor serial \
 sensord rrdtool \
 clisp \
