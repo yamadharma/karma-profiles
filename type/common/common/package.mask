@@ -73,7 +73,9 @@ app-text/ghostscript-esp
 ->=dev-libs/g-wrap-1.9.11
 ->=dev-scheme/guile-gnome-platform-2.16.0
 
-# Temporary masked
+# Marcus D. Hanwell <cryos@gentoo.org> (08 May 2008)
+# Timo Gurr <tgurr@gentoo.org> (27 Aug 2008) [updated to add 2.6.1]
+# Masking new version until it has received a little more testing
+-~dev-util/cmake-2.6.0
+-~dev-util/cmake-2.6.1
 
-=app-portage/gentoolkit-0.2.4_rc4
-=sys-apps/iproute2-2.6.25.20080417

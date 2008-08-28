@@ -25,6 +25,7 @@ adns \
 hal dbus \
 gcj \
 hdb-ldap otp pkinit \
+geoip \
 "
 
 LINGUAS="ru en"

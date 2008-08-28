@@ -1,2 +1,4 @@
-USE="php"
+USE="php \
+ctype pcre session unicode \
+"
 
