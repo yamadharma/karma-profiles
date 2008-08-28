@@ -53,7 +53,7 @@ PORT_LOGDIR="/var/log/portage/"
 PORTDIR_OVERLAY="\
 /usr/portage/local/layman/kdesvn-portage \
 /usr/portage/local/layman/gnome \
-/usr/portage/local/layman/science \
+/usr/portage/local/layman/science/overlay \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
 
