@@ -50,10 +50,12 @@ PORT_LOGDIR="/var/log/portage/"
 
 #LOCAL_PORTDIR="/usr/portage/local/"
 
+LAYMAN_DIR="/usr/portage/local/layman"
+
 PORTDIR_OVERLAY="\
-/usr/portage/local/layman/kdesvn-portage \
-/usr/portage/local/layman/gnome \
-/usr/portage/local/layman/science/overlay \
+${LAYMAN_DIR}/kdesvn-portage \
+${LAYMAN_DIR}/gnome \
+${LAYMAN_DIR}/science \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
 
