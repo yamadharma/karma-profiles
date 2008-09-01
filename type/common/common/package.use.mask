@@ -14,11 +14,6 @@ dev-util/bzr-gtk		libnotify
 dev-libs/openssl		kerberos
 # net-fs/nfs-utils		kerberos
 app-editors/emacs-cvs		kerberos
-# GCJ
-#sys-libs/db			java
-#dev-libs/cyrus-sasl		java
-#dev-java/xmlgraphics-commons	jpeg
-#net-dns/libidn			java
 #{{{ rpm-5
 =net-analyzer/net-snmp-5.4*	rpm
 #}}}

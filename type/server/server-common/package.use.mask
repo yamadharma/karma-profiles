@@ -1,5 +1,5 @@
-net-dns/bind			berkdb
-sys-libs/db			java
-dev-libs/cyrus-sasl		java
+# net-dns/bind			berkdb
+# sys-libs/db			java
+# dev-libs/cyrus-sasl		java
 
 
