@@ -1,1 +1,4 @@
-USE="ssse3 hvm"
+USE="\
+mmx mmx2 mmxext sse sse2 \
+ssse3 hvm \
+"

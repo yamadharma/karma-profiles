@@ -1,4 +1,6 @@
 USE="\
 xen \
+acm flask xsm \
+server \
 "
 

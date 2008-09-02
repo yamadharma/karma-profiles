@@ -1,5 +1,7 @@
 USE="\
 kvm \
 vde \
+vnc \
+server \
 "
 # havekernel \
