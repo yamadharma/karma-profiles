@@ -8,3 +8,4 @@
 ->=virtual/emacs-23
 #
 =app-portage/eix-0.10.2
+>=sys-fs/udev-126
