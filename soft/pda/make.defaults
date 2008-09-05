@@ -1,0 +1,7 @@
+USE="\
+irda irmc \
+obex http \
+gnokii \
+nokia6600 \
+"
+
