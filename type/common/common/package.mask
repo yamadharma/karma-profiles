@@ -86,3 +86,7 @@ app-text/ghostscript-esp
 # to send me patches or help me fix it. If that doesn't sound like you, this
 # software is not yet ready for you. Thanks.
 -~net-misc/dhcp-4.0.0
+
+# Doug Goldstein <cardoe@gentoo.org> (12 Aug 2008)
+# development versions of cairo
+->=x11-libs/cairo-1.7.0
