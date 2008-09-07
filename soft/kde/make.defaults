@@ -11,7 +11,7 @@ cviewer \
 kipi \ 
 marble designer-plugin \
 addressbook \
-clucene \
+clucene redland sesame2 \
 "
 
 
