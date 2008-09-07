@@ -114,6 +114,11 @@
 -games-fps/quake4-demo
 
 
+# Andreas Proschofsky <suka@gentoo.org> (22 Aug 2008)
+# Beta release, still got some issues
+->=app-office/openoffice-3.0.0_beta2
+
+
 #
 # Temporary mask
 =media-video/gnome-subtitles-0.8
