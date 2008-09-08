@@ -1,2 +1,4 @@
-USE="laptop pcmcia wifi bluetooth"
+USE="\
+laptop pcmcia wifi bluetooth \
+"
 
