@@ -3,5 +3,6 @@ kpathsea tex \
 jadetex tex4ht \
 context cyrillic extra games graphics humanities music omega pstricks publishers science xetex lyx \
 tetex \
+lua \
 "
 
