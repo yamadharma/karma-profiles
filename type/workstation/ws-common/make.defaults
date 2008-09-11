@@ -320,6 +320,7 @@ xtom \
 kexi cdf netcdf \
 hyperestraier \
 gecko \
+contrib \
 "
 
 # apm \
