@@ -2,3 +2,7 @@
 # Mask KDE4 versions of ktorrent as long as KDE4 is masked.
 ->=net-p2p/ktorrent-3.0.0
 -~kde-base/qimageblitz-0.0.4
+
+
+# Temporary
+=kde-base/automoc-0.9.87
