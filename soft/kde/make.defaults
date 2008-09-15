@@ -1,10 +1,11 @@
 USE="\
-logitech-mouse \
-qt4 \
 kde \
+qt3 \
+logitech-mouse \
 kdeenablefinal \
 kdehiddenvisibility kig-scripting akode \
 htmlhandbook plasma \
+qt4 \
 ebook \
 captury \
 semantic-desktop \
