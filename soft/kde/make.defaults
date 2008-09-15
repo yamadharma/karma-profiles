@@ -1,4 +1,6 @@
-USE="qt4 \
+USE="\
+logitech-mouse \
+qt4 \
 kde \
 kdeenablefinal \
 kdehiddenvisibility kig-scripting akode \
