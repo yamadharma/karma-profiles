@@ -14,8 +14,8 @@ dev-util/bzr-gtk		libnotify
 dev-libs/openssl		kerberos
 # net-fs/nfs-utils		kerberos
 app-editors/emacs-cvs		kerberos
-#{{{ rpm-5
-=net-analyzer/net-snmp-5.4*	rpm
+#{{{ snmp
+=net-analyzer/net-snmp-5.4*	rpm ipv6 perl
 #}}}
 sci-physics/root 		mysql kerberos afs
 =net-fs/autofs-5.0.3*		sasl
