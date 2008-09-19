@@ -5,4 +5,4 @@
 
 
 # Temporary
-=kde-base/automoc-0.9.87
+#=kde-base/automoc-0.9.87
