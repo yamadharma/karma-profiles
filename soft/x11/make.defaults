@@ -1,9 +1,11 @@
-USE="X \
+USE="\
+X \
 Xaw3d motif \
 xforms \
 vim-with-x \
 xinerama \
 xprint \
 paste64 \
+xrandr \
 "
 

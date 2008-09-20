@@ -1,0 +1,2 @@
+# for x11-misc/google-gadgets
+net-misc/curl 						ssl -gnutls -nss
