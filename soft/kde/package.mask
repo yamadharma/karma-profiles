@@ -4,5 +4,3 @@
 -~kde-base/qimageblitz-0.0.4
 
 
-# Temporary
-#=kde-base/automoc-0.9.87
