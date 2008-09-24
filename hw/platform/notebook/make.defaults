@@ -2,3 +2,4 @@ USE="\
 laptop pcmcia wifi bluetooth \
 "
 
+INPUT_DEVICES="${INPUT_DEVICES} synaptics"
