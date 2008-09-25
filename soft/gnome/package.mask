@@ -1,0 +1,7 @@
+# Mart Raudsepp <leio@gentoo.org> (25 Sep 2008)
+# Temporarily masked for build testing library users first
+# and to get gtk+ and gail to ~arch at the same time for
+# a clean migration on upgrade
+->=dev-libs/glib-2.18
+->=x11-libs/gtk+-2.14
+->=gnome-base/gail-1000
