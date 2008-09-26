@@ -1,4 +1,5 @@
-x11-themes/qtcurve-qt4				-kde
-=app-editors/yzis-9999				kde
-=kde-base/kget-4.1.67				bittorrent
+x11-themes/qtcurve-qt4						-kde
+=app-editors/yzis-9999						kde
+=kde-base/kget-4.1.67						bittorrent
+kde-base/kdelibs						doc
 
