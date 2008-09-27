@@ -3,4 +3,4 @@
 ->=net-p2p/ktorrent-3.0.0
 -~kde-base/qimageblitz-0.0.4
 
-
+-=kde-misc/yakuake-2.9*
