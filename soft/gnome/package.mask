@@ -1,7 +1,24 @@
 # Mart Raudsepp <leio@gentoo.org> (25 Sep 2008)
 # Temporarily masked for build testing library users first
-# and to get gtk+ and gail to ~arch at the same time for
-# a clean migration on upgrade
+# and to get gtk+, gail and libgnomeui to ~arch at the same
+# time for a clean migration on upgrade
 ->=dev-libs/glib-2.18
 ->=x11-libs/gtk+-2.14
 ->=gnome-base/gail-1000
+->=dev-util/intltool-0.40
+->=gnome-base/libgnomeui-2.24
+
+# Gilles Dartiguelongue <eva@gentoo.org> (27 Sep 2008)
+# GNOME 2.24 mask being (and related)
+->=net-irc/xchat-gnome-0.24.0
+# GNOME 2.24 mask end
+
+# Doug Goldstein <cardoe@gentoo.org> (30 Jul 2008)
+# mask development version
+->=media-libs/swfdec-0.7.0
+->=net-www/swfdec-mozilla-0.7.0
+->=gnome-extra/swfdec-gnome-2.23
+
+# Michael Sterrett <mr_bones_@gentoo.org> (23 Jun 2008)
+# Now a part of gnome-games
+-games-board/glchess
