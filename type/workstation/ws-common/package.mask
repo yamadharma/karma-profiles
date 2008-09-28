@@ -123,5 +123,5 @@
 # Temporary mask
 =media-video/gnome-subtitles-0.8
 # =dev-libs/rasqal-0.9.16
-=app-office/openoffice-3.0.0_rc2
+# =app-office/openoffice-3.0.0_rc2
 
