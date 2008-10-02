@@ -1,6 +1,6 @@
 x11-themes/qtcurve-qt4						-kde
 =app-editors/yzis-9999						kde
-=kde-base/kget-4.1.67						bittorrent
+=kde-base/kget-4.1.68						bittorrent
 kde-base/kdelibs						doc
 =app-cdr/k3b-2.0_pre20080904					ffmpeg
 
