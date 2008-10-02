@@ -4,3 +4,8 @@
 -~kde-base/qimageblitz-0.0.4
 
 -=kde-misc/yakuake-2.9*
+-=kde-misc/yakuake-2.9.3
+-=net-wireless/kdebluetooth4-0.2
+-=kde-misc/krename-3.9.1
+-=kde-misc/krusader-2.0.0_beta1
+
