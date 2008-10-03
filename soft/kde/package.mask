@@ -8,4 +8,4 @@
 -=net-wireless/kdebluetooth4-0.2
 -=kde-misc/krename-3.9.1
 -=kde-misc/krusader-2.0.0_beta1
-
+-=x11-themes/gtk-engines-qt-1.1
