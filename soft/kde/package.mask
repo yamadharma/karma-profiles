@@ -4,12 +4,13 @@
 -~kde-base/qimageblitz-0.0.4
 
 -=kde-misc/yakuake-2.9*
--=kde-misc/yakuake-2.9.3
--=net-wireless/kdebluetooth4-0.2
--=kde-misc/krename-3.9.1
--=kde-misc/krusader-2.0.0_beta1
--=x11-themes/gtk-engines-qt-1.1
--=media-sound/amarok-1.90
--=media-video/kmplayer-0.11.0_rc4
--=media-video/mplayerthumbs-1.1
--=dev-libs/soprano-2.1
+-~kde-misc/yakuake-2.9.3
+-~net-wireless/kdebluetooth4-0.2
+-~kde-misc/krename-3.9.1
+-~kde-misc/krusader-2.0.0_beta1
+-~x11-themes/gtk-engines-qt-1.1
+-~media-sound/amarok-1.90
+-~media-video/kmplayer-0.11.0_rc4
+-~media-video/mplayerthumbs-1.1
+-~dev-libs/soprano-2.1
+
