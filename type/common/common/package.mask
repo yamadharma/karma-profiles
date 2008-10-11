@@ -99,3 +99,7 @@ app-text/ghostscript-esp
 # Go fix it.
 -=app-text/poppler-0.9*
 -=app-text/poppler-bindings-0.9*
+
+# Peter Volkov <pva@gentoo.org> (17 Sep 2008)
+# Development version, but yet nice :)
+-=net-analyzer/wireshark-1.1*
