@@ -103,3 +103,6 @@ app-text/ghostscript-esp
 # Peter Volkov <pva@gentoo.org> (17 Sep 2008)
 # Development version, but yet nice :)
 -=net-analyzer/wireshark-1.1*
+
+# Compat break
+=dev-lang/lua-5.1.4-r1
