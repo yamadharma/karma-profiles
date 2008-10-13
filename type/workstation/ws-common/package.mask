@@ -118,13 +118,6 @@
 # Beta release, still got some issues
 ->=app-office/openoffice-3.0.0_beta2
 
-# Saleem Abdulrasool <compnerd@gentoo.org> (26 Sep 2008)
-# temporarily mask to prevent things from breaking
-->=x11-libs/pango-1.22.0
-->=app-text/poppler-0.9.2
-->=app-text/poppler-bindings-0.9.2
-
-
 #
 # Temporary mask
 =media-video/gnome-subtitles-0.8
