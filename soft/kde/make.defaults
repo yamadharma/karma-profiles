@@ -15,6 +15,7 @@ kipi \
 marble designer-plugin \
 addressbook \
 clucene redland sesame2 \
-"
+kdeprefix \
+" 
 
 

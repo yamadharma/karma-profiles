@@ -1,2 +1,3 @@
 media-video/totem				nsplugin
 media-video/vlc					nsplugin
+media-libs/mlt					qt3
