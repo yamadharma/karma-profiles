@@ -3,5 +3,6 @@ javamail jms jmx \
 avalon-framework avalon-logkit \
 javacomm \
 xmldoclet \
+cacao shark zero \
 "
 
