@@ -1,2 +1,4 @@
-media-video/vlc			win32codecs
+media-video/vlc						win32codecs
+media-gfx/pstoedit					emf
+
 
