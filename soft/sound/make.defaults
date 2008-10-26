@@ -12,5 +12,6 @@ ladspa \
 rhythmbox \
 plugins \
 scrobbler \
+aplay \
 "
 # arts artswrappersuid  \
