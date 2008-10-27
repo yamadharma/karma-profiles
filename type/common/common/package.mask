@@ -99,4 +99,5 @@ app-text/ghostscript-esp
 =dev-lang/lua-5.1.4-r1
 
 =sys-fs/e2fsprogs-1.41.3
+=sys-libs/e2fsprogs-libs-1.41.3
 
