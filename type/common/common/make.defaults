@@ -26,6 +26,7 @@ hal dbus \
 gcj \
 hdb-ldap otp pkinit \
 geoip \
+pyx \
 "
 
 LINGUAS="ru en"

@@ -1,4 +1,5 @@
 USE="\
 fortran95 \
+numeric numarray \
 "
 

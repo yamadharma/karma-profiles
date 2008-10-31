@@ -95,6 +95,10 @@ app-text/ghostscript-esp
 # Development version, but yet nice :)
 -=net-analyzer/wireshark-1.1*
 
+# Colin Kingsley <tercel@gentoo.org> (24 Jun 2006)
+# Masked for testing
+-=dev-python/visual-4*
+
 # Compat break
 =dev-lang/lua-5.1.4-r1
 
