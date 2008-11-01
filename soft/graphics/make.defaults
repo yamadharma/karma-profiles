@@ -5,5 +5,6 @@ cairo \
 cgraph \
 graphviz imagemagick \
 gnuplot visual \
+metric \
 "
 
