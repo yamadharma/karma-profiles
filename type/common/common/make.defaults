@@ -54,12 +54,13 @@ PORT_LOGDIR="/var/log/portage/"
 LAYMAN_DIR="/usr/portage/local/layman"
 
 PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/kdesvn-portage \
+${LAYMAN_DIR}/kde-crazy \
 ${LAYMAN_DIR}/gnome \
 ${LAYMAN_DIR}/science \
 ${LAYMAN_DIR}/java-overlay \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
+# ${LAYMAN_DIR}/kdesvn-portage \
 
 # PORTDIR_OVERLAY="/usr/local/share/portage/local/"
 

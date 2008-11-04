@@ -14,7 +14,3 @@
 -~media-video/mplayerthumbs-1.1
 -~dev-libs/soprano-2.1
 
-# Jorge Manuel B. S. Vicetto <jmbsvicetto@gentoo.org> (15 Oct 2008)
-# Beta release
-->=kde-misc/krusader-2.0.0_beta1
-

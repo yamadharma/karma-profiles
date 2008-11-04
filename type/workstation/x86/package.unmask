@@ -1,12 +1,1 @@
-app-admin/eselect-blas
-app-admin/eselect-cblas
-app-admin/eselect-lapack
-sci-libs/blas-atlas
-sci-libs/blas-reference
-sci-libs/cblas-reference
-sci-libs/lapack-reference
-sci-libs/acml
-sci-libs/lapack-atlas
-sci-libs/mkl
-
-
+../ws-common/package.unmask
