@@ -259,7 +259,7 @@ hardware-carrier transmitter \
 sbcl ldb new-clx \
 maps hipe kpoll smp \
 sys-libs tracker \
-newspr networkmanager \
+newspr \
 qt-copy pertty transparency \
 network-cron \
 gpac \

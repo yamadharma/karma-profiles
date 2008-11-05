@@ -22,3 +22,9 @@
 # Michael Sterrett <mr_bones_@gentoo.org> (23 Jun 2008)
 # Now a part of gnome-games
 -games-board/glchess
+
+# Saleem Abdulrasool <compnerd@gentoo.org> (23 Nov 2007)
+# These might break automounting, so keep them masked for now.
+->=sys-auth/policykit-0.6
+->=gnome-base/gnome-mount-0.7
+->=gnome-extra/policykit-gnome-0.6

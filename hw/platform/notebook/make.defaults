@@ -1,5 +1,6 @@
 USE="\
 laptop pcmcia wifi bluetooth \
+networkmanager \
 "
 
 INPUT_DEVICES="${INPUT_DEVICES} synaptics"
