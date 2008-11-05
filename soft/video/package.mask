@@ -1,0 +1,5 @@
+# Steve Dibb <beandog@gentoo.org> (5 Nov 2008)
+# Mask realplayer, real codecs for security, upstream issues, bug 245662
+-media-video/realplayer
+-media-libs/amd64codecs
+-media-libs/realcodecs
