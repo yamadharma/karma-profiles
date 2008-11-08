@@ -14,3 +14,7 @@
 -~media-video/mplayerthumbs-1.1
 -~dev-libs/soprano-2.1
 
+->=dev-db/mysql-community-5.1
+#>=virtual/mysql-5.1
+
+
