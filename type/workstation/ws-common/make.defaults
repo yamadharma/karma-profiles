@@ -316,7 +316,7 @@ hardcoded-tables \
 grammar math ots thesaurus wordperfect \
 cdrom \
 xtom \
-kexi cdf netcdf \
+cdf netcdf \
 hyperestraier \
 gecko \
 contrib \
