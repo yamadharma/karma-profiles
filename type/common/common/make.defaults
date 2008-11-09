@@ -58,6 +58,7 @@ ${LAYMAN_DIR}/kde-crazy \
 ${LAYMAN_DIR}/gnome \
 ${LAYMAN_DIR}/science \
 ${LAYMAN_DIR}/java-overlay \
+${LAYMAN_DIR}/haskell \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
 # ${LAYMAN_DIR}/kdesvn-portage \
