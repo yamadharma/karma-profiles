@@ -1,2 +1,4 @@
-USE="mysql mysqli"
+USE="mysql mysqli \
+pbxt \
+"
 
