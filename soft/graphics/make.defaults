@@ -3,7 +3,7 @@ exiv2 \
 raw \
 cairo \
 cgraph \
-graphviz imagemagick \
+graphviz dot imagemagick \
 gnuplot visual \
 metric \
 "
