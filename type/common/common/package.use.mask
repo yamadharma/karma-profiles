@@ -15,8 +15,8 @@ dev-libs/openssl		kerberos
 # net-fs/nfs-utils		kerberos
 app-editors/emacs-cvs		kerberos
 #{{{ snmp
-#=net-analyzer/net-snmp-5.4*	rpm ipv6 perl
-=net-analyzer/net-snmp-5.4*	ipv6 perl
+#=net-analyzer/net-snmp-5.4.1*	ipv6 perl
+=net-analyzer/net-snmp-5.4.2*	rpm ipv6 perl
 #}}}
 sci-physics/root 		mysql kerberos afs
 =net-fs/autofs-5.0.3*		sasl

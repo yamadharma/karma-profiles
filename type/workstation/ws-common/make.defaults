@@ -320,6 +320,7 @@ cdf netcdf \
 hyperestraier \
 gecko \
 contrib \
+nss dhclient dhcpcd resolvconf \
 "
 
 # apm \

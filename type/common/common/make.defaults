@@ -27,6 +27,7 @@ gcj \
 hdb-ldap otp pkinit \
 geoip \
 pyx \
+ntp \
 "
 
 LINGUAS="ru en"
