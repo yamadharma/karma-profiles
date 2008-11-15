@@ -2,3 +2,6 @@ USE="\
 mmx mmx2 mmxext sse sse2 \
 ssse3 hvm \
 "
+
+CFLAGS="-march=prescott -mtune=prescott -O2 -pipe -fomit-frame-pointer"
+CXXFLAGS="${CFLAGS}"
