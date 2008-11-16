@@ -381,4 +381,3 @@ nss dhclient dhcpcd resolvconf \
 LINGUAS="ru en"
 LANGUAGE="RUSS"
 
-
