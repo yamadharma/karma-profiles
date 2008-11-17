@@ -320,9 +320,10 @@ cdf netcdf \
 hyperestraier \
 gecko \
 contrib \
-nss dhclient dhcpcd resolvconf \
+nss dhclient dhcpcd \
 "
 
+# resolvconf
 # apm \
 # postgres \
 # mysql mysqli \
