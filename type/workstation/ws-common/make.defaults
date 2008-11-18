@@ -321,6 +321,7 @@ hyperestraier \
 gecko \
 contrib \
 nss dhclient dhcpcd \
+monolithic-build \
 "
 
 # resolvconf
