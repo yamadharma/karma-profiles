@@ -163,7 +163,7 @@ sou hou nowin \
 startup-notification pango \
 gmp bonobo mhash ming cdb  \
 junit \
-modplug mplayer rar subtitles vdr openal xosd  \
+modplug mplayer rar subtitles vdr xosd  \
 xinetd msdfs \
 aio \
 dmi \

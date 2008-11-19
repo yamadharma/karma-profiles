@@ -13,6 +13,7 @@ rhythmbox \
 plugins \
 scrobbler \
 aplay \
+openal \
 shorten \
 mac \
 "
