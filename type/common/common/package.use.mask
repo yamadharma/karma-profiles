@@ -22,10 +22,6 @@ sci-physics/root 		mysql kerberos afs
 =net-fs/autofs-5.0.3*		sasl
 dev-util/subversion		ruby
 dev-libs/cyrus-sasl		postgres
-# Java
-dev-java/blackdown-jdk		doc
-=dev-java/sun-jdk-1.4*		doc
-=dev-java/sun-jdk-1.5*		doc
 # kde-misc/tellico		yaz
 #
 net-analyzer/flow-tools		postgres

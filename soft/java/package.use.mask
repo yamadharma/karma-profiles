@@ -1,2 +1,6 @@
 =dev-java/batik-1.6*						tcl
 # dev-java/eclipse-ecj:3.3					gcj
+dev-java/blackdown-jdk						doc
+dev-java/sun-jdk						doc
+
+
