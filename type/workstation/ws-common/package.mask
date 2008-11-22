@@ -113,14 +113,10 @@
 -games-fps/quake4-deltactf
 -games-fps/quake4-demo
 
+-=net-www/netscape-flash-10.0.20.7_alpha
 
-# Andreas Proschofsky <suka@gentoo.org> (22 Aug 2008)
-# Beta release, still got some issues
-->=app-office/openoffice-3.0.0_beta2
 
 #
 # Temporary mask
 =media-video/gnome-subtitles-0.8
-# =dev-libs/rasqal-0.9.16
-# =app-office/openoffice-3.0.0_rc2
 

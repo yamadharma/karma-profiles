@@ -1,5 +1,6 @@
 USE="\
 kde \
+kde4 \
 qt3 \
 logitech-mouse \
 kdeenablefinal \

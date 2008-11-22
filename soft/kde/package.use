@@ -1,3 +1,5 @@
-dev-db/mysql-community							embedded -minimal
+dev-db/mysql-community						embedded -minimal
+x11-wm/compiz-fusion						-kde
+x11-wm/compiz							-kde -kde4
 
 

@@ -19,3 +19,6 @@
 =dev-db/mysql-community-5.1.21*
 
 
+# Testing
+=kde-base/kontact-specialdates-4.1.80
+=kde-base/kscd-4.1.80
