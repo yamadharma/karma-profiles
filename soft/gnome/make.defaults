@@ -4,6 +4,7 @@ gnome-print \
 gcdmaster \
 xslt \
 gnomecd \
+webkit \
 "
 # webkit
 # policykit
