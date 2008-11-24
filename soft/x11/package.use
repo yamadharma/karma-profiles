@@ -1,2 +1,5 @@
 x11-apps/xneur						-aplay -gstreamer -openal
 x11-wm/compiz-fusion					unsupported
+# Cairo-dock
+x11-misc/cairo-dock-themes				Brit Clear MacOSX Neon2 Wood
+x11-misc/cairo-dock-plugins				plugins_Cairo-Penguin plugins_Dbus plugins_Xgamma plugins_alsaMixer plugins_clock plugins_compiz-icon plugins_cpusage plugins_dustbin plugins_gauge-test plugins_gnome-integration plugins_gnome-integration-old plugins_logout plugins_mail plugins_musicPlayer plugins_musicplayer plugins_nVidia plugins_netspeed plugins_powermanager plugins_rame plugins_rendering plugins_rhythmbox plugins_shortcuts plugins_showDesklets plugins_showDesktop plugins_switcher plugins_systray plugins_terminal plugins_tomboy plugins_weather plugins_wifi
