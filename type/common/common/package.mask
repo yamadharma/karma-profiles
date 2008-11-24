@@ -99,5 +99,8 @@ app-text/ghostscript-esp
 # Masked for testing
 -=dev-python/visual-4*
 
+->=sys-apps/portage-2.2_pre
+
 # Compat break
 =dev-lang/lua-5.1.4-r1
+
