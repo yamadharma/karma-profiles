@@ -17,6 +17,7 @@ marble designer-plugin \
 addressbook \
 clucene redland sesame2 \
 kdeprefix \
+webkit \
 " 
 # google-gadgets
 
