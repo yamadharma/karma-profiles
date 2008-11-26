@@ -52,9 +52,6 @@ app-text/ghostscript-esp
 ->=net-analyzer/nagios-nrpe-2.12-r101
 ->=net-analyzer/nagios-imagepack-1.0-r100
 
-# Vlastimil Babka <caster@gentoo.org> (20 May 2008)
-# Masked for testing
--=app-arch/rpm-5*
 
 # Jeremy Olexa <darkside@gentoo.org> (20 Jun 2008)
 # Masked for removal in ~30 days by the treecleaners
