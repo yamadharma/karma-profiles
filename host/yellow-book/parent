@@ -1,5 +1,5 @@
 ../../type/workstation/x86
-../../hw/arch/core2
+../../hw/arch/core2-x86
 ../../hw/video/sis
 ../../hw/platform/notebook
 
