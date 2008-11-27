@@ -1,4 +1,7 @@
-USE="mmx mmx2 mmxext sse sse2 sse3"
+USE="\
+mmx mmx2 mmxext sse sse2 \
+ssse3 hvm \
+"
 
 CFLAGS="-march=nocona -mtune=nocona -O2 -pipe -pipe -fforce-addr -falign-functions=4 -fprefetch-loop-arrays -fomit-frame-pointer"
 CXXFLAGS="${CFLAGS}"
