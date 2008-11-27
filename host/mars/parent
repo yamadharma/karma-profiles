@@ -1,4 +1,4 @@
 ../../type/server/server--x86_64
-../../hw/arch/nocona
+../../hw/arch/pentium4-x86_64
 ../../soft/xen
 
