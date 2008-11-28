@@ -1,4 +1,4 @@
 media-video/vlc						win32codecs
 media-gfx/pstoedit					emf
-
+media-sound/jack-audio-connection-kit			3dnow
 
