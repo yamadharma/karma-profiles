@@ -1,0 +1,4 @@
+# Temporary
+=dev-lang/ghc-6.10.1
+=dev-haskell/parallel-1.1.0.0
+

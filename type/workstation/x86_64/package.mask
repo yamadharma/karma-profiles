@@ -1,6 +1,4 @@
 =sci-mathematics/axiom-200803
 =sci-mathematics/axiom-200805
 
-# Temporary
-=dev-lang/ghc-6.10.1
-=dev-haskell/parallel-1.1.0.0
+
