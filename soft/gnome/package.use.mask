@@ -1,4 +1,7 @@
 =gnome-extra/gnome-screensaver-2.24*					doc
 www-client/epiphany							webkit
+gnome-extra/kiba-dock							glitz
+gnome-extra/kiba-plugins						glitz
+
 
 
