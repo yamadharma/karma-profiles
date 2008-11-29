@@ -5,6 +5,7 @@ gcdmaster \
 xslt \
 gnomecd \
 webkit \
+eog totem \
 "
 # webkit
 # policykit
