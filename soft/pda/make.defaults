@@ -3,5 +3,7 @@ irda irmc \
 obex http \
 gnokii \
 nokia6600 \
+opensync \
+libsysfs \
 "
 
