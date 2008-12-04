@@ -34,5 +34,7 @@ app-admin/sudo			skey
 =net-misc/dhcp-4*		ipv6
 net-dns/bind			berkdb
 
+dev-db/sqlite			doc
+
 # Temporary 
 =dev-libs/glib-2.16.5*		doc

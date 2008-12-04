@@ -3,4 +3,6 @@ x11-themes/qtcurve-qt4						-kde
 =kde-base/kget-4.1*						bittorrent
 kde-base/kdelibs						doc
 =app-cdr/k3b-2.0_pre*						ffmpeg
+www-client/elinks						javascript
+
 

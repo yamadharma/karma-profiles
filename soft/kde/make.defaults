@@ -18,6 +18,8 @@ addressbook \
 clucene redland sesame2 \
 kdeprefix \
 webkit \
-" 
-# google-gadgets
+google-gadgets \
+"
+
+
 
