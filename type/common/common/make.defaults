@@ -28,7 +28,6 @@ hdb-ldap otp pkinit \
 geoip \
 pyx \
 ntp \
-dnotify \
 john \
 "
 

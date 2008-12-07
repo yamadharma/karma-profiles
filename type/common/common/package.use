@@ -1,2 +1,4 @@
-app-misc/mc							attrs ext2undel
+# app-misc/mc							attrs ext2undel dnotify
+app-misc/mc							ext2undel
+
 
