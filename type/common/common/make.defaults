@@ -29,6 +29,7 @@ geoip \
 pyx \
 ntp \
 dnotify \
+john \
 "
 
 LINGUAS="ru en"
