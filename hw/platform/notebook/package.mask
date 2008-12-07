@@ -1,0 +1,7 @@
+# Tomas Chvatal <scarabeus@gentoo.org> (04 Dec 2008)
+# new version, needs policykit which is masked
+->=gnome-extra/nm-applet-0.7.0
+->=net-misc/networkmanager-0.7.0
+->=net-misc/networkmanager-vpnc-0.7.0
+->=net-misc/networkmanager-pptp-0.7.0
+->=net-misc/networkmanager-openvpn-0.7.0
