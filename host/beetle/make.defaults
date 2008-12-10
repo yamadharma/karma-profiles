@@ -3,4 +3,3 @@ PKGDIR=${COMPORTDIR}/packages/ws--pentium4
 
 FEATURES="buildpkg"
 
-USE="qemu kvm"

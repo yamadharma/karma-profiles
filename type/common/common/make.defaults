@@ -29,6 +29,7 @@ geoip \
 pyx \
 ntp \
 john \
+gzip \
 "
 
 LINGUAS="ru en"
