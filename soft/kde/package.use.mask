@@ -4,6 +4,6 @@ x11-themes/qtcurve-qt4						-kde
 kde-base/kdelibs						doc
 =app-cdr/k3b-2.0_pre*						ffmpeg
 # Due google-gadgets
-www-client/elinks						javascript
-media-video/gpac						javascript
+#www-client/elinks						javascript
+#media-video/gpac						javascript
 

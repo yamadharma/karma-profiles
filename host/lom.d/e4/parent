@@ -1,0 +1,6 @@
+../common
+../../../soft/lighttpd
+../../../soft/php
+../../../soft/postgres
+../../../soft/mysql
+
