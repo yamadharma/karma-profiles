@@ -1,1 +1,3 @@
 media-video/mplayer						quicktime
+app-emulation/wine-etersoft-public				gnutls
+app-emulation/wine						gnutls
