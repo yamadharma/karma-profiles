@@ -118,5 +118,5 @@
 
 #
 # Temporary mask
-=media-video/gnome-subtitles-0.8
+=app-admin/conky-1.6.2_pre1321
 
