@@ -1,4 +1,5 @@
 USE="php \
 ctype pcre session unicode \
+tokenizer \
 "
 
