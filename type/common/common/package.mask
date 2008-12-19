@@ -101,3 +101,6 @@ app-text/ghostscript-esp
 # Compat break
 =dev-lang/lua-5.1.4-r1
 
+-app-backup/mondo-rescue
+-sys-apps/mindi
+-sys-apps/mindi-busybox
