@@ -118,6 +118,7 @@
 
 #
 # Temporary mask
+=app-admin/conky-1.6.2_pre1321
 =app-admin/conky-1.6.2_pre1347
 
 
