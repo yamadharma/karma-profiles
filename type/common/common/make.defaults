@@ -30,6 +30,7 @@ pyx \
 ntp \
 john \
 gzip \
+radvd \
 "
 
 LINGUAS="ru en"
