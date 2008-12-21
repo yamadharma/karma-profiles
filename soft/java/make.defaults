@@ -3,6 +3,7 @@ javamail jms jmx \
 avalon-framework avalon-logkit \
 javacomm \
 xmldoclet \
+groovy \
 "
 
 # cacao shark zero \

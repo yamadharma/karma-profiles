@@ -1,0 +1,3 @@
+-app-text/pdftk
+-media-gfx/keyjnote
+
