@@ -107,7 +107,7 @@ srp ntlm_unsupported_patch  \
 vcd \
 async automount syslog \
 nsplugin  \
-big-tables extraengine geometry utf8 cluster \
+big-tables extraengine geometry utf8 \
 idn \
 xattr \
 nautilus t1lib  \

@@ -72,7 +72,7 @@ customlog \
 srp ntlm_unsupported_patch  \
 async automount syslog \
 inode session \
-big-tables extraengine geometry utf8 cluster \
+big-tables extraengine geometry utf8 \
 idn \
 xattr \
 spf srs \
