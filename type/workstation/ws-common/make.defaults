@@ -256,7 +256,7 @@ zrtp blender-game \
 fltk \
 additions vditool \
 hardware-carrier transmitter \
-sbcl ldb new-clx \
+ldb new-clx \
 maps hipe kpoll smp \
 sys-libs tracker \
 newspr \
