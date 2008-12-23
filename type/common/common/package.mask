@@ -98,9 +98,14 @@ app-text/ghostscript-esp
 
 ->=sys-apps/portage-2.2_pre
 
-# Compat break
-=dev-lang/lua-5.1.4-r1
-
 -app-backup/mondo-rescue
 -sys-apps/mindi
 -sys-apps/mindi-busybox
+
+# Compat break
+=dev-lang/lua-5.1.4-r1
+
+# Some issues
+=sys-apps/openrc-0.4.0
+
+
