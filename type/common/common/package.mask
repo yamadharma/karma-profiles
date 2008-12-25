@@ -106,6 +106,5 @@ app-text/ghostscript-esp
 =dev-lang/lua-5.1.4-r1
 
 # Some issues
-#=sys-apps/openrc-0.4.0
-
+=sys-apps/portage-2.2_rc19
 
