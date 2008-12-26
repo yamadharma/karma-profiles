@@ -1,5 +1,3 @@
-# net-dns/bind			berkdb
-# sys-libs/db			java
-# dev-libs/cyrus-sasl		java
+app-emulation/kvm						sdl
 
 
