@@ -31,6 +31,8 @@ ntp \
 john \
 gzip \
 radvd \
+psf \
+ipv6 \
 "
 
 LINGUAS="ru en"

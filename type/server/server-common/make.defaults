@@ -53,7 +53,6 @@ fftw \
 bzip2 ecc \
 sysfs sysvipc  \
 threads \
-ipv6 \
 expat ithreads \
 logrotate  \
 underscores \

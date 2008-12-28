@@ -105,6 +105,3 @@ app-text/ghostscript-esp
 # Compat break
 =dev-lang/lua-5.1.4-r1
 
-# Some issues
-=sys-apps/portage-2.2_rc19
-

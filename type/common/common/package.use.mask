@@ -38,3 +38,5 @@ dev-db/sqlite			doc
 
 # Temporary 
 =dev-libs/glib-2.16.5*		doc
+# Heimdal issues
+net-libs/libtirpc		kerberos
