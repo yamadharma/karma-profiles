@@ -6,5 +6,6 @@ cgraph \
 graphviz dot imagemagick \
 gnuplot visual \
 metric \
+redeyes \
 "
 
