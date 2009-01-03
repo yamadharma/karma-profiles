@@ -1,5 +1,7 @@
 dev-db/mysql-community						embedded -minimal
 x11-libs/qt-sql:4						mysql
+app-office/akonadi-server					mysql
+#
 x11-wm/compiz-fusion						-kde
 x11-wm/compiz							-kde -kde4
 
