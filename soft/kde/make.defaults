@@ -19,7 +19,8 @@ clucene redland sesame2 \
 kdeprefix \
 webkit \
 google-gadgets \
+oscar \
 "
-
+# telepathy
 
 
