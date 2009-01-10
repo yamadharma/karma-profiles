@@ -20,4 +20,4 @@
 
 
 # Temporary
-# ~kde-base/kde-l10n-4.1.96
+~kde-base/kde-l10n-4.1.96
