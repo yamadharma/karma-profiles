@@ -4,3 +4,5 @@ net-misc/curl 							ssl -gnutls -nss
 app-portage/cfg-update						-kde
 # Don't need developer doc
 dev-libs/boost							-doc
+# USE clash
+media-fonts/terminus-font					-raw
