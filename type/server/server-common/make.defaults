@@ -136,7 +136,6 @@ portage \
 gpg \
 file neon \
 log4j servletapi \
-clvm \
 -cups -opengl \
 "
 
