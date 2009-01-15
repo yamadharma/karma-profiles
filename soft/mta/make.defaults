@@ -1,5 +1,6 @@
 USE="exim \
 dnsdb exiscan-acl ltmp \
 dkim \
+razor spamassassin \
 "
 
