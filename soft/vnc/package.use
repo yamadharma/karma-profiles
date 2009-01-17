@@ -1,2 +1,5 @@
 net-misc/vnc								server
 net-misc/tightvnc							server
+
+x11-misc/x11vnc								system-libvncserver
+
