@@ -1,1 +1,2 @@
 x11-libs/gtk+							doc
+dev-python/wxpython						doc examples
