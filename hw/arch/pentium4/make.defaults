@@ -1,4 +1,4 @@
 USE="mmx mmx2 mmxext sse sse2"
 
-CFLAGS="-march=pentium4 -mtune=pentium4 -O2 -pipe -fPIC"
+CFLAGS="-march=pentium4 -mtune=pentium4 -O2 -pipe"
 CXXFLAGS="${CFLAGS}"
