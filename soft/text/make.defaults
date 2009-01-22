@@ -2,4 +2,5 @@ USE="\
 docbook rtf \
 pronounce \
 festival qqwry \
+type3 \
 "
