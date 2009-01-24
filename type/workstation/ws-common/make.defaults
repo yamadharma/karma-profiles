@@ -322,6 +322,7 @@ contrib \
 nss dhclient dhcpcd \
 monolithic-build \
 themes \
+cdrkit \
 "
 
 # resolvconf
