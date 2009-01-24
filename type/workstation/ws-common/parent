@@ -1,4 +1,6 @@
 ../../common/common
+../../../soft/x11
+../../../soft/x11-qt
 ../../../soft/gnome
 ../../../soft/kde
 ../../../soft/games
@@ -11,8 +13,6 @@
 ../../../soft/graphics
 ../../../soft/snmp
 ../../../soft/java
-../../../soft/x11
-../../../soft/x11-qt
 ../../../soft/mozilla
 ../../../soft/tex
 ../../../soft/text

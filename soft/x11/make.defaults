@@ -10,5 +10,6 @@ xrandr \
 compiz-fusion \
 pcf \
 cleartype \
+gtk gtk2 \
 "
 

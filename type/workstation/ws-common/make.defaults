@@ -8,7 +8,7 @@ USE="${USE} \
 avi \
 berkdb \
 crypt \
-encode gdbm gif gpm gtk gtk2 imlib \
+encode gdbm gif gpm imlib \
 libg++ libwww mikmod mpeg ncurses nls \
 opengl pam pdflib png python qt qtmt quicktime readline sdl slang spell ssl \
 tcpd truetype xml2 xmms xv zlib \
