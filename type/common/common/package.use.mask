@@ -36,7 +36,9 @@ net-dns/bind			berkdb
 
 dev-db/sqlite			doc
 
-# Temporary 
-=dev-libs/glib-2.16.5*		doc
 # Heimdal issues
 net-libs/libtirpc		kerberos
+
+# Doc
+dev-python/pyopengl		doc
+dev-libs/glib			doc
