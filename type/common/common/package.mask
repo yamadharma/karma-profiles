@@ -6,19 +6,6 @@ app-text/ghostscript-esp
 # Я не понимаю, почему он не работает
 #=app-portage/eix-0.10*
 
-# From package.mask
-
-# Bernard Cafarelli <voyageur@gentoo.org (09 Jan 2008)
-# Mask unstable gnustep and packages depending on it
-->=gnustep-base/gnustep-back-art-0.13.0
-->=gnustep-base/gnustep-back-cairo-0.13.0
-->=gnustep-base/gnustep-back-xlib-0.13.0
-->=gnustep-base/gnustep-base-1.15.1
-->=gnustep-base/gnustep-gui-0.13.0
-->=virtual/gnustep-back-0.13.0
-->=gnustep-apps/gorm-1.2.2
-->=gnustep-apps/simpleagenda-0.33
-
 
 # Sebastien Fabbro <bicatali@gentoo.org> (05 Feb 2008)
 # sci-libs/metis-5.* still experimental
