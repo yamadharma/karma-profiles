@@ -72,7 +72,9 @@ ${LAYMAN_DIR}/haskell \
 
 # PORTDIR_OVERLAY="/usr/local/share/portage/local/"
 
-LDFLAGS="${LDFLAGS} -Wl,--hash-style=both"
+LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--as-needed -Wl,--enable-new-dtags -Wl,--sort-common -s"
+# LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--enable-new_ldflags -Wl,--enable-new-dtags -Wl,--sort-common -s"
+
 
 PORTAGE_ELOG_SYSTEM="save"
 PORTAGE_ELOG_CLASSES="warn error info log"
