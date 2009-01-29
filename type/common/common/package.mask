@@ -95,4 +95,7 @@ app-text/ghostscript-esp
 ->=dev-util/boost-build-1.35.0-r2
 ->=dev-libs/boost-1.35.0-r3
 
+# Andreas Proschofsky <suka@gentoo.org> (18 Jan 2009)
+# Mask release candidates for OpenOffice.org 3.0.1
+->=app-office/openoffice-3.0.1_rc2
 
