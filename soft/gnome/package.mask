@@ -31,3 +31,4 @@
 
 # Kerberos issue
 =gnome-extra/evolution-data-server-2.24.4
+=mail-client/evolution-2.24.4
