@@ -1,1 +1,1 @@
-CFLAGS="-O2 -pipe"
+CFLAGS="-O2 -pipe -fPIC"
