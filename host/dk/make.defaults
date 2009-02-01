@@ -1,4 +1,4 @@
-USE="mpi pbs \
+USE="\
 afs cpudetection"
 
 VIDEO_CARDS="intel nv sis radeon"
