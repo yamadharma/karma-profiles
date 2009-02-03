@@ -80,7 +80,7 @@ lm_sensors \
 fftw \
 bzip2 ecc \
 sysfs sysvipc  \
-ffmpeg win32codecs djbfft threads a52 \
+djbfft threads \
 sox \
 expat ithreads \
 avalon \

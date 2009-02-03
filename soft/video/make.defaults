@@ -9,5 +9,7 @@ vhook \
 libv4l2 \
 video \
 vcdinfo \
+ffmpeg win32codecs \
+a52 \
 "
 
