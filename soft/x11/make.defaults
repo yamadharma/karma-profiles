@@ -11,5 +11,6 @@ compiz-fusion \
 pcf \
 cleartype \
 gtk gtk2 \
+xrender \
 "
 
