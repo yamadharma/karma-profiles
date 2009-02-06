@@ -1,1 +1,1 @@
-CFLAGS="-O2 -pipe -fPIC"
+CFLAGS="-O2 -pipe -fomit-frame-pointer"
