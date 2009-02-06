@@ -11,5 +11,6 @@ video \
 vcdinfo \
 ffmpeg win32codecs \
 a52 \
+cddax \
 "
 
