@@ -101,8 +101,7 @@ PALUDIS_HOOKS="eselect"
 
 #}}}
 
-
-GENTOO_MIRRORS="http://mirror.yandex.ru/gentoo-distfiles/ http://ds.thn.htu.se/linux/gentoo ftp://ftp.linux.ee/pub/gentoo/distfiles/ http://ftp.linux.ee/pub/gentoo/distfiles/"
+GENTOO_MIRRORS="http://mirror.yandex.ru/gentoo-distfiles/ http://ftp.spline.inf.fu-berlin.de/mirrors/gentoo/ http://trumpetti.atm.tut.fi/gentoo/ http://gentoo.tups.lv/source/ http://ftp.ing.umu.se/linux/gentoo/"
 
 AUTOCLEAN="yes"
 
