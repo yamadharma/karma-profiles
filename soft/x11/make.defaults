@@ -12,5 +12,7 @@ pcf \
 cleartype \
 gtk gtk2 \
 xrender \
+afterimage \
+iso14755 \
 "
 
