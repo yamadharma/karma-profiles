@@ -1,1 +1,3 @@
-virtual/mysql						dev-db/mysql-community
+# virtual/mysql						dev-db/mysql-community
+virtual/mysql						dev-db/mysql
+

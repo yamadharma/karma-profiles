@@ -1,3 +1,4 @@
 app-emulation/kvm						sdl
+sys-process/fcron						selinux
 
 
