@@ -7,5 +7,10 @@ graphviz dot imagemagick \
 gnuplot visual \
 metric \
 redeyes \
+exif \
+png tiff \
+gs jbig \
+truetype cleartype \
+djvu pdf \
 "
 

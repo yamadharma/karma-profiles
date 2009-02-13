@@ -1,4 +1,5 @@
 USE="mysql mysqli \
 pbxt \
+odbc \
 "
 
