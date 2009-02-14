@@ -207,7 +207,7 @@ enca \
 threadsafe \
 glsa qa  \
 jingle jrtplib ortp gnet sofia-sip \
-libnotify tagwriting  \
+libnotify notify tagwriting  \
 avahi autoipd howl-compat \
 keyring \
 aiglx \

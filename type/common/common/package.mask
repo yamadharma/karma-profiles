@@ -99,3 +99,7 @@ app-text/ghostscript-esp
 # Mask release candidates for OpenOffice.org 3.0.1
 ->=app-office/openoffice-3.0.1_rc2
 
+# Raúl Porcel <armin76@gentoo.org> (6 Jul 2008)
+# >0.13 breaks a lot of stuff, only qbittorrent works fine
+->=net-libs/rb_libtorrent-0.13_p2335
+->=net-p2p/qbittorrent-1.1.0_beta1

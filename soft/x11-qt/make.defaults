@@ -1,4 +1,5 @@
 USE="\
 qt3 qt4 \
+raster \
 "
 

@@ -1,4 +1,4 @@
-CFLAGS="-O2 -pipe -fomit-frame-pointer"
+CFLAGS="-O2 -pipe -fomit-frame-pointer -fPIC -DPIC"
 
 # For java
 USE="-shark"
