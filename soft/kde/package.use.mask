@@ -2,5 +2,5 @@ x11-themes/qtcurve-qt4						-kde
 =app-editors/yzis-9999						kde
 kde-base/kdelibs						doc
 =app-cdr/k3b-2.0_pre*						ffmpeg
-=media-plugins/kipi-plugins_rc1					ipod
+=media-plugins/kipi-plugins-0.2.0_rc1				ipod
 
