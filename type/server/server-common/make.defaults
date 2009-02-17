@@ -4,7 +4,7 @@
 USE="${USE} \
 apm avi berkdb crypt encode gdbm gpm imlib \
 libg++ libwww ncurses nls \
-pam python qtmt readline slang spell ssl \
+pam qtmt readline slang spell ssl \
 tcpd xml2 xmms zlib \
 ldap \
 dvd \
@@ -101,7 +101,6 @@ gmp mhash ming \
 aio \
 javacomm \
 fam memcache webdav overlays \
-tcl \
 bittorrent metalink \
 jce \
 vim-pager \

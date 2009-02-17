@@ -1,13 +1,9 @@
 USE="xmp jpeg svg wmf jpeg2k \
-exiv2 \
-raw \
 cairo \
 cgraph \
 graphviz dot imagemagick \
 gnuplot visual \
 metric \
-redeyes \
-exif \
 png tiff \
 gs jbig \
 truetype cleartype \

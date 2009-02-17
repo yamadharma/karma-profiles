@@ -12,8 +12,10 @@
 ../../../soft/lisp
 ../../../soft/haskell
 ../../../soft/graphics
+../../../soft/photo
 ../../../soft/snmp
 ../../../soft/java
+../../../soft/python
 ../../../soft/mozilla
 ../../../soft/tex
 ../../../soft/text
