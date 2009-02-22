@@ -2,6 +2,8 @@
 =media-sound/amarok-1.4.10-r1						real
 =media-sound/jack-audio-connection-kit-0.109.2-r2			3dnow
 media-sound/jack-audio-connection-kit					ieee1394 freebob
+media-sound/rhythmbox							nsplugin
+
 
 
 
