@@ -154,7 +154,6 @@ log4j servletapi \
 #lirc
 #afs krb4
 # arts kde nas
-# 3dnow
 # threads
 # pie hardened
 # tcltk

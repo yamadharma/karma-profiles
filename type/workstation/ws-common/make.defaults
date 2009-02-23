@@ -360,7 +360,6 @@ cdrkit \
 #afs krb4
 # arts kde nas
 # libcaca
-# 3dnow
 # threads
 # pie hardened
 # jikes
