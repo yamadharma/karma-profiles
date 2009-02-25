@@ -103,3 +103,6 @@ app-text/ghostscript-esp
 # >0.13 breaks a lot of stuff, only qbittorrent works fine
 ->=net-libs/rb_libtorrent-0.13_p2335
 ->=net-p2p/qbittorrent-1.1.0_beta1
+
+=net-misc/openssh-5.2*
+

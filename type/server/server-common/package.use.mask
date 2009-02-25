@@ -1,4 +1,6 @@
 app-emulation/kvm						sdl
 sys-process/fcron						selinux
+media-gfx/graphviz						tcl
+
 
 
