@@ -104,5 +104,4 @@ app-text/ghostscript-esp
 ->=net-libs/rb_libtorrent-0.13_p2335
 ->=net-p2p/qbittorrent-1.1.0_beta1
 
-=net-misc/openssh-5.2*
 
