@@ -3,7 +3,6 @@ media-video/vlc			nsplugin
 =media-libs/mlt-0.2.2*		mmx
 =x11-libs/wxGTK-2.6*		odbc
 =dev-lisp/clisp-2.41		postgres
-=net-misc/openssh-4.6*		ldap
 media-sound/ardour		sys-libs
 dev-libs/cyrus-sasl		gdbm
 sci-libs/hdf5			mpi
@@ -28,7 +27,6 @@ net-analyzer/flow-tools		postgres
 
 =sys-devel/gcc-3*		gtk d gcj libffi fortran doc objc
 app-admin/sudo			skey
-
 
 =net-misc/neon-0.26*		socks5
 =net-misc/dhcp-4*		ipv6
