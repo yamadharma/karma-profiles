@@ -1,2 +1,4 @@
 VIDEO_CARDS="nv nvidia"
-USE="cg"
+USE="cg \
+vdpau \
+"

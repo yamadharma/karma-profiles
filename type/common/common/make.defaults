@@ -33,6 +33,7 @@ gzip \
 radvd \
 psf \
 ipv6 \
+aff ewf rawio s3 \
 "
 
 LINGUAS="ru en"

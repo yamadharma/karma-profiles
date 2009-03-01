@@ -29,6 +29,3 @@
 ->=gnome-base/gnome-mount-0.7
 ->=gnome-extra/policykit-gnome-0.6
 
-# Kerberos issue
-=gnome-extra/evolution-data-server-2.24.4
-=mail-client/evolution-2.24.4
