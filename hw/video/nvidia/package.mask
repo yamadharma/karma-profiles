@@ -1,5 +1,1 @@
-# Ricardo Mendoza <ricmm@gentoo.org> (28 Aug 2008)
-# Beta driver, masking corresponding packages
--~x11-drivers/nvidia-drivers-177.70
--~media-video/nvidia-settings-177.70
-
+=x11-drivers/nvidia-drivers-180.35
