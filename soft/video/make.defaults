@@ -12,5 +12,6 @@ vcdinfo \
 ffmpeg win32codecs \
 a52 \
 cddax \
+compressed-lumas \
 "
 
