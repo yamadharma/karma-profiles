@@ -1,6 +1,5 @@
 ../../type/workstation/x86
 ../../hw/arch/pentium4
-../../hw/video/nvidia
 ../../hw/video/i810
 ../../hw/video/ati
 ../../hw/video/sis
