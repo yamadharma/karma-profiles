@@ -104,4 +104,4 @@ app-text/ghostscript-esp
 ->=net-libs/rb_libtorrent-0.13_p2335
 ->=net-p2p/qbittorrent-1.1.0_beta1
 
-
+=sys-apps/findutils-4.5.4

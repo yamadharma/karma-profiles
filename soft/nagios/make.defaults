@@ -1,2 +1,4 @@
 USE="nagios-dns nagios-game nagios-ntp nagios-ping nagios-ssh radius ups \
-nagios"
+nagios \
+jpeg png \
+"
