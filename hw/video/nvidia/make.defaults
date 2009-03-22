@@ -1,4 +1,5 @@
 VIDEO_CARDS="nv nvidia"
 USE="cg \
-vdpau \
 "
+# For nvidia-drivers-180
+# vdpau \
