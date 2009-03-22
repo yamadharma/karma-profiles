@@ -1,1 +1,2 @@
 =x11-drivers/nvidia-drivers-180.35
+=x11-drivers/nvidia-drivers-180*

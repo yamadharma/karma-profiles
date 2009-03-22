@@ -3,7 +3,6 @@ X \
 Xaw3d motif \
 xforms \
 vim-with-x \
-xinerama \
 xprint \
 paste64 \
 xrandr \
@@ -14,5 +13,7 @@ gtk gtk2 \
 xrender \
 afterimage \
 iso14755 \
+xinerama \
 "
+
 
