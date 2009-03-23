@@ -3,3 +3,4 @@ COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/ws--pentium4
 #
 ECVS_OFFLINE=1
+EGIT_OFFLINE=1

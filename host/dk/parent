@@ -3,6 +3,7 @@
 ../../hw/video/i810
 ../../hw/video/ati
 ../../hw/video/sis
+../../hw/video/nvidia_free
 ../../soft/xfce
 ../../soft/mpi
 
