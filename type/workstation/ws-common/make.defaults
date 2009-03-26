@@ -318,7 +318,6 @@ hyperestraier \
 gecko \
 contrib \
 nss dhclient dhcpcd \
-monolithic-build \
 themes \
 cdrkit \
 "
