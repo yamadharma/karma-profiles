@@ -1,20 +1,3 @@
-# Piotr Jaroszyński <peper@gentoo.org> (26 Nov 2007)
-# opensync svn ebuilds
--=app-pda/libsyncml-9999
--=app-pda/libopensync-9999
--=app-pda/msynctool-9999
--=app-pda/libopensync-plugin-evolution2-9999
--=app-pda/libopensync-plugin-file-9999
--=app-pda/libopensync-plugin-gnokii-9999
--=app-pda/libopensync-plugin-google-calendar-9999
--=app-pda/libopensync-plugin-gpe-9999
--=app-pda/libopensync-plugin-irmc-9999
--=app-pda/libopensync-plugin-kdepim-9999
--=app-pda/libopensync-plugin-palm-9999
--=app-pda/libopensync-plugin-python-9999
--=app-pda/libopensync-plugin-syncml-9999
--=app-pda/libopensync-plugin-vformat-9999
-
 # Tiziano Müller <dev-zero@gentoo.org> (28 Nov 2008)
 # mask for testing/transition
 # blueman needs policykit-gnome
