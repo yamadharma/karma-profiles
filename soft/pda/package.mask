@@ -14,3 +14,17 @@
 -=app-pda/libopensync-plugin-python-9999
 -=app-pda/libopensync-plugin-syncml-9999
 -=app-pda/libopensync-plugin-vformat-9999
+
+# Tiziano Müller <dev-zero@gentoo.org> (28 Nov 2008)
+# mask for testing/transition
+# blueman needs policykit-gnome
+-net-wireless/bluez
+->=net-wireless/bluez-gnome-1.8
+->=app-mobilephone/obex-data-server-0.4
+->=gnome-extra/gnome-user-share-0.41
+-=media-video/totem-2.24.4-r1
+-=gnome-base/gvfs-1.0.3-r12
+-=gnome-base/gvfs-1.0.3-r13
+->=net-wireless/libbtctl-0.11.0
+->=app-mobilephone/obexftp-0.23
+-net-wireless/blueman

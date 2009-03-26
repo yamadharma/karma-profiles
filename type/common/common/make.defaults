@@ -64,6 +64,7 @@ PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/science \
 ${LAYMAN_DIR}/java-overlay \
 ${LAYMAN_DIR}/haskell \
+${LAYMAN_DIR}/gnome \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
 # ${LAYMAN_DIR}/kdesvn-portage \

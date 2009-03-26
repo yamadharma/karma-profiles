@@ -1,1 +1,2 @@
 app-mobilephone/kannel					doc
+=media-sound/pulseaudio-0.9.14				bluetooth

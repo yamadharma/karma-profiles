@@ -2,4 +2,5 @@ USE="\
 cvs git subversion bazaar mercurial \
 teamwork \
 cmake qmake \
+valgrind \
 "
