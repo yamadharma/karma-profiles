@@ -25,7 +25,16 @@
 
 # Saleem Abdulrasool <compnerd@gentoo.org> (23 Nov 2007)
 # These might break automounting, so keep them masked for now.
+# Update by Gilles Dartiguelongue <eva@gentoo.org> (27 Nov 2008)
+# gnome-mount 0.8 doesn't depend on policykit.
+-=gnome-base/gnome-mount-0.7
 ->=sys-auth/policykit-0.6
-->=gnome-base/gnome-mount-0.7
 ->=gnome-extra/policykit-gnome-0.6
 
+# Tomas Chvatal <scarabeus@gentoo.org> (04 Dec 2008)
+# new version, needs policykit which is masked
+->=gnome-extra/nm-applet-0.7.0
+->=net-misc/networkmanager-0.7.0
+->=net-misc/networkmanager-vpnc-0.7.0
+->=net-misc/networkmanager-pptp-0.7.0
+->=net-misc/networkmanager-openvpn-0.7.0
