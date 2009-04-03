@@ -1,4 +1,5 @@
 USE="\
 ghcquickbuild \
+hscolour \
 "
 
