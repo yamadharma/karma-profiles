@@ -1,3 +1,3 @@
 # Temporary
-=sci-libs/plplot-5.9.2
+# =sci-libs/plplot-5.9.2
 
