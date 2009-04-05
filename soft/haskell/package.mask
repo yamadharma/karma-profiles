@@ -1,5 +1,2 @@
 >=dev-util/darcs-2.1.2.2
 
-# For new haskell
-=dev-haskell/cabal-1.6.0.3
-
