@@ -1,1 +1,5 @@
+# Circular deps with dev-haskell/haddock
 dev-haskell/cabal					doc
+dev-haskell/ghc-paths					doc
+dev-haskell/filepath					doc
+
