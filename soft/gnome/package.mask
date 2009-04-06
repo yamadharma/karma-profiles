@@ -39,5 +39,11 @@
 ->=net-misc/networkmanager-pptp-0.7.0
 ->=net-misc/networkmanager-openvpn-0.7.0
 
+# Markus Ullmann <jokey@gentoo.org> (5 Apr 2009)
+# mask until gnome 2.26 is in-tree (needs libsoup 2.26)
+->=www-client/midori-0.1.5
+->=net-libs/webkit-gtk-0_p42000
+
+
 # Temporary
 =gnome-base/gnome-2.26.0
