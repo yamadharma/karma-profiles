@@ -25,3 +25,6 @@ phonon \
 # telepathy
 
 
+#PORTDIR_OVERLAY="\
+#${LAYMAN_DIR}/kde-testing \
+#${PORTDIR_OVERLAY}"
