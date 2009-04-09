@@ -12,3 +12,7 @@ banshee \
 # webkit
 # policykit
 
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/gnome \
+${PORTDIR_OVERLAY}"
+
