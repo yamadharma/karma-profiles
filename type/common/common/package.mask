@@ -94,11 +94,6 @@ app-text/ghostscript-esp
 ->=dev-util/boost-build-1.35.0-r2
 ->=dev-libs/boost-1.35.0-r3
 
-# Andreas Proschofsky <suka@gentoo.org> (08 Apr 2009)
-# pre-releases, mask for testing
-->=app-office/openoffice-3.1.0_beta3
-->=app-office/openoffice-bin-3.1.0_rc1
-
 # Raúl Porcel <armin76@gentoo.org> (6 Jul 2008)
 # >0.13 breaks a lot of stuff, only qbittorrent works fine
 ->=net-libs/rb_libtorrent-0.13_p2335

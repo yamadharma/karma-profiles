@@ -34,6 +34,7 @@ radvd \
 psf \
 ipv6 \
 aff ewf rawio s3 \
+i18n \
 "
 
 LINGUAS="ru en"

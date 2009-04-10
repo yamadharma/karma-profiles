@@ -1,2 +1,4 @@
 sci-chemistry/chemtool							kde
 =sci-libs/plplot-5.9.2							wxwindows
+dev-python/matplotlib							doc
+
