@@ -16,15 +16,15 @@ kipi \
 marble designer-plugin \
 addressbook \
 clucene redland sesame2 \
-kdeprefix \
 webkit \
 google-gadgets \
 oscar \
 phonon \
+kdeprefix \
 "
 # telepathy
 
 
-#PORTDIR_OVERLAY="\
-#${LAYMAN_DIR}/kde-testing \
-#${PORTDIR_OVERLAY}"
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/kde-testing \
+${PORTDIR_OVERLAY}"
