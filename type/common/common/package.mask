@@ -106,3 +106,5 @@ app-text/ghostscript-esp
 
 =sys-apps/findutils-4.5.4
 
+# Overlay errors
+=sys-apps/portage-2.2_rc29
