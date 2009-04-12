@@ -104,7 +104,14 @@ app-text/ghostscript-esp
 # see bug #230205 for more info
 ->=dev-lang/python-2.6
 
+# Peter Volkov <pva@gentoo.org> (11 Apr 2009)
+# Mask bzr prerelease candidate and dependent bzrtools
+-=dev-util/bzr-1.14*
+-=dev-util/bzrtools-1.14*
+
+
 =sys-apps/findutils-4.5.4
 
 # Overlay errors
 =sys-apps/portage-2.2_rc29
+
