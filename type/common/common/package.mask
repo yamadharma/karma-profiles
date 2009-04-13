@@ -114,4 +114,5 @@ app-text/ghostscript-esp
 
 # Overlay errors
 =sys-apps/portage-2.2_rc29
+=sys-apps/portage-2.2_rc30
 
