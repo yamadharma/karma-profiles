@@ -1,2 +1,5 @@
 COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/ws--pentium4
+
+PORTAGE_BINHOST="ftp://mark.sci.pfu.edu.ru/ws--pentium4/All"
+
