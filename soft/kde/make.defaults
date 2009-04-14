@@ -20,6 +20,7 @@ webkit \
 google-gadgets \
 oscar \
 phonon \
+akonadi \
 kdeprefix \
 "
 # telepathy
