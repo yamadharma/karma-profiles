@@ -9,3 +9,6 @@ gnome-extra/kiba-plugins						glitz
 =gnome-extra/evolution-data-server-2.26.0*				kerberos
 
 
+=gnome-base/gnome-keyring-2.26.1					doc
+
+
