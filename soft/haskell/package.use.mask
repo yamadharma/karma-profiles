@@ -2,4 +2,5 @@
 dev-haskell/cabal					doc
 dev-haskell/ghc-paths					doc
 dev-haskell/filepath					doc
+dev-haskell/mtl						doc
 
