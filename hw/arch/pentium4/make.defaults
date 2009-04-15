@@ -1,3 +1,8 @@
+# vendor_id  : GenuineIntel
+# cpu family  : 15
+# model  : 0 or 1 or 2
+# model name  : Intel(R) Pentium(R) 4 CPU XXXXMHz
+
 USE="mmx mmx2 mmxext sse sse2"
 
 CFLAGS="${CFLAGS} -march=pentium4 -mtune=pentium4"

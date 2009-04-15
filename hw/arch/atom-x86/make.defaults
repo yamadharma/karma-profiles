@@ -3,5 +3,5 @@ mmx mmx2 mmxext sse sse2 \
 ssse3 hvm \
 "
 
-CFLAGS="${CFLAGS} -march=nocona -mtune=nocona"
+CFLAGS="${CFLAGS} -march=prescott -mtune=prescott"
 CXXFLAGS="${CFLAGS}"
