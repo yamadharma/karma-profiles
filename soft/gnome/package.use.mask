@@ -5,8 +5,7 @@ gnome-extra/kiba-plugins						glitz
 
 
 # Temporary
-=gnome-extra/evolution-data-server-2.24.5*				kerberos
-=gnome-extra/evolution-data-server-2.26.0*				kerberos
+=gnome-extra/evolution-data-server-2.26*				kerberos
 
 
 =gnome-base/gnome-keyring-2.26.1					doc
