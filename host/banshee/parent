@@ -1,5 +1,5 @@
 ../../type/workstation/x86
 ../../hw/arch/pentium-m
-../../hw/video/i810
+../../hw/video/intel
 ../../hw/platform/notebook
 

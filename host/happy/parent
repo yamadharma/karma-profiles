@@ -1,5 +1,5 @@
 ../../type/workstation/x86
 ../../hw/arch/core2-x86
-../../hw/video/i810
+../../hw/video/intel
 ../../hw/platform/notebook
 
