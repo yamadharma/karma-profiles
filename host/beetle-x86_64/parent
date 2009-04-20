@@ -2,4 +2,5 @@
 ../../hw/arch/k8-x86_64
 ../../hw/video/nvidia
 ../../soft/qemu
+../../soft/lxde
 
