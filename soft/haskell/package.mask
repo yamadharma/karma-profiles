@@ -1,0 +1,5 @@
+# Lennart Kolmodin <kolmodin@gentoo.org> (19 Apr 2009)
+# Mark ghc-6.10.2 and related packages for testing.
+-~dev-lang/ghc-6.10.2
+-~dev-haskell/parallel-1.1.0.1
+-~dev-haskell/haddock-2.4.2

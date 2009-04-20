@@ -2,3 +2,4 @@
 ../../hw/arch/pentium4
 ../../hw/video/nvidia
 ../../soft/qemu
+../../soft/lxde

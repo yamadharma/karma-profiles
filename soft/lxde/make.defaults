@@ -1,0 +1,7 @@
+USE="\
+lxde \
+"
+
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/lxde \
+${PORTDIR_OVERLAY}"
