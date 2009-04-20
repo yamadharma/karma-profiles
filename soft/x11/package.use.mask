@@ -1,3 +1,4 @@
 x11-libs/gtk+							doc
 dev-python/wxpython						doc examples
 x11-apps/xneur							aplay gstreamer openal
+x11-wm/awesome							doc
