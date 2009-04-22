@@ -1,6 +1,6 @@
 # app-misc/mc							attrs ext2undel dnotify
 app-misc/mc							ext2undel
-
+net-analyzer/nagios-nrpe					ssl command-args
 
 
 
