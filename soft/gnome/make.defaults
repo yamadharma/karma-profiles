@@ -8,9 +8,9 @@ webkit \
 eog totem \
 gucharmap \
 banshee \
-policykit \
 "
 # webkit
+# policykit \
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/gnome \
