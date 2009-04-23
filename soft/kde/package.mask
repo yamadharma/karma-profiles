@@ -291,3 +291,7 @@
 -~kde-base/sweeper-4.2.2
 -~kde-base/systemsettings-4.2.2
 -~kde-base/umbrello-4.2.2
+
+
+
+=app-cdr/k3b-1.65.0_alpha1
