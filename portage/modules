@@ -1,1 +1,1 @@
-portdbapi.auxdbmodule = cache.sqlite.database
+portdbapi.auxdbmodule = portage.cache.sqlite.database
