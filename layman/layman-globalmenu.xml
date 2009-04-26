@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<layman>
+  <overlay type="svn" src="http://gnome2-globalmenu.googlecode.com/svn/gentoo-overlay/" name="gnome2-globalmenu" contact="sstasyuk@gmail.com">
+    <description>
+    	Provide Global Menu Bar for Gnome.
+	To make this feature working GTK+ should be patched with gtk2-aqd patch.
+	All needed ebuilds provided, no handwork needed.
+    </description>
+    <link>
+    	http://code.google.com/p/gnome2-globalmenu/
+    </link>
+  </overlay>
+</layman>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<layman>
+  <overlay
+    type = "git"
+    src  = "git://git.overlays.gentoo.org/proj/kerberos.git"
+    contact = "kerberos@gentoo.org"
+    status = "unofficial"
+    name = "kerberos">
+
+    <description>
+      Kerberos development, especially Heimdal 1.x.
+      See also https://bugs.gentoo.org/show_bug.cgi?id=185899
+    </description>
+  </overlay>
+</layman>

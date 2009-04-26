@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<layman>
+<overlays>
+<overlay
+  type = "git"
+  src  = "git://github.com/sjnewbury/multilib-overlay.git"
+  contact = "steve@snewbury.org.uk"
+  name = "multilib-overlay">
+  <link>http://github.com/sjnewbury/multilib-overlay/tree/master</link>
+  <description>Multilib-overlay</description>
+</overlay>
+</overlays>
+</layman>
