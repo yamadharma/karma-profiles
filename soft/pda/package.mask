@@ -19,3 +19,6 @@
 # Needs net-wireless/bluez-gnome-1.8 and net-wireless/bluez-4
 -=gnome-extra/nautilus-sendto-1.1*
 
+# Diego E. Pettenò <flameeyes@gentoo.org> (27 Apr 2009)
+# Mask libopensync 0.38 since no plugin was fixed for this
+-~app-pda/libopensync-0.38
