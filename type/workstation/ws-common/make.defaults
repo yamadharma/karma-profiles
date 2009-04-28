@@ -255,7 +255,7 @@ additions vditool \
 hardware-carrier transmitter \
 ldb new-clx \
 maps hipe kpoll smp \
-sys-libs tracker \
+sys-libs \
 newspr \
 qt-copy pertty transparency \
 network-cron \

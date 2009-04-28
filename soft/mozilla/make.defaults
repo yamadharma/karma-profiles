@@ -9,3 +9,7 @@ moznopango \
 custom-optimization \
 "
 
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/mozilla \
+${PORTDIR_OVERLAY}"
+
