@@ -377,5 +377,5 @@ cdrkit \
 # ggi
 
 LINGUAS="ru en"
-LANGUAGE="RUSS"
+# LANGUAGE="RUSS"
 
