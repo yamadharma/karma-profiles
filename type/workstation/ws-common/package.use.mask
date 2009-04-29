@@ -11,4 +11,5 @@ media-libs/swfdec		oss
 # Temporary 
 app-accessibility/espeak	pulseaudio
 =dev-util/netbeans-6.1*		doc
+=app-arch/p7zip-4.65		wxwindows
 
