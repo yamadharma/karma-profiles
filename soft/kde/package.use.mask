@@ -5,3 +5,4 @@ kde-base/kdelibs						doc
 =media-plugins/kipi-plugins-0.2.0_rc1				ipod
 
 
+app-office/koffice-l10n						doc
