@@ -4,3 +4,15 @@
 ->=media-libs/mesa-7.3
 ->=x11-apps/mesa-progs-7.3
 ->=x11-drivers/xf86-video-intel-2.6.1
+
+# Rémi Cardona <remi@gentoo.org> (29 Apr 2009)
+# packages currently in the x11 overlay which will soon be moved to portage
+# see bug #260582 for xorg-server 1.6.1 issues
+# see bug #174434 for xcb-related issues (not all are blocker)
+->=x11-base/xorg-server-1.6.1
+->=x11-libs/libXext-1.0.5
+->=x11-libs/libX11-1.2
+->=x11-libs/libxcb-1.2
+->=x11-proto/xcb-proto-1.4
+->=x11-proto/xproto-7.0.15
+->=x11-proto/xextproto-7.0.5

@@ -293,5 +293,18 @@
 -~kde-base/umbrello-4.2.2
 
 
+# Tomas Chvatal <scarabeus@gentoo.org> (30 Apr 2009)
+# mask the koffice2 (notetoself dont use slot blocks)
+->=app-office/kword-1.9.99.0
+->=app-office/kplato-1.9.99.0
+->=app-office/kpresenter-1.9.99.0
+->=app-office/kchart-1.9.99.0
+->=app-office/karbon-1.9.99.0
+->=app-office/krita-1.9.99.0
+->=app-office/koffice-data-1.9.99.0
+->=app-office/koffice-libs-1.9.99.0
+->=app-office/kspread-1.9.99.0
+->=app-office/koffice-l10n-1.9.99.0
+->=app-office/koffice-meta-1.9.99.0
 
 =app-cdr/k3b-1.65.0_alpha1
