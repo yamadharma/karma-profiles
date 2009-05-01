@@ -7,3 +7,7 @@ groovy \
 "
 
 # cacao shark zero \
+
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/java-overlay \
+${PORTDIR_OVERLAY}"

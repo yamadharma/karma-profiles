@@ -63,9 +63,7 @@ LAYMAN_DIR="/usr/portage/local/layman"
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/science \
-${LAYMAN_DIR}/java-overlay \
 ${LAYMAN_DIR}/haskell \
-${LAYMAN_DIR}/gnome \
 ${LAYMAN_DIR}/perl-experimental \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
@@ -73,7 +71,7 @@ ${LAYMAN_DIR}/perl-experimental \
 # ${LAYMAN_DIR}/kde-crazy \
 # ${LAYMAN_DIR}/kde-testing \
 # ${LAYMAN_DIR}/gnome \
-
+# ${LAYMAN_DIR}/java-overlay \
 
 # PORTDIR_OVERLAY="/usr/local/share/portage/local/"
 

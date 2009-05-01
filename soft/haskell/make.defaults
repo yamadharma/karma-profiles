@@ -2,4 +2,6 @@ USE="\
 ghcquickbuild \
 hscolour \
 "
-
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/haskell \
+${PORTDIR_OVERLAY}"
