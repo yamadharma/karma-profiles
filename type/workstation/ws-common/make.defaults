@@ -19,7 +19,7 @@ sasl \
 kerberos \
 samba \
 crypt xfs acpi4linux \
-usb tiff doc ruby tcltk slp curl flash xml \
+usb tiff ruby tcltk slp curl flash xml \
 imap \
 tcltk \
 perl plotutils acl \
