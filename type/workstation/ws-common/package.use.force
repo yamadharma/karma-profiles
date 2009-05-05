@@ -4,3 +4,4 @@ net-libs/libwww		mysql
 =x11-libs/qt-3*		mysql
 #
 net-im/skype		qt-static
+

@@ -35,6 +35,7 @@ psf \
 ipv6 \
 aff ewf rawio s3 \
 i18n \
+rar \
 "
 
 LINGUAS="ru en"

@@ -2,4 +2,5 @@
 ../../hw/arch/pentium4
 ../../hw/video/nvidia_free
 ../../soft/mpi
+../../soft/mpi-server
 
