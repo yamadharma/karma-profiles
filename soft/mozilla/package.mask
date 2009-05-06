@@ -1,4 +1,1 @@
-=mail-client/mozilla-thunderbird-3*
-
-#=net-libs/xulrunner-1.9.1_beta4
-#=www-client/mozilla-firefox-3.5_beta4
+# =mail-client/mozilla-thunderbird-3*
