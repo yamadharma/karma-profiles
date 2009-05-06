@@ -25,3 +25,7 @@ spiff \
 "
 # arts artswrappersuid
 # amarok \
+
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/pro-audio \
+${PORTDIR_OVERLAY}"
