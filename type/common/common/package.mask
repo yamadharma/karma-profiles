@@ -121,5 +121,5 @@ app-text/ghostscript-esp
 =sys-fs/lvm2-2.02.45
 
 # More strict
-=dev-util/cmake-2.6.4
+# =dev-util/cmake-2.6.4
 
