@@ -1,1 +1,2 @@
 =media-sound/audacity-1.3.7
+media-libs/portaudio:19

@@ -21,10 +21,9 @@ google-gadgets \
 oscar \
 phonon \
 akonadi \
-kdeprefix \
 "
 # telepathy
-
+# kdeprefix \
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/kde-testing \
