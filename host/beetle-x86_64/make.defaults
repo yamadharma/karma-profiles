@@ -2,4 +2,4 @@ COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/ws--k8
 
 USE="lirc"
-# FOO2ZJS_DEVICES="sa300"
+MAKEOPTS="-j3"
