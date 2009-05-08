@@ -1,1 +1,2 @@
 # net-wireless/gnome-bluetooth:2
+-=net-wireless/gnome-bluetooth-2.27.4
