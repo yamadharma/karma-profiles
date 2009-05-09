@@ -4,3 +4,4 @@ PKGDIR=${COMPORTDIR}/packages/ws--pentium4
 FEATURES="buildpkg fixpackages"
 
 # FEATURES="fixpackages digest"
+MAKEOPTS="-j3"
