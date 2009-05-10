@@ -1,5 +1,6 @@
 app-text/texlive				doc
 app-text/texlive-core				doc
+app-text/xindy					doc
 
 dev-texlive/texlive-basic doc
 dev-texlive/texlive-bibtexextra doc
