@@ -117,9 +117,6 @@ app-text/ghostscript-esp
 =sys-apps/portage-2.2_rc30
 >sys-apps/portage-2.2_rc30
 
-# Device-mapper issues
-=sys-fs/lvm2-2.02.45
-
 # More strict
 # =dev-util/cmake-2.6.4
 
