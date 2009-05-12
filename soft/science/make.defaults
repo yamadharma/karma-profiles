@@ -4,3 +4,6 @@ numeric numarray \
 excel \
 "
 
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/science \
+${PORTDIR_OVERLAY}"

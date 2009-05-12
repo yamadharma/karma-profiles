@@ -63,7 +63,6 @@ PORT_LOGDIR="/var/log/portage/"
 LAYMAN_DIR="/usr/portage/local/layman"
 
 PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/science \
 ${LAYMAN_DIR}/haskell \
 ${LAYMAN_DIR}/perl-experimental \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
@@ -73,10 +72,12 @@ ${LAYMAN_DIR}/perl-experimental \
 # ${LAYMAN_DIR}/kde-testing \
 # ${LAYMAN_DIR}/gnome \
 # ${LAYMAN_DIR}/java-overlay \
+# ${LAYMAN_DIR}/science \
 
 # PORTDIR_OVERLAY="/usr/local/share/portage/local/"
 
-LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--as-needed -Wl,--enable-new-dtags -Wl,--sort-common -s"
+LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,--as-needed -Wl,--enable-new-dtags -s"
+# LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--as-needed -Wl,--enable-new-dtags -Wl,--sort-common -s"
 # LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--enable-new_ldflags -Wl,--enable-new-dtags -Wl,--sort-common -s"
 
 
