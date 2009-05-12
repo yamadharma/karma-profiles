@@ -2,7 +2,7 @@
 app-misc/mc							ext2undel
 net-analyzer/nagios-nrpe					ssl command-args
 app-admin/puppet						augeas shadow
-sys-devel/binutils						gold
+# sys-devel/binutils						gold
 
 
 
