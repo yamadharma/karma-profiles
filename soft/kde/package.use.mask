@@ -6,3 +6,5 @@ kde-base/kdelibs						doc
 
 
 app-office/koffice-l10n						doc
+
+=app-office/openoffice-3.0.1					kde
