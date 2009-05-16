@@ -4,6 +4,7 @@ jadetex tex4ht \
 context cyrillic extra games graphics humanities music omega pstricks publishers science xetex lyx \
 lua \
 detex dvi2tty xindy \
+latex3 \
 "
 
 # tetex 
