@@ -1,0 +1,6 @@
+USE="\
+"
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/voip \
+${PORTDIR_OVERLAY}"
+
