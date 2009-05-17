@@ -5,6 +5,7 @@ context cyrillic extra games graphics humanities music omega pstricks publishers
 lua \
 detex dvi2tty xindy \
 latex3 \
+dvipdfm \
 "
 
 # tetex 
