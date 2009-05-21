@@ -22,6 +22,7 @@ celt \
 podcast \
 faac faad \
 spiff \
+cue lastfmradio libmms \
 "
 # arts artswrappersuid
 # amarok \

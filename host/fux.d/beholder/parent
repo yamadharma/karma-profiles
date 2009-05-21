@@ -3,4 +3,5 @@
 ../../../soft/java
 ../../../soft/lighttpd
 ../../../soft/nagios
+../../../soft/mysql
 ../../../soft/postgres
