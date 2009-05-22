@@ -2,3 +2,6 @@
 =app-office/openoffice-3.1*					nsplugin
 =dev-java/icedtea6-1.4.1-r1					nsplugin
 
+=net-libs/xulrunner-1.9.1_beta4*				qt
+=www-client/mozilla-firefox-3.5_beta4*				qt
+
