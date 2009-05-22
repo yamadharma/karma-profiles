@@ -220,7 +220,6 @@ addbookmarks alias autoreplace connectionstatus contactnotes highlight history s
 idle trayicon xhtml \
 eolconv \
 new-login \
-epydoc \
 zsh-completion contrarius cran \
 mfd-rewrites rpm diskio \
 qhull \
@@ -321,6 +320,7 @@ themes \
 cdrkit \
 "
 
+# epydoc \
 # resolvconf
 # apm \
 # postgres \
