@@ -23,6 +23,7 @@ podcast \
 faac faad \
 spiff \
 cue lastfmradio libmms \
+xspf \
 "
 # arts artswrappersuid
 # amarok \
