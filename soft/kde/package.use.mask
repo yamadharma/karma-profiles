@@ -7,5 +7,8 @@ kde-base/kdelibs						doc
 
 app-office/koffice-l10n						doc
 
+net-im/sim							kde
+
 =app-office/openoffice-3.0.1					kde
 =app-office/openoffice-3.1*					kde
+
