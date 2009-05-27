@@ -117,6 +117,19 @@ app-text/ghostscript-esp
 =sys-apps/portage-2.2_rc30
 >sys-apps/portage-2.2_rc30
 
-# More strict
-# =dev-util/cmake-2.6.4
+# Federico Ferri <mescalinum@gentoo.org> (26 May 2008)
+# Deprecated cause depending on unmaintained dev-tcltk/otcl.
+# Everything being moved to 'abandonware' overlay.
+# Possible replacement: net-misc/gns3 (sunrise overlay)
+# Going for removal in ~30 days if no one objects.
+# removal bug #271305
+-net-analyzer/ns
+-net-analyzer/nam
+
+# Federico Ferri <mescalinum@gentoo.org> (26 May 2008)
+# Unmaintained upstream.
+# Going for removal in ~30 days.
+# removal bug #271307
+-dev-tcltk/otcl
+-dev-tcltk/tclcl
 
