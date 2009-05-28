@@ -1,4 +1,4 @@
 ../../type/workstation/x86
 ../../hw/arch/pentium4
-../../hw/video/nvidia
+../../hw/video/nvidia_free
 ../../soft/vnc
