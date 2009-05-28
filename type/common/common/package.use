@@ -3,6 +3,7 @@ app-misc/mc							ext2undel
 net-analyzer/nagios-nrpe					ssl command-args
 app-admin/puppet						augeas shadow
 # sys-devel/binutils						gold
+app-arch/cabextract						extra-tools
 
 
 
