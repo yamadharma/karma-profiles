@@ -35,5 +35,3 @@
 ->=gnome-base/gnome-settings-daemon-2.26
 
 
-# Temporary
-=gnome-base/gnome-2.26.0

@@ -133,3 +133,7 @@ app-text/ghostscript-esp
 -dev-tcltk/otcl
 -dev-tcltk/tclcl
 
+# Peter Volkov <pva@gentoo.org> (17 Sep 2008)
+# Development version, but yet nice :)
+->=net-analyzer/wireshark-1.1
+
