@@ -123,7 +123,6 @@ objc-gc  \
 artworkextra \
 tools \
 jasper \
-examples \
 preview-latex \
 dhcp \
 imagemagick  \
@@ -320,6 +319,7 @@ themes \
 cdrkit \
 "
 
+# examples \
 # epydoc \
 # resolvconf
 # apm \

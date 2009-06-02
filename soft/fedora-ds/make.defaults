@@ -1,7 +1,7 @@
 USE="mozldap"
 
 PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/fds \
+${LAYMAN_DIR}/389-ds \
 ${PORTDIR_OVERLAY}"
 
 

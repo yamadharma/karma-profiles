@@ -4,6 +4,8 @@ net-analyzer/nagios-nrpe					ssl command-args
 app-admin/puppet						augeas shadow
 # sys-devel/binutils						gold
 app-arch/cabextract						extra-tools
+dev-util/subversion						-webdav-neon webdav-serf
+
 
 
 
