@@ -2,4 +2,6 @@ USE=" \
 gnustep \
 native-exceptions \
 "
-
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/gnustep \
+${PORTDIR_OVERLAY}"
