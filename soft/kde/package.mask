@@ -42,8 +42,6 @@
 ->=app-office/koffice-l10n-1.9.99.0
 ->=app-office/koffice-meta-1.9.99.0
 
-=app-cdr/k3b-1.65.0_alpha1
-
 
 # Alexey Shvetsov <alexxy@gentoo.org> (03 Jun 2009)
 # Mask KDE 4.2.4 during add
