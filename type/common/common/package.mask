@@ -137,7 +137,3 @@ app-text/ghostscript-esp
 # Development version, but yet nice :)
 ->=net-analyzer/wireshark-1.1
 
-# Mark Loeser <halcy0n@gentoo.org> (6 May 2009)
-# Masked for testing
-->=sys-devel/gcc-4.4
-
