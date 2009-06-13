@@ -1,0 +1,1 @@
+../../../portage/profile.bashrc
