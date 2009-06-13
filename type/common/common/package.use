@@ -5,7 +5,7 @@ app-admin/puppet						augeas shadow
 # sys-devel/binutils						gold
 app-arch/cabextract						extra-tools
 dev-util/subversion						-webdav-neon webdav-serf
-
+sys-devel/gcc							graphite
 
 
 
