@@ -293,7 +293,7 @@ lv2 \
 otr asyncns \
 sparse metis supernodal \
 apisupport cnd harness ide identity j2ee mobility nb profiler soa stableuc uml visualweb \
-htmlhandbook nova fits newxkb \
+nova fits newxkb \
 R \
 libotf \
 cdio taglib vcdx \
