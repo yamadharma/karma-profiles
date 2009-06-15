@@ -66,6 +66,7 @@ LAYMAN_DIR="/usr/portage/local/layman"
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/haskell \
 ${LAYMAN_DIR}/perl-experimental \
+${LAYMAN_DIR}/sunrise \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
 # ${LAYMAN_DIR}/kdesvn-portage \
