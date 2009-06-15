@@ -4,6 +4,5 @@
 #
 ->=virtual/emacs-23
 #
-=app-portage/eix-0.10.2
->=sys-fs/udev-126
-=dev-libs/dbus-glib-0.78
+#>=sys-fs/udev-126
+

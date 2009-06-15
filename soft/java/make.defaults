@@ -4,6 +4,7 @@ avalon-framework avalon-logkit \
 javacomm \
 xmldoclet \
 groovy \
+derby \
 "
 
 # cacao shark zero \
