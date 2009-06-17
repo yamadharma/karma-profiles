@@ -1,13 +1,8 @@
-=gnome-extra/gnome-screensaver-2.24*					doc
-www-client/epiphany							webkit
+#www-client/epiphany							webkit
 gnome-extra/kiba-dock							glitz
 gnome-extra/kiba-plugins						glitz
 
 
 # Temporary
-=gnome-extra/evolution-data-server-2.26*				kerberos
-
-
-=gnome-base/gnome-keyring-2.26.1					doc
-
+#=gnome-extra/evolution-data-server-2.26*				kerberos
 

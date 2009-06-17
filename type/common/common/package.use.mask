@@ -10,9 +10,9 @@ media-sound/jack-audio-connection-kit	portaudio
 media-sound/timidity++		portaudio
 dev-util/bzr-gtk		libnotify
 # Heimdal issues
-dev-libs/openssl		kerberos
+#dev-libs/openssl		kerberos
 # net-fs/nfs-utils		kerberos
-app-editors/emacs-cvs		kerberos
+#app-editors/emacs-cvs		kerberos
 #{{{ snmp
 #=net-analyzer/net-snmp-5.4.1*	ipv6 perl
 =net-analyzer/net-snmp-5.4.2*	rpm ipv6 perl
@@ -35,7 +35,7 @@ net-dns/bind			berkdb
 dev-db/sqlite			doc
 
 # Heimdal issues
-net-libs/libtirpc		kerberos
+#net-libs/libtirpc		kerberos
 
 # Doc
 dev-python/pyopengl		doc
@@ -46,4 +46,7 @@ dev-python/jinja2		doc
 =sys-apps/man-1.6*		lzma
 =gnome-extra/yelp-2.26*		lzma
 # =app-arch/libarchive-2.7*	lzma
+
+#
+=net-fs/samba-client-3.3.4		caps aio
 

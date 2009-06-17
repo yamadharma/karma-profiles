@@ -32,7 +32,6 @@ nptl nptlonly pic \
 javascript \
 mad \
 dedicated \
-socks5 \
 pg-hier pg-vacuumdelay pg-intdatetime \
 f77 objc \
 idea \

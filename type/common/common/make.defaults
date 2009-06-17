@@ -37,6 +37,8 @@ aff ewf rawio s3 \
 i18n \
 rar \
 xerces-c \
+socks socks5 \
+quota \
 "
 
 LINGUAS="ru en"
@@ -67,6 +69,7 @@ PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/haskell \
 ${LAYMAN_DIR}/perl-experimental \
 ${LAYMAN_DIR}/sunrise \
+${LAYMAN_DIR}/dev-zero \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
 # ${LAYMAN_DIR}/kdesvn-portage \

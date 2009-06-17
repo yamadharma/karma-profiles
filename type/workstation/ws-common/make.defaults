@@ -41,7 +41,6 @@ emacs \
 v4l v4l2 \
 javascript \
 mad \
-socks5 \
 pg-vacuumdelay pg-intdatetime \
 f77 objc \
 idea \

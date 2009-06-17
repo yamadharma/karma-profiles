@@ -137,3 +137,8 @@ app-text/ghostscript-esp
 # Development version, but yet nice :)
 ->=net-analyzer/wireshark-1.1
 
+# Peter Volkov <pva@gentoo.org> (29 May 2009)
+# Masked development version. Play with it, it works!
+# Also mask psimedia as it was tested with net-im/psi-0.13 only.
+-=net-im/psi-0.13*
+-net-im/psimedia
