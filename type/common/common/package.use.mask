@@ -47,6 +47,3 @@ dev-python/jinja2		doc
 =gnome-extra/yelp-2.26*		lzma
 # =app-arch/libarchive-2.7*	lzma
 
-#
-#=net-fs/samba-client-3.3.4		caps aio
-
