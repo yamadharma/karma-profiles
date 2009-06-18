@@ -48,5 +48,5 @@ dev-python/jinja2		doc
 # =app-arch/libarchive-2.7*	lzma
 
 #
-=net-fs/samba-client-3.3.4		caps aio
+#=net-fs/samba-client-3.3.4		caps aio
 
