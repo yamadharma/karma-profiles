@@ -5,7 +5,7 @@ javacomm \
 xmldoclet \
 groovy \
 derby \
-jfreechart jgoodiesforms nachocalendar swingx \
+jfreechart jgoodiesforms nachocalendar \
 "
 
 # cacao shark zero \
