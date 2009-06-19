@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<layman>
+<!--
+  <overlay
+      name="java-overlay-https"
+      src="https://overlays.gentoo.org/svn/proj/java/java-overlay/"
+      contact="java@gentoo.org"
+      status="official"
+      type="svn">
+    <link>
+      http://overlays.gentoo.org/proj/java
+    </link>
+    <description>
+      Java Overlay (https)
+    </description>
+  </overlay>
+-->  
+  <overlay
+      name="java-experimental"
+      src="https://overlays.gentoo.org/svn/proj/java/java-experimental/"
+      contact="java@gentoo.org"
+      status="unofficial"
+      type="svn">
+    <link>
+      http://overlays.gentoo.org/proj/java
+    </link>
+    <description>
+      Experimental Java Overlay
+    </description>
+  </overlay>
+<!--
+  <overlay
+      name="java-experimental-https"
+      src="https://overlays.gentoo.org/svn/proj/java/java-experimental/"
+      contact="java@gentoo.org"
+      status="unofficial"
+      type="svn">
+    <link>
+      http://overlays.gentoo.org/proj/java
+    </link>
+    <description>
+      Experimental Java Overlay (https)
+    </description>
+  </overlay>
+-->
+  <overlay
+      name="jboss-overlay"
+      src="https://overlays.gentoo.org/svn/proj/java/jboss-overlay/"
+      contact="java@gentoo.org"
+      status="unofficial"
+      type="svn">
+    <link>
+      http://overlays.gentoo.org/proj/java
+    </link>
+    <description>
+      Experimental Java Overlay (JBoss)
+    </description>
+  </overlay>
+</layman>

@@ -6,3 +6,6 @@ sci-physics/root						examples
 dev-python/matplotlib						examples
 app-emacs/imaxima						examples
 
+#
+sci-mathematics/scilab						scicos
+

@@ -5,10 +5,12 @@ javacomm \
 xmldoclet \
 groovy \
 derby \
+jfreechart jgoodiesforms nachocalendar swingx swt \
 "
 
 # cacao shark zero \
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/java-overlay \
+${LAYMAN_DIR}/java-experimental \
 ${PORTDIR_OVERLAY}"
