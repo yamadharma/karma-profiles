@@ -42,8 +42,3 @@ dev-python/pyopengl		doc
 dev-libs/glib			doc
 dev-python/jinja2		doc
 
-# lzma
-=sys-apps/man-1.6*		lzma
-=gnome-extra/yelp-2.26*		lzma
-# =app-arch/libarchive-2.7*	lzma
-
