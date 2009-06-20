@@ -4,7 +4,7 @@ gnome-print \
 gcdmaster \
 xslt \
 gnomecd \
-webkit \
+webkit coverage \
 eog totem \
 gucharmap \
 banshee \

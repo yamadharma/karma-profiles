@@ -1,21 +1,9 @@
-# Проблемы с Openoffice
-=dev-lang/mono-1.2.6*
 # Переход на app-text/ghostscript-gpl
 app-text/ghostscript-esp
-
-# Я не понимаю, почему он не работает
-#=app-portage/eix-0.10*
-
 
 # Sebastien Fabbro <bicatali@gentoo.org> (05 Feb 2008)
 # sci-libs/metis-5.* still experimental
 ->=sci-libs/metis-4.99
-#
-# Raúl Porcel <armin76@gentoo.org> (12 Dec 2007)
-# P.mask snapshots
-->=dev-libs/nss-3.12_alpha1
-->=dev-libs/nspr-4.7.1_beta1
-
 
 # Unmask
 
@@ -45,10 +33,6 @@ app-text/ghostscript-esp
 # Dead project and predecessor to dev-util/bzr, use that instead. bug #219236
 -dev-util/bazaar
 
-# Marcus D. Hanwell <cryos@gentoo.org> (08 May 2008)
-# Masking new version until it has received a little more testing
--~dev-util/cmake-2.6.0
-
 # Samuli Suominen <drac@gentoo.org> (05 Jun 2008)
 # Masked for testing wrt #163724
 -dev-libs/libffi
@@ -56,12 +40,6 @@ app-text/ghostscript-esp
 -virtual/libffi
 ->=dev-libs/g-wrap-1.9.11
 ->=dev-scheme/guile-gnome-platform-2.16.0
-
-# Marcus D. Hanwell <cryos@gentoo.org> (08 May 2008)
-# Timo Gurr <tgurr@gentoo.org> (27 Aug 2008) [updated to add 2.6.1]
-# Masking new version until it has received a little more testing
--~dev-util/cmake-2.6.0
--~dev-util/cmake-2.6.1
 
 # Tony Vroon <chainsaw@gentoo.org> (30 Mar 2009)
 # The v4 branch of DHCP has a new build system and a "minimal" dhclient-only 
@@ -74,10 +52,6 @@ app-text/ghostscript-esp
 # development versions of cairo
 ->=x11-libs/cairo-1.7.0
 
-# Peter Volkov <pva@gentoo.org> (17 Sep 2008)
-# Development version, but yet nice :)
--=net-analyzer/wireshark-1.1*
-
 # Colin Kingsley <tercel@gentoo.org> (24 Jun 2006)
 # Masked for testing
 -=dev-python/visual-4*
@@ -88,12 +62,6 @@ app-text/ghostscript-esp
 -sys-apps/mindi
 -sys-apps/mindi-busybox
 
-# Tiziano Müller <dev-zero@gentoo.org> (16 Dec 2008)
-# Mask for testing
--app-admin/eselect-boost
-->=dev-util/boost-build-1.35.0-r2
-->=dev-libs/boost-1.35.0-r3
-
 # Raúl Porcel <armin76@gentoo.org> (6 Jul 2008)
 # >0.13 breaks a lot of stuff, only qbittorrent works fine
 ->=net-libs/rb_libtorrent-0.13_p2335
@@ -103,12 +71,6 @@ app-text/ghostscript-esp
 # Masked until packages that don't work with it are fixed.
 # see bug #230205 for more info
 ->=dev-lang/python-2.6
-
-# Peter Volkov <pva@gentoo.org> (11 Apr 2009)
-# Mask bzr prerelease candidate and dependent bzrtools
--=dev-util/bzr-1.14*
--=dev-util/bzrtools-1.14*
-
 
 =sys-apps/findutils-4.5.4
 
@@ -142,3 +104,7 @@ app-text/ghostscript-esp
 # Also mask psimedia as it was tested with net-im/psi-0.13 only.
 -=net-im/psi-0.13*
 -net-im/psimedia
+
+# Mark Loeser <halcy0n@gentoo.org> (6 May 2009)
+# Masked for testing
+->=sys-devel/gcc-4.4
