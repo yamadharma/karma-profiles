@@ -16,7 +16,7 @@ lzo lzma \
 vim-syntax \
 archive \
 aspell \
-libssh2 \
+libssh2 ssh \
 gnutls \
 sctp \
 inotify \
@@ -69,7 +69,7 @@ PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/haskell \
 ${LAYMAN_DIR}/perl-experimental \
 ${LAYMAN_DIR}/sunrise \
-${LAYMAN_DIR}/dev-zero \
+${LAYMAN_DIR}/bazaar \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
 # ${LAYMAN_DIR}/kdesvn-portage \
@@ -78,6 +78,7 @@ ${LAYMAN_DIR}/dev-zero \
 # ${LAYMAN_DIR}/gnome \
 # ${LAYMAN_DIR}/java-overlay \
 # ${LAYMAN_DIR}/science \
+# ${LAYMAN_DIR}/dev-zero \
 
 # PORTDIR_OVERLAY="/usr/local/share/portage/local/"
 

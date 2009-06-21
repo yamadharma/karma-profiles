@@ -108,3 +108,8 @@ app-text/ghostscript-esp
 # Mark Loeser <halcy0n@gentoo.org> (6 May 2009)
 # Masked for testing
 ->=sys-devel/gcc-4.4
+
+# Peter Volkov <pva@gentoo.org> (17 Jun 2009)
+# Masked pre-release candidate and dependant packages.
+-=dev-util/bzr-1.16*
+-=dev-util/bzrtools-1.16*
