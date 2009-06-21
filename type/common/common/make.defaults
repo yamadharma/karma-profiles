@@ -16,7 +16,7 @@ lzo lzma \
 vim-syntax \
 archive \
 aspell \
-libssh2 ssh \
+libssh2 \
 gnutls \
 sctp \
 inotify \
