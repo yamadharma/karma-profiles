@@ -1,2 +1,3 @@
 # Don't compile
 dev-java/lucene-analyzers:2.4
+=dev-java/lucene-analyzers-2.3.2-r2
