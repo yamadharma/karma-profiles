@@ -113,3 +113,8 @@ app-text/ghostscript-esp
 # Masked pre-release candidate and dependant packages.
 -=dev-util/bzr-1.16*
 -=dev-util/bzrtools-1.16*
+
+# Ulrich Mueller <ulm@gentoo.org> (21 Jun 2009)
+# Emacs 23 live CVS ebuilds and packages depending on them.
+->=virtual/emacs-23
+-app-emacs/emacs-daemon
