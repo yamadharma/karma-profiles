@@ -46,7 +46,7 @@ LINGUAS="ru en"
 FEATURES="${FEATURES} \
 sandbox usersandbox \
 userpriv candy prelink confcache parallel-fetch userfetch \
-metadata-transfer \
+-metadata-transfer \
 preserve-libs \
 -strict \
 "
