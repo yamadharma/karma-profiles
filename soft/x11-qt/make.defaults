@@ -3,3 +3,6 @@ qt3 qt4 \
 raster \
 "
 
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/qting-edge \
+${PORTDIR_OVERLAY}"
