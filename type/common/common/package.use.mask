@@ -42,3 +42,4 @@ dev-python/pyopengl		doc
 dev-libs/glib			doc
 dev-python/jinja2		doc
 
+dev-util/git			subversion
