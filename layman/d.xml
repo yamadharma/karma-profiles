@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<layman>
+  <overlay
+      name="d-overlay"
+      src="http://subversion.assembla.com/svn/d-overlay"
+      contact=""
+      status="unofficial"
+      type="svn">
+    <link>
+      http://code.assembla.com/d-overlay
+    </link>
+    <description>
+      D Gentoo overlay
+    </description>
+  </overlay>
+</layman>
