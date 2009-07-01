@@ -8,3 +8,4 @@
 -=www-client/mozilla-firefox-3.5*
 -=net-libs/xulrunner-1.9.1*
 -=dev-libs/nspr-4.8*
+

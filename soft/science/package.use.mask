@@ -2,4 +2,5 @@ sci-chemistry/chemtool							kde
 =sci-libs/plplot-5.9.2							wxwindows
 dev-python/matplotlib							doc
 sci-visualization/epix							doc
+# sci-physics/root							mysql kerberos afs
 
