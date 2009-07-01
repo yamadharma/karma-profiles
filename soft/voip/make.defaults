@@ -1,4 +1,5 @@
 USE="\
+skype \
 "
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/voip \
