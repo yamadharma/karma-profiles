@@ -1,7 +1,8 @@
 USE="\
 skype \
 "
-PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/voip \
-${PORTDIR_OVERLAY}"
+
+#PORTDIR_OVERLAY="\
+#${LAYMAN_DIR}/voip \
+#${PORTDIR_OVERLAY}"
 
