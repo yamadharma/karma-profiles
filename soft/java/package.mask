@@ -1,3 +1,4 @@
 # Don't compile
 dev-java/lucene-analyzers:2.4
 =dev-java/lucene-analyzers-2.3.2-r2
+=dev-java/dom4j-1.6.1-r6
