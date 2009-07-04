@@ -12,3 +12,4 @@ net-im/sim							kde
 =app-office/openoffice-3.0.1					kde
 =app-office/openoffice-3.1*					kde
 
+app-text/pdf2oo							kde
