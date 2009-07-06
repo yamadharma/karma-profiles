@@ -1,5 +1,10 @@
 USE="\
 skype \
+stun \
+sip h323 \
+wav \
+xcap \
+capi dns dtmf fax h224 h281 iax ivr ixj lid rfc4175 sbc sipim srtp stats vpb vxml \
 "
 
 #PORTDIR_OVERLAY="\

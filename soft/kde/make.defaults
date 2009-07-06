@@ -23,6 +23,7 @@ google-gadgets \
 oscar \
 phonon \
 akonadi \
+kontact \
 "
 # telepathy
 # kdeprefix \
