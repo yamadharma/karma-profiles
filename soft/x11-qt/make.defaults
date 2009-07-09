@@ -1,7 +1,8 @@
 USE="\
-qt3 qt4 \
+qt4 \
 raster \
 "
+# qt3 \
 
 #PORTDIR_OVERLAY="\
 #${LAYMAN_DIR}/qting-edge \
