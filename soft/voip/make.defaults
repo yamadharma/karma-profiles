@@ -3,7 +3,6 @@ skype \
 stun \
 sip h323 \
 wav \
-xcap \
 dns dtmf fax h224 h281 iax ivr ixj lid rfc4175 sbc sipim srtp stats vpb vxml \
 pipechan qos shmvideo soap \
 "
@@ -12,3 +11,4 @@ pipechan qos shmvideo soap \
 #${LAYMAN_DIR}/voip \
 #${PORTDIR_OVERLAY}"
 
+# xcap \
