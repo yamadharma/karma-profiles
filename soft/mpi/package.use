@@ -1,1 +1,2 @@
 sys-cluster/openmpi						heterogeneous mpi-threads romio pbs
+sys-cluster/mpich2						romio mpi-threads
