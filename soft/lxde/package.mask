@@ -1,0 +1,2 @@
+# Циклится при компиляции
+=lxde-base/lxappearance-0.2.1

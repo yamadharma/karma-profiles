@@ -79,6 +79,7 @@ ${LAYMAN_DIR}/bazaar \
 # ${LAYMAN_DIR}/java-overlay \
 # ${LAYMAN_DIR}/science \
 # ${LAYMAN_DIR}/dev-zero \
+# ${LAYMAN_DIR}/sabayon \
 
 # PORTDIR_OVERLAY="/usr/local/share/portage/local/"
 
