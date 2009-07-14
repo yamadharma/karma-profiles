@@ -1,0 +1,12 @@
+# Tony Vroon <chainsaw@gentoo.org> (10 Mar 2009)
+# This is *very* new and will require an extensive rewrite of your
+# configuration before it will work. If you are not ready to dedicate
+# at least a day towards testing and another day towards configuring
+# you simply do not want this yet. If you do have this amount of time
+# on your hands please join #gentoo-voip and help us document the
+# migration path. Thank you.
+-net-misc/dahdi
+-net-misc/dahdi-tools
+-=net-misc/asterisk-1.6*
+-=net-libs/libpri-1.4*
+->=media-libs/spandsp-0.0.6_pre7

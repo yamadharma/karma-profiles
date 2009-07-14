@@ -1,3 +1,4 @@
 net-libs/ptlib					config-file http-forms http-server mail video-file
 net-voip/ekiga					-kde -kontact
+net-libs/opal					x264-static
 
