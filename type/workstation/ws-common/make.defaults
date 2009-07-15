@@ -189,7 +189,6 @@ hpn ares \
 szip ansi hlapi \
 follow-xff underscores \
 sound \
-gconf \
 objc-gc \
 cern \
 lcd crciprec \
