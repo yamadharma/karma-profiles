@@ -1,0 +1,7 @@
+USE="\
+emoticons \
+"
+
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/qutim-overlay \
+${PORTDIR_OVERLAY}"
