@@ -1,6 +1,7 @@
 USE="\
 qt4 \
 raster \
+qt3support \
 "
 # qt3 \
 

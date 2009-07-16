@@ -230,7 +230,7 @@ inquisitio \
 galago thunderbird \
 fontconfig \
 toolkit-scroll-bars xft  gzip-el \
-glib pch qt3support sqlite3 \
+glib pch sqlite3 \
 purge \
 daap sdl-image \
 emf lash fluidsynth \
