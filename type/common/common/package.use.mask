@@ -1,7 +1,6 @@
 media-video/totem		nsplugin
 media-video/vlc			nsplugin
 =media-libs/mlt-0.2.2*		mmx
-=x11-libs/wxGTK-2.6*		odbc
 =dev-lisp/clisp-2.41		postgres
 media-sound/ardour		sys-libs
 dev-libs/cyrus-sasl		gdbm
