@@ -1,2 +1,4 @@
 ../../common/common
 ../../../soft/snmp
+../../../soft/nagios-client
+
