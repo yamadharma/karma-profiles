@@ -1,5 +1,6 @@
 COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/ws--k8
+PKGDIR=${COMPORTDIR}/packages/ws--nocona
 
 USE="lirc"
-MAKEOPTS="-j3"
+MAKEOPTS="-j5"
+

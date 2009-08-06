@@ -1,6 +1,6 @@
 ../../type/workstation/x86_64
-../../hw/arch/k8-x86_64
-../../hw/video/nvidia
+../../hw/arch/core2-x86_64
+../../hw/video/nvidia/gfx8000
 ../../hw/net/bluetooth
 ../../soft/qemu
 ../../soft/lxde
