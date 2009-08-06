@@ -1,5 +1,10 @@
+#
+# http://wiki.github.com/sjnewbury/multilib-overlay
+
 USE="\
 "
+
+SETARCH_ARCH_x86="i686"
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/multilib \
