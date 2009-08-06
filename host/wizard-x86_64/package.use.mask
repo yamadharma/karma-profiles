@@ -1,4 +1,1 @@
-kde-base/kdelibs						3dnow
-kde-base/ksplash						3dnow
-
 

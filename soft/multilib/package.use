@@ -73,3 +73,15 @@ x11-libs/libXvMC   lib32
 x11-libs/libXxf86dga   lib32
 x11-libs/libXxf86vm   lib32
 x11-libs/pixman   lib32
+x11-libs/openmotif					lib32
+dev-util/pkgconfig					lib32
+media-libs/glew						lib32
+sys-libs/zlib						lib32
+dev-lang/tcl						lib32
+dev-lang/tk						lib32
+x11-libs/libxcb						lib32
+sys-libs/readline					lib32
+dev-lang/python						lib32
+dev-db/sqlite						lib32
+sys-fs/udev						lib32
+sys-devel/gettext					lib32
