@@ -1,7 +1,2 @@
-USE="\
-mmx mmx2 mmxext sse sse2 \
-ssse3 hvm \
-"
-
 CFLAGS="${CFLAGS} -march=nocona -mtune=nocona"
 CXXFLAGS="${CFLAGS}"
