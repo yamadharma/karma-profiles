@@ -6,3 +6,4 @@ gnustep-base/gnustep-make					native-exceptions
 
 =app-emulation/wine-etersoft-public-1.0.9.40			hal scanner ldap
 
+=dev-libs/nettle-2.0*						gmp
