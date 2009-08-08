@@ -104,7 +104,6 @@ mcal memlimit \
 srp ntlm_unsupported_patch  \
 vcd \
 async automount syslog \
-nsplugin  \
 big-tables extraengine geometry utf8 \
 idn \
 xattr \

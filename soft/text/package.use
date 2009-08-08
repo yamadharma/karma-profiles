@@ -1,1 +1,2 @@
 app-text/fbreader						-gtk -qt3 qt4
+=app-text/djvu-3.5.21* 						-nsplugin
