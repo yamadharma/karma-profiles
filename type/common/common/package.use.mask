@@ -35,6 +35,8 @@ dev-db/sqlite			doc
 # Heimdal issues
 #net-libs/libtirpc		kerberos
 
+=dev-libs/nettle-2.0*						gmp
+
 # Doc
 dev-python/pyopengl		doc
 dev-libs/glib			doc
