@@ -5,3 +5,6 @@ server \
 acm \
 "
 
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/xen \
+${PORTDIR_OVERLAY}"

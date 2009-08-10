@@ -1,2 +1,4 @@
+COMPORTDIR=/com/lib/portage
+PKGDIR=${COMPORTDIR}/packages/ws--nocona
 
 

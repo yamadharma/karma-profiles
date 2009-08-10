@@ -1,4 +1,9 @@
-../common
+# ../common
+../../../type/workstation/x86_64
+../../../hw/arch/core2/x86_64
+../../../hw/net/bluetooth
+../../../soft/qemu
+../../../soft/lxde
 ../../../soft/java
 ../../../soft/x11
 ../../../soft/tex
@@ -6,7 +11,3 @@
 ../../../soft/nx
 ../../../soft/science
 ../../../hw/video/vesa
-
-
-
-

@@ -1,4 +1,4 @@
-../../type/workstation/x86
+# ../../type/workstation/x86
+../../type/common/common
 ../../hw/arch/pentium4
 ../../hw/video/nvidia
-
