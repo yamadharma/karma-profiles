@@ -5,6 +5,7 @@ sci-visualization/epix						examples
 sci-physics/root						examples
 dev-python/matplotlib						examples
 app-emacs/imaxima						examples
+sci-mathematics/scilab						examples
 
 #
 sci-mathematics/scilab						scicos

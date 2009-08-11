@@ -77,7 +77,7 @@ app-text/ghostscript-esp
 # Overlay errors
 #=sys-apps/portage-2.2_rc29
 #=sys-apps/portage-2.2_rc30
-#>sys-apps/portage-2.2_rc30
+>sys-apps/portage-2.2_rc33
 
 # Federico Ferri <mescalinum@gentoo.org> (26 May 2008)
 # Deprecated cause depending on unmaintained dev-tcltk/otcl.
