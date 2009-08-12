@@ -46,10 +46,10 @@ LINGUAS="ru en"
 FEATURES="${FEATURES} \
 sandbox usersandbox \
 userpriv candy prelink confcache parallel-fetch userfetch \
-metadata-transfer \
 preserve-libs \
 -strict \
 "
+# metadata-transfer \
 
 SEARCH_DIRS="/usr/GNUstep"
 
