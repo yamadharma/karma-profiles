@@ -2,6 +2,7 @@
 gnome-extra/kiba-dock							glitz
 gnome-extra/kiba-plugins						glitz
 
+gnome-base/gdm								afs
 
 # Temporary
 #=gnome-extra/evolution-data-server-2.26*				kerberos

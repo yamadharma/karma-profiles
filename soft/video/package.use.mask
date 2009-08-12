@@ -2,4 +2,6 @@ media-video/totem				nsplugin
 media-video/vlc					nsplugin
 media-libs/mlt					qt3
 
+=media-video/avidemux-2.5.0			qt4
+
 
