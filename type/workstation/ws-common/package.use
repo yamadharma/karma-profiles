@@ -8,3 +8,5 @@ media-fonts/terminus-font					-raw
 dev-libs/boost							-doc
 dev-lang/python							-doc
 dev-db/postgresql-base						-doc
+
+net-libs/aqbanking						qt3
