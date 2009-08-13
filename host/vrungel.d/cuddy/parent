@@ -4,10 +4,6 @@
 ../../../hw/net/bluetooth
 ../../../soft/qemu
 ../../../soft/lxde
-../../../soft/java
-../../../soft/x11
-../../../soft/tex
-../../../soft/text
 ../../../soft/nx
-../../../soft/science
-../../../hw/video/vesa
+../../../hw/video/intel
+
