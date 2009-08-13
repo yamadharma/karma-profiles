@@ -6,6 +6,7 @@ app-office/akonadi-server					mysql
 x11-wm/compiz-fusion						-kde
 x11-wm/compiz							-kde -kde4
 
-
+# KDE 3.5 compat
+net-dns/avahi							qt3 dbus
 
 
