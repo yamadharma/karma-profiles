@@ -14,4 +14,3 @@ net-im/sim							kde
 
 app-text/pdf2oo							kde
 
-kde-base/kdelibs:3.5						avahi
