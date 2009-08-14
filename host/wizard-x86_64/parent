@@ -1,8 +1,8 @@
 ../../type/workstation/x86_64
 ../../hw/arch/core2/x86_64
 ../../hw/platform/notebook
-../../hw/video/radeonhd
 ../../hw/net/bluetooth
-
+../../hw/video/radeonhd
+../../hw/video/ati_fglrx
 
 
