@@ -1,8 +1,0 @@
--=sys-libs/slang-2*
-#
--=app-crypt/heimdal-1.0.1
-#
-->=virtual/emacs-23
-#
-#>=sys-fs/udev-126
-
