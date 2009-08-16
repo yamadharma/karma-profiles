@@ -1,2 +1,5 @@
 www-servers/tomcat				admin doc examples
+dev-java/icedtea6				nio2 systemtap zero
+dev-java/icedtea				systemtap zero
+
 
