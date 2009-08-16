@@ -3,5 +3,5 @@ media-video/vlc					nsplugin
 media-libs/mlt					qt3
 
 =media-video/avidemux-2.5.0			qt4
-
+=media-libs/opencv-1.0.0-r1			ieee1394
 
