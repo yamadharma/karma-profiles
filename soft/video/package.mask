@@ -3,3 +3,6 @@
 -media-video/realplayer
 -media-libs/amd64codecs
 -media-libs/realcodecs
+
+
+=media-tv/mythtv-0.21_p20877
