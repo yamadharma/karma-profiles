@@ -9,5 +9,7 @@ gs jbig \
 truetype cleartype \
 djvu pdf \
 lasi \
+corefonts \
+autotrace lqr \
 "
 
