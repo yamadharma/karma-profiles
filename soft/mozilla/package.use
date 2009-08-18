@@ -1,2 +1,3 @@
 # net-libs/xulrunner					qt-experimental
 # www-client/mozilla-firefox				qt-experimental
+app-emulation/virt-viewer				-nsplugin
