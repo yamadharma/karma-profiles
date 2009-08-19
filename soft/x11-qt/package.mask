@@ -1,9 +1,4 @@
-# Ben de Groot <yngwin@gentoo.org> (25 Jun 2009)
-# Mask the Qt4 meta ebuild, to prevent devs from being silly and depend on
-# the meta ebuild instead of on the specific split Qt ebuilds needed. See
-# bug 217161 comment 11. Users may unmask this if they want to pull in all
-# Qt modules, but packages in portage (or overlays) will pull in the split
-# modules they need as dependency. Unmasking this will most likely pull in
-# more than you need. This meta ebuild will be removed when we can add sets
-# to the portage tree.
--=x11-libs/qt-4*
+# Ben de Groot <yngwin@gentoo.org> (1 Feb 2009)
+# Masked because it's broken in current form. Several issues, see
+# tracker bug 224951
+-dev-ruby/qt4-qtruby
