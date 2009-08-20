@@ -6,3 +6,6 @@ gnustep-base/gnustep-make					native-exceptions
 
 =app-emulation/wine-etersoft-public-1.0.9.40			hal scanner ldap
 
+app-emulation/wine-etersoft-public				dbus hal scanner ldap
+
+
