@@ -21,7 +21,7 @@ media-libs/libmng   lib32
 media-libs/libpng   lib32
 media-libs/tiff   lib32
 net-dns/libidn   lib32
-net-print/cups   lib32
+# net-print/cups					lib32
 sys-apps/dbus   lib32
 sys-apps/file   lib32
 sys-devel/libtool   lib32
@@ -32,7 +32,7 @@ sys-libs/e2fsprogs-libs   lib32
 sys-libs/gdbm   lib32
 sys-libs/gpm   lib32
 sys-libs/ncurses   lib32
-sys-libs/pam   lib32
+sys-libs/pam						lib32
 dev-libs/atk   lib32
 x11-libs/cairo   lib32
 x11-libs/gtk+   lib32
@@ -84,4 +84,12 @@ sys-libs/readline					lib32
 dev-lang/python						lib32
 dev-db/sqlite						lib32
 sys-fs/udev						lib32
+media-libs/glitz					lib32
+x11-libs/xcb-util					lib32
+sys-devel/flex						lib32
 sys-devel/gettext					lib32
+virtual/glu						lib32
+x11-misc/imake						lib32
+x11-misc/xorg-cf-files					lib32
+virtual/opengl						lib32
+sys-apps/acl						lib32
