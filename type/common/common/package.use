@@ -1,5 +1,5 @@
-# app-misc/mc							attrs ext2undel dnotify
 app-misc/mc							ext2undel
+app-misc/mc							chdir
 net-analyzer/nagios-nrpe					ssl command-args
 app-admin/puppet						augeas shadow
 # sys-devel/binutils						gold
