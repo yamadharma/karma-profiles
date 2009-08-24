@@ -39,6 +39,7 @@ rar \
 xerces-c \
 socks socks5 \
 quota \
+libyaml \
 "
 
 LINGUAS="ru en"
