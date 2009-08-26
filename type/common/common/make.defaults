@@ -85,7 +85,8 @@ ${LAYMAN_DIR}/bazaar \
 # PORTDIR_OVERLAY="/usr/local/share/portage/local/"
 
 # LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,--as-needed -Wl,--enable-new-dtags -s"
-LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--as-needed -Wl,--enable-new-dtags -Wl,--sort-common -s"
+LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--as-needed -Wl,--enable-new-dtags -Wl,--sort-common"
+#LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--as-needed -Wl,--enable-new-dtags -Wl,--sort-common -s"
 # LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--enable-new_ldflags -Wl,--enable-new-dtags -Wl,--sort-common -s"
 
 
