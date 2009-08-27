@@ -81,6 +81,8 @@ ${LAYMAN_DIR}/bazaar \
 # ${LAYMAN_DIR}/science \
 # ${LAYMAN_DIR}/dev-zero \
 # ${LAYMAN_DIR}/sabayon \
+# OpenCA
+# ${LAYMAN_DIR}/rion \
 
 # PORTDIR_OVERLAY="/usr/local/share/portage/local/"
 

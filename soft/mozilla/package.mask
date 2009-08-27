@@ -9,7 +9,6 @@
 -=net-libs/xulrunner-1.9.1*
 -=dev-libs/nspr-4.8*
 
-# Nirbheek Chauhan <nirbheek@gentoo.org> (13 Jul 2009)
-# Needs mozilla-firefox-3.5, which is masked
-->=www-plugins/mozilla-weave-0.4
-
+# Mounir Lamouri <volkmar@gentoo.org> (24 Aug 2009)
+# Masking testing version of mozilla-weave
+->=www-plugins/mozilla-weave-0.6_pre2
