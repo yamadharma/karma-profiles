@@ -1,4 +1,4 @@
 =app-office/openoffice-3.0.1					nsplugin
-=app-office/openoffice-3.1*					nsplugin
+=app-office/openoffice-3.1.0*					nsplugin
 =dev-java/icedtea6-1.4.1-r1					nsplugin
 
