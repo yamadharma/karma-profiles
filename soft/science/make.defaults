@@ -2,7 +2,6 @@ USE="\
 fortran95 \
 numeric numarray \
 excel \
-cblas \
 "
 
 PORTDIR_OVERLAY="\
