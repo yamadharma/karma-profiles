@@ -171,3 +171,9 @@ log4j servletapi \
 # faad matroska \
 # tdb recursor \
 # fbcon \
+
+
+FEATURES="${FEATURES} \
+nodoc \
+"
+
