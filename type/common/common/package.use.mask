@@ -43,3 +43,5 @@ dev-libs/glib			doc
 dev-python/jinja2		doc
 
 dev-util/git			subversion
+dev-python/pylint		html
+
