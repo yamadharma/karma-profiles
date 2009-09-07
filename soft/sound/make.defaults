@@ -24,6 +24,8 @@ faac faad \
 spiff \
 cue lastfmradio libmms \
 xspf \
+lastfm \
+cpudetection \
 "
 # arts artswrappersuid
 # amarok \
