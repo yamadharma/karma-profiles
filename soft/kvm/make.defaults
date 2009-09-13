@@ -1,6 +1,5 @@
 USE="\
 kvm \
 vde \
-server \
 "
-# havekernel \
+
