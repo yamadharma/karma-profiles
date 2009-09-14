@@ -4,7 +4,7 @@ stun \
 sip h323 \
 g711plc \
 wav \
-dns dtmf fax h224 h281 iax ivr ixj lid rfc4175 sbc sipim srtp stats vpb vxml \
+dns dtmf fax h224 h281 iax ixj lid rfc4175 sbc sipim srtp stats vpb \
 pipechan qos shmvideo soap \
 "
 
@@ -13,3 +13,4 @@ pipechan qos shmvideo soap \
 #${PORTDIR_OVERLAY}"
 
 # xcap \
+# vxml ivr \
