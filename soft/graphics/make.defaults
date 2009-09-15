@@ -11,5 +11,6 @@ djvu pdf \
 lasi \
 corefonts \
 autotrace lqr \
+fontconfig \
 "
 
