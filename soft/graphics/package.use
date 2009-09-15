@@ -1,2 +1,3 @@
 media-gfx/gimp							webkit
 media-gfx/ufraw							contrast timezone
+media-libs/gd							-fontconfig jpeg png

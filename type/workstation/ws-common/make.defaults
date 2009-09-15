@@ -226,7 +226,6 @@ device-mapper \
 fping \
 inquisitio \
 galago thunderbird \
-fontconfig \
 toolkit-scroll-bars xft  gzip-el \
 glib pch sqlite3 \
 purge \
