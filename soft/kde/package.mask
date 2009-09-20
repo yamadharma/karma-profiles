@@ -26,26 +26,18 @@
 ->=dev-util/kdevplatform-0.9.91
 
 
-
-
-# Tomas Chvatal <scarabeus@gentoo.org> (30 Apr 2009)
-# mask the koffice2 (notetoself dont use slot blocks)
-->=app-office/kword-1.9.99.0
-->=app-office/kplato-1.9.99.0
-->=app-office/kpresenter-1.9.99.0
-->=app-office/kchart-1.9.99.0
-->=app-office/karbon-1.9.99.0
-->=app-office/krita-1.9.99.0
-->=app-office/koffice-data-1.9.99.0
-->=app-office/koffice-libs-1.9.99.0
-->=app-office/kspread-1.9.99.0
-->=app-office/koffice-l10n-1.9.99.0
-->=app-office/koffice-meta-1.9.99.0
-
-
-
 # Thomas Sachau <tommy@gentoo.org> (21 Aug 2009)
 # Mask alpha version of k3b
 ->=app-cdr/k3b-1.66.0_alpha2
 
+~app-office/kword-2.0.82
+~app-office/kplato-2.0.82
+~app-office/kpresenter-2.0.82
+~app-office/kchart-2.0.82
+~app-office/karbon-2.0.82
+~app-office/krita-2.0.82
+~app-office/koffice-data-2.0.82
+~app-office/koffice-libs-2.0.82
+~app-office/kspread-2.0.82
+~app-office/koffice-meta-2.0.82
 
