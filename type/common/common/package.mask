@@ -122,3 +122,7 @@ app-text/ghostscript-esp
 -net-fs/samba-client
 -net-fs/samba-libs
 -net-fs/samba-server
+
+# С сетью проблемы
+=sys-fs/udev-146
+
