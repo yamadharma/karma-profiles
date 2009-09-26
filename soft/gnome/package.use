@@ -1,6 +1,11 @@
 gnome-extra/kiba-dock							-glitz akamaru
 gnome-extra/kiba-plugins						-glitz
 gnome-extra/nautilus-sendto						mail empathy gajim pidgin
+x11-base/xorg-server							kdrive
+net-im/empathy								map
+net-libs/webkit-gtk							websockets
+media-video/totem							iplayer youtube
+gnome-base/gvfs								gdu gudev
 
 
 

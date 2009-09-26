@@ -40,6 +40,7 @@ xerces-c \
 socks socks5 \
 quota \
 libyaml \
+udev \
 "
 
 LINGUAS="ru en"

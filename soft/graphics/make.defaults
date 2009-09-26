@@ -12,5 +12,7 @@ lasi \
 corefonts \
 autotrace lqr \
 fontconfig \
+poppler \
+babl \
 "
 

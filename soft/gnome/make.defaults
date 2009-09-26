@@ -11,13 +11,15 @@ banshee \
 gconf \
 policykit \
 libarchive \
+webkit \
+introspection \
+libunique atk libsoup libwnck \
 "
-# webkit
 # tracker
 
-#PORTDIR_OVERLAY="\
-#${LAYMAN_DIR}/gnome \
-#${PORTDIR_OVERLAY}"
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/gnome \
+${PORTDIR_OVERLAY}"
 
 #PORTDIR_OVERLAY="\
 #${LAYMAN_DIR}/voip \
