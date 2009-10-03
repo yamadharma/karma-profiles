@@ -7,3 +7,8 @@
 # more than you need. This meta ebuild will be removed when we can add sets
 # to the portage tree.
 -=x11-libs/qt-4*
+
+
+=dev-python/sip-4.9
+=dev-python/PyQt4-4.6
+

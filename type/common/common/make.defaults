@@ -41,6 +41,7 @@ socks socks5 \
 quota \
 libyaml \
 udev \
+python3 \
 "
 
 LINGUAS="ru en"
