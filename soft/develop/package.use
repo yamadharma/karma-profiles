@@ -2,3 +2,5 @@ dev-util/gambas							examples odbc qt3
 dev-util/cmake							python3
 dev-util/anjuta							valgrind
 
+sys-devel/llvm							llvm-gcc
+
