@@ -42,6 +42,7 @@ quota \
 libyaml \
 udev \
 python3 \
+spidermonkey \
 "
 
 LINGUAS="ru en"
