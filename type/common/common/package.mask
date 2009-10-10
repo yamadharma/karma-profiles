@@ -145,3 +145,7 @@ app-text/ghostscript-esp
 
 # Editor errors
 =app-misc/mc-4.7.0_pre3
+
+# Russian don't supported
+=app-arch/unzip-6*
+

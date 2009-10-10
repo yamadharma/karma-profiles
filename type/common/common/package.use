@@ -7,4 +7,8 @@ app-arch/cabextract						extra-tools
 # dev-util/subversion						-webdav-neon webdav-serf
 sys-devel/gcc							graphite
 
+net-fs/samba-libs						addns samba4 smbclient smbsharemodes cluster
+net-fs/samba-server						samba4 cluster
+net-fs/samba-client						samba4 cluster
+
 
