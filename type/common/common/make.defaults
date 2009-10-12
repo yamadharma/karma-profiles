@@ -95,6 +95,8 @@ LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--as-needed -Wl
 #LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--as-needed -Wl,--enable-new-dtags -Wl,--sort-common -s"
 # LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--enable-new_ldflags -Wl,--enable-new-dtags -Wl,--sort-common -s"
 
+ACCEPT_LICENSE="*"
+ACCEPT_PROPERTIES="*"
 
 PORTAGE_ELOG_SYSTEM="save"
 PORTAGE_ELOG_CLASSES="warn error info log"
