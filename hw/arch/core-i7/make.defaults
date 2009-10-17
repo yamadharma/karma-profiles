@@ -6,7 +6,8 @@
 
 USE="\
 mmx mmx2 mmxext sse sse2 \
-ssse3 hvm \
+ssse3 sse3 \
+hvm \
 "
 
 CFLAGS="${CFLAGS} -march=prescott -mtune=prescott"
