@@ -143,6 +143,8 @@ app-text/ghostscript-esp
 -<sys-devel/llvm-2.6
 -<sys-devel/llvm-gcc-2.6
 
+=app-portage/eix-0.18.2
+
 # Editor errors
 =app-misc/mc-4.7.0_pre3
 
