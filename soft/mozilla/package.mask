@@ -1,6 +1,5 @@
-# Mounir Lamouri <volkmar@gentoo.org> (24 Aug 2009)
-# Masking testing version of mozilla-weave
-->=www-plugins/mozilla-weave-0.6_pre2
+=net-libs/xulrunner-1.9.2_beta1
+=www-client/mozilla-firefox-3.6_beta1
 
 # Jory A. Pratt <anarchy@gentoo.org> (24 Sep 2009)
 # Much testing needed, not ready for mainline by any means.
