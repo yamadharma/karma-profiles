@@ -10,5 +10,6 @@ sci-mathematics/scilab						examples doc
 #
 sci-mathematics/scilab						scicos
 # sci-physics/root						cint7
+sci-mathematics/octave						64bit arpack framework-opengl glpk qrupdate
 
 
