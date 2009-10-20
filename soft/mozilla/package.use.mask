@@ -4,3 +4,5 @@
 
 net-libs/xulrunner						sqlite
 www-client/mozilla-firefox					sqlite
+www-client/seamonkey						sqlite
+
