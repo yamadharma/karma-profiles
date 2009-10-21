@@ -1,5 +1,7 @@
 media-sound/xmms2			asx diskwrite eq lastfm mms nophonehome ofa xspf
 # cpp avcodec
 media-sound/jack-audio-connection-kit			classic freebob dbus mixed
+media-plugins/audacious-plugins				bs2b projectm
+
 
 

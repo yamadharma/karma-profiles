@@ -29,3 +29,8 @@
 ->=media-plugins/mythweather-0.22_alpha1
 ->=www-apps/mythweb-0.22_alpha1
 ->=media-plugins/mythzoneminder-0.22_alpha1
+
+
+
+=media-libs/x264-0.0.20090923
+=media-video/x264-encoder-0.0.20090923
