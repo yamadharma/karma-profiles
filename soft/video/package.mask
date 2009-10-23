@@ -29,3 +29,13 @@
 ->=media-plugins/mythweather-0.22_alpha1
 ->=www-apps/mythweb-0.22_alpha1
 ->=media-plugins/mythzoneminder-0.22_alpha1
+
+# Diego E. Pettenò <flameeyes@gentoo.org> (23 Oct 2009)
+#  on behalf of QA team
+#
+# Fetches FFmpeg sources out of Subversion repository which makes it
+# the same as a Live SVN. Even worse, it does not figure as one since
+# it does so in the upstream-provided scripts and not in the ebuild.
+#
+# See bug #290233
+-=media-video/avidemux-2.5.1_p*
