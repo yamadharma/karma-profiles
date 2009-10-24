@@ -11,4 +11,6 @@
 
 =dev-python/sip-4.9
 =dev-python/PyQt4-4.6
+=dev-python/sip-4.9.1
+=dev-python/PyQt4-4.6.1
 
