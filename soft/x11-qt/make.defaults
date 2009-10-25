@@ -2,6 +2,7 @@ USE="\
 qt4 \
 raster \
 qt3support \
+optimized-qmake \
 "
 # qt3 \
 
