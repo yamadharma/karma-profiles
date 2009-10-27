@@ -1,1 +1,11 @@
+# Michal Januszewski <spock@gentoo.org> (29 Jul 2009)
+# Masked until an official, non-beta NVIDIA driver supporting CUDA 2.3
+# is released.
+->=dev-util/nvidia-cuda-sdk-2.3
+->=dev-util/nvidia-cuda-toolkit-2.3
+
+# Michał Januszewski <spock@gentoo.org> (26 Jul 2009)
+# Mask for beta versions of the NVIDIA drivers.
+->=x11-drivers/nvidia-drivers-190.18
+->=media-video/nvidia-settings-190.18
 
