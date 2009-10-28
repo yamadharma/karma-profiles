@@ -1,3 +1,1 @@
-# Trubles to kde compile
-=sys-devel/gcc-4.3.3
 
