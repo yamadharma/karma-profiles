@@ -70,7 +70,6 @@ PORT_LOGDIR="/var/log/portage/"
 LAYMAN_DIR="/usr/portage/local/layman"
 
 PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/dev-zero \
 ${LAYMAN_DIR}/zugaina \
 ${LAYMAN_DIR}/sunrise \
 ${LAYMAN_DIR}/haskell \
@@ -86,6 +85,7 @@ ${LAYMAN_DIR}/bazaar \
 # ${LAYMAN_DIR}/science \
 # ${LAYMAN_DIR}/dev-zero \
 # ${LAYMAN_DIR}/sabayon \
+# ${LAYMAN_DIR}/dev-zero \
 # OpenCA
 # ${LAYMAN_DIR}/rion \
 

@@ -42,4 +42,4 @@
 
 # From dev-zero
 =gnome-extra/policykit-gnome-0.92
-=dev-python/gdl-python-2.25.3
+
