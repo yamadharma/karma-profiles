@@ -40,3 +40,5 @@
 ->=net-misc/networkmanager-0.8.0_pre20090824
 ->=gnome-extra/nm-applet-0.8.0_pre20090824
 
+# From dev-zero
+=gnome-extra/policykit-gnome-0.92
