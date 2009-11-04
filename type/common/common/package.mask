@@ -137,17 +137,6 @@ app-text/ghostscript-esp
 -~sys-devel/libperl-5.10.1
 -=app-admin/perl-cleaner-2*
 
-# Bernard Cafarelli <voyageur@gentoo.org> (5 Oct 2009)
-# New ebuilds, mask rc versions for testing
--<sys-devel/clang-2.6
--<sys-devel/llvm-2.6
--<sys-devel/llvm-gcc-2.6
-
-=app-portage/eix-0.18.2
-
-# Editor errors
-=app-misc/mc-4.7.0_pre3
-
 # Russian don't supported
 =app-arch/unzip-6*
 
