@@ -3,3 +3,5 @@ gnome-extra/kiba-plugins						glitz
 
 gnome-base/gdm								afs
 
+dev-libs/gir-repository							webkit
+

@@ -10,3 +10,4 @@ gnome-base/gvfs								gdu gudev
 
 dev-util/bzr-gtk							-gconf -gnome-keyring
 
+
