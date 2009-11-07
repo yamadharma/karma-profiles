@@ -10,6 +10,8 @@ x11-wm/compiz							-kde -kde4
 net-dns/avahi							qt3 dbus
 
 kde-base/kdelibs						bindist
+app-office/krita						gmm
+app-office/karbon						wpg
 
 
 
