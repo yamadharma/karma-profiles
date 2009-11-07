@@ -43,6 +43,7 @@ libyaml \
 udev \
 python3 \
 isdn \
+ssl gnutls \
 "
 
 LINGUAS="ru en"
