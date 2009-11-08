@@ -1,0 +1,3 @@
+=app-emulation/kvm-kmod-85*
+=app-emulation/kvm-kmod-86*
+=app-emulation/kvm-kmod-88*
