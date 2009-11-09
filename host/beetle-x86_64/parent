@@ -3,7 +3,7 @@
 ../../hw/video/nvidia/gfx8000
 ../../hw/net/bluetooth
 ../../soft/qemu
-../../soft/kvm
+#../../soft/kvm
 
 
 
