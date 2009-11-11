@@ -2,4 +2,6 @@
 ../../hw/arch/core2/x86
 ../../hw/video/intel
 ../../hw/platform/notebook
+../../soft/netbook-remix
+
 
