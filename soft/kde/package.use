@@ -13,5 +13,7 @@ kde-base/kdelibs						bindist
 app-office/krita						gmm
 app-office/karbon						wpg
 
+app-misc/tracker						kmail
+
 
 
