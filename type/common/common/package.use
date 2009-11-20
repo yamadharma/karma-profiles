@@ -11,4 +11,5 @@ net-fs/samba-server						cluster
 net-fs/samba-client						cluster
 
 app-shells/dash							static
+sys-fs/udev							extras
 
