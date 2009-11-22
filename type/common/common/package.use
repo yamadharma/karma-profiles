@@ -13,3 +13,4 @@ net-fs/samba-client						cluster
 app-shells/dash							static
 sys-fs/udev							extras
 
+net-analyzer/scapy						tcpreplay
