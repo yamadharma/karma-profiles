@@ -1,2 +1,2 @@
-app-emulation/libvirt					qemu
+app-emulation/libvirt					qemu virtualbox
 app-emulation/kvm					havekernel -modules
