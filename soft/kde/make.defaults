@@ -23,6 +23,7 @@ oscar \
 phonon \
 akonadi \
 kontact \
+kde4enablefinal \
 "
 # telepathy
 # kdeprefix \
