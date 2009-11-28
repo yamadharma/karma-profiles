@@ -23,10 +23,10 @@ oscar \
 phonon \
 akonadi \
 kontact \
-kde4enablefinal \
 "
 # telepathy
 # kdeprefix \
+# kde4enablefinal \
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/kde-testing \
