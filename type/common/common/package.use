@@ -14,3 +14,5 @@ app-shells/dash							static
 sys-fs/udev							extras
 
 net-analyzer/scapy						tcpreplay
+
+app-portage/eix							strong-optimization optimization
