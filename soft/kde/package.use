@@ -15,5 +15,7 @@ app-office/karbon						wpg
 
 app-misc/tracker						kmail
 
+kde-base/kdeplasma-addons					qalculate qwt scim
+
 
 
