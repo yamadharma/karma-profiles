@@ -16,3 +16,4 @@ app-text/pdf2oo							kde
 
 # Temporary
 kde-base/kdebase-kioslaves					sftp
+
