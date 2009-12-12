@@ -1,0 +1,2 @@
+CFLAGS="${CFLAGS} -march=nocona -mtune=nocona"
+CXXFLAGS="${CFLAGS}"

@@ -1,0 +1,16 @@
+# vendor_id  : GenuineIntel
+# cpu family  : 6
+# model  : 14, 22
+# model name  : Genuine Intel(R) CPU TXXXX @ XXXGHz
+# model name  : Intel(R) Celeron(R) CPU 220 @ 1.20GHz
+# model name  : Intel(R) Celeron(R) CPU 4X0 @ XXXGHz
+
+# vendor_id  : GenuineIntel
+# cpu family  : 6
+# model  : 15
+# model name  : Intel(R) Core(TM)2 CPU XXXX @ XXXGHz
+
+
+
+CFLAGS="${CFLAGS} -march=pentium4 -mtune=pentium4"
+CXXFLAGS="${CFLAGS}"
