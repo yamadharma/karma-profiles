@@ -9,6 +9,4 @@ dev-libs/boost							-doc
 dev-lang/python							-doc
 dev-db/postgresql-base						-doc
 
-net-libs/aqbanking						qt3
-
 app-admin/conky							iostats lua-cairo lua-imlib
