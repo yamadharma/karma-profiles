@@ -1,1 +1,2 @@
-dev-lang/php					mysql
+dev-lang/php					mysql soap posix
+

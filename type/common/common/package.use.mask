@@ -14,7 +14,7 @@ dev-util/bzr-gtk		libnotify
 #app-editors/emacs-cvs		kerberos
 #{{{ snmp
 #=net-analyzer/net-snmp-5.4.1*	ipv6 perl
-=net-analyzer/net-snmp-5.4.2*	rpm ipv6 perl
+#=net-analyzer/net-snmp-5.4.2*	rpm ipv6 perl
 #}}}
 =net-fs/autofs-5.0.3*		sasl
 dev-util/subversion		ruby
