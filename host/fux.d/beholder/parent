@@ -1,6 +1,7 @@
 ../common
 ../../../soft/php
 ../../../soft/java
+../../../soft/apache
 ../../../soft/lighttpd
 ../../../soft/nagios
 ../../../soft/mysql
