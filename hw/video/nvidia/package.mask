@@ -9,3 +9,6 @@
 ->=x11-drivers/nvidia-drivers-190.18
 ->=media-video/nvidia-settings-190.18
 
+# VDPAU problem
+=x11-drivers/nvidia-drivers-190.53
+=media-video/nvidia-settings-190.53
