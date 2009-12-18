@@ -2,7 +2,6 @@
 ../../hw/arch/core2/x86_64
 ../../hw/platform/notebook
 ../../hw/net/bluetooth
-../../hw/video/radeonhd
-../../hw/video/ati_fglrx
+../../hw/video/ati
 
 

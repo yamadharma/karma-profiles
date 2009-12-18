@@ -1,4 +1,5 @@
 ../../common/common
+../../../soft/selinux
 ../../../soft/snmp
 ../../../soft/nagios-client
 
