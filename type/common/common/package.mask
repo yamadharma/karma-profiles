@@ -140,4 +140,6 @@ app-text/ghostscript-esp
 # Russian don't supported
 =app-arch/unzip-6*
 
+# infinit loop when compile
+=app-admin/system-tools-backends-2.8.3
 
