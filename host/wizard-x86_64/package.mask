@@ -1,1 +1,3 @@
 >sys-apps/portage-2.2_rc33
+=net-libs/webkit-gtk-1.1.17
+
