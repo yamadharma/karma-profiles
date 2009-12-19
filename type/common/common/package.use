@@ -16,3 +16,4 @@ sys-fs/udev							extras
 net-analyzer/scapy						tcpreplay
 
 app-portage/eix							strong-optimization optimization
+net-libs/libpcap						libnl
