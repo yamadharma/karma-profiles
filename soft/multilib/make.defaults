@@ -2,6 +2,7 @@
 # http://wiki.github.com/sjnewbury/multilib-overlay
 
 USE="\
+lib32
 "
 
 SETARCH_ARCH_x86="i686"
