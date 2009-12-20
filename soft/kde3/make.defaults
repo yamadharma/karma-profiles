@@ -1,0 +1,7 @@
+USE="\
+kde \
+"
+
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/kde-sunset \
+${PORTDIR_OVERLAY}"
