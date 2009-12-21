@@ -17,3 +17,5 @@ app-misc/tracker						kmail
 
 kde-base/kdeplasma-addons					qalculate qwt scim
 
+app-office/openoffice						-kde
+

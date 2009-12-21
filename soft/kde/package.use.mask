@@ -9,7 +9,7 @@ app-office/koffice-l10n						doc
 
 net-im/sim							kde
 
-app-office/openoffice						kde
+#app-office/openoffice						kde
 
 app-text/pdf2oo							kde
 
