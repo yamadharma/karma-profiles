@@ -5,4 +5,4 @@ app-text/djvu						-nsplugin
 
 media-gfx/freewrl					libeai
 
-www-client/mozilla-firefox				bindist
+# www-client/mozilla-firefox				bindist

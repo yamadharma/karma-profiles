@@ -1,5 +1,5 @@
-=net-libs/xulrunner-1.9.2_beta*
-=www-client/mozilla-firefox-3.6_beta*
+#=net-libs/xulrunner-1.9.2_beta*
+#=www-client/mozilla-firefox-3.6_beta*
 
 # Jory A. Pratt <anarchy@gentoo.org> (24 Sep 2009)
 # Much testing needed, not ready for mainline by any means.
