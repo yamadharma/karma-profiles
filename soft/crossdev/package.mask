@@ -1,0 +1,7 @@
+# Diego E. Petten <flameeyes@gentoo.org> (03 Jan 2009)
+# These packages are not supposed to be merged directly, instead
+# please use sys-devel/crossdev to install them.
+-dev-libs/cygwin
+-dev-util/mingw-runtime
+-dev-util/mingw64-runtime
+-dev-util/w32api
