@@ -1,3 +1,2 @@
 dev-lang/lazarus				gtk qt
 =dev-ml/lablgtk-2.10.1				gnome
-
