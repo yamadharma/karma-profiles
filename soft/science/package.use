@@ -13,4 +13,14 @@ sci-mathematics/scilab						scicos
 # sci-physics/root						cint7
 sci-mathematics/octave						64bit arpack framework-opengl glpk qrupdate
 
+sci-mathematics/pari						data gmp
+sci-libs/flint							ntl
+sci-mathematics/lcalc						pari
+sci-mathematics/maxima						ecl -sbcl
+sci-libs/linbox							ntl sage
+
+dev-python/sympy						imaging ipython mathml texmacs
+
+
+
 

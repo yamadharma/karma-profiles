@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<layman>
+<overlays>
+<overlay
+  type = "git"
+  src  = "git://github.com/cschwan/sage-on-gentoo.git"
+  contact = "cschwan (at) students (dot) uni-mainz (dot) de"
+  name = "sage-on-gentoo">
+  <link>http://github.com/cschwan/sage-on-gentoo</link>
+  <description>sage-on-gentoo</description>
+</overlay>
+</overlays>
+</layman>

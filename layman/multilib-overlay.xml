@@ -5,7 +5,7 @@
   type = "git"
   src  = "git://github.com/sjnewbury/multilib-overlay.git"
   contact = "steve@snewbury.org.uk"
-  name = "multilib-overlay">
+  name = "multilib">
   <link>http://github.com/sjnewbury/multilib-overlay/tree/master</link>
   <description>Multilib-overlay</description>
 </overlay>

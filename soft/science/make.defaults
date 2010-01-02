@@ -2,8 +2,11 @@ USE="\
 fortran95 \
 numeric numarray \
 excel \
+glpk \
 "
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/science \
+${LAYMAN_DIR}/sage-on-gentoo \
 ${PORTDIR_OVERLAY}"
+
