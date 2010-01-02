@@ -99,7 +99,6 @@ glibc-omitfp \
 haskell pascal php sql \
 7zip editor serial \
 sensord rrdtool \
-clisp \
 mcal memlimit \
 srp ntlm_unsupported_patch  \
 vcd \
