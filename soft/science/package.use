@@ -1,4 +1,3 @@
-sci-mathematics/maxima						clisp -sbcl
 sci-mathematics/cadabra						examples
 media-gfx/graphviz						examples
 sci-visualization/epix						examples
@@ -18,8 +17,8 @@ sci-libs/flint							ntl
 sci-mathematics/lcalc						pari
 sci-mathematics/maxima						ecl -sbcl
 sci-libs/linbox							ntl sage
-
 dev-python/sympy						imaging ipython mathml texmacs
+sci-libs/flint							qs
 
 
 
