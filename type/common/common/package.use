@@ -17,3 +17,5 @@ net-analyzer/scapy						tcpreplay
 
 app-portage/eix							strong-optimization optimization
 net-libs/libpcap						libnl
+
+media-video/ushare						dlna
