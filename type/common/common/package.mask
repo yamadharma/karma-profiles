@@ -142,4 +142,6 @@ app-text/ghostscript-esp
 
 # infinit loop when compile
 =app-admin/system-tools-backends-2.8.3
+=media-libs/libgphoto2-2.4.7-r2
+
 
