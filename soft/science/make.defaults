@@ -3,6 +3,7 @@ fortran95 \
 numeric numarray \
 excel \
 glpk \
+ods xls \
 "
 
 PORTDIR_OVERLAY="\
