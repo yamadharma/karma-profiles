@@ -17,7 +17,7 @@ sci-libs/flint							ntl
 sci-mathematics/lcalc						pari
 sci-mathematics/maxima						ecl -sbcl
 sci-libs/linbox							ntl sage
-sci-mathematics/polybori					sage
+sci-mathematics/polybori					sage singular
 dev-python/sympy						imaging ipython mathml texmacs
 sci-libs/flint							qs
 
