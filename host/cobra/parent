@@ -2,5 +2,7 @@
 ../../hw/arch/pentium4
 ../../hw/video/nvidia
 ../../soft/vnc
-../../soft/kde3
+
+
+
 
