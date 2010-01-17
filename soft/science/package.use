@@ -4,18 +4,19 @@ sci-visualization/epix						examples
 sci-physics/root						examples doc
 dev-python/matplotlib						examples
 app-emacs/imaxima						examples
-sci-mathematics/scilab						examples doc
+# sci-mathematics/scilab						examples doc
 sci-mathematics/octave						examples doc
 
 #
-sci-mathematics/scilab						scicos
+# sci-mathematics/scilab						scicos
 # sci-physics/root						cint7
 sci-mathematics/octave						64bit arpack framework-opengl glpk qrupdate
 
 sci-mathematics/pari						data gmp
 sci-libs/flint							ntl
 sci-mathematics/lcalc						pari
-# sci-mathematics/maxima						ecl -sbcl
+sci-mathematics/maxima						ecl -sbcl
+sci-mathematics/maxima						clisp
 sci-libs/linbox							ntl sage
 sci-mathematics/polybori					sage singular
 dev-python/sympy						imaging ipython mathml texmacs

@@ -1,3 +1,6 @@
 www-client/opera					-qt-static
 x11-themes/qtcurve-qt4					windeco
 
+dev-python/PyQt4					multimedia
+
+
