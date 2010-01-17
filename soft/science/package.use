@@ -4,7 +4,7 @@ sci-visualization/epix						examples
 sci-physics/root						examples doc
 dev-python/matplotlib						examples
 app-emacs/imaxima						examples
-# sci-mathematics/scilab						examples doc
+sci-mathematics/scilab						examples doc
 sci-mathematics/octave						examples doc
 
 #
