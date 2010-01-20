@@ -1,11 +1,20 @@
-# Ben de Groot <yngwin@gentoo.org> (25 Jun 2009)
-# Mask the Qt4 meta ebuild, to prevent devs from being silly and depend on
-# the meta ebuild instead of on the specific split Qt ebuilds needed. See
-# bug 217161 comment 11. Users may unmask this if they want to pull in all
-# Qt modules, but packages in portage (or overlays) will pull in the split
-# modules they need as dependency. Unmasking this will most likely pull in
-# more than you need. This meta ebuild will be removed when we can add sets
-# to the portage tree.
 -=x11-libs/qt-4*
 
-
+# Ben de Groot <yngwin@gentoo.org> (19 Jan 2010)
+# Temporary mask for testing
+-=x11-libs/qt-assistant-4.6.1
+-=x11-libs/qt-core-4.6.1
+-=x11-libs/qt-dbus-4.6.1
+-=x11-libs/qt-demo-4.6.1
+-=x11-libs/qt-gui-4.6.1
+-=x11-libs/qt-multimedia-4.6.1
+-=x11-libs/qt-opengl-4.6.1
+-=x11-libs/qt-phonon-4.6.1
+-=x11-libs/qt-qt3support-4.6.1
+-=x11-libs/qt-script-4.6.1
+-=x11-libs/qt-sql-4.6.1
+-=x11-libs/qt-svg-4.6.1
+-=x11-libs/qt-test-4.6.1
+-=x11-libs/qt-webkit-4.6.1
+-=x11-libs/qt-xmlpatterns-4.6.1
+-=dev-util/qt-creator-1.3.1
