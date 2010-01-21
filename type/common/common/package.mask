@@ -141,7 +141,7 @@ app-text/ghostscript-esp
 =app-arch/unzip-6*
 
 # infinit loop when compile
-=app-admin/system-tools-backends-2.8.3
+#=app-admin/system-tools-backends-2.8.3
 =media-libs/libgphoto2-2.4.7-r2
 
 =app-portage/layman-1.3.0*
