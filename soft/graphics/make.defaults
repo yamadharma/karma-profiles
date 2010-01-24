@@ -14,5 +14,6 @@ autotrace lqr \
 fontconfig \
 poppler \
 babl \
+openjpeg \
 "
 
