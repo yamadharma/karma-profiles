@@ -30,4 +30,4 @@
 # Mask alpha version of k3b
 ->=app-cdr/k3b-1.66.0_alpha2
 
-=app-misc/strigi-0.7.1
+# =app-misc/strigi-0.7.1
