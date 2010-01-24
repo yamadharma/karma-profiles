@@ -1,7 +1,9 @@
-#=net-libs/xulrunner-1.9.2_beta*
-#=www-client/mozilla-firefox-3.6_beta*
-
 # Jory A. Pratt <anarchy@gentoo.org> (24 Sep 2009)
 # Much testing needed, not ready for mainline by any means.
 ->=www-client/seamonkey-2.0_beta2
 
+# Mike Auty <ikelos@gentoo.org> (23 Jan 2010)
+# Masking at the request of Anarchy
+# pending investigation of bug 301389
+-=www-client/mozilla-firefox-3.6
+-=net-libs/xulrunner-1.9.2
