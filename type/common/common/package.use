@@ -20,3 +20,5 @@ net-libs/libpcap						libnl
 
 media-video/ushare						dlna
 dev-libs/libburn						track-src-odirect
+
+app-portage/portage-utils					static
