@@ -5,5 +5,5 @@
 # Mike Auty <ikelos@gentoo.org> (23 Jan 2010)
 # Masking at the request of Anarchy
 # pending investigation of bug 301389
--=www-client/mozilla-firefox-3.6
--=net-libs/xulrunner-1.9.2
+=www-client/mozilla-firefox-3.7*
+=net-libs/xulrunner-1.9.3*
