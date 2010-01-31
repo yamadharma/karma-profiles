@@ -6,13 +6,15 @@
 ->=sys-auth/policykit-0.6
 ->=gnome-extra/policykit-gnome-0.6
 
-# Tomas Chvatal <scarabeus@gentoo.org> (04 Dec 2008)
-# new version, needs policykit which is masked
-->=gnome-extra/nm-applet-0.7.0
-->=net-misc/networkmanager-0.7.0
-->=net-misc/networkmanager-vpnc-0.7.0
-->=net-misc/networkmanager-pptp-0.7.0
-->=net-misc/networkmanager-openvpn-0.7.0
+# Nirbheek Chauhan <nirbheek@gentoo.org> (25 Jan 2010)
+# Final rc of networkmanager-0.8 and friends
+# Mask for testing
+-=net-misc/networkmanager-0.7.999*
+-=net-misc/networkmanager-pptp-0.7.999*
+-=net-misc/networkmanager-vpnc-0.7.999*
+-=net-misc/networkmanager-openvpn-0.7.999*
+-=gnome-extra/nm-applet-0.7.999*
+
 
 # Markus Ullmann <jokey@gentoo.org> (5 Apr 2009)
 # mask until gnome 2.26 is in-tree (needs libsoup 2.26)
