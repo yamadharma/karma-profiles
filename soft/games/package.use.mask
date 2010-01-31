@@ -1,1 +1,1 @@
-=games-strategy/xscorch-0.2.0-r1						mikmod
+=games-strategy/xscorch-0.2.0-r1						gtk
