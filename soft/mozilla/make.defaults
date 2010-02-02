@@ -10,7 +10,7 @@ custom-optimization \
 nsplugin \
 "
 
-#PORTDIR_OVERLAY="\
-#${LAYMAN_DIR}/mozilla \
-#${PORTDIR_OVERLAY}"
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/mozilla \
+${PORTDIR_OVERLAY}"
 
