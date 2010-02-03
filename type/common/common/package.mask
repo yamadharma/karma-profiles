@@ -148,4 +148,4 @@ app-text/ghostscript-esp
 # Malloc problem
 =dev-libs/glib-2.22.4
 
-app-dict/stardict
+
