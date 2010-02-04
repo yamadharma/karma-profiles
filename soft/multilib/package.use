@@ -97,4 +97,6 @@ x11-libs/qt-xmlpatterns					lib32
 x11-libs/qt-core					lib32
 x11-libs/qt-gui						lib32
 x11-libs/qt-webkit					lib32
+dev-db/ctdb						lib32
 
+app-text/ghostscript-gpl				cups

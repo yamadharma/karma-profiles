@@ -6,9 +6,10 @@ app-arch/cabextract						extra-tools
 
 sys-devel/gcc							graphite
 
-net-fs/samba-libs						addns smbclient smbsharemodes cluster
-net-fs/samba-server						cluster
-net-fs/samba-client						cluster
+net-fs/samba-libs						addns smbclient smbsharemodes 
+#net-fs/samba-libs						cluster
+#net-fs/samba-server						cluster
+#net-fs/samba-client						cluster
 
 app-shells/dash							static
 sys-fs/udev							extras
@@ -22,3 +23,5 @@ media-video/ushare						dlna
 dev-libs/libburn						track-src-odirect
 
 app-portage/portage-utils					static
+
+sys-devel/gcc							gcj

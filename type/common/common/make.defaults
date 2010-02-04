@@ -23,7 +23,6 @@ inotify \
 icu iconv \
 adns \
 hal dbus \
-gcj \
 hdb-ldap otp pkinit \
 geoip \
 pyx \
