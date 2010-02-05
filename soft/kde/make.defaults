@@ -30,5 +30,5 @@ social-desktop \
 # kde4enablefinal \
 
 PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/kde-testing \
+${LAYMAN_DIR}/kde \
 ${PORTDIR_OVERLAY}"
