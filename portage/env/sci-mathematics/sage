@@ -1,0 +1,4 @@
+LC_ALL=C
+MAKEOPTS="-j1"
+CFLAGS=""
+CXXFLAGS=""
