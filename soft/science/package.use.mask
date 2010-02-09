@@ -7,7 +7,7 @@ sci-physics/root							kerberos afs
 =sci-visualization/labplot-1.6.0.2					hdf5
 
 =sci-mathematics/scilab-5.2.0*						hdf5
-=sci-mathematics/scilab-5.2.0*						scicos
+#=sci-mathematics/scilab-5.2.0*						scicos
 #=sci-mathematics/scilab-5.2.0*						doc
 
 
