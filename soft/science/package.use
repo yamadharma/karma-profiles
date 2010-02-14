@@ -9,7 +9,7 @@ sci-mathematics/octave						examples doc
 
 #
 sci-mathematics/scilab						scicos
-sci-mathematics/scilab						xcos
+# sci-mathematics/scilab						xcos
 
 # sci-physics/root						cint7
 sci-mathematics/octave						64bit arpack framework-opengl glpk qrupdate
