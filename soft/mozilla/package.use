@@ -8,3 +8,6 @@ mail-client/mozilla-thunderbird				lightning
 
 =media-gfx/freewrl-1.22.6				-xulrunner -nsplugin
 media-gfx/freewrl					-spidermonkey
+
+dev-db/sqlite						fts3 secure-delete
+
