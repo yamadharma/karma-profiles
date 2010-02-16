@@ -6,3 +6,5 @@ net-libs/xulrunner						sqlite
 www-client/mozilla-firefox					sqlite
 www-client/seamonkey						sqlite
 
+#net-libs/xulrunner						-private
+#www-client/mozilla-firefox					-private
