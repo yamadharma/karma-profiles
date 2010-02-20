@@ -5,3 +5,5 @@ dev-java/lucene-analyzers:2.4
 
 # Old version
 =dev-java/swingx-20070211*
+
+=dev-java/swt-3.5.2_rc1
