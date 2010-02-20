@@ -11,7 +11,7 @@ media-gfx/freewrl					-spidermonkey
 
 dev-db/sqlite						fts3
 
-net-libs/xulrunner					-private
-www-client/mozilla-firefox				-private
-mail-client/mozilla-thunderbird				-private
-dev-db/sqlite						-secure-delete
+#net-libs/xulrunner					-private
+#www-client/mozilla-firefox				-private
+#mail-client/mozilla-thunderbird				-private
+#dev-db/sqlite						-secure-delete
