@@ -26,4 +26,3 @@ app-portage/portage-utils					static
 
 sys-devel/gcc							gcj
 
-dev-lisp/ecls							precisegc

@@ -24,6 +24,6 @@ sci-mathematics/polybori					sage singular
 dev-python/sympy						imaging ipython mathml texmacs
 sci-libs/flint							qs
 
-
+dev-lisp/ecls							precisegc
 
 
