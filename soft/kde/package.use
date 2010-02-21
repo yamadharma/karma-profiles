@@ -19,3 +19,5 @@ kde-base/kdeplasma-addons					qalculate qwt scim
 
 app-office/openoffice						-kde
 
+media-sound/amarok						-embedded
+
