@@ -49,3 +49,6 @@ dev-python/pylint		html
 
 # bzr-gtk too old
 dev-util/bzr-explorer						gtk
+
+# MySQL 5.1 problem
+#=net-libs/libwww-5.4.0-r7					mysql
