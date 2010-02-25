@@ -40,7 +40,6 @@ socks socks5 \
 quota \
 libyaml \
 udev \
-python3 \
 isdn \
 ssl gnutls \
 spidermonkey \

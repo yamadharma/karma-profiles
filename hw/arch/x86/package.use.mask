@@ -1,1 +1,1 @@
-=media-video/ffmpeg-0.5_p20373					mmx
+=media-video/ffmpeg-0.5_p*					mmx
