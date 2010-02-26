@@ -1,2 +1,2 @@
->sys-apps/portage-2.2_rc33
+# >sys-apps/portage-2.2_rc33
 
