@@ -4,6 +4,7 @@
 ../../hw/net/bluetooth
 ../../soft/qemu
 ../../soft/tracker
+#../../soft/beagle
 #../../soft/kvm
 
 

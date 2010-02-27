@@ -2,3 +2,6 @@
 # Masked for more testing, especially with cint7, afs and xrootd
 # on amd64 with gcc-4.4. See bug #280925
 -=sci-physics/root-5.24.00
+
+# For scilab
+# >dev-java/jgraphx-1.0.2.8
