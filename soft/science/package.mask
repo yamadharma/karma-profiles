@@ -4,4 +4,5 @@
 -=sci-physics/root-5.24.00
 
 # For scilab
-# >dev-java/jgraphx-1.0.2.8
+>=dev-java/jgraphx-1.2.0.8
+

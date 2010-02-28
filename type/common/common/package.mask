@@ -131,7 +131,7 @@ app-text/ghostscript-esp
 # Malloc problem
 =dev-libs/glib-2.22.4
 
-=app-text/poppler-0.12.3-r4
-
+=media-libs/libextractor-0.5.23*
+=media-libs/libextractor-0.6.0
 
 
