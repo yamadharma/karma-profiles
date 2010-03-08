@@ -48,7 +48,7 @@ dev-python/pylint		html
 =net-misc/openssh-5.3*						ldap
 
 # bzr-gtk too old
-dev-util/bzr-explorer						gtk
+#dev-vcs/bzr-explorer						gtk
 
 # MySQL 5.1 problem
 #=net-libs/libwww-5.4.0-r7					mysql
