@@ -46,6 +46,7 @@ dev-util/git			subversion
 dev-python/pylint		html
 
 =net-misc/openssh-5.3*						ldap
+=net-misc/openssh-5.4*						ldap
 
 # bzr-gtk too old
 #dev-vcs/bzr-explorer						gtk

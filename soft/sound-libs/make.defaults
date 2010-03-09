@@ -1,0 +1,31 @@
+USE="\
+cdaudio mp3tunes \
+flac mp3 vorbis oggvorbis wavpack ape \
+lame mp3rtp \
+mtp fmod \
+id3tag soundtouch twolame vamp \
+ogg \
+gsm \
+ladspa \
+rhythmbox \
+plugins \
+scrobbler \
+aplay \
+openal \
+shorten \
+mac \
+monitor \
+equalizer \
+artist-screen colors lyrics-screen song-screen cover lyrics \
+celt \
+podcast \
+faac faad \
+spiff \
+cue lastfmradio libmms \
+xspf \
+lastfm \
+midi \
+bs2b \
+playlist \
+sndfile \
+"
