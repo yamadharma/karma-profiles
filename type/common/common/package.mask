@@ -109,10 +109,7 @@ app-text/ghostscript-esp
 # Masked for testing
 ->=sys-devel/gcc-4.4
 
-# Ulrich Mueller <ulm@gentoo.org> (21 Jun 2009)
-# Emacs 23 live CVS ebuilds and packages depending on them.
-->=virtual/emacs-23
--app-emacs/emacs-daemon
+-~app-editors/emacs-vcs-24.0.9999
 
 # Peter Volkov <pva@gentoo.org> (20 Oct 2009)
 # Masked development versions
