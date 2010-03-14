@@ -8,6 +8,6 @@ media-video/totem							iplayer youtube
 gnome-base/gvfs								gdu gudev
 
 
-dev-util/bzr-gtk							-gconf -gnome-keyring
+dev-vcs/bzr-gtk							-gconf -gnome-keyring
 
 
