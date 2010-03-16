@@ -26,4 +26,5 @@ sci-libs/flint							qs
 
 dev-lisp/ecls							precisegc
 
+sci-visualization/gnuplot					thin-splines
 
