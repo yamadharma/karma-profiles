@@ -4,3 +4,4 @@ dev-util/anjuta							valgrind
 
 sys-devel/llvm							llvm-gcc
 
+dev-util/subversion						-dso perl
