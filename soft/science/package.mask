@@ -6,3 +6,7 @@
 # For scilab
 >=dev-java/jgraphx-1.2.0.8
 
+# For sage
+>dev-python/pexpect-2.0
+
+
