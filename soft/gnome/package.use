@@ -9,5 +9,7 @@ gnome-base/gvfs								gdu gudev
 
 
 dev-vcs/bzr-gtk							-gconf -gnome-keyring
+www-plugins/gecko-mediaplayer					-gnome
+
 
 
