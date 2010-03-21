@@ -131,5 +131,6 @@ app-text/ghostscript-esp
 =media-libs/libextractor-0.5.23*
 =media-libs/libextractor-0.6.0
 
-
+# Temporary (Don't compile)
+=dev-libs/icu-4.4
 
