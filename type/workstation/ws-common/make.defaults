@@ -77,7 +77,7 @@ gtkhtml  \
 auctex \
 lm_sensors \
 fftw \
-bzip2 ecc \
+ecc \
 sysfs sysvipc  \
 djbfft threads \
 sox \
@@ -97,7 +97,7 @@ nocd \
 libgda \
 glibc-omitfp \
 haskell pascal php sql \
-7zip editor serial \
+editor serial \
 sensord rrdtool \
 mcal memlimit \
 srp ntlm_unsupported_patch  \
@@ -139,7 +139,7 @@ rhino \
 bl \
 objc++  \
 calendar cddb yaz \
-cgi xmlreader xmlrpc xmlwriter xpm zip hash overload vm-switch pdo reflection \
+cgi xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
 inifile bcmath curl curlwrappers pcntl flatfile \
 sharedext wddx \
 extras \
@@ -225,7 +225,7 @@ device-mapper \
 fping \
 inquisitio \
 galago thunderbird \
-toolkit-scroll-bars xft  gzip-el \
+toolkit-scroll-bars xft \
 glib pch sqlite3 \
 purge \
 daap sdl-image \
@@ -367,7 +367,6 @@ cdrkit \
 # -userlocales
 # jackmidi
 # agg
-# -apache2 
 # ggi
 
 LINGUAS="ru en"

@@ -15,5 +15,6 @@ fontconfig \
 poppler \
 babl \
 openjpeg \
+netpbm \
 "
 

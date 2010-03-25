@@ -49,7 +49,7 @@ fortran \
 dnsdb lmtp exiscan-acl syslog wildlsearch mbox \
 lm_sensors \
 fftw \
-bzip2 ecc \
+ecc \
 sysfs sysvipc  \
 threads \
 expat ithreads \
@@ -62,7 +62,6 @@ rdesktop \
 dlz idn \
 erandom urandom \
 pcre \
-7zip \
 sensord rrdtool \
 exim neural virtual-users \
 fastcgi mcal memlimit \
@@ -85,7 +84,7 @@ blas hdf hdf5 \
 diet \
 objc++ \
 yaz \
-cgi xmlreader xmlrpc xmlwriter xpm zip hash overload vm-switch pdo reflection \
+cgi xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
 iconv inifile bcmath curl curlwrappers pcntl flatfile \
 sharedext wddx \
 dba cli \

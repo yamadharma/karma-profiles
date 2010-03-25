@@ -1,4 +1,6 @@
-USE="apache2 xsl sockets"
+USE="apache2 \
+xsl sockets \
+"
 
 
 APACHE2_MODULES="\

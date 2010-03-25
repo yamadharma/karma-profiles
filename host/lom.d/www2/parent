@@ -1,7 +1,14 @@
 ../common
-../../../soft/php
-../../../soft/lighttpd
 ../../../soft/mysql
+../../../soft/postgres
+../../../soft/video
+../../../soft/sound-libs
+../../../soft/graphics
+../../../soft/photo
+../../../soft/apache
+../../../soft/lighttpd
+../../../soft/php
+
 
 
 

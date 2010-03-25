@@ -29,6 +29,8 @@ pyx \
 ntp \
 john \
 gzip \
+zip unzip \
+bzip2 7zip \
 radvd \
 psf \
 ipv6 \
@@ -43,6 +45,7 @@ udev \
 isdn \
 ssl gnutls \
 spidermonkey \
+pbxt \
 "
 
 LINGUAS="ru en"
