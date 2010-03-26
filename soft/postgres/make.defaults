@@ -1,6 +1,5 @@
 USE="postgres \
 odbc \
-tcl \
 uuid \
 "
 
