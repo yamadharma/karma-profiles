@@ -9,6 +9,7 @@ xrandr \
 compiz-fusion \
 pcf \
 cleartype \
+lcdfilter \
 gtk gtk2 \
 xrender \
 afterimage \
