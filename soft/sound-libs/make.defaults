@@ -28,4 +28,5 @@ midi \
 bs2b \
 playlist \
 sndfile \
+gstreamer \
 "
