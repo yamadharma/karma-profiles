@@ -1,0 +1,6 @@
+for i in /usr/info ${INFOPATH}
+do
+    addpredict ${i}
+done
+
+
