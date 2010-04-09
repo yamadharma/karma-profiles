@@ -76,9 +76,10 @@ PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/zugaina \
 ${LAYMAN_DIR}/sunrise \
 ${LAYMAN_DIR}/haskell \
-${LAYMAN_DIR}/bazaar \
+
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
+# ${LAYMAN_DIR}/bazaar \
 # ${LAYMAN_DIR}/perl-experimental \
 # ${LAYMAN_DIR}/kdesvn-portage \
 # ${LAYMAN_DIR}/kde-crazy \
