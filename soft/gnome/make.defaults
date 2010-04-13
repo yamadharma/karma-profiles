@@ -16,8 +16,9 @@ webkit \
 introspection \
 libunique atk libsoup libwnck \
 goocanvas \
-eds \
 "
+
+# eds \
 # tracker
 # gnome-keyring
 
