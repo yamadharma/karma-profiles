@@ -31,4 +31,6 @@ dev-lisp/ecls							precisegc
 sci-visualization/gnuplot					thin-splines
 
 # sci-libs/gsl							cblas
+sci-mathematics/fricas						ecl
+
 

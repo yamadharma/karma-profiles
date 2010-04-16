@@ -16,3 +16,7 @@
 ->=x11-proto/xcb-proto-1.4
 ->=x11-proto/xproto-7.0.15
 ->=x11-proto/xextproto-7.0.5
+
+
+# Nvidia drivers absent
+=x11-base/xorg-server-1.8.0
