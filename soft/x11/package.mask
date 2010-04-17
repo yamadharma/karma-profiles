@@ -20,3 +20,4 @@
 
 # Nvidia drivers absent
 =x11-base/xorg-server-1.8.0
+=x11-apps/xinit-1.2.1-r1

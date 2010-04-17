@@ -1,0 +1,3 @@
+MAKEOPTS="-j1"
+CFLAGS=""
+
