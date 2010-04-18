@@ -73,10 +73,10 @@ PORT_LOGDIR="/var/log/portage/"
 LAYMAN_DIR="/usr/portage/local/layman"
 
 PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/roslin \
 ${LAYMAN_DIR}/zugaina \
 ${LAYMAN_DIR}/sunrise \
 ${LAYMAN_DIR}/haskell \
-
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
 # ${LAYMAN_DIR}/bazaar \
