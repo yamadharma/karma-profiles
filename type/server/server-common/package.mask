@@ -1,4 +1,5 @@
 =net-misc/openssh-5.4*
+=net-misc/openssh-5.5*
 
 # Selinux patch problem
 =sys-apps/findutils-4.4.2
