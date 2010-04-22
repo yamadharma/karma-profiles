@@ -132,3 +132,5 @@ app-text/ghostscript-esp
 =media-libs/libextractor-0.5.23*
 =media-libs/libextractor-0.6.0
 
+# from zugaina overlay
+=x11-libs/goffice-0.7.2
