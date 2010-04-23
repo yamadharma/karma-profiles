@@ -4,6 +4,8 @@ jack netjack jackmidi jack-tmpfs \
 esd \
 pulseaudio \
 plugins \
+audacious \
+wma \
 "
 # arts artswrappersuid
 # amarok \
