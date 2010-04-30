@@ -134,3 +134,7 @@ app-text/ghostscript-esp
 
 # from zugaina overlay
 =x11-libs/goffice-0.7.2
+
+# Don't compile
+=dev-db/mysql-5.1.46
+
