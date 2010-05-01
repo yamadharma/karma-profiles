@@ -7,7 +7,7 @@ case $GCC_VERSION in
 #	export CFLAGS="$CFLAGS -fopenmp"
 	;;
     *-4.4*)
-#	export CFLAGS="$CFLAGS -fopenmp"
+	export CFLAGS="$CFLAGS -fopenmp"
 	export CFLAGS="$CFLAGS -floop-interchange -floop-strip-mine -floop-block -fgraphite"
 	;;
     *)
