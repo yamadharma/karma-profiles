@@ -137,4 +137,8 @@ app-text/ghostscript-esp
 
 # Don't compile
 =dev-db/mysql-5.1.46
+#=app-text/calibre-0.6.51
+# problem with python
+#=sys-apps/util-linux-2.17.1
+#=sys-apps/util-linux-2.17.2
 
