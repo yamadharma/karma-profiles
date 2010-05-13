@@ -15,5 +15,6 @@ gnome-extra/nautilus-sendto					-empathy
 dev-vcs/bzr-gtk							-gconf -gnome-keyring
 
 app-office/openoffice						-gnome
+app-editors/emacs						-gconf
 
 

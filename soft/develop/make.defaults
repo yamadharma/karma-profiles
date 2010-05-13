@@ -7,6 +7,6 @@ devhelp \
 
 # valgrind \
 
-PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/bazaar \
-${PORTDIR_OVERLAY}"
+#PORTDIR_OVERLAY="\
+#${LAYMAN_DIR}/bazaar \
+#${PORTDIR_OVERLAY}"
