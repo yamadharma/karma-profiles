@@ -80,7 +80,6 @@ lua \
 follow-xff \
 tools \
 unicode \
-blas hdf hdf5 \
 diet \
 objc++ \
 yaz \

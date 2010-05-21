@@ -5,6 +5,7 @@ excel \
 glpk \
 ods xls \
 cdf netcdf \
+blas hdf hdf5 \
 "
 
 PORTDIR_OVERLAY="\
