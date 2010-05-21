@@ -4,6 +4,7 @@ numeric numarray \
 excel \
 glpk \
 ods xls \
+cdf netcdf \
 "
 
 PORTDIR_OVERLAY="\

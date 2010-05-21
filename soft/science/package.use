@@ -33,4 +33,6 @@ sci-visualization/gnuplot					thin-splines
 # sci-libs/gsl							cblas
 sci-mathematics/fricas						ecl
 
+sci-libs/gdal							-hdf netcdf
+
 
