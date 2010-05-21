@@ -59,7 +59,7 @@ cdparanoia divx4linux dvdread fbdev rtc edl lzo mythtv network nvidia xvmc theor
 mng gimpprint graphviz lzw-tiff lzw \
 oav \
 sndfile \
-modelock winbind quotas libclamav \
+modelock quotas libclamav \
 bash-completion portaudio bdf \
 bitmap-fonts insecure-drivers font-server truetype-fonts type1-fonts xv \
 dga real xanim quicktime audiofile \

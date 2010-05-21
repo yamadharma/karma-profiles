@@ -43,7 +43,7 @@ mailwrapper md5sum \
 ucs2 \
 lzw-tiff lzw \
 oav \
-winbind quotas libclamav \
+quotas libclamav \
 bash-completion \
 fortran \
 dnsdb lmtp exiscan-acl syslog wildlsearch mbox \
