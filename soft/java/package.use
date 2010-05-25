@@ -3,7 +3,8 @@ dev-java/icedtea6				nio2 systemtap
 dev-java/icedtea				systemtap zero
 # dev-java/sun-jdk				odbc
 
-www-servers/resin				admin
+www-servers/resin				admin doc
+
 
 
 

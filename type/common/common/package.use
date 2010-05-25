@@ -28,3 +28,5 @@ app-portage/portage-utils					static
 sys-devel/gcc							gcj
 
 app-antivirus/clamav						clamdtop
+
+dev-libs/geoip							perl-geoipupdate
