@@ -1,5 +1,5 @@
 USE="\
-laptop pcmcia wifi bluetooth \
+laptop pcmcia wifi \
 networkmanager \
 "
 
