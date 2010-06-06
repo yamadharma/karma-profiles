@@ -17,7 +17,9 @@ dev-vcs/bzr-gtk							-gconf -gnome-keyring
 app-office/openoffice						-gnome
 app-editors/emacs						-gconf
 
-net-libs/xulrunner					-gnome
-www-client/mozilla-firefox				-gnome
-mail-client/mozilla-thunderbird				-gnome
-x11-plugins/enigmail					-gnome
+net-libs/xulrunner						-gnome
+www-client/mozilla-firefox					-gnome
+mail-client/mozilla-thunderbird					-gnome
+x11-plugins/enigmail						-gnome
+
+net-voip/ekiga							-gconf
