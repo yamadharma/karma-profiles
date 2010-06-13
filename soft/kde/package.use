@@ -22,4 +22,5 @@ app-office/openoffice						-kde
 media-sound/amarok						-embedded
 
 net-voip/ekiga							-kde -kontact
+kde-base/kopete							msn
 
