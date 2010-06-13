@@ -4,7 +4,7 @@ app-text/djvu						-nsplugin
 
 media-gfx/freewrl					libeai
 
-mail-client/mozilla-thunderbird				lightning
+mail-client/thunderbird					lightning
 
 =media-gfx/freewrl-1.22.6				-xulrunner -nsplugin
 media-gfx/freewrl					-spidermonkey
@@ -13,6 +13,6 @@ dev-db/sqlite						fts3
 
 net-libs/xulrunner					-gnome
 www-client/mozilla-firefox				-gnome
-mail-client/mozilla-thunderbird				-gnome
+mail-client/thunderbird					-gnome
 x11-plugins/enigmail					-gnome
 #dev-db/sqlite						-secure-delete
