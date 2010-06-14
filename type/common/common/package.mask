@@ -143,3 +143,6 @@ app-text/ghostscript-esp
 #=sys-apps/util-linux-2.17.1
 #=sys-apps/util-linux-2.17.2
 
+# Криво отображается
+=media-fonts/liberation-font-1.05
+
