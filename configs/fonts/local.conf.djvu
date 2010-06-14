@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+<!-- /etc/fonts/local.conf file for local customizations -->
+<fontconfig>
+	<match target="font" >
+		<edit mode="assign" name="antialias" >
+			<bool>true</bool>
+		</edit>
+	</match>
+	<match target="font" >
+		<edit mode="assign" name="hinting" >
+			<bool>true</bool>
+		</edit>
+	</match>
+	<match target="font" >
+		<edit mode="assign" name="hintstyle" >
+			<const>hintslight</const>
+		</edit>
+	</match>
+	<match target="font" >
+		<edit mode="assign" name="rgba" >
+			<const>rgb</const>
+		</edit>
+	</match>
+	<alias>
+		<family>sans-serif</family>
+		<prefer>
+			<family>DejaVu Sans Condensed</family>
+		</prefer>
+	</alias>
+	<alias>
+		<family>serif</family>
+		<prefer>
+			<family>DejaVu Serif Condensed</family>
+		</prefer>
+	</alias>
+	<alias>
+		<family>monospace</family>
+		<prefer>
+			<family>DejaVu Sans Mono</family>
+		</prefer>
+	</alias>
+	<alias>
+		<family>Helvetica</family>
+		<prefer>
+			<family>DejaVu Sans Condensed</family>
+		</prefer>
+		<default>
+			<family>sans-serif</family>
+		</default>
+	</alias>
+	<alias>
+		<family>Times</family>
+		<prefer>
+			<family>DejaVu Serif Condensed</family>
+		</prefer>
+		<default>
+			<family>serif</family>
+		</default>
+	</alias>
+	<alias>
+		<family>Courier</family>
+		<prefer>
+			<family>DejaVu Sans Mono</family>
+		</prefer>
+		<default>
+			<family>monospace</family>
+		</default>
+	</alias>
+</fontconfig>
