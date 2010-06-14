@@ -116,6 +116,8 @@ app-text/ghostscript-esp
 -=dev-util/bzr-2.1*
 -=dev-util/bzrtools-2.1*
 
+#-=app-arch/rpm-5*
+
 # Russian don't supported
 =app-arch/unzip-6*
 
