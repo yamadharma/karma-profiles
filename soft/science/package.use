@@ -35,4 +35,5 @@ sci-mathematics/fricas						ecl
 
 sci-libs/gdal							-hdf netcdf
 
+sci-chemistry/jmol						vhosts
 
