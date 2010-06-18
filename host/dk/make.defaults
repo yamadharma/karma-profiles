@@ -1,7 +1,7 @@
 USE="\
 afs cpudetection"
 
-VIDEO_CARDS="intel nv sis radeon"
+VIDEO_CARDS="intel sis radeon nouveau"
 
 COMPORTDIR=/com/lib/portage
 PKGDIR=${COMPORTDIR}/packages/ws--pentium4
