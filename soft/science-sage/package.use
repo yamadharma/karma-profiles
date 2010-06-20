@@ -1,0 +1,18 @@
+sci-mathematics/maxima						ecl -sbcl
+sci-mathematics/maxima						clisp
+sci-libs/linbox							ntl sage
+sci-mathematics/polybori					sage singular
+dev-python/sympy						imaging ipython mathml texmacs
+sci-libs/flint							qs
+
+dev-lisp/ecls							precisegc
+
+sci-visualization/gnuplot					thin-splines
+
+# sci-libs/gsl							cblas
+sci-mathematics/fricas						ecl
+
+sci-libs/gdal							-hdf netcdf
+
+sci-chemistry/jmol						vhosts
+

@@ -1,0 +1,7 @@
+# For sage
+>dev-python/pexpect-2.0
+
+=sci-mathematics/maxima-5.21*
+=sci-libs/scipy-0.7.2*
+=dev-python/networkx-1.1*
+
