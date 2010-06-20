@@ -74,11 +74,11 @@ LAYMAN_DIR="/usr/portage/local/layman"
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/roslin \
-${LAYMAN_DIR}/zugaina \
 ${LAYMAN_DIR}/sunrise \
 ${LAYMAN_DIR}/haskell \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
+# ${LAYMAN_DIR}/zugaina \
 # ${LAYMAN_DIR}/bazaar \
 # ${LAYMAN_DIR}/perl-experimental \
 # ${LAYMAN_DIR}/kdesvn-portage \
