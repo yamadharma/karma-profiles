@@ -16,3 +16,5 @@ sci-libs/gdal							-hdf netcdf
 
 sci-chemistry/jmol						vhosts
 
+sci-lib/mpir							cxx
+

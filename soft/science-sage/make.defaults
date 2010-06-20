@@ -1,6 +1,8 @@
 USE="\
 "
 
+# mpir
+
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/science \
 ${LAYMAN_DIR}/sage-on-gentoo \
