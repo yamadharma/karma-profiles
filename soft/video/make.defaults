@@ -18,5 +18,6 @@ wma-fixed libtiger \
 melt \
 opencore-amr \
 vpx \
+vaapi rtmp \
 "
 
