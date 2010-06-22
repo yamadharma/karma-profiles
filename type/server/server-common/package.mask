@@ -4,5 +4,3 @@
 # Selinux patch problem
 =sys-apps/findutils-4.4.2
 =sys-apps/findutils-4.5.8
-
-

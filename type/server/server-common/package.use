@@ -1,4 +1,6 @@
-sys-fs/lvm2						-static
+sys-fs/cryptsetup					dynamic
+
+
 
 
 
