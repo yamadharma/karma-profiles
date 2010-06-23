@@ -151,6 +151,8 @@ app-text/ghostscript-esp
 # Не качаются новости
 =app-text/calibre-0.7.2
 =app-text/calibre-0.7.3
+=app-text/calibre-0.7.4
+
 
 
 

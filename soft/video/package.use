@@ -1,6 +1,6 @@
 media-video/clive				clipboard pager password
 media-libs/mlt					frei0r
 
-media-video/vlc					libproxy
+media-video/vlc					libproxy projectm libv4l
 
 media-plugins/mythmusic				libvisual
