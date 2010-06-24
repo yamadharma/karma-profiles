@@ -6,3 +6,5 @@
 ../../../soft/nagios
 ../../../soft/mysql
 ../../../soft/postgres
+../../../soft/zabbix-server
+
