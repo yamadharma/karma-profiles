@@ -136,6 +136,8 @@ app-text/ghostscript-esp
 
 -=app-arch/rpm-4.8.0
 
+-app-editors/xxe
+
 # from zugaina overlay
 =x11-libs/goffice-0.7.2
 
