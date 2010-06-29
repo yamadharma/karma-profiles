@@ -1,4 +1,5 @@
-net-analyzer/zabbix			agent
+net-analyzer/zabbix			agent -sqlite3
+
 
 
 

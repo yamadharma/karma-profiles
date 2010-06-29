@@ -1,9 +1,9 @@
 USE="\
 xen \
 flask xsm \
-server \
 acm \
 "
+# server
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/xen \
