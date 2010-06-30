@@ -10,3 +10,5 @@ devhelp \
 #PORTDIR_OVERLAY="\
 #${LAYMAN_DIR}/bazaar \
 #${PORTDIR_OVERLAY}"
+
+NETBEANS_MODULES="apisupport harness ide java nb websvccommon cnd dlight enterprise ergonomics groovy identity mobility php profiler ruby"
