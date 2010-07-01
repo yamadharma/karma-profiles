@@ -1,0 +1,7 @@
+USE="\
+"
+
+# For Netbeans
+NETBEANS_MODULES="apisupport harness ide java nb websvccommon cnd dlight enterprise ergonomics groovy identity mobility php profiler ruby"
+RUBY_TARGETS="ruby18 jruby"
+
