@@ -56,3 +56,6 @@ dev-vcs/bzr-explorer						gtk
 #=net-libs/libwww-5.4.0-r7					mysql
 
 =net-analyzer/net-snmp-5.4.2.1*					rpm
+
+#
+net-misc/curl							threads
