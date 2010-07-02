@@ -7,9 +7,8 @@ x11-wm/compiz-fusion						-kde
 x11-wm/compiz							-kde -kde4
 
 # KDE 3.5 compat
-net-dns/avahi							qt3 dbus
+net-dns/avahi							dbus
 
-kde-base/kdelibs						bindist
 app-office/krita						gmm
 app-office/karbon						wpg
 
