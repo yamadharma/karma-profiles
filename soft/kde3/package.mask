@@ -4,3 +4,5 @@
 # http://linuxized.blogspot.com/2008/10/how-to-unmerge-kde-3-packages-if-their.html
 #
 -<kde-base/kdelibs-4
+
+x11-libs/qt:4
