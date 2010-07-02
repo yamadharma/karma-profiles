@@ -1,5 +1,4 @@
 USE="\
-kde \
 "
 
 PORTDIR_OVERLAY="\
