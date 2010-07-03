@@ -74,11 +74,6 @@ app-text/ghostscript-esp
 
 =sys-apps/findutils-4.5.4
 
-# Overlay errors
-#=sys-apps/portage-2.2_rc29
-#=sys-apps/portage-2.2_rc30
-#>sys-apps/portage-2.2_rc33
-
 # Federico Ferri <mescalinum@gentoo.org> (26 May 2008)
 # Deprecated cause depending on unmaintained dev-tcltk/otcl.
 # Everything being moved to 'abandonware' overlay.
@@ -116,8 +111,6 @@ app-text/ghostscript-esp
 -=dev-util/bzr-2.1*
 -=dev-util/bzrtools-2.1*
 
-#-=app-arch/rpm-5*
-
 # Russian don't supported
 =app-arch/unzip-6*
 
@@ -126,10 +119,6 @@ app-text/ghostscript-esp
 
 =app-portage/layman-1.3.0*
 =app-portage/layman-1.3.1*
-
-# Malloc problem
-=dev-libs/glib-2.22.4
-=dev-libs/glib-2.22.5
 
 =media-libs/libextractor-0.5.23*
 =media-libs/libextractor-0.6.0
@@ -144,10 +133,6 @@ app-text/ghostscript-esp
 # Don't compile
 =dev-db/mysql-5.1.46
 =dev-db/postgresql-base-8.4.4-r1
-#=app-text/calibre-0.6.51
-# problem with python
-#=sys-apps/util-linux-2.17.1
-#=sys-apps/util-linux-2.17.2
 
 # Криво отображается
 =media-fonts/liberation-fonts-1.05

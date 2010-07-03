@@ -22,3 +22,5 @@
 # problem with python
 =sys-apps/util-linux-2.17.1
 =sys-apps/util-linux-2.17.2
+=sys-apps/util-linux-2.18
+
