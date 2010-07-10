@@ -5,6 +5,7 @@ fpm \
 gd truetype \
 tidy \
 jpeg png \
+intl \
 "
 
 # suhosin \
