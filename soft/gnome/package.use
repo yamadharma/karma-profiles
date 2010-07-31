@@ -18,8 +18,8 @@ app-office/openoffice						-gnome
 app-editors/emacs						-gconf
 
 net-libs/xulrunner						-gnome
-www-client/mozilla-firefox					-gnome
-mail-client/mozilla-thunderbird					-gnome
+www-client/firefox						-gnome
+mail-client/thunderbird						-gnome
 x11-plugins/enigmail						-gnome
 
 net-voip/ekiga							-gconf
