@@ -18,5 +18,6 @@ sci-chemistry/jmol						vhosts
 
 sci-lib/mpir							cxx
 sci-mathematics/sage-scripts					wiki
+sci-mathematics/singular					libsingular sage
 
 
