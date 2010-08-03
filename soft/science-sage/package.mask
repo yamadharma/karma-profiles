@@ -6,3 +6,4 @@
 =dev-python/networkx-1.1*
 >dev-python/numpy-1.4.0
 =dev-python/cython-0.13*
+>=sci-libs/scipy-0.8.0
