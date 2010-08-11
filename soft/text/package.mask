@@ -1,3 +1,5 @@
 -app-text/pdftk
 -media-gfx/keyjnote
 
+=app-accessibility/festival-2.0.95_beta
+
