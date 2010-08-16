@@ -45,7 +45,6 @@ udev \
 isdn \
 ssl gnutls \
 spidermonkey \
-pbxt \
 "
 
 LINGUAS="ru en"
