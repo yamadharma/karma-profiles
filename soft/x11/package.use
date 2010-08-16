@@ -7,4 +7,6 @@ x11-libs/wxGTK						-odbc
 sys-auth/policykit					-zsh-completion -bash-completion
 x11-base/xorg-server					-hal
 
+media-libs/freetype					auto-hinter
+
 
