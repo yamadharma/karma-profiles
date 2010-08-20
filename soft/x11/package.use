@@ -9,4 +9,6 @@ x11-base/xorg-server					-hal
 
 media-libs/freetype					auto-hinter
 
+<x11-base/xorg-server-1.8				hal
+
 
