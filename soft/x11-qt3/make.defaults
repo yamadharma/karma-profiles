@@ -1,0 +1,7 @@
+USE="\
+"
+# qt3 \
+
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/kde-sunset \
+${PORTDIR_OVERLAY}"
