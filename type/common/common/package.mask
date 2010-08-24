@@ -137,11 +137,7 @@ app-text/ghostscript-esp
 # Криво отображается
 =media-fonts/liberation-fonts-1.05
 
-# Не качаются новости
-=app-text/calibre-0.7.2
-=app-text/calibre-0.7.3
-=app-text/calibre-0.7.4
-=app-text/calibre-0.7.5
+=sys-apps/portage-2.2_rc68
 
 
 
