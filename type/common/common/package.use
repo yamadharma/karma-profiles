@@ -36,4 +36,5 @@ app-editors/jasspa-microemacs					nanoemacs
 sys-boot/grub							multislot
 sys-fs/aufs2							kernel-patch ramfs inotify nfs
 
+sys-apps/paludis						search-index
 
