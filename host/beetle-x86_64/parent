@@ -5,7 +5,7 @@
 ../../soft/qemu
 ../../soft/tracker
 #../../soft/beagle
-#../../soft/kvm
+../../soft/kvm
 
 
 

@@ -127,6 +127,9 @@ app-text/ghostscript-esp
 
 -app-editors/xxe
 
+
+=sys-boot/grub-0.97-r90
+
 # from zugaina overlay
 =x11-libs/goffice-0.7.2
 
@@ -138,6 +141,9 @@ app-text/ghostscript-esp
 =media-fonts/liberation-fonts-1.05
 
 =sys-apps/portage-2.2_rc68
+=sys-apps/portage-2.2_rc69
+=sys-apps/portage-2.2_rc70
+
 
 
 
