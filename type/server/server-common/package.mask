@@ -6,6 +6,7 @@
 =sys-apps/findutils-4.4.2
 =sys-apps/findutils-4.5.8
 
-=sys-apps/portage-2.2_rc68
-=sys-apps/portage-2.2_rc69
+=sys-apps/portage-2.2_rc7*
+
+
 
