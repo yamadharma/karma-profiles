@@ -51,12 +51,16 @@ LINGUAS="ru en"
 
 FEATURES="${FEATURES} \
 sandbox usersandbox \
-userpriv candy prelink confcache parallel-fetch userfetch \
+userpriv candy  parallel-fetch userfetch \
 preserve-libs \
 metadata-transfer \
 unmerge-orphans \
+compress-build-logs \
+fixlafiles unmerge-orphans \
 -strict \
 "
+# prelink confcache
+
 SEARCH_DIRS="/usr/GNUstep"
 
 PORTAGE_TMPDIR=/var/tmp
