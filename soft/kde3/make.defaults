@@ -1,4 +1,5 @@
 USE="\
+qt3 \
 "
 
 PORTDIR_OVERLAY="\
