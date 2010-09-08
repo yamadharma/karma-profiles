@@ -61,4 +61,4 @@ dev-vcs/bzr-explorer						gtk
 #
 net-misc/curl							threads
 
-=net-analyzer/rrdtool-1.4.3					ruby
+#=net-analyzer/rrdtool-1.4.3					ruby

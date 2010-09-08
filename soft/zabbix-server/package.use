@@ -1,4 +1,4 @@
-net-analyzer/zabbix			server frontend jabber snmp
+net-analyzer/zabbix			server frontend jabber snmp ssh
 net-analyzer/zabbix			-mysql -oracle postgres -sqlite3
 
 
