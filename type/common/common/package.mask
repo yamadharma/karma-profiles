@@ -140,9 +140,7 @@ app-text/ghostscript-esp
 # Криво отображается
 =media-fonts/liberation-fonts-1.05
 
-=sys-apps/portage-2.2_rc68
-=sys-apps/portage-2.2_rc69
-=sys-apps/portage-2.2_rc70
+=x11-libs/cairo-1.10.0*
 
 
 
