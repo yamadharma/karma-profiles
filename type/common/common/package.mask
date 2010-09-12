@@ -56,8 +56,6 @@ app-text/ghostscript-esp
 # Masked for testing
 -=dev-python/visual-4*
 
-->=sys-apps/portage-2.2_pre
-
 -app-backup/mondo-rescue
 -sys-apps/mindi
 -sys-apps/mindi-busybox
@@ -122,8 +120,6 @@ app-text/ghostscript-esp
 
 =media-libs/libextractor-0.5.23*
 =media-libs/libextractor-0.6.0
-
--=app-arch/rpm-4.8.0
 
 -app-editors/xxe
 

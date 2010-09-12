@@ -62,3 +62,5 @@ dev-vcs/bzr-explorer						gtk
 net-misc/curl							threads
 
 #=net-analyzer/rrdtool-1.4.3					ruby
+
+=net-im/gajim-0.14						networkmanager
