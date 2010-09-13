@@ -8,3 +8,4 @@
 =dev-python/cython-0.13*
 # >=sci-libs/scipy-0.8.0
 
+=sci-mathematics/polybori-0.6.5-r2
