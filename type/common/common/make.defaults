@@ -45,6 +45,7 @@ udev \
 isdn \
 ssl gnutls \
 spidermonkey \
+libxml2 \
 "
 
 LINGUAS="ru en"
