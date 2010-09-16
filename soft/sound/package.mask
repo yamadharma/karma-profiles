@@ -2,3 +2,7 @@
 media-libs/portaudio:19
 
 =media-sound/jack-audio-connection-kit-1.9*
+=media-libs/portaudio-19.20071207
+=media-libs/portaudio-19-r3
+=media-libs/portaudio-19-r4
+
