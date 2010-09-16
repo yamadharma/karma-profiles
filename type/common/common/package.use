@@ -39,4 +39,5 @@ sys-fs/aufs2							kernel-patch ramfs inotify nfs
 sys-apps/paludis						search-index
 
 dev-db/sqlite							extensions
+net-misc/remmina						ssh
 
