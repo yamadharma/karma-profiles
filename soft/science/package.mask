@@ -1,10 +1,4 @@
-# Sebastien Fabbro <bicatali@gentoo.org> (23 Sep 2009)
-# Masked for more testing, especially with cint7, afs and xrootd
-# on amd64 with gcc-4.4. See bug #280925
--=sci-physics/root-5.24.00
-
 # For scilab
-#>=dev-java/jgraphx-1.2.0.8
 dev-java/batik:1.6
 dev-java/xmlgraphics-commons:1
 
