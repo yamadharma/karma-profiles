@@ -1,6 +1,7 @@
 # For scilab
 dev-java/batik:1.6
 dev-java/xmlgraphics-commons:1
+=sci-libs/hdf5-1.8.5*
 
 # For sage
 >dev-python/pexpect-2.0
