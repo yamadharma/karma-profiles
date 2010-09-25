@@ -1,1 +1,4 @@
 gnome-extra/nautilus-sendto					-bluetooth
+net-wireless/bluez						attrib health pnat
+
+
