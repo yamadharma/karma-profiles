@@ -262,3 +262,18 @@
 ~kde-base/thumbnailers-4.5.1	 
 ~kde-base/umbrello-4.5.1
 
+# Andreas K. Huettel <dilfridge@gentoo.org> (25 Sep 2010)
+# Masked until kexi and koffice-meta are keyworded ~ppc64 and ~ppc
+# to avoid potential upgrade mess. See bug 338732
+~app-office/karbon-2.2.2
+~app-office/kchart-2.2.2
+~app-office/kexi-2.2.2
+~app-office/koffice-data-2.2.2
+~app-office/koffice-l10n-2.2.2
+~app-office/koffice-libs-2.2.2
+~app-office/koffice-meta-2.2.2
+~app-office/kplato-2.2.2
+~app-office/kpresenter-2.2.2
+~app-office/krita-2.2.2
+~app-office/kspread-2.2.2
+~app-office/kword-2.2.2
