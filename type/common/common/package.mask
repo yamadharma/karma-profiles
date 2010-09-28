@@ -27,7 +27,8 @@
 =x11-libs/cairo-1.10.0*
 =net-print/cups-1.4.4-r1
 
-
+# Installation problem
+=app-arch/rpm-4.8.1
 
 
 
