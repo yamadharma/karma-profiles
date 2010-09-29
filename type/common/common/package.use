@@ -41,3 +41,4 @@ sys-apps/paludis						search-index
 dev-db/sqlite							extensions
 net-misc/remmina						ssh
 
+dev-libs/openssl						rfc3779
