@@ -40,5 +40,7 @@ sys-apps/paludis						search-index
 
 dev-db/sqlite							extensions
 net-misc/remmina						ssh
+net-misc/remmina-plugins					ssh telepathy xdmcp
+net-misc/freerdp						largefile
 
 dev-libs/openssl						rfc3779

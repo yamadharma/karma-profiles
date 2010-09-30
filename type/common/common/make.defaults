@@ -58,7 +58,7 @@ metadata-transfer \
 unmerge-orphans \
 compress-build-logs \
 fixlafiles unmerge-orphans \
--strict \
+-strict -stricter \
 "
 # prelink confcache
 
@@ -75,6 +75,8 @@ PORT_LOGDIR="/var/log/portage/"
 #LOCAL_PORTDIR="/usr/portage/local/"
 
 LAYMAN_DIR="/usr/portage/local/layman"
+
+LOCAL_PORTDIR_OVERLAY="/usr/local/share/portage/local"
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/roslin \

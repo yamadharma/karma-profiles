@@ -1,1 +1,2 @@
 dev-libs/apr-util				ldap
+www-servers/apache				ldap

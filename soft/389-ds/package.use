@@ -1,3 +1,4 @@
 dev-libs/nss					utils
 net-nds/389-ds-base				auto-dn-suffix autobind bitwise dna ldapi pam-passthru presence
+www-servers/apache:2				suexec threads
 
