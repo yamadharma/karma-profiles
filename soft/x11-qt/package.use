@@ -7,5 +7,7 @@ app-office/texmacs					-qt4
 # Dont't compile
 =media-video/mkvtoolnix-4.0.0				-qt4
 
+media-video/ffmpeg					qt-faststart
+
 
 
