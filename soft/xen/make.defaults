@@ -2,9 +2,10 @@ USE="\
 xen \
 flask xsm \
 acm \
+pygrub \
 "
 # server
 
-PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/xen \
-${PORTDIR_OVERLAY}"
+#PORTDIR_OVERLAY="\
+#${LAYMAN_DIR}/xen \
+#${PORTDIR_OVERLAY}"

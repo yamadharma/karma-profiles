@@ -120,7 +120,7 @@ disk-partition dmi \
 d \
 network-cron \
 log4j servletapi avalon-framework avalon-logkit javamail jms jmx \
-ioemu pygrub screen \
+ioemu screen \
 zero-penalty-hit \
 xcb \
 ctype \
