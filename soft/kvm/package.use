@@ -1,1 +1,2 @@
 app-emulation/qemu-kvm						qemu-ifup
+app-emulation/libvirt						qemu iscsi

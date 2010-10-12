@@ -3,6 +3,7 @@ xen \
 flask xsm \
 acm \
 pygrub \
+iscsi \
 "
 # server
 
