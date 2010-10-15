@@ -291,7 +291,6 @@ R \
 libotf \
 cdio taglib vcdx \
 nuv \
-tesseract \
 extrafilters \
 opengl-video opengl-xvmc iptv \
 openxml \
