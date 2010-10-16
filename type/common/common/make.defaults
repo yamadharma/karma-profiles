@@ -85,6 +85,7 @@ ${LAYMAN_DIR}/sunrise \
 ${LAYMAN_DIR}/haskell \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
+# ${LAYMAN_DIR}/pure-funtoo \
 # ${LAYMAN_DIR}/zugaina \
 # ${LAYMAN_DIR}/bazaar \
 # ${LAYMAN_DIR}/perl-experimental \
