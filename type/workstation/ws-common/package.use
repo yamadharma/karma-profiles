@@ -10,3 +10,5 @@ dev-lang/python							-doc
 dev-db/postgresql-base						-doc
 
 app-admin/conky							iostats lua-cairo lua-imlib
+
+net-im/psi							enchant iconsets powersave whiteboarding
