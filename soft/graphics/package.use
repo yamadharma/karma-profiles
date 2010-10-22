@@ -1,5 +1,5 @@
 media-gfx/gimp							webkit
 media-gfx/ufraw							contrast timezone
-app-text/poppler						exceptions
+# app-text/poppler						exceptions
 x11-libs/cairo							X
 
