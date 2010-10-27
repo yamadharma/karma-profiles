@@ -27,3 +27,5 @@ dev-libs/libf2c							static-libs
 app-office/kchart						reports
 app-office/koffice-libs						reports
 x11-libs/qt-sql							mysql
+
+dev-util/kdevelop						okteta
