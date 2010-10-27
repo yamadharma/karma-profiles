@@ -30,5 +30,7 @@
 # Installation problem
 =app-arch/rpm-4.8.1
 
+# Don't compile
+=dev-vcs/git-1.7.3.2-r1
 
 
