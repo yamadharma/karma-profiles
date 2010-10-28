@@ -16,6 +16,7 @@ webkit \
 introspection \
 libunique atk libsoup libwnck \
 goocanvas \
+vala \
 "
 
 # eds \

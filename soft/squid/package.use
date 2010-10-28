@@ -1,1 +1,1 @@
-net-proxy/squid								epoll icap-client logrotate zero-penalty-hit
+net-proxy/squid								epoll icap-client logrotate zero-penalty-hit ecap tproxy
