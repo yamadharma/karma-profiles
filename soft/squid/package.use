@@ -1,1 +1,3 @@
 net-proxy/squid								epoll icap-client logrotate zero-penalty-hit ecap tproxy
+net-proxy/dansguardian							clamav
+
