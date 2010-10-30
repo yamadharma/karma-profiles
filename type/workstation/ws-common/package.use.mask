@@ -9,7 +9,7 @@ media-libs/swfdec		oss
 
 
 # Temporary 
-app-accessibility/espeak	pulseaudio
+app-accessibility/espeak	portaudio
 =dev-util/netbeans-6.1*		doc
 =app-arch/p7zip-4.65		kde wxwidgets
 
