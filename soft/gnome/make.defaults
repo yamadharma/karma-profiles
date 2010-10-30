@@ -17,6 +17,7 @@ introspection \
 libunique atk libsoup libwnck \
 goocanvas \
 vala \
+introspection \
 "
 
 # eds \

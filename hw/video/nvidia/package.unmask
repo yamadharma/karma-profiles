@@ -2,5 +2,7 @@
 >=dev-util/nvidia-cuda-sdk-3.1
 >=dev-util/nvidia-cuda-toolkit-3.1
 
+>=x11-drivers/nvidia-drivers-260
+
 
 

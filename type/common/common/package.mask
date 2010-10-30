@@ -24,7 +24,7 @@
 # Криво отображается
 =media-fonts/liberation-fonts-1.05
 
-=x11-libs/cairo-1.10.0*
+# =x11-libs/cairo-1.10.0*
 =net-print/cups-1.4.4-r1
 
 # Installation problem
