@@ -6,4 +6,6 @@ gnome-base/gdm								afs
 dev-libs/gir-repository							webkit
 =net-libs/webkit-gtk-1.2*						introspection
 
+net-libs/telepathy-glib							-vala
+
 

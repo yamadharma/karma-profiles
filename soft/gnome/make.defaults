@@ -24,9 +24,9 @@ introspection \
 # tracker
 # gnome-keyring
 
-#PORTDIR_OVERLAY="\
-#${LAYMAN_DIR}/gnome \
-#${PORTDIR_OVERLAY}"
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/gnome \
+${PORTDIR_OVERLAY}"
 
 #PORTDIR_OVERLAY="\
 #${LAYMAN_DIR}/voip \

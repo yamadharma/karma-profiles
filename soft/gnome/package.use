@@ -23,3 +23,6 @@ mail-client/thunderbird						-gnome
 x11-plugins/enigmail						-gnome
 
 net-voip/ekiga							-gconf
+
+=net-im/telepathy-logger-0.1*					debug
+
