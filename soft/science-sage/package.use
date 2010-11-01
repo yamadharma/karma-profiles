@@ -20,5 +20,9 @@ sci-lib/mpir							cxx
 sci-mathematics/sage-scripts					wiki
 sci-mathematics/singular					libsingular sage
 dev-lang/python							sage
+sci-mathematics/pari:3						data gmp sage
+sci-mathematics/eclib						pari24
+sci-mathematics/lcalc						pari24
+
 
 
