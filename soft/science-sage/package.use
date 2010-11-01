@@ -1,4 +1,4 @@
-sci-mathematics/maxima						ecl -sbcl
+sci-mathematics/maxima						ecls -sbcl
 sci-mathematics/maxima						clisp
 sci-libs/linbox							ntl sage
 sci-mathematics/polybori					sage singular
