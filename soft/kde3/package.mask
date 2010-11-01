@@ -1,8 +1,0 @@
-# Samuli Suominen <ssuominen@gentoo.org> (09 Jan 2009)
-# KDE 3.5.10 has been removed from Portage. You can find it in layman, kde-sunset overlay.
-#
-# http://linuxized.blogspot.com/2008/10/how-to-unmerge-kde-3-packages-if-their.html
-#
--<kde-base/kdelibs-4
-
-x11-libs/qt:4

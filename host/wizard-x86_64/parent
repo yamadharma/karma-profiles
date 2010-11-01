@@ -3,7 +3,8 @@
 ../../hw/platform/notebook
 ../../hw/net/bluetooth
 ../../hw/video/ati
-../../soft/kde3
+# ../../soft/kde3
+
 
 
 
