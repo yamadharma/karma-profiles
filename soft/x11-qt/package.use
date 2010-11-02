@@ -8,6 +8,7 @@ app-office/texmacs					-qt4
 =media-video/mkvtoolnix-4.0.0				-qt4
 
 media-video/ffmpeg					qt-faststart
+x11-libs/cairo						-qt4
 
 
 
