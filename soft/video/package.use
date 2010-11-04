@@ -4,3 +4,5 @@ media-libs/mlt					frei0r
 media-video/vlc					libproxy projectm libv4l
 
 media-plugins/mythmusic				libvisual
+
+=media-libs/libquicktime-1.1.5			-gtk
