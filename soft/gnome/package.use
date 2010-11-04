@@ -26,3 +26,5 @@ net-voip/ekiga							-gconf
 
 =net-im/telepathy-logger-0.1*					debug
 
+gnome-extra/evolution-data-server				weather
+

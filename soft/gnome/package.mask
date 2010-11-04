@@ -1,6 +1,6 @@
 # From dev-zero
 =gnome-extra/policykit-gnome-0.92
 
-=mail-client/evolution-2.32.0
+#=mail-client/evolution-2.32.0
 
 
