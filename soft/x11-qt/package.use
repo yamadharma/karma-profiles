@@ -6,10 +6,12 @@ app-office/texmacs					-qt4
 
 # Dont't compile
 =media-video/mkvtoolnix-4.0.0				-qt4
+=sys-libs/gwenhywfar-4.0.1				-qt4
 
 media-video/ffmpeg					qt-faststart
 x11-libs/cairo						-qt4
 
 x11-libs/qt-assistant					compat
+
 
 
