@@ -3,6 +3,7 @@ qt4 \
 raster \
 qt3support \
 optimized-qmake \
+private-headers \
 "
 # qt3 \
 
