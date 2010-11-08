@@ -6,3 +6,6 @@ media-video/vlc					libproxy projectm libv4l
 media-plugins/mythmusic				libvisual
 
 =media-libs/libquicktime-1.1.5			-gtk
+
+media-video/mplayer				libmpeg2 mpg123
+
