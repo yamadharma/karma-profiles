@@ -1,0 +1,2 @@
+=dev-libs/ossp-uuid-1.6.2					php
+=media-libs/ming-0.4.3						php
