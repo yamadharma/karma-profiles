@@ -2,3 +2,6 @@
 =sys-apps/util-linux-2.17*
 =sys-apps/util-linux-2.18*
 
+=sys-fs/xfsprogs-3.1.2
+
+ 
