@@ -1,0 +1,2 @@
+# Crash smplayer
+=media-video/mplayer-1.0_rc4_p20101107

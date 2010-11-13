@@ -23,8 +23,8 @@ frei0r \
 bluray \
 "
 
-PORTDIR_OVERLAY="\
-${PORTDIR_OVERLAY} \
-${LAYMAN_DIR}/multimedia \
-${LOCAL_PORTDIR_OVERLAY}"
+#PORTDIR_OVERLAY="\
+#${PORTDIR_OVERLAY} \
+#${LAYMAN_DIR}/multimedia \
+#${LOCAL_PORTDIR_OVERLAY}"
 
