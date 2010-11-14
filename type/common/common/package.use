@@ -48,3 +48,6 @@ dev-libs/openssl						rfc3779
 net-misc/unison							static
 
 mail-client/roundcube						ldap postgres ssl spell
+
+dev-libs/nss							revocator
+

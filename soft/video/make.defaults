@@ -21,6 +21,7 @@ vpx \
 vaapi rtmp \
 frei0r \
 bluray \
+gme \
 "
 
 #PORTDIR_OVERLAY="\
