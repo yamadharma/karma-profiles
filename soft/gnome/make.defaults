@@ -18,9 +18,9 @@ libunique atk libsoup libwnck \
 goocanvas \
 vala \
 introspection \
-clutter \
 "
 
+# clutter \
 # eds \
 # tracker
 # gnome-keyring
