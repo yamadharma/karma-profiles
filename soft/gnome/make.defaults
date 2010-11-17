@@ -18,6 +18,7 @@ libunique atk libsoup libwnck \
 goocanvas \
 vala \
 introspection \
+clutter \
 "
 
 # eds \

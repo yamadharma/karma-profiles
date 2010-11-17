@@ -9,7 +9,7 @@
 >=x11-libs/gtk+-2.21
 >=dev-lang/vala-0.11
 >=sys-power/upower-0.9.6
-
+>=dev-libs/gobject-introspection-0.9.3
 # Pacho Ramos <pacho@gentoo.org> (09 Oct 2010)
 # This is Gnome 2.32 mask (#339225) , here will appear 
 # packages depending on our available time for bumping them.
@@ -76,6 +76,33 @@ gnome-base/dconf
 >=media-video/cheese-2.32
 >=dev-util/gnome-devel-docs-2.32
 >=gnome-extra/gnome-user-docs-2.32
+dev-cpp/atkmm
+>=dev-cpp/gtkmm-2.22
+>=dev-util/anjuta-2.32
+>=dev-python/gnome-python-desktop-base-2.32
+>=dev-python/bug-buddy-python-2.32
+>=dev-python/evolution-python-2.32
+>=dev-python/evince-python-2.32
+>=dev-python/gnome-applets-python-2.32
+>=dev-python/gnome-desktop-python-2.32
+>=dev-python/gnome-keyring-python-2.32
+>=dev-python/gnome-media-python-2.32
+>=dev-python/gtksourceview-python-2.32
+>=dev-python/libgnomeprint-python-2.32
+>=dev-python/libgtop-python-2.32
+>=dev-python/librsvg-python-2.32
+>=dev-python/libwnck-python-2.32
+>=dev-python/metacity-python-2.32
+>=dev-python/brasero-python-2.32
+>=dev-python/totem-python-2.32
+>=dev-python/gnome-python-desktop-2.32
+>=gnome-extra/evolution-data-server-2.32
+>=gnome-extra/evolution-exchange-2.32
+>=gnome-extra/evolution-webcal-2.32
+>=mail-client/evolution-2.32
+=media-video/totem-2.32*
+>=dev-libs/guiloader-2.21.0
+>=dev-libs/guiloader-c++-2.21.0
+>=dev-util/crow-designer-2.21.0
 # END GNOME 2.32 mask
 
->=dev-libs/gobject-introspection-0.9.3
