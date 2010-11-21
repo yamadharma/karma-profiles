@@ -52,4 +52,5 @@ mail-client/roundcube						ldap postgres ssl spell
 dev-libs/nss							revocator
 
 sys-kernel/pf-sources						experimental
+dev-libs/ppl							pch lpsol watchdog
 
