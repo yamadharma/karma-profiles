@@ -46,6 +46,7 @@ isdn \
 ssl gnutls \
 spidermonkey \
 libxml2 \
+btrfs \
 "
 
 LINGUAS="ru en"
