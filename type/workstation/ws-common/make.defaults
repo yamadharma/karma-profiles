@@ -105,7 +105,6 @@ vcd \
 async automount syslog \
 big-tables extraengine geometry utf8 \
 idn \
-xattr \
 nautilus t1lib  \
 pccts musicbrainz \
 urandom \

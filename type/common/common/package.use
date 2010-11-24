@@ -36,7 +36,11 @@ app-editors/jasspa-microemacs					nanoemacs
 sys-boot/grub							multislot
 sys-fs/aufs2							kernel-patch ramfs inotify nfs
 
-sys-apps/paludis						search-index
+sys-apps/paludis						search-index visibility
+
+sys-apps/paludis						pbins
+# For paludis
+app-arch/libarchive						-xattr
 
 dev-db/sqlite							extensions
 net-misc/remmina						ssh

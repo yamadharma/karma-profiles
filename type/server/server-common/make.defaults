@@ -71,7 +71,6 @@ async automount syslog \
 inode session \
 big-tables extraengine geometry utf8 \
 idn \
-xattr \
 spf srs \
 unsupported_8bit  \
 virus-scan \

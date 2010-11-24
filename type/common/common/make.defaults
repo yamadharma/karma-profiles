@@ -47,6 +47,7 @@ ssl gnutls \
 spidermonkey \
 libxml2 \
 btrfs \
+xattr \
 "
 
 LINGUAS="ru en"
