@@ -1,5 +1,6 @@
 # From dev-zero
 =gnome-extra/policykit-gnome-0.92
 
+=gnome-extra/libgda-9999
 
 
