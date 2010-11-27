@@ -145,3 +145,6 @@ PORTAGE_ECLASS_WARNING_ENABLE="0"
 
 #FETCHCOMMAND="/usr/bin/aria2c -s 5 \${URI} --dir=\${DISTDIR}"
 #RESUMECOMMAND="/usr/bin/aria2c -s 5 \${URI} --dir=\${DISTDIR}"
+
+
+
