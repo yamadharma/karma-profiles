@@ -21,6 +21,11 @@ introspection \
 goffice \
 "
 
+USE="${USE}\
+-eds\
+"
+
+
 # clutter \
 # eds \
 # tracker
