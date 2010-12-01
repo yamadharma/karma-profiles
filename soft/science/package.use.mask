@@ -10,6 +10,8 @@ sci-physics/root							kerberos afs
 #=sci-mathematics/scilab-5.2.0*						scicos
 #=sci-mathematics/scilab-5.2.0*						doc
 
+sci-mathematics/fricas							gmp
+
 
 
 

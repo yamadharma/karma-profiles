@@ -6,6 +6,7 @@
 =sci-libs/scipy-0.7.2*
 =dev-python/networkx-1.1*
 
+=dev-lang/python-2.7*
 
 
 
