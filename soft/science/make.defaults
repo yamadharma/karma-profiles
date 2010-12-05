@@ -6,6 +6,7 @@ glpk \
 ods xls \
 cdf netcdf \
 blas hdf hdf5 \
+matplotlib \
 "
 
 PORTDIR_OVERLAY="\
