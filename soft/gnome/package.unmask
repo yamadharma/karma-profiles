@@ -104,5 +104,10 @@ dev-cpp/atkmm
 >=dev-libs/guiloader-2.21.0
 >=dev-libs/guiloader-c++-2.21.0
 >=dev-util/crow-designer-2.21.0
+>=dev-libs/gobject-introspection-0.9.3
+>=net-libs/telepathy-glib-0.12.5
+dev-libs/folks
+net-im/telepathy-logger
+>=net-im/empathy-2.32
 # END GNOME 2.32 mask
 
