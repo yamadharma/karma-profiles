@@ -1,7 +1,9 @@
 ../../common/common
+../../../hw/video/dummy
 ../../../soft/selinux
 ../../../soft/snmp
 ../../../soft/nagios-client
 ../../../soft/zabbix-client
+
 
 

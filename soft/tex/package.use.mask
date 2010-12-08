@@ -1,1 +1,2 @@
+media-fonts/tex-gyre					latex
 

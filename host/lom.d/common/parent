@@ -1,1 +1,4 @@
-../../lom
+../../../type/server/server--x86_64
+../../../hw/arch/core2/x86_64
+../../../hw/video/dummy
+
