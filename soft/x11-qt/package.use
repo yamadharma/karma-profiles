@@ -12,6 +12,9 @@ media-video/ffmpeg					qt-faststart
 x11-libs/cairo						-qt4
 
 x11-libs/qt-assistant					compat
+x11-libs/libqxt						web
+media-sound/clementine					system-qxt
+
 
 
 

@@ -22,6 +22,7 @@ vaapi rtmp \
 frei0r \
 bluray \
 gme \
+vlc \
 "
 
 #PORTDIR_OVERLAY="\
