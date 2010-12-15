@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 GCC_VERSION=$(gcc-config -C -c)
 
 case $GCC_VERSION in
