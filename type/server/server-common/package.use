@@ -1,6 +1,7 @@
 sys-fs/cryptsetup					dynamic
 sys-auth/pambase					pam_ssh
 
+sys-libs/ncurses					static-libs
 
 
 
