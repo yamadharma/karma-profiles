@@ -1,6 +1,8 @@
 ../../type/server/server--x86
 ../../hw/arch/pentium4
 ../../soft/mail-cyrus
+../../soft/mta
+
 
 
 
