@@ -32,3 +32,4 @@
 
 # Don't compile
 =dev-vcs/git-1.7.3.2-r1
+=dev-lang/erlang-14.2.1
