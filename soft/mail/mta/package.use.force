@@ -1,4 +1,4 @@
-mail-filter/spamassassin		mysql postgres
-mail-filter/amavisd-new			mysql postgres
+# mail-filter/spamassassin		mysql postgres
+# mail-filter/amavisd-new			mysql postgres
 
 
