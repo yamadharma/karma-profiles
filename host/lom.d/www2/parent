@@ -5,8 +5,8 @@
 ../../../soft/sound-libs
 ../../../soft/graphics
 ../../../soft/photo
-../../../soft/apache
-../../../soft/lighttpd
+../../../soft/www/apache
+../../../soft/www/lighttpd
 ../../../soft/php
 
 

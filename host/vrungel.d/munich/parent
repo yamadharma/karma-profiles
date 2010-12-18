@@ -2,8 +2,8 @@
 ../../../soft/java
 ../../../soft/postgres
 ../../../soft/graphics
-../../../soft/lighttpd
-../../../soft/apache
+../../../soft/www/lighttpd
+../../../soft/www/apache
 ../../../soft/php
 ../../../soft/ifolder
 ../../../soft/video

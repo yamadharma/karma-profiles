@@ -1,6 +1,6 @@
 ../common
 ../../../soft/php
-../../../soft/lighttpd
+../../../soft/www/lighttpd
 ../../../soft/mediawiki
 ../../../soft/trac
 

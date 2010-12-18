@@ -2,7 +2,7 @@
 ../../hw/arch/pentium4
 ../../soft/nagios
 ../../soft/ossim
-../../soft/lighttpd
+../../soft/www/lighttpd
 ../../soft/php
 ../../soft/mysql
 ../../soft/postgres
