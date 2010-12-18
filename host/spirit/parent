@@ -1,7 +1,7 @@
 ../../type/server/server--x86
 ../../hw/arch/pentium4
-../../soft/mail-cyrus
-../../soft/mta
+../../soft/mail/cyrus
+../../soft/mail/mta
 ../../soft/www/lighttpd
 
 
