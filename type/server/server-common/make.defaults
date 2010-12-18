@@ -56,13 +56,12 @@ expat ithreads \
 logrotate  \
 underscores \
 pam_timestamp \
-rrdtool \
 nodrm \
 rdesktop \
 dlz idn \
 erandom urandom \
 pcre \
-sensord rrdtool \
+sensord \
 exim neural virtual-users \
 fastcgi mcal memlimit \
 customlog \

@@ -94,7 +94,7 @@ libgda \
 glibc-omitfp \
 haskell pascal sql \
 editor serial \
-sensord rrdtool \
+sensord \
 mcal memlimit \
 srp ntlm_unsupported_patch  \
 vcd \
