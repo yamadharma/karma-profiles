@@ -10,6 +10,7 @@
 =dev-python/mpmath-0.16*
 
 =dev-python/cython-0.14*
+=dev-python/numpy-1.5.1*
 
 
 
