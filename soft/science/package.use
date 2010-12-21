@@ -42,4 +42,6 @@ sci-visualization/qtiplot					origin emf latex ods png python xls
 
 sci-chemistry/openbabel						gui
 
+sci-physics/root						llvm
+
 
