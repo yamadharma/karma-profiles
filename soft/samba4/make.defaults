@@ -1,0 +1,5 @@
+USE=" \
+"
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/samba4 \
+${PORTDIR_OVERLAY}"
