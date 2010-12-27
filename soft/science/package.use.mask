@@ -12,6 +12,7 @@ sci-physics/root							kerberos afs
 
 sci-mathematics/fricas							gmp
 
+=sci-physics/root-5.28.00						python
 
 
 

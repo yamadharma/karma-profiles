@@ -9,6 +9,7 @@ app-admin/conky						-audacious
 media-sound/deadbeef					adplug dumb ffap gme nullout vtx
 
 media-sound/mpd						wildmidi pipe
+media-sound/clementine					ayatana
 
 
 
