@@ -1,4 +1,5 @@
 ../common
 ../../../soft/p2p
-../../../soft/samba4
+../../../soft/samba-server
+
 
