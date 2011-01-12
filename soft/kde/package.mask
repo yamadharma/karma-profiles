@@ -1,2 +1,2 @@
-=dev-python/sip-4.12
-=dev-python/PyQt4-4.8.2
+# =dev-python/sip-4.12
+# =dev-python/PyQt4-4.8.2
