@@ -10,6 +10,7 @@ media-sound/deadbeef					adplug dumb ffap gme nullout vtx
 
 media-sound/mpd						wildmidi pipe
 media-sound/clementine					ayatana
+media-sound/pulseaudio					realtime
 
 
 
