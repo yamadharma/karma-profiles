@@ -1,3 +1,5 @@
+sci-mathematics/sage						mpc
+
 sci-mathematics/maxima						ecls -sbcl
 sci-mathematics/maxima						clisp
 sci-libs/linbox							ntl sage
