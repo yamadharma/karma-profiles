@@ -15,6 +15,8 @@ x11-libs/qt-assistant					compat
 x11-libs/libqxt						web
 media-sound/clementine					system-qxt
 
+x11-libs/qt-svg						accessibility
+
 
 
 

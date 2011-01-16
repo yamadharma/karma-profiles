@@ -18,7 +18,7 @@ kde-base/kdeplasma-addons					qalculate qwt scim
 
 app-office/openoffice						-kde
 
-media-sound/amarok						-embedded
+media-sound/amarok						embedded
 
 net-voip/ekiga							-kde -kontact
 kde-base/kopete							msn
