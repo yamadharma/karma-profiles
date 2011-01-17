@@ -12,5 +12,5 @@
 =dev-python/cython-0.14*
 =dev-python/numpy-1.5.1*
 
-
+=sci-mathematics/maxima-5.23*
 

@@ -2,7 +2,7 @@
 # System-wide defaults for the gcc 3.2 Portage system
 
 USE="${USE} \
-apm avi berkdb crypt encode gdbm gpm imlib \
+apm avi berkdb encode gdbm gpm imlib \
 libg++ libwww ncurses nls \
 pam qtmt readline slang spell  \
 tcpd xml2 xmms zlib \
@@ -11,7 +11,7 @@ dvd \
 leim \
 sasl kerberos \
 samba \
-crypt xfs acpi4linux \
+xfs acpi4linux \
 usb \
 ruby \
 slp \
