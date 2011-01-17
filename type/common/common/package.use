@@ -66,6 +66,7 @@ dev-vcs/subversion						-dso perl
 dev-vcs/git							cvs subversion
 
 x11-terms/rxvt-unicode						fading-colors force-hints pixbuf unicode3 wcwidth 256-color
+dev-libs/libgpg-error						static-libs
 
 
 
