@@ -132,7 +132,7 @@ jabber \
 rhino \
 bl \
 objc++  \
-calendar cddb yaz \
+calendar cddb \
 cgi xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
 inifile bcmath curl curlwrappers pcntl flatfile \
 sharedext wddx \

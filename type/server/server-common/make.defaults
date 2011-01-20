@@ -80,7 +80,6 @@ tools \
 unicode \
 diet \
 objc++ \
-yaz \
 cgi xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
 iconv inifile bcmath curl curlwrappers pcntl flatfile \
 sharedext wddx \
