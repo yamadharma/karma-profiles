@@ -16,3 +16,5 @@ net-im/psi							enchant iconsets powersave whiteboarding
 dev-db/mariadb							embedded
 virtual/mysql							embedded
 
+net-im/gajim							gmail
+
