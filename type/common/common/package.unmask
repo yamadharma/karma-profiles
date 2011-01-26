@@ -1,2 +1,4 @@
 ~app-editors/emacs-vcs-24.0.9999
 # >=sys-apps/portage-2.2_pre
+
+app-office/libreoffice

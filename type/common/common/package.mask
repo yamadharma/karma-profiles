@@ -35,3 +35,7 @@
 =dev-lang/erlang-14.2.1
 =sys-apps/busybox-1.18.1
 
+# Trubles
+# =net-misc/openssh-5.7_p1-r1
+
+

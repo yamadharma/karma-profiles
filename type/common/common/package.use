@@ -69,6 +69,8 @@ x11-terms/rxvt-unicode						fading-colors force-hints pixbuf unicode3 wcwidth 25
 dev-libs/libgpg-error						static-libs
 dev-libs/libgcrypt						static-libs
 
+# net-misc/openssh						static
+
 
 
 
