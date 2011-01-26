@@ -2,3 +2,5 @@
 # >=sys-apps/portage-2.2_pre
 
 app-office/libreoffice
+
+>=x11-drivers/nvidia-drivers-270
