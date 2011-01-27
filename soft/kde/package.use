@@ -29,3 +29,5 @@ app-office/koffice-libs						reports
 x11-libs/qt-sql							mysql
 
 dev-util/kdevelop						okteta
+
+dev-python/PyQt4						declarative
