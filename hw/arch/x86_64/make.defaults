@@ -1,4 +1,6 @@
 CFLAGS="${CFLAGS} -O2 -pipe"
 
 # For java
-USE="-shark"
+USE="-shark \
+development \
+"
