@@ -19,6 +19,7 @@ goocanvas \
 vala \
 introspection \
 goffice \
+gtk3 \
 "
 
 USE="${USE}\
