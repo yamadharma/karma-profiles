@@ -68,3 +68,5 @@ net-misc/curl							threads
 
 =www-client/elinks-0.12_pre*					javascript
 
+app-misc/mc							ncurses
+
