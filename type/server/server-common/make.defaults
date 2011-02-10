@@ -116,7 +116,6 @@ purge \
 disk-partition dmi \
 d \
 network-cron \
-log4j servletapi avalon-framework avalon-logkit javamail jms jmx \
 ioemu screen \
 zero-penalty-hit \
 xcb \
