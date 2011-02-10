@@ -6,6 +6,8 @@ sys-libs/ncurses					static-libs
 
 media-fonts/terminus-font				-pcf
 
+sys-apps/portage					python3
+
 
 
 

@@ -71,6 +71,9 @@ dev-libs/libgcrypt						static-libs
 
 # net-misc/openssh						static
 
+net-firewall/iptables						netlink
+
+
 
 
 
