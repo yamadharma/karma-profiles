@@ -1,5 +1,5 @@
 USE="java java5 java6 gcj \
-javamail jms jmx \
+javamail jms \
 avalon-framework avalon-logkit \
 javacomm \
 xmldoclet \
@@ -9,6 +9,7 @@ jfreechart jgoodiesforms nachocalendar \
 "
 
 # cacao shark zero \
+# jmx
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/java-overlay \
