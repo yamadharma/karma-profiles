@@ -1,4 +1,5 @@
-www-servers/tomcat				admin doc examples
+# www-servers/tomcat				admin doc examples
+www-servers/tomcat				doc
 dev-java/icedtea6				nio2 systemtap
 dev-java/icedtea				systemtap zero nio2
 # dev-java/sun-jdk				odbc
