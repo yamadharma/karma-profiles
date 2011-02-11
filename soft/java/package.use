@@ -6,6 +6,8 @@ dev-java/icedtea				systemtap zero nio2
 
 www-servers/resin				admin doc
 
+www-servers/jboss-bin				ejb3
+www-servers/jboss				ejb3
 
 
 
