@@ -38,4 +38,7 @@
 # Trubles
 # =net-misc/openssh-5.7_p1-r1
 
+# Can't download
+=dev-util/debhelper-8.1.0
+=dev-util/debhelper-8.1.1
 
