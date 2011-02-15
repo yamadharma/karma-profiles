@@ -20,9 +20,10 @@ opencore-amr \
 vpx \
 vaapi rtmp \
 frei0r \
-bluray \
 gme \
 "
+
+# bluray \
 
 #PORTDIR_OVERLAY="\
 #${PORTDIR_OVERLAY} \

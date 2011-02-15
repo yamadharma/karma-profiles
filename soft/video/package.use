@@ -11,3 +11,4 @@ media-video/mplayer				libmpeg2 mpg123
 
 media-tv/xbmc					webserver
 
+media-libs/libbluray				aacs
