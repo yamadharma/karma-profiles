@@ -170,3 +170,6 @@ dev-tex/xmltex		doc
 #
 dev-tex/latex-beamer					examples
 app-text/writer2latex					doc examples
+
+
+app-text/texlive		pdfannotextractor
