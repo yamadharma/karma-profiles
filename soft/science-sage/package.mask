@@ -16,3 +16,4 @@
 =sci-mathematics/maxima-5.23*
 
 =dev-python/mpmath-0.17*
+=sci-libs/hdf5-1.8.6*
