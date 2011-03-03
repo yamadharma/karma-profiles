@@ -10,7 +10,9 @@ projectm \
 alac \
 flake \
 mpg123 \
+cddb cdparanoia \
 "
+
 # arts artswrappersuid
 # amarok \
 

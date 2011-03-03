@@ -51,7 +51,7 @@ libffi \
 gcc-libffi \
 pdfkit emoticon gsnd \
 xim \
-cdparanoia divx4linux dvdread fbdev rtc edl lzo mythtv network nvidia xvmc theora \
+divx4linux dvdread fbdev rtc edl lzo mythtv network nvidia xvmc theora \
 mng gimpprint graphviz lzw-tiff lzw \
 oav \
 sndfile \
@@ -132,7 +132,7 @@ jabber \
 rhino \
 bl \
 objc++  \
-calendar cddb \
+calendar \
 cgi xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
 inifile bcmath curl curlwrappers pcntl flatfile \
 sharedext wddx \
