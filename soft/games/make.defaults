@@ -3,5 +3,10 @@ cegui allegro \
 double-precision \
 ggz \
 irrlicht \
+tinyxml \
 "
+
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/gamerlay \
+${PORTDIR_OVERLAY}"
 
