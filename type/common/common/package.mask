@@ -42,3 +42,5 @@
 =dev-util/debhelper-8.1.0
 =dev-util/debhelper-8.1.1
 
+=dev-libs/libzip-0.10_rc1*
+
