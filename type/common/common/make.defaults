@@ -48,6 +48,7 @@ spidermonkey \
 libxml2 \
 btrfs \
 xattr \
+largefile \
 "
 
 LINGUAS="ru en"
