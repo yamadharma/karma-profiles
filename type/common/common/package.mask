@@ -43,5 +43,6 @@
 =dev-util/debhelper-8.1.1
 
 =dev-libs/libzip-0.10_rc1*
+=dev-python/pythonmagick-0.9.4
 
 
