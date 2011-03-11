@@ -7,3 +7,4 @@ media-libs/mlt					qt3
 =media-video/avidemux-2.5.0			qt4
 =media-libs/opencv-1.0.0-r1			ieee1394
 
+=media-video/vlc-1.1.7				libnotify
