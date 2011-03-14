@@ -10,7 +10,7 @@ truetype cleartype \
 djvu pdf \
 lasi \
 corefonts \
-autotrace lqr \
+lqr \
 fontconfig \
 poppler \
 babl \
