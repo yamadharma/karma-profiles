@@ -1,1 +1,1 @@
-dev-libs/newt					tcl
+# dev-libs/newt					tcl
