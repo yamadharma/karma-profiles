@@ -1,2 +1,2 @@
-=app-accessibility/festival-2.0.95_beta
+=app-accessibility/festival-2*
 
