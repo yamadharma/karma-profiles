@@ -1,5 +1,8 @@
 dev-db/mysql-community						embedded -minimal
 dev-db/mysql							embedded -minimal
+dev-db/mariadb							embedded
+virtual/mysql							embedded
+
 x11-libs/qt-sql:4						mysql
 app-office/akonadi-server					mysql
 #
@@ -31,3 +34,4 @@ x11-libs/qt-sql							mysql
 dev-util/kdevelop						okteta
 
 dev-python/PyQt4						declarative
+
