@@ -17,6 +17,7 @@ babl \
 openjpeg \
 netpbm \
 fpx \
+webp \
 "
 
 # openvg \
