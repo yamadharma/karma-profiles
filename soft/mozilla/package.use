@@ -16,3 +16,8 @@ www-client/mozilla-firefox				-gnome
 mail-client/thunderbird					-gnome
 x11-plugins/enigmail					-gnome
 #dev-db/sqlite						-secure-delete
+
+# Firefox 4
+=dev-python/gnome-python-extras-2.25.3			-xulrunner
+=dev-java/swt-3.6.1					-xulrunner
+=dev-java/swt-3.6.2					-xulrunner
