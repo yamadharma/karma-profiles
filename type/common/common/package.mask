@@ -45,4 +45,5 @@
 =dev-libs/libzip-0.10_rc1*
 =dev-python/pythonmagick-0.9.4
 
+=app-misc/geneweb-5.02
 
