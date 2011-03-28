@@ -4,6 +4,7 @@ double-precision \
 ggz \
 irrlicht \
 tinyxml \
+mousewarp \
 "
 
 PORTDIR_OVERLAY="\

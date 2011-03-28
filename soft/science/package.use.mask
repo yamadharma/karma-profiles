@@ -14,6 +14,8 @@ sci-mathematics/fricas							gmp
 
 =sci-physics/root-5.28.00						python
 
+=sci-chemistry/openbabel-2.3.0						perl python
+
 
 
 
