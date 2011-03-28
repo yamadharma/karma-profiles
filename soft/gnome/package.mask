@@ -3,3 +3,5 @@
 
 =gnome-extra/libgda-9999
 
+=media-libs/clutter-gtk-0.91.8*
+
