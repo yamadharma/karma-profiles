@@ -48,4 +48,4 @@
 =app-misc/geneweb-5.02
 
 # ffmpeg problem
-=www-client/chromium-11.0.696.25
+#=www-client/chromium-11.0.696.25
