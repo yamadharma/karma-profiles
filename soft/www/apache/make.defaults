@@ -15,6 +15,7 @@ asis auth_digest authn_dbd \
 cern_meta dbd dumpio ident imagemap \
 log_forensic proxy proxy_ajp proxy_balancer proxy_connect proxy_ftp proxy_http \
 cgi cgid \
+proxy_scgi reqtimeout \
 "
 
 # APACHE2_MPMS="event itk peruser prefork worker" 

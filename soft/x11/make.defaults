@@ -24,3 +24,6 @@ fltk \
 "
 
 
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/desktop-effects \
+${PORTDIR_OVERLAY}"
