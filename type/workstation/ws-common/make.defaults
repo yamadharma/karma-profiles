@@ -14,7 +14,7 @@ leim \
 sasl \
 kerberos \
 samba \
-crypt xfs acpi4linux \
+xfs acpi4linux \
 usb tiff ruby tcltk slp curl flash xml \
 imap \
 tcltk \

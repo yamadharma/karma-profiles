@@ -1,4 +1,4 @@
-# -introspection
-# -gtk3
+-introspection
+-gtk3
 
 
