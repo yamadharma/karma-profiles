@@ -27,4 +27,8 @@ net-voip/ekiga							-gconf
 =net-im/telepathy-logger-0.1*					debug
 
 gnome-extra/evolution-data-server				weather
+=dev-util/geany-0.20*						-vte
+=x11-libs/mx-1.1.9						-glade
+
+
 

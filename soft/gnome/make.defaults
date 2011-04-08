@@ -20,6 +20,7 @@ vala \
 introspection \
 goffice \
 gtk3 \
+vte \
 "
 
 USE="${USE}\
