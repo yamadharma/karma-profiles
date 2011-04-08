@@ -10,6 +10,6 @@ net-libs/telepathy-glib							-vala
 =dev-libs/libdbusmenu-0.3.16-r2						vala
 
 net-misc/networkmanager							dhclient nss
-gnome-extra/libgda:4							doc
+
 
 
