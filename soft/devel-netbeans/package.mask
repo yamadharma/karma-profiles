@@ -1,1 +1,2 @@
-=dev-util/netbeans-7.0_rc1
+=dev-util/netbeans-7.0_rc*
+
