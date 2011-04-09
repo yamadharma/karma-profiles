@@ -21,6 +21,7 @@ introspection \
 goffice \
 gtk3 \
 vte \
+bonobo \
 "
 
 USE="${USE}\
