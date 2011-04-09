@@ -32,6 +32,8 @@ gnome-extra/evolution-data-server				weather
 
 =gnome-extra/gnome-utils-3.0.0					-bonobo
 =dev-libs/gjs-0.7*						-coverage
+=app-editors/bluefish-2.0*					-gucharmap
+=app-text/stardict-3.0*						-gucharmap
 
 
 
