@@ -49,6 +49,7 @@ libxml2 \
 btrfs \
 xattr \
 largefile \
+lua luajit \
 "
 
 LINGUAS="ru en"
