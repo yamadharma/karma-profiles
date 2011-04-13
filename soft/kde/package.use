@@ -35,3 +35,5 @@ dev-util/kdevelop						okteta
 
 dev-python/PyQt4						declarative
 
+net-im/sim							-kde
+
