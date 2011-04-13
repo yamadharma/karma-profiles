@@ -4,5 +4,6 @@ app-text/coolreader3						hyphen -qt4
 media-gfx/gscan2pdf						cuneiform adf djvu unpaper
 app-text/pdf2djvu						graphicsmagick
 app-text/ocrodjvu						cuneiform
+media-gfx/scantailor						dewarping
 
 
