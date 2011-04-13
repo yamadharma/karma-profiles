@@ -22,6 +22,7 @@ goffice \
 gtk3 \
 vte \
 bonobo \
+packagekit \
 "
 
 USE="${USE}\
