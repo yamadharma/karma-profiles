@@ -1,6 +1,3 @@
-# =dev-python/sip-4.12
-# =dev-python/PyQt4-4.8.2
-
 =app-office/karbon-1*
 =app-office/kchart-1*
 =app-office/kexi-1*
@@ -15,3 +12,4 @@
 =app-office/kspread-1*
 =app-office/kugar-1*
 =app-office/kword-1*
+
