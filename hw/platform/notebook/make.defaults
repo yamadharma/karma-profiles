@@ -1,6 +1,5 @@
 USE="\
 laptop pcmcia wifi \
-networkmanager \
 "
 
 INPUT_DEVICES="${INPUT_DEVICES} synaptics"

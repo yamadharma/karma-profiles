@@ -17,7 +17,6 @@ marble designer-plugin \
 addressbook \
 clucene redland sesame2 \
 webkit \
-google-gadgets \
 oscar \
 phonon \
 akonadi \
@@ -25,6 +24,8 @@ kontact \
 social-desktop \
 strigi \
 "
+
+# google-gadgets \
 # telepathy
 # kdeprefix \
 # kde4enablefinal \
