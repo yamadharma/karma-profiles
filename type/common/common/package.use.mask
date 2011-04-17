@@ -70,3 +70,5 @@ net-misc/curl							threads
 
 app-misc/mc							ncurses
 
+=sys-kernel/pf-sources-2.6.38_p4				experimental
+
