@@ -7,6 +7,7 @@ ods xls \
 cdf netcdf \
 blas hdf hdf5 \
 matplotlib \
+maximalib \
 "
 
 PORTDIR_OVERLAY="\
