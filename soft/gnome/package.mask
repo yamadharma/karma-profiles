@@ -4,5 +4,5 @@
 =gnome-extra/libgda-9999
 
 # =media-libs/clutter-gtk-0.91.8*
-=www-plugins/gecko-mediaplayer-1.0.3-r1
-=media-video/gnome-mplayer-1.0.3-r1
+# =www-plugins/gecko-mediaplayer-1.0.3-r1
+# =media-video/gnome-mplayer-1.0.3-r1
