@@ -6,3 +6,8 @@
 # * No support for auth backends other than PAM
 # * Many more...
 >=gnome-base/gdm-2.26
+
+# Nirbheek Chauhan <nirbheek@gentoo.org> (12 Apr 2011)
+# GNOME 3 mask, things will be added here slowly
+>=x11-wm/metacity-2.34
+>=media-gfx/gthumb-2.13
