@@ -1,0 +1,17 @@
+# Bernard Cafarelli <voyageur@gentoo.org> (20 Apr 2011)
+# New gnustep release, switching to FHS layout
+# Currently testing transition from old layout
+>=gnustep-base/gnustep-make-2.6.0
+>=gnustep-base/gnustep-base-1.22.0
+>=gnustep-base/gnustep-gui-0.20.0
+>=gnustep-base/gnustep-back-art-0.20.0
+>=gnustep-base/gnustep-back-cairo-0.20.0
+>=gnustep-base/gnustep-back-xlib-0.20.0
+>=virtual/gnustep-back-0.20.0
+gnustep-base/gnustep-updater
+
+# Bernard Cafarelli <voyageur@gentoo.org> (13 Oct 2010)
+# New Objective-C Runtime for GNUstep
+# Masked until I add proper support for it in gnustep-base
+gnustep-base/libobjc2
+
