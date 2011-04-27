@@ -21,7 +21,7 @@ kde-base/kdeplasma-addons					qalculate qwt scim
 
 app-office/openoffice						-kde
 
-media-sound/amarok						embedded
+media-sound/amarok						embedded playdar
 
 net-voip/ekiga							-kde -kontact
 kde-base/kopete							msn
@@ -36,4 +36,6 @@ dev-util/kdevelop						okteta
 dev-python/PyQt4						declarative
 
 net-im/sim							-kde
+
+net-p2p/rtorrent						color
 

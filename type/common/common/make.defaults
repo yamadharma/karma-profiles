@@ -87,6 +87,7 @@ ${LAYMAN_DIR}/roslin \
 ${LAYMAN_DIR}/rion \
 ${LAYMAN_DIR}/sunrise \
 ${LAYMAN_DIR}/haskell \
+${LAYMAN_DIR}/calculate \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
 # ${LAYMAN_DIR}/pure-funtoo \

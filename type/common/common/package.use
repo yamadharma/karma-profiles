@@ -78,5 +78,6 @@ media-libs/gd							fontconfig jpeg png truetype
 sys-apps/paludis						prebuilt-documentation
 dev-libs/popt							static-libs
 app-arch/dpkg							dselect
+media-libs/libpng						apng
 
 
