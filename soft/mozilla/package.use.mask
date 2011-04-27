@@ -8,3 +8,7 @@ www-client/seamonkey						sqlite
 
 #net-libs/xulrunner						-private
 #www-client/mozilla-firefox					-private
+
+=net-libs/xulrunner-2.0-r1				startup-notification
+=www-client/firefox-4.0-r3				startup-notification
+=www-client/seamonkey-2.0.13				startup-notification

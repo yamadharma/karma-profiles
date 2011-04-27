@@ -20,6 +20,7 @@ wxwindows wxwidgets \
 rups \
 gallium \
 fltk \
+startup-notification \
 "
 
 
