@@ -12,3 +12,4 @@ www-client/seamonkey						sqlite
 =net-libs/xulrunner-2.0-r1				startup-notification
 =www-client/firefox-4.0-r3				startup-notification
 =www-client/seamonkey-2.0.13				startup-notification
+=mail-client/thunderbird-3.1.9-r1			startup-notification
