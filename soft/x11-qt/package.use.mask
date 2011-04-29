@@ -1,1 +1,2 @@
 #net-libs/aqbanking					qt4
+media-libs/coin						javascript
