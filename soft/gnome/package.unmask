@@ -11,3 +11,8 @@
 # GNOME 3 mask, things will be added here slowly
 >=x11-wm/metacity-2.34
 >=media-gfx/gthumb-2.13
+
+# Nirbheek Chauhan <nirbheek@gentoo.org> (30 Apr 2011)
+# GTK3 version of notification-daemon, added for testing
+# Will be unmasked once we're sure it works well with everything
+>=x11-misc/notification-daemon-0.7

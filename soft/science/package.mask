@@ -4,6 +4,9 @@ dev-java/xmlgraphics-commons:1
 =sci-libs/hdf5-1.8.5*
 =dev-java/jgraphx-1.4.1.2
 
+=media-libs/opencv-2.2.0*
+
+
 # For sage
 >dev-python/pexpect-2.0
 >=sci-mathematics/singular-3.1.2

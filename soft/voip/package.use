@@ -1,5 +1,5 @@
 net-libs/ptlib					config-file http-forms http-server mail video-file
 net-libs/opal					x264-static
-=net-libs/opal-3.6*					-x264
+# =net-libs/opal-3.6*					-x264
 
 
