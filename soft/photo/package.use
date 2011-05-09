@@ -1,3 +1,4 @@
 media-gfx/ufraw						contrast lensfun timezone hotpixels
 media-gfx/digikam					geolocation
 media-plugins/kipi-plugins				expoblending
+media-libs/libraw					demosaic
