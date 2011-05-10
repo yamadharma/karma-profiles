@@ -1,0 +1,2 @@
+=net-libs/ptlib-2.6.7*					ieee1394
+
