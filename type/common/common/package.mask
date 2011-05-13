@@ -48,3 +48,4 @@
 =app-misc/geneweb-5.02
 
 =sys-kernel/pf-sources-2.6.38_p3
+=net-misc/openssh-5.8_p2
