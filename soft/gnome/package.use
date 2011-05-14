@@ -8,7 +8,7 @@ media-video/totem							iplayer youtube
 gnome-base/gvfs								gdu gudev
 
 dev-vcs/bzr-gtk							-gconf -gnome-keyring
-# www-plugins/gecko-mediaplayer					-gnome
+www-plugins/gecko-mediaplayer					-gnome
 
 gnome-extra/nautilus-sendto					-empathy
 dev-vcs/bzr-gtk							-gconf -gnome-keyring
