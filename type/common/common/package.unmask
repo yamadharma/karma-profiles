@@ -6,5 +6,8 @@
 >=net-fs/openafs-1.6
 >=net-fs/openafs-kernel-1.6
 
+# Arfrever Frehtes Taifersar Arahesis <arfrever@gentoo.org> (21 Feb 2011)
+# Python 3.2 masked until sufficient number of reverse dependencies is fixed.
+=dev-lang/python-3.2*
 
 
