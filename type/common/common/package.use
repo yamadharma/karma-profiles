@@ -65,7 +65,7 @@ dev-db/mariadb							big-tables community extraengine libevent pbxt
 dev-vcs/subversion						-dso perl
 dev-vcs/git							cvs subversion
 
-x11-terms/rxvt-unicode						fading-colors force-hints pixbuf unicode3 wcwidth 256-color
+x11-terms/rxvt-unicode						fading-colors pixbuf unicode3 256-color
 dev-libs/libgpg-error						static-libs
 dev-libs/libgcrypt						static-libs
 
