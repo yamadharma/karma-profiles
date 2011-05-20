@@ -3,6 +3,7 @@ media-video/vlc					nsplugin
 media-video/gxine				nsplugin
 
 media-libs/mlt					qt3
+=media-libs/mlt-0.7.2*				ruby
 
 =media-video/avidemux-2.5.0			qt4
 =media-libs/opencv-1.0.0-r1			ieee1394
