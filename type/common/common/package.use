@@ -66,8 +66,10 @@ dev-vcs/subversion						-dso perl
 dev-vcs/git							cvs subversion
 
 x11-terms/rxvt-unicode						fading-colors pixbuf unicode3 256-color
+
 dev-libs/libgpg-error						static-libs
 dev-libs/libgcrypt						static-libs
+dev-libs/boost							static-libs
 
 # net-misc/openssh						static
 
@@ -80,5 +82,6 @@ dev-libs/popt							static-libs
 app-arch/dpkg							dselect
 media-libs/libpng						apng
 net-p2p/transmission						utp
+sys-boot/grub							extras
 
 
