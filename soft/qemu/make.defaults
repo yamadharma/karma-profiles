@@ -2,4 +2,5 @@ USE="\
 qemu \
 vde \
 kqemu \
+vhost-net rbd \
 "
