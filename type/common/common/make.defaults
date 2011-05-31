@@ -85,6 +85,7 @@ LOCAL_PORTDIR_OVERLAY="/usr/local/share/portage/local"
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/roslin \
 ${LAYMAN_DIR}/rion \
+${LAYMAN_DIR}/moonrise \
 ${LAYMAN_DIR}/sunrise \
 ${LAYMAN_DIR}/haskell \
 ${LAYMAN_DIR}/calculate \

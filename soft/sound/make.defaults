@@ -1,7 +1,6 @@
 USE="\
 oss alsa \
 jack netjack jackmidi jack-tmpfs \
-esd \
 pulseaudio \
 plugins \
 audacious \
@@ -15,6 +14,7 @@ cddb cdparanoia \
 
 # arts artswrappersuid
 # amarok \
+# esd \
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/pro-audio \
