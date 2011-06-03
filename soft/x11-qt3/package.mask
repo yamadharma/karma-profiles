@@ -1,0 +1,5 @@
+kde-base/kdelibs:3.5
+kde-base/kttsd:3.5
+=kde-misc/kdnssd-avahi-0.1.2*
+kde-base/kdelirc:3.5
+kde-base/kweather:3.5
