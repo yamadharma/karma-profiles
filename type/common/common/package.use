@@ -83,5 +83,7 @@ app-arch/dpkg							dselect
 media-libs/libpng						apng
 net-p2p/transmission						utp
 sys-boot/grub							extras
+sys-fs/udev							edd floppy
+
 
 

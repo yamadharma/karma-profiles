@@ -1,2 +1,4 @@
 net-mail/cyrus-imapd					idled replication sieve
+net-mail/cyrus-imapd					autocreate autosieve
+
 
