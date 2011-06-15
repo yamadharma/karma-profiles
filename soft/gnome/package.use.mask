@@ -12,5 +12,7 @@ net-libs/telepathy-glib							-vala
 net-misc/networkmanager							dhclient nss
 =app-misc/tomboy-1.6.1							applet
 
+=dev-libs/libpeas-1.0.0							glade
+=x11-libs/gtksourceview-2.10.5*						glade
 
 

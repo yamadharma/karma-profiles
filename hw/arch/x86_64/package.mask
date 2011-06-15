@@ -1,3 +1,1 @@
-# ffmpeg problem
-=www-client/chromium-11.0.696.25
 

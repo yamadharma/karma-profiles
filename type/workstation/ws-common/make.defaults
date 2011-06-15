@@ -51,7 +51,7 @@ libffi \
 gcc-libffi \
 pdfkit emoticon gsnd \
 xim \
-divx4linux dvdread fbdev rtc edl lzo mythtv network nvidia xvmc theora \
+divx4linux dvdread fbdev rtc edl lzo mythtv network xvmc theora \
 mng gimpprint graphviz lzw-tiff lzw \
 oav \
 sndfile \
