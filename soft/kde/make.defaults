@@ -30,6 +30,6 @@ strigi \
 # kdeprefix \
 # kde4enablefinal \
 
-PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/kde \
-${PORTDIR_OVERLAY}"
+# PORTDIR_OVERLAY="\
+# ${LAYMAN_DIR}/kde \
+# ${PORTDIR_OVERLAY}"
