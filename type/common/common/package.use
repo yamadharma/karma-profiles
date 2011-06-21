@@ -83,7 +83,10 @@ app-arch/dpkg							dselect
 media-libs/libpng						apng
 net-p2p/transmission						utp
 sys-boot/grub							extras
+sys-boot/grub							static
 sys-fs/udev							edd floppy gudev hwdb keymap
+sys-libs/ncurses						static-libs
+
 
 
 
