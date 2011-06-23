@@ -303,7 +303,6 @@ nss dhclient dhcpcd \
 themes \
 cdrkit \
 upnp \
-gui \
 "
 
 # examples \
