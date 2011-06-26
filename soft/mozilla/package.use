@@ -23,4 +23,6 @@ x11-plugins/enigmail					-gnome
 =dev-java/swt-3.6.2					-xulrunner
 =net-libs/libproxy-0.4.6-r1				-xulrunner
 =x11-misc/google-gadgets-0.11.2				-xulrunner
+#
+www-client/firefox					pgo
 
