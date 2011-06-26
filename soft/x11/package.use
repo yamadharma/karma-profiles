@@ -18,4 +18,5 @@ x11-libs/gtkmathview					mathml
 
 =media-sound/alsa-tools-1.0.24*				-fltk
 
+x11-base/xorg-server					xvfb
 
