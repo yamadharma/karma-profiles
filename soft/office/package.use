@@ -2,5 +2,6 @@ app-office/abiword			grammar latex libgda math openxml ots plugins thesaurus wor
 app-office/lyx				enchant gnumeric
 dev-java/lucene				analyzers
 app-office/libreoffice			graphite jemalloc mysql odbc
+app-misc/tasque				rememberthemilk hiveminder
 
 

@@ -18,7 +18,7 @@ sci-mathematics/octave						64bit arpack framework-opengl glpk qrupdate
 
 sci-mathematics/pari						data gmp
 sci-libs/flint							ntl
-sci-mathematics/lcalc						pari
+# sci-mathematics/lcalc						pari
 sci-mathematics/maxima						ecl -sbcl
 sci-mathematics/maxima						clisp
 sci-libs/linbox							ntl sage
