@@ -6,5 +6,7 @@
 ../../hw/video/nvidia_free
 ../../soft/xfce
 ../../soft/mpi
+../../soft/kvm
+
 
 
