@@ -5,5 +5,9 @@ media-gfx/gscan2pdf						cuneiform adf djvu unpaper
 app-text/pdf2djvu						graphicsmagick
 app-text/ocrodjvu						cuneiform
 media-gfx/scantailor						dewarping
+app-text/myrulib						reader
+app-editors/emacs-vcs						wide-int gsettings
+app-editors/emacs						wide-int gsettings
+
 
 
