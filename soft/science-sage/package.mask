@@ -9,8 +9,8 @@
 
 =sci-libs/hdf5-1.8.6*
 
-=dev-python/sympy-0.6.7*
-=dev-python/sympy-0.7.0*
+# =dev-python/sympy-0.6.7*
+# =dev-python/sympy-0.7.0*
 
 =dev-python/numpy-1.6.0*
 

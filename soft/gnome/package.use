@@ -17,6 +17,7 @@ app-office/openoffice						-gnome
 app-editors/emacs						-gconf
 www-client/firefox						-gconf
 mail-client/thunderbird						-gconf
+www-client/seamonkey						-gconf
 
 net-libs/xulrunner						-gnome
 www-client/firefox						-gnome
