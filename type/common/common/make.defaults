@@ -50,6 +50,7 @@ btrfs \
 xattr \
 largefile \
 lua luajit \
+zeroconf \
 "
 
 LINGUAS="ru en"
