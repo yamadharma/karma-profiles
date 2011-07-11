@@ -74,4 +74,6 @@ app-misc/mc							ncurses
 =media-gfx/sane-backends-1.0.22*				v4l
 media-libs/libwmf						expat
 
+=media-libs/ming-0.4.3-r1					perl
+
 
