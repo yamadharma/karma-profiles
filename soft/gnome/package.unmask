@@ -94,3 +94,7 @@
 # Misc applications
 >=media-gfx/gthumb-2.13
 >=gnome-extra/nautilus-open-terminal-0.19
+
+# Nirbheek Chauhan <nirbheek@gentoo.org> (03 Jul 2011)
+# Mask js185 release, changes pkgconfig file, soname, etc
+>=dev-lang/spidermonkey-1.8.5
