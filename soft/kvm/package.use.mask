@@ -1,2 +1,2 @@
 app-emulation/libvirt				selinux
-=app-emulation/spice-0.8.1*			gui
+=app-emulation/spice-0.8*			gui
