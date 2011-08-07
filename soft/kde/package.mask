@@ -127,8 +127,6 @@
 =kde-base/krosspython-9999
 =kde-base/pykde4-9999
 =kde-base/smoke-9999
-~app-office/akonadi-server-1.5.80
-~dev-libs/shared-desktop-ontologies-0.7.0
 =kde-base/blinken-9999
 =kde-base/cantor-9999
 =kde-base/kalgebra-9999
@@ -296,6 +294,3 @@
 =kde-base/kommander-9999
 =kde-base/kdebase-meta-9999
 =kde-base/kde-meta-9999
-
-
-
