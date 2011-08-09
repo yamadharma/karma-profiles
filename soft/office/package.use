@@ -1,7 +1,7 @@
 app-office/abiword			grammar latex libgda math openxml ots plugins thesaurus wordperfect collab
 app-office/lyx				enchant gnumeric
 dev-java/lucene				analyzers
-app-office/libreoffice			graphite jemalloc mysql odbc
+app-office/libreoffice			graphite jemalloc mysql odbc offlinehelp
 app-misc/tasque				rememberthemilk hiveminder
 app-office/scribus			templates
 
