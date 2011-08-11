@@ -1,7 +1,6 @@
 # For sage
 >dev-python/pexpect-2.0
 
-=dev-python/networkx-1.1*
 =dev-python/networkx-1.3*
 =dev-python/networkx-1.4*
 =dev-python/networkx-1.5*
@@ -9,9 +8,6 @@
 =dev-python/mpmath-0.16*
 
 =sci-libs/hdf5-1.8.6*
-
-# =dev-python/sympy-0.6.7*
-# =dev-python/sympy-0.7.0*
 
 =dev-python/numpy-1.6.0*
 =dev-python/numpy-1.6.1*
