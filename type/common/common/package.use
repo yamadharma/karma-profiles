@@ -84,6 +84,7 @@ media-libs/libpng						apng
 net-p2p/transmission						utp
 sys-boot/grub							extras
 sys-boot/grub							static
+media-libs/freetype						static-libs
 sys-fs/udev							edd floppy gudev hwdb keymap
 sys-libs/ncurses						static-libs
 dev-libs/cyrus-sasl						openldap

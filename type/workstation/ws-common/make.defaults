@@ -238,7 +238,7 @@ itcl octave \
 zrtp blender-game \
 additions vditool \
 hardware-carrier transmitter \
-ldb new-clx \
+new-clx \
 maps hipe kpoll smp \
 sys-libs \
 newspr \
