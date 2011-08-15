@@ -4,5 +4,5 @@ vde \
 spice \
 "
 
-# QEMU_SOFTMMU_TARGETS="i386 x86_64 arm cris m68k microblaze mips mipsel ppc ppc64 sh4 sh4eb sparc sparc64 mips64 mips64el ppcemb"
-# QEMU_USER_TARGETS="i386 x86_64 arm cris m68k microblaze mips mipsel ppc ppc64 sh4 sh4eb sparc sparc64 alpha armeb ppc64abi32 sparc32plus"
+QEMU_SOFTMMU_TARGETS="i386 x86_64 arm cris m68k microblaze mips mipsel ppc ppc64 sh4 sh4eb sparc sparc64 mips64 mips64el ppcemb"
+QEMU_USER_TARGETS="i386 x86_64 arm cris m68k microblaze mips mipsel ppc ppc64 sh4 sh4eb sparc sparc64 alpha armeb ppc64abi32 sparc32plus"
