@@ -9,4 +9,4 @@ PKGDIR=${COMPORTDIR}/packages/ws--pentium4
 CFLAGS="-march=i686 -mtune=pentium4 -O2 -pipe"
 CXXFLAGS="${CFLAGS}"
 
-ECVS_OFFLINE=1
+EVCS_OFFLINE=1
