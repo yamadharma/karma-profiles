@@ -54,10 +54,4 @@
 
 =dev-libs/yajl-2.0.2
 
-
-# perl-5.14
-#=virtual/perl-Parse-CPAN-Meta-1.440.100-r2
-#=perl-core/CPAN-Meta-2.110.930
-#=virtual/perl-CPAN-Meta-2.110.930
-#=perl-core/ExtUtils-MakeMaker-6.580.0
-#=virtual/perl-ExtUtils-MakeMaker-6.580.0
+=virtual/linux-sources-2.6

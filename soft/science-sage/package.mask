@@ -12,5 +12,5 @@
 =dev-python/numpy-1.6.0*
 =dev-python/numpy-1.6.1*
 
-=sci-chemistry/jmol-12*
-=sci-chemistry/jmol-applet-12*
+# =sci-chemistry/jmol-12*
+# =sci-chemistry/jmol-applet-12*
