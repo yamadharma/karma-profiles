@@ -36,8 +36,6 @@ sci-mathematics/fricas						ecl
 
 sci-libs/gdal							-hdf netcdf
 
-sci-chemistry/jmol						vhosts
-
 sci-visualization/qtiplot					origin emf latex ods png python xls
 
 sci-chemistry/openbabel						gui
