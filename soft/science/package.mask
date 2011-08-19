@@ -14,3 +14,6 @@ dev-java/xmlgraphics-commons:1
 
 # For sci-chemistry/openbabel-perl-2.3.0
 # =dev-lang/swig-2.0.2
+
+=dev-cpp/eigen-9999
+=dev-cpp/eigen-3.0.1-r2
