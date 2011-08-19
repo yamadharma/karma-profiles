@@ -91,7 +91,8 @@ dev-libs/cyrus-sasl						openldap
 sys-fs/ntfs3g							acl crypt external-fuse udev xattr ntfsprogs
 net-dns/avahi							howl-compat mdnsresponder-compat
 # net-misc/mediatomb						mysql
-app-forensics/libewf						ewf2
+# app-forensics/libewf						ewf2
+
 
 
 
