@@ -1,3 +1,6 @@
+# reftex now part of emacs
+app-emacs/reftex
+
 =sys-apps/findutils-4.5.4
 
 # Russian don't supported
