@@ -1,5 +1,6 @@
 dev-lisp/ecls							unicode
 media-gfx/tachyon						mpi
-=sci-mathematics/sage-doc-4.7.1					html
+=sci-mathematics/sage-doc-4.7.1					html pdf
+
 
 
