@@ -14,3 +14,9 @@
 
 # =sci-chemistry/jmol-12*
 # =sci-chemistry/jmol-applet-12*
+
+=sci-mathematics/sage-4.7.2_alpha1
+=sci-mathematics/sage-doc-4.7.2_alpha1
+=sci-mathematics/sage-clib-4.7.2_alpha1
+=sci-mathematics/sage-extcode-4.7.2_alpha1
+=sci-mathematics/sage-baselayout-4.7.2_alpha1
