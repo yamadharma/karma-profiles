@@ -51,6 +51,7 @@ app-emacs/reftex
 =app-misc/geneweb-5.02
 
 =sys-kernel/pf-sources-2.6.38_p3
+=sys-kernel/pf-sources-3.0.2
 =net-misc/openssh-5.8_p2
 
 =sys-libs/pam-1.1.3-r1
