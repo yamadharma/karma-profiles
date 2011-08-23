@@ -26,6 +26,8 @@ sci-mathematics/pari:3						data gmp sage
 sci-mathematics/eclib						pari24 
 sci-mathematics/lcalc						pari24 -pari
 
+sci-mathematics/sage						testsuite
+sci-mathematics/sage-baselayout					testsuite
 
 
 
