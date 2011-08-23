@@ -42,5 +42,7 @@ sci-chemistry/openbabel						gui
 
 sci-physics/root						llvm
 
+sci-libs/atlas							static-libs
+
 
 
