@@ -1,2 +1,10 @@
-CFLAGS="${CFLAGS} -march=nocona -mtune=nocona"
+# 64 bit profile (amd64) for < GCC 4.3
+
+#CFLAGS="${CFLAGS} -march=nocona"
+#CXXFLAGS="${CFLAGS}"
+
+# 64 bit profile (amd64) for >= GCC 4.3
+
+CFLAGS="${CFLAGS} -march=core2"
 CXXFLAGS="${CFLAGS}"
+

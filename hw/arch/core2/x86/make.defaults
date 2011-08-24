@@ -1,20 +1,10 @@
-# vendor_id  : GenuineIntel
-# cpu family  : 6
-# model  : 14, 22
-# model name  : Genuine Intel(R) CPU TXXXX @ XXXGHz
-# model name  : Intel(R) Celeron(R) CPU 220 @ 1.20GHz
-# model name  : Intel(R) Celeron(R) CPU 4X0 @ XXXGHz
+# 32 bit profile (x86) for < GCC 4.3:
 
-# vendor_id  : GenuineIntel
-# cpu family  : 6
-# model  : 15
-# model name  : Intel(R) Core(TM)2 CPU XXXX @ XXXGHz
+#CFLAGS="${CFLAGS} -march=prescott"
+#CXXFLAGS="${CFLAGS}"
 
+# 32 bit profile (x86) for >= GCC 4.3:
 
-USE="\
-mmx mmx2 mmxext sse sse2 \
-ssse3 hvm \
-"
-
-CFLAGS="${CFLAGS} -march=prescott -mtune=prescott"
+CFLAGS="${CFLAGS} -march=core2"
 CXXFLAGS="${CFLAGS}"
+

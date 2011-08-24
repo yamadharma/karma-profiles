@@ -43,6 +43,11 @@ sci-chemistry/openbabel						gui
 sci-physics/root						llvm
 
 sci-libs/atlas							static-libs
+sci-libs/blas-reference						static-libs
+sci-libs/lapack-reference					static-libs xblas
+sci-libs/cblas-reference					static-libs
+sci-libs/gsl							static-libs
+sci-libs/xblas							static-libs
 
 
 

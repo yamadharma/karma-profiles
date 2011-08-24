@@ -42,5 +42,7 @@ net-dns/avahi							utils
 
 net-misc/spice-gtk						-gtk3
 
+net-misc/networkmanager						connection-sharing
+
 
 
