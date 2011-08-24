@@ -1,4 +1,4 @@
 MAKEOPTS="-j1"
-CFLAGS=""
-CXXFLAGS=""
+#CFLAGS=""
+#CXXFLAGS=""
 
