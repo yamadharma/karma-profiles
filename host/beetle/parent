@@ -1,6 +1,6 @@
 ../../type/workstation/x86
 ../../hw/arch/core-i3/x86
-../../hw/video/ati_fglrx
+../../hw/video/ati
 ../../soft/qemu
 ../../soft/lxde
 ../../soft/kvm

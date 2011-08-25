@@ -61,6 +61,7 @@ dev-python/pylint		html
 
 #
 net-misc/curl							threads
+net-misc/curl							nss
 
 =net-analyzer/rrdtool-1.4.5*					ruby
 
