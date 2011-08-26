@@ -11,5 +11,8 @@ dev-java/xmlgraphics-commons:1
 
 =sci-libs/blas-reference-20070226*
 
+# Don't compile
+=sci-libs/atlas-3.9.46
+=sci-libs/atlas-3.9.47
 
 
