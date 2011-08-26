@@ -1,0 +1,267 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+# distmaint.py -- Portage distfiles cleaning and management tool
+# Version 0.2
+# Copyright 2005 Sandy McGuffog.
+# Copyright 2006-2009 Dmitry S. Kulyabov.
+# Distributed under the GNU Public License v3
+
+import sys
+import getopt
+import os
+import os.path
+import string
+import shutil
+import glob
+import portage
+
+# ===========================================================================
+# If Your Portage installation is non-standard, alter these.......
+# Note this only aplies if we can't find location from the portage settings
+# ===========================================================================
+#sPortage = '/usr/portage'
+sPortage = '$(portageq portdir)'
+# sOverlay = '/usr/local/share/portage'
+sOverlay = '$(portageq portdir_overlay)'
+# sDirstFiles = '/com/lib/portage/distfiles'
+sDirstFiles = '$(portageq distdir)'
+sDigestDirectory = ''
+# ===========================================================================
+# End of area to alter.......
+# ===========================================================================
+
+# Ugly, nasty global variables.....
+bVerbose = False
+bPretend = False
+
+def usage():
+   print 'distmaint v0.2'
+   print 'Usage: distmaint [OPTIONS] or python distmaint [OPTIONS]'
+   print 'Scan the portage database for source files required for any and'
+   print 'all ebuilds, then either (a) delete orphan (non-required files)'
+   print 'from portage/distfiles or (b) move ophan files to another directory'
+   print 'or (c) scan for and get required files from another location'
+   print
+   print 'Mandatory arguments to long options are mandatory for short options too.'
+   print '  -d, --delete             delete orphan files in portage/distfiles'
+   print '  -h, --help               display this help and exit'
+   print '  -v, --verbose            explain what is being done. In (much) detail.'
+   print '  -p, --pretend            instead of actually deleteing or moving files,'
+   print '                           just display what would be done'
+   print '  -n, --number=N           limit the number of files moved/deleted to N'
+   print '  -g, --get=DIRECTORY      scan DIRECTORY for required files, and copy'
+   print '                           to portage/distfiles if found'
+   print '  -m, --move=DIRECTORY     move orphan files to DIRECTORY rather than'
+   print '                           delete them'
+   print
+   print 'Examples:'
+   print '  distmaint'
+   print '    Scan all ebuild files, build a list of required source files for'
+   print '    all ebuilds, and compare that list to what is contained in distfiles'
+   print '  distmaint -d'
+   print '    Deletes all orphan files in portage/distfiles'
+   print '  distmaint -dpn 10'
+   print '    Outputs the names of the orphan files in portage/distfiles that would'
+   print '    be deleted, limiting the number to 10'
+   print '  distmaint -m /home/samba/public -n 10'
+   print '    Moves the first 10 orphan files in portage/distfiles to'
+   print '    the /home/samba/public directory'
+   print '  distmaint -g "/mnt/WinXP/Documents and Settings/All Users/Documents/Programs/Gentoo/distfiles"'
+   print '    Copy all files required by any ebuild that are available in the'
+   print '    /mnt/WinXP/..... directory to the portage distfiles directory'
+   print
+
+def IOError(sMessage):
+   print '*** File I/O error occured '+sMessage+'; may be a permisioning problem'
+#   sys.exit(2)
+
+def addFileList(sDirectory, dList):
+#   We could us glob.glob('/usr/portage/*/*/Manifest') here, it would be
+#   quicker, but walk is more robust versus directory structure changes
+   for root, dirs, files in os.walk(sDirectory):
+      for individualFile in files:
+         if individualFile == 'Manifest':
+            try:
+               fInputFile = open(os.path.join(root, individualFile), 'r')
+               for sLine in fInputFile.readlines():
+                  if sLine.startswith('DIST'):
+#                     print sLine
+                     tokens = string.split(sLine)
+                     dList[tokens[1]] = root[(len(sPortage) - 6):(len(root) - len(sDigestDirectory))]
+                     if bVerbose:
+                        print 'Adding file', tokens[1], 'length', tokens[2], 'from', root[(len(sDirectory)):(len(root) - len(sDigestDirectory))], 'to wish list'
+            except:
+               IOError('reading file '+os.path.join(root, individualFile))
+
+def main():
+   #Need to declare these global here, else python just creates local variables instead of using the globals....
+   global bVerbose
+   global bPretend
+
+   bVerbose = False
+   bDelete = False
+   bMove = False
+   bPretend = False
+   bGet = False
+   bLimit = False
+   iLimit = 1000000000
+   iLimitStore = iLimit
+   sMoveDir = ''
+
+   try:
+      lOpts, lArgs = getopt.getopt(sys.argv[1:], "dhvpn:g:m:", ["help", "delete", "pretend", "number=", "get=", "move="])
+   except (getopt.GetoptError):
+      # print help information and exit:
+      usage()
+      sys.exit(2)
+   for sOption, sArgument in lOpts:
+      if sOption == "-v":
+         bVerbose = True
+      if sOption in ("-h", "--help"):
+         usage()
+         sys.exit()
+      if sOption in ("-d", "--delete"):
+         bDelete = True
+      if sOption in ("-p", "--pretend"):
+         bPretend = True
+      if sOption in ("-g", "--get"):
+         bGet = True
+         sGetDirectory = sArgument;
+         if not os.path.isdir(sGetDirectory):
+            print sGetDirectory, 'is not an existing directory'
+            usage()
+            sys.exit(2)
+      if sOption in ("-n", "--number"):
+         bLimit = True
+         iLimit = int(sArgument);
+         iLimitStore = iLimit
+      if sOption in ("-m", "--move"):
+         bMove = True
+         sMoveDir = sArgument;
+         if not os.path.isdir(sMoveDir):
+            print sMoveDir, 'is not an existing directory'
+            usage()
+            sys.exit(2)
+
+   if bLimit:
+      print '*** Limiting number of files moved, copied or deleted to', iLimit
+
+   if bDelete and bPretend:
+      print '*** Note, pretend overrides delete; no files will be deleted; to delete run without the  -p'
+
+   if bMove and bPretend:
+      print '*** Note, pretend overrides move; no files will be moved; to move run without the  -p'
+
+
+   cPortdir = portage.settings['PORTDIR']
+   cDistdir = portage.settings['DISTDIR']
+   cOverlaydir = portage.settings['PORTDIR_OVERLAY']
+
+   if len(cPortdir) > 2 and len(cDistdir) > 2:
+      #assume we got good data from portage
+      sPortage = cPortdir
+      sOverlay = cOverlaydir
+      sDirstFiles = cDistdir
+   else:
+      print '*** Warning - could not get file locations from Portage - using defaults:'
+      print 'PORTDIR =', sPortage
+      print 'DISTDIR =', sDirstFiles
+      print 'PORTDIR_OVERLAY =', sOverlay
+
+   #sPortage = '/usr/portage/dev-java'
+   #sPortage = '/usr/portage/dev-texlive'
+
+   dWishList = {}
+   print 'Searching Portage for files to add to the wish list; this may take several minutes.............'
+   addFileList(sPortage, dWishList)
+   if not sOverlay == '':
+      for sOverlayDir in sOverlay.split(" "):
+         addFileList(sOverlayDir, dWishList)
+
+   print 'Total of', len(dWishList), 'files added to the wishlist'
+
+   print 'Searching distfiles for existing files.............'
+   lSortedDistFiles = glob.glob(os.path.join(sDirstFiles, '*'))
+   lSortedDistFiles.sort()
+
+   if bGet:
+      print 'Checking for files to get'
+      iTotalCopied = 0
+      iTotalFiles = 0
+      for root, dirs, files in os.walk(sGetDirectory):
+         for individualFile in files:
+            iTotalFiles = iTotalFiles + 1
+            try:
+               if (iLimit > 0 or not bLimit) and individualFile in dWishList and not (os.path.join(sDirstFiles, individualFile)) in lSortedDistFiles:
+                  iLimit = iLimit - 1
+                  if bPretend:
+                     try:
+                        if os.access(os.path.join(root, individualFile), os.R_OK):
+                           (st_mode, st_ino, st_dev, st_nlink, st_uid, st_gid, st_size, st_atime , st_mtime, st_ctime) = os.stat(os.path.join(root, individualFile))
+                           iTotalCopied = iTotalCopied + st_size
+                     except:
+                        IOError('attempting to access file '+sExistingFile)
+                     print 'Would copy', os.path.join(root, individualFile), 'to', sDirstFiles, 'for package', dWishList[individualFile]
+                  else:
+                     #Copy2 preserves dates and times
+                     shutil.copy2(os.path.join(root, individualFile), sDirstFiles)
+                     print 'Copied', os.path.join(root, individualFile), 'to', sDirstFiles
+            except:
+               IOError('attempting to copy file '+os.path.join(root, individualFile)+' to '+sDirstFiles)
+      if bPretend:
+         print iTotalCopied/1024, 'KB in',iLimitStore - iLimit, 'files out of a total of', iTotalFiles,'files considered would be copied from', sGetDirectory
+               
+   else:
+      # Here its either move or delete
+      print 'Matching the wish list to the existing files.............'
+      iFound = 0
+      iNotFound = 0
+      iTotalDeleted = 0
+      for sExistingFile in lSortedDistFiles:
+         (sHead, sTail) = os.path.split(sExistingFile)
+         if os.path.isdir(sExistingFile):
+            if bVerbose:
+               print sTail, 'is a directory - ignoring'
+         elif sTail in dWishList:
+            if bVerbose:
+               print 'Found', sTail, 'in wishlist'
+            iFound = iFound+1
+         else:
+            if bVerbose:
+               print 'Did not find', sTail, 'in wishlist'
+            if iLimit > 0 or not bLimit:
+               iLimit = iLimit - 1
+               if bPretend:
+                  try:
+                     if os.access(sExistingFile, os.R_OK):
+                        (st_mode, st_ino, st_dev, st_nlink, st_uid, st_gid, st_size, st_atime , st_mtime, st_ctime) = os.stat(sExistingFile)
+                        iTotalDeleted = iTotalDeleted + st_size
+                  except:
+                     IOError('attempting to access file '+sExistingFile)
+                  if bDelete:
+                     print 'Would delete', sExistingFile
+                  elif bMove:
+                     print 'Would move', sExistingFile, 'to', os.path.join(sMoveDir, sTail)
+               else:
+                  if bDelete:
+                     try:
+                        os.remove(sExistingFile)
+                     except:
+                        IOError('attempting to delete file '+sExistingFile)
+                     print 'Deleted', sExistingFile
+                  elif bMove:
+                     try:
+                        shutil.move(sExistingFile, os.path.join(sMoveDir, sTail))
+                     except:
+                        IOError('attempting to move file '+sExistingFile+' to '+os.path.join(sMoveDir, sTail))
+                     print 'Moved', sExistingFile, 'to', os.path.join(sMoveDir, sTail)
+            iNotFound = iNotFound+1
+      
+      print 'Found',iFound, 'required files and', iNotFound, 'orphan files'
+      if bPretend:
+         print iTotalDeleted/1024, 'KB could be freed up from the', iLimitStore - iLimit, 'files considered for deletion or movement'
+   print
+   
+if __name__ == '__main__':
+   main()
+    
