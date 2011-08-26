@@ -59,3 +59,5 @@ app-emacs/reftex
 =dev-libs/yajl-2.0.2
 
 =virtual/linux-sources-2.6
+
+<dev-lang/perl-5.14.1-r1
