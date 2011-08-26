@@ -1,1 +1,3 @@
-
+# Don't compile
+=sci-libs/atlas-3.9.46
+=sci-libs/atlas-3.9.47
