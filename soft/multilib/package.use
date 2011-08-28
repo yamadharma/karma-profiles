@@ -21,7 +21,7 @@ media-libs/libmng   lib32
 media-libs/libpng   lib32
 media-libs/tiff   lib32
 net-dns/libidn   lib32
-# net-print/cups					lib32
+#net-print/cups					lib32
 sys-apps/dbus   lib32
 sys-apps/file   lib32
 sys-devel/libtool   lib32
@@ -39,7 +39,7 @@ x11-libs/gtk+						lib32
 x11-libs/pango						lib32
 x11-themes/gtk-engines					lib32
 x11-themes/gtk-engines-xfce				lib32
-=x11-libs/qt-3*						lib32
+#=x11-libs/qt-3*						lib32
 media-libs/speex   lib32
 media-libs/fontconfig   lib32
 media-libs/freetype   lib32
@@ -98,5 +98,29 @@ x11-libs/qt-core					lib32
 x11-libs/qt-gui						lib32
 x11-libs/qt-webkit					lib32
 dev-db/ctdb						lib32
+sys-apps/tcp-wrappers					lib32
+dev-libs/cyrus-sasl					lib32
+sys-apps/attr						lib32
+dev-libs/popt						lib32
+dev-java/java-config					lib32
+net-dns/avahi						lib32
+sys-libs/libcap						lib32
+x11-libs/xtrans						lib32
+dev-python/dbus-python					lib32
+net-libs/gnutls						lib32
+app-arch/xz-utils					lib32
+sys-libs/tdb						lib32
+dev-python/pygtk					lib32
+dev-libs/libpthread-stubs				lib32
+dev-python/numpy					lib32
+x11-proto/dri2proto					lib32
+sys-libs/talloc						lib32
+sys-apps/keyutils					lib32
+dev-libs/iniparser					lib32
+net-fs/samba						lib32
+dev-libs/icu						lib32
+dev-libs/libdaemon					lib32
+gnome-base/libglade					lib32
 
-app-text/ghostscript-gpl				cups
+
+# app-text/ghostscript-gpl				cups

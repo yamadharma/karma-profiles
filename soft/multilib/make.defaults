@@ -2,6 +2,7 @@
 # http://wiki.github.com/sjnewbury/multilib-overlay
 
 USE="\
+lib32
 "
 
 # lib32
