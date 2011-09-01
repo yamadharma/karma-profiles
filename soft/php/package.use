@@ -1,5 +1,5 @@
-dev-lang/php					mysql soap posix
-dev-php5/pecl-apc				mmap
+dev-lang/php					mysql soap posix intl
+dev-php/pecl-apc				mmap
 
 
 

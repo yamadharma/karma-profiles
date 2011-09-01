@@ -12,4 +12,4 @@ calendar \
 
 # suhosin \
 
-PHP_TARGETS="php5-3"
+# PHP_TARGETS="php5-3"
