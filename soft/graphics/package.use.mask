@@ -1,2 +1,3 @@
 media-gfx/gimp							doc
 media-gfx/graphicsmagick					imagemagick
+=media-gfx/greycstoration-2.9					lapack
