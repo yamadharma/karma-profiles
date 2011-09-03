@@ -94,6 +94,8 @@ sys-fs/ntfs3g							acl crypt external-fuse udev xattr ntfsprogs
 net-dns/avahi							howl-compat mdnsresponder-compat
 # net-misc/mediatomb						mysql
 # app-forensics/libewf						ewf2
+net-fs/nfs-utils						nfsidmap nfsv41
+net-dns/bind-tools						pkcs11
 
 
 
