@@ -96,6 +96,8 @@ net-dns/avahi							howl-compat mdnsresponder-compat
 # app-forensics/libewf						ewf2
 net-fs/nfs-utils						nfsidmap nfsv41
 net-dns/bind-tools						pkcs11
+net-dns/bind							dlz
+
 
 
 
