@@ -5,6 +5,8 @@ app-office/libreoffice			graphite jemalloc mysql odbc offlinehelp
 app-office/libreoffice-l10n		offlinehelp
 app-misc/tasque				rememberthemilk hiveminder
 app-office/scribus			templates
+x11-misc/zim				screenshot
+
 
 
 

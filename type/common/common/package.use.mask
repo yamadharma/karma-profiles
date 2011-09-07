@@ -79,5 +79,6 @@ media-libs/libwmf						expat
 
 sys-block/open-iscsi						slp
 
+net-dns/bind							ldap
 
 

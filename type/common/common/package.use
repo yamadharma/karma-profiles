@@ -70,7 +70,7 @@ x11-terms/rxvt-unicode						fading-colors pixbuf unicode3 256-color
 dev-libs/libgpg-error						static-libs
 dev-libs/libgcrypt						static-libs
 dev-libs/boost							static-libs
-sys-apps/util-linux						static-libs
+#sys-apps/util-linux						static-libs
 #sys-apps/coreutils						static
 
 # net-misc/openssh						static
@@ -94,9 +94,9 @@ sys-fs/ntfs3g							acl crypt external-fuse udev xattr ntfsprogs
 net-dns/avahi							howl-compat mdnsresponder-compat
 # net-misc/mediatomb						mysql
 # app-forensics/libewf						ewf2
-net-fs/nfs-utils						nfsidmap nfsv41
+# net-fs/nfs-utils						nfsidmap
+# net-fs/nfs-utils						nfsv41
 net-dns/bind-tools						pkcs11
-net-dns/bind							dlz
 
 
 
