@@ -51,6 +51,7 @@ xattr \
 largefile \
 lua luajit \
 zeroconf \
+prelude \
 "
 
 LINGUAS="ru en"
