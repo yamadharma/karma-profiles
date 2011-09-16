@@ -22,3 +22,8 @@
 # Robert Piasek <dagger@gentoo.org> (09 Aug 2011)
 # Masking for testing
 =net-fs/samba-3.6.0
+
+# Tomáš Chvátal <scarabeus@gentoo.org> (28 Aug 2011)
+# Masked until documentation guys consolidate the guide and approve
+# it for usage.
+~sys-boot/grub-1.99
