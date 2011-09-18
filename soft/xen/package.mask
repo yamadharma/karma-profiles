@@ -1,8 +1,8 @@
 #>=sys-kernel/linux-headers-2.6.35
 
 # Надо разбираться с миграцией
-=app-emulation/xen-4.0*
-=app-emulation/xen-tools-4.0*
-=app-emulation/xen-4.1*
-=app-emulation/xen-tools-4.1*
+#=app-emulation/xen-4.0*
+#=app-emulation/xen-tools-4.0*
+#=app-emulation/xen-4.1*
+#=app-emulation/xen-tools-4.1*
 
