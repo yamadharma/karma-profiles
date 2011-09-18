@@ -1,0 +1,5 @@
+# Markos Chandras <hwoarang@gentoo.org> (19 Aug 2011)
+# Masking xen useflag from app-emulation/libvirt per
+# bug #379815
+app-emulation/libvirt -xen
+
