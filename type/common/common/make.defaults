@@ -22,7 +22,7 @@ sctp \
 inotify \
 icu iconv \
 adns \
-hal dbus \
+dbus \
 hdb-ldap otp pkinit \
 geoip \
 pyx \
