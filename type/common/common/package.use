@@ -98,6 +98,7 @@ net-dns/avahi							howl-compat mdnsresponder-compat
 # net-fs/nfs-utils						nfsv41
 net-dns/bind-tools						pkcs11
 app-emulation/libvirt						virt-network
+sys-libs/zlib							minizip
 
 
 
