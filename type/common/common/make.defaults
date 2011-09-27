@@ -52,6 +52,7 @@ largefile \
 lua luajit \
 zeroconf \
 prelude \
+caps \
 "
 
 LINGUAS="ru en"
