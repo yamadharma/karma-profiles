@@ -6,4 +6,5 @@
 # =media-libs/clutter-gtk-0.91.8*
 =www-plugins/gecko-mediaplayer-1.0.3-r1
 # =media-video/gnome-mplayer-1.0.3-r1
+=dev-libs/glib-9999*
 

@@ -27,6 +27,8 @@ app-text/pdf2oo							kde
 #dev-util/eric							kde
 
 =net-libs/glib-networking-2.28*					libproxy
+=net-libs/glib-networking-2.30*					libproxy
+
 
 
 
