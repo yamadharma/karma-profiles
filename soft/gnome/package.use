@@ -47,5 +47,7 @@ dev-libs/folks							socialweb
 net-im/empathy							gnome-online-accounts
 media-video/totem						grilo
 
+# temporary
+net-wireless/gnome-bluetooth					-sendto
 
 
