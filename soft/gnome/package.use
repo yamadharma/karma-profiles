@@ -43,6 +43,9 @@ net-dns/avahi							utils
 net-misc/spice-gtk						-gtk3
 
 net-misc/networkmanager						connection-sharing
+dev-libs/folks							socialweb
+net-im/empathy							gnome-online-accounts
+media-video/totem						grilo
 
 
 
