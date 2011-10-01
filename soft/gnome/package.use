@@ -49,5 +49,7 @@ media-video/totem						grilo
 
 # temporary
 net-wireless/gnome-bluetooth					-sendto
+net-im/empathy							-sendto
+
 
 
