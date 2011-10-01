@@ -7,7 +7,6 @@
 >=dev-libs/atk-2.0
 >=dev-libs/libgweather-3.0
 >=gnome-base/libgnomekbd-3.0
->=gnome-extra/libgda-4.99
 =media-libs/libcanberra-0.28-r4
 >=x11-misc/notification-daemon-0.7
 # Core Applications
@@ -35,6 +34,7 @@
 >=app-text/gtranslator-2.90
 >=app-text/evince-3.0
 >=dev-util/anjuta-3.0
+>=app-pda/gtkpod-2.1.0
 >=dev-util/devhelp-3.0
 >=gnome-extra/drwright-3.0
 >=gnome-extra/evolution-data-server-3.0
@@ -49,9 +49,11 @@
 >=gnome-extra/gnome-screensaver-3.0
 >=gnome-extra/gnome-system-monitor-3.0
 >=gnome-extra/gnome-tweak-tool-3.0
+>=gnome-extra/gnome-user-share-3.0
 >=gnome-extra/gnome-utils-3.0
 >=gnome-extra/gucharmap-3.0
 >=gnome-extra/mousetweaks-3.0
+>=gnome-extra/nautilus-sendto-3.0
 >=gnome-extra/zenity-3.0
 >=mail-client/evolution-3.0
 >=media-gfx/eog-3.0
@@ -91,7 +93,15 @@
 >=media-gfx/gthumb-2.13
 >=gnome-extra/nautilus-open-terminal-0.19
 
+# Nirbheek Chauhan <nirbheek@gentoo.org> (14 Jun 2011)
+# GNOME 3.1.x pre-releases for libraries in the tree
+>=dev-libs/gobject-introspection-1.29
+>=dev-libs/gjs-1.29
+=media-libs/clutter-1.7*
 
+# Gilles Dartiguelongue <eva@gentoo.org> (24 Jul 2011)
+# Mask development release
+=dev-libs/json-glib-0.13*
 
 # Nirbheek Chauhan <nirbheek@gentoo.org> (03 Jul 2011)
 # Mask js185 release, changes pkgconfig file, soname, etc
