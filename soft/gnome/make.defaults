@@ -27,6 +27,7 @@ packagekit \
 galago \
 colord \
 webgl \
+sendto \
 "
 
 USE="${USE}\
