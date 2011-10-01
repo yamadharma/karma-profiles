@@ -25,6 +25,8 @@ map \
 bonobo \
 packagekit \
 galago \
+colord \
+webgl \
 "
 
 USE="${USE}\
