@@ -1,0 +1,3 @@
+# Sebastian Pipping <sping@gentoo.org> (31 Aug 2011)
+# Upcoming bump, afraid of ~arch for now (bug #283152)
+~media-gfx/gimp-2.7.3
