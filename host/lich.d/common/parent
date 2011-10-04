@@ -1,4 +1,5 @@
 ../../../type/server/server--x86_64
 ../../../hw/arch/k10/x86_64
 ../../../hw/video/dummy
+../../../soft/vhost/kvm
 
