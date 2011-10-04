@@ -1,0 +1,1 @@
+=dev-games/cegui-0.7*
