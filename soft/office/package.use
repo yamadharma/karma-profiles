@@ -6,6 +6,8 @@ app-office/libreoffice-l10n		offlinehelp
 app-misc/tasque				rememberthemilk hiveminder
 app-office/scribus			templates
 x11-misc/zim				screenshot
+app-office/libreoffice			python
+
 
 
 
