@@ -49,7 +49,6 @@ libxml2 \
 btrfs \
 xattr \
 largefile \
-lua luajit \
 zeroconf \
 prelude \
 caps \
@@ -68,6 +67,7 @@ fixlafiles unmerge-orphans \
 -strict -stricter \
 "
 # prelink confcache
+# lua luajit \
 
 SEARCH_DIRS="/usr/GNUstep"
 

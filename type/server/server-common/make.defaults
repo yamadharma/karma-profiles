@@ -13,15 +13,12 @@ sasl kerberos \
 samba \
 xfs acpi4linux \
 usb \
-ruby \
 slp \
 curl flash xml \
 imap \
-perl \
 plotutils \
 acl \
 innodb \
-ruby \
 acpi \
 multimaster \
 cscope \
@@ -74,7 +71,6 @@ spf srs \
 unsupported_8bit  \
 virus-scan \
 rle \
-lua \
 follow-xff \
 tools \
 unicode \

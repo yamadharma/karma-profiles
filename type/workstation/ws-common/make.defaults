@@ -15,11 +15,11 @@ sasl \
 kerberos \
 samba \
 xfs acpi4linux \
-usb tiff ruby tcltk slp curl flash xml \
+usb tiff tcltk slp curl flash xml \
 imap \
 tcltk \
-perl plotutils acl \
-innodb ruby \
+plotutils acl \
+innodb \
 acpi \
 faad \
 multimaster \
@@ -88,7 +88,6 @@ openexr \
 smux elf \
 ieee1394 \
 tidy \
-lua \
 nocd \
 libgda \
 glibc-omitfp \
