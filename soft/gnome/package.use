@@ -49,6 +49,7 @@ media-video/totem						grilo
 gnome-base/gnome-menus						python
 gnome-base/gnome-core-libs					python
 app-editors/gedit						python
+mail-client/evolution						python
 
 # temporary
 net-wireless/gnome-bluetooth					-sendto
