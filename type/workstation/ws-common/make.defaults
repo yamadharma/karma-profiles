@@ -300,6 +300,7 @@ nss dhclient dhcpcd \
 themes \
 cdrkit \
 upnp \
+tk \
 "
 
 # examples \
