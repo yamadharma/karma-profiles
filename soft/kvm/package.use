@@ -1,2 +1,4 @@
 app-emulation/qemu-kvm						qemu-ifup
 app-emulation/libvirt						qemu iscsi virt-network
+net-misc/spice-gtk						python
+

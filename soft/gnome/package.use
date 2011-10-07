@@ -46,6 +46,7 @@ net-misc/networkmanager						connection-sharing
 dev-libs/folks							socialweb
 net-im/empathy							gnome-online-accounts
 media-video/totem						grilo
+gnome-base/gnome-menus						python
 
 # temporary
 net-wireless/gnome-bluetooth					-sendto

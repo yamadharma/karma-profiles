@@ -1,4 +1,9 @@
 dev-python/PyQt4						assistant xmlpatterns
 net-dns/avahi							python
+sys-devel/gdb							python
+net-libs/gtk-vnc						python
+sys-libs/talloc							python
+sys-libs/tdb							python
+dev-lang/python							tk
 
 

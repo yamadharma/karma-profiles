@@ -49,5 +49,7 @@ sci-libs/cblas-reference					static-libs
 sci-libs/gsl							static-libs
 sci-libs/xblas							static-libs
 
+sci-mathematics/scilab						tk
+
 
 

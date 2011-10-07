@@ -41,3 +41,7 @@ net-p2p/rtorrent						color
 
 media-libs/phonon						vlc
 
+kde-base/plasma-workspace					python
+kde-base/kdegames-meta						python
+kde-base/superkaramba						python
+kde-base/marble							python

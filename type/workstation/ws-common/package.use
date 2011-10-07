@@ -19,4 +19,10 @@ net-im/gajim							gmail
 dev-util/geany-plugins						lua nls webkit enchant gtkspell soup
 sys-apps/pmount							-crypt
 dev-libs/boost							python
+dev-util/boost-build						python
+dev-lang/ocaml							tk
+dev-ml/lablgl							tk
+dev-ml/findlib							tk
+dev-lang/ruby							tk
+
 

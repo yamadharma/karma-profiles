@@ -9,6 +9,7 @@ media-gfx/scantailor						dewarping
 app-editors/emacs-vcs						wide-int gsettings
 app-editors/emacs						wide-int gsettings
 app-text/djvubind						cuneiform minidjvu
+app-editors/bluefish						gucharmap
 
 
 
