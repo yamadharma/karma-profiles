@@ -51,6 +51,8 @@ sci-libs/xblas							static-libs
 
 sci-mathematics/scilab						tk
 sci-mathematics/maxima						tk
+x11-libs/qscintilla						python
+dev-python/matplotlib						tk
 
 
 

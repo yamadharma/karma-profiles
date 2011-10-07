@@ -25,5 +25,6 @@ dev-ml/lablgl							tk
 dev-ml/findlib							tk
 dev-lang/ruby							tk
 dev-lang/erlang							tk
+www-client/luakit						luajit
 
 

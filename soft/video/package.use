@@ -16,6 +16,7 @@ media-video/vlc					libnotify
 media-libs/opencv				eigen
 net-libs/rb_libtorrent				python
 media-gfx/imagemagick				perl
-media-tv/mythtv					python
+media-tv/mythtv					python perl
+
 
 
