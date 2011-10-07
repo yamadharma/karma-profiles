@@ -24,5 +24,6 @@ dev-lang/ocaml							tk
 dev-ml/lablgl							tk
 dev-ml/findlib							tk
 dev-lang/ruby							tk
+dev-lang/erlang							tk
 
 

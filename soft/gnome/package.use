@@ -47,6 +47,8 @@ dev-libs/folks							socialweb
 net-im/empathy							gnome-online-accounts
 media-video/totem						grilo
 gnome-base/gnome-menus						python
+gnome-base/gnome-core-libs					python
+
 
 # temporary
 net-wireless/gnome-bluetooth					-sendto

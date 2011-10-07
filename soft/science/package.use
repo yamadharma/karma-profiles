@@ -50,6 +50,7 @@ sci-libs/gsl							static-libs
 sci-libs/xblas							static-libs
 
 sci-mathematics/scilab						tk
+sci-mathematics/maxima						tk
 
 
 
