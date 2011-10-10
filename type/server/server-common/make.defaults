@@ -58,7 +58,6 @@ rdesktop \
 dlz idn \
 erandom urandom \
 pcre \
-sensord \
 exim neural virtual-users \
 fastcgi mcal memlimit \
 customlog \

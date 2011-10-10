@@ -11,6 +11,7 @@ sys-libs/pam						nis
 x11-libs/cairo						X
 dev-libs/libnatspec					-python
 
+app-emulation/spice					-gui
 
 
 

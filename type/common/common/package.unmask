@@ -27,3 +27,10 @@
 # Masked until documentation guys consolidate the guide and approve
 # it for usage.
 ~sys-boot/grub-1.99
+
+# Jeroen Roovers <jer@gentoo.org> (13 Jul 2010)
+# The ebuild still needs work, but if you can help testing
+# it, then please unmask (bug #317325)
+=net-analyzer/net-snmp-5.5*
+=net-analyzer/net-snmp-5.6*
+
