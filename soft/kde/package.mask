@@ -13,6 +13,8 @@
 =app-office/kugar-1*
 =app-office/kword-1*
 
+=net-wireless/bluedevil-1.2.1
+
 =kde-base/kdeplasma-addons-9999
 =kde-base/kde-l10n-9999
 =kde-base/jovie-9999
