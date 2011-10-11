@@ -214,7 +214,7 @@ zeroconf \
 device-mapper \
 fping \
 inquisitio \
-galago thunderbird \
+thunderbird \
 toolkit-scroll-bars xft \
 glib pch sqlite3 \
 purge \

@@ -54,6 +54,7 @@ sci-mathematics/maxima						tk
 x11-libs/qscintilla						python
 dev-python/matplotlib						tk
 dev-lang/R							tk perl
+dev-libs/libxslt						python
 
 
 
