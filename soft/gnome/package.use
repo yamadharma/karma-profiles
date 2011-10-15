@@ -50,8 +50,8 @@ gnome-base/gnome-menus						python
 gnome-base/gnome-core-libs					python
 app-editors/gedit						python
 mail-client/evolution						python
-#=dev-libs/totem-pl-parser-2.32*					-quvi
 =app-misc/tomboy-1.8.0						-galago
+net-im/empathy							call
 
 # temporary
 net-wireless/gnome-bluetooth					-sendto

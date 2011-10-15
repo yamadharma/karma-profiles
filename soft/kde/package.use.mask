@@ -29,6 +29,7 @@ app-text/pdf2oo							kde
 =net-libs/glib-networking-2.28*					libproxy
 =net-libs/glib-networking-2.30*					libproxy
 
+=kde-base/solid-4.7.2						networkmanager
 
 
 
