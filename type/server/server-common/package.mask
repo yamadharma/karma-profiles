@@ -5,7 +5,7 @@
 =net-misc/openssh-5.8*
 
 # change in libblkid.so breaks exporting NFS directories hosted on btrfs
-=sys-apps/util-linux-2.20
+=sys-apps/util-linux-2.20*
 =sys-apps/sysvinit-2.88-r3
 
 
