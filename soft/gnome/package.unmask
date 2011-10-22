@@ -114,8 +114,17 @@
 >=dev-libs/atk-2.2
 >=x11-libs/gtk+-3.2
 >=x11-libs/pango-1.29
+>=x11-libs/vte-0.30
 x11-themes/gtk-engines-unico
 >=x11-themes/gnome-themes-standard-3.2
+>=x11-misc/notify-osd-0.9.32
+
+# Nirbheek Chauhan <nirbheek@gentoo.org> (14 Jun 2011)
+# GNOME 3.2 mask
+>=dev-libs/gobject-introspection-1.29
+>=dev-libs/gjs-1.29
+>=dev-python/pygobject-2.28.6-r50
+=media-libs/clutter-1.7*
 
 # Alexandre Rostovtsev <tetromino@gentoo.org> (19 Oct 2011)
 # Requires nautilus[introspection] to run
