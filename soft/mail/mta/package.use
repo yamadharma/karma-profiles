@@ -1,1 +1,2 @@
-mail-mta/exim						dcc dsn
+mail-mta/exim						dcc dsn perl
+
