@@ -1,4 +1,5 @@
 USE="\
-mpi pbs \
+mpi \
+slurm \
 "
 
