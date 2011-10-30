@@ -1,2 +1,2 @@
-# Clash with libptf
-=sys-cluster/openmpi-1.3*
+sys-cluster/openmpi::gentoo
+
