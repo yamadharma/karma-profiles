@@ -1,1 +1,3 @@
 # www-servers/lighttpd						libev
+www-servers/lighttpd						lua uploadprogress
+
