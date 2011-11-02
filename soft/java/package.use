@@ -9,6 +9,12 @@ www-servers/resin				admin doc
 www-servers/jboss-bin				ejb3 doc
 www-servers/jboss				ejb3 doc
 
+dev-util/jay					java
+app-office/libreoffice				java
+dev-lang/erlang					java
+dev-tex/tex4ht					java
+dev-lang/mercury				java
+
 
 
 

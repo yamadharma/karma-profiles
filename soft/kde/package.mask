@@ -296,3 +296,9 @@
 =kde-base/kommander-9999
 =kde-base/kdebase-meta-9999
 =kde-base/kde-meta-9999
+
+
+# for kdevelop
+=dev-vcs/subversion-1.7.0*
+=dev-vcs/subversion-1.7.1*
+

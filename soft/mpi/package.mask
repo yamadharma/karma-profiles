@@ -1,2 +1,6 @@
-sys-cluster/openmpi::gentoo
+# Mask from gentoo overlay
+=sys-cluster/openmpi-1.5.3-r1
+=sys-cluster/openmpi-1.5.3-r2
+=sys-cluster/openmpi-1.5.4*
+
 

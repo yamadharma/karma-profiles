@@ -1,4 +1,4 @@
-USE="java java5 java6 gcj \
+USE="java5 java6 gcj \
 javamail jms \
 avalon-framework avalon-logkit \
 javacomm \
@@ -7,6 +7,8 @@ groovy \
 derby \
 jfreechart jgoodiesforms nachocalendar \
 "
+
+# java
 
 # cacao shark zero \
 # jmx

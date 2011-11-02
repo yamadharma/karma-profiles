@@ -1,5 +1,9 @@
-dev-lang/php					mysql soap posix intl
+dev-lang/php					soap posix intl
 dev-php/pecl-apc				mmap
+dev-lang/php					mysqlnd mysql mysqli
+dev-lang/php					postgres
+dev-lang/php					odbc
+
 
 
 

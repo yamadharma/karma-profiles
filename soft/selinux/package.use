@@ -1,2 +1,3 @@
-sys-libs/libsemanage						python
-sys-libs/libselinux						python
+sys-libs/libsemanage						python ruby
+sys-libs/libselinux						python ruby
+

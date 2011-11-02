@@ -1,5 +1,5 @@
-USE="postgres \
-odbc \
+USE=" \
 uuid \
 "
-
+# postgres
+# odbc \

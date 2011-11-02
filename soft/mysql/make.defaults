@@ -1,5 +1,6 @@
-USE="mysql mysqli \
-odbc \
+USE=" \
 "
 
+# mysql mysqli
+# odbc \
 # pbxt \
