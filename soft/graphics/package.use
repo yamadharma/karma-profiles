@@ -5,6 +5,7 @@ x11-libs/cairo							X
 media-gfx/hugin							sift
 media-gfx/gimp							python
 media-libs/lcms:0						python
+media-gfx/pstoedit						plotutils
 
 
 
