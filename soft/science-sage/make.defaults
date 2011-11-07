@@ -1,5 +1,5 @@
 USE="\
-pari24 \
+pari \
 "
 
 # mpir

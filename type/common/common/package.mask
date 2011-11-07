@@ -65,4 +65,4 @@ app-emacs/reftex
 =dev-libs/xmlrpc-c-1.27.5-r1
 # =net-print/gutenprint-5.2.7
 =dev-db/sqlite-3.7.8
-
+=sys-fs/mtd-utils-20060907

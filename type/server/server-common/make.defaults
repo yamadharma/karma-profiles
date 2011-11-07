@@ -122,7 +122,7 @@ portage \
 gpg \
 file neon \
 log4j servletapi \
--cups -opengl \
+-opengl \
 "
 
 # odbc \

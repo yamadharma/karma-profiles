@@ -3,6 +3,7 @@ sys-process/fcron						selinux
 media-gfx/graphviz						tcl
 net-dns/bind							mysql odbc postgres
 sys-boot/grub							truetype
+dev-java/icedtea						nsplugin webstart
 
 
 
