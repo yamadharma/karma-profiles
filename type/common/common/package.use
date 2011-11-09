@@ -101,6 +101,8 @@ app-emulation/libvirt						virt-network
 sys-libs/zlib							minizip
 net-libs/farsight2						python
 app-text/ghostscript-gpl					cups
+www-apps/moodle							postgres
+media-gfx/imagemagick						perl
 
 
 
