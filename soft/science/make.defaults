@@ -8,6 +8,7 @@ cdf netcdf \
 blas hdf hdf5 \
 matplotlib \
 maximalib \
+pari \
 "
 
 PORTDIR_OVERLAY="\

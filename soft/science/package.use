@@ -55,6 +55,7 @@ x11-libs/qscintilla						python
 dev-python/matplotlib						tk
 dev-lang/R							tk perl
 dev-libs/libxslt						python
+=dev-lisp/clisp-2.48*						-pari
 
 
 
