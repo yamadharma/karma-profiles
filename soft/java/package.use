@@ -1,7 +1,8 @@
 # www-servers/tomcat				admin doc examples
 www-servers/tomcat				doc
 dev-java/icedtea6				nio2 systemtap
-dev-java/icedtea				systemtap zero nio2 jamvm
+dev-java/icedtea				systemtap nio2
+dev-java/icedtea				zero
 # dev-java/sun-jdk				odbc
 
 www-servers/resin				admin doc
@@ -14,6 +15,7 @@ app-office/libreoffice				java
 dev-lang/erlang					java
 dev-tex/tex4ht					java
 dev-lang/mercury				java
+app-emacs/ecb					java
 
 
 
