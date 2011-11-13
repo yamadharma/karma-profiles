@@ -3,7 +3,7 @@ app-office/lyx				enchant gnumeric
 dev-java/lucene				analyzers
 app-office/libreoffice			graphite jemalloc mysql odbc offlinehelp
 app-office/libreoffice			pdfimport
-app-office/libreoffice-l10n		offlinehelp
+app-office/libreoffice-l10n		offlinehelp templates
 app-misc/tasque				rememberthemilk hiveminder
 app-office/scribus			templates
 x11-misc/zim				screenshot
