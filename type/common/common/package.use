@@ -70,7 +70,7 @@ x11-terms/rxvt-unicode						fading-colors pixbuf unicode3 256-color
 dev-libs/libgpg-error						static-libs
 dev-libs/libgcrypt						static-libs
 dev-libs/boost							static-libs
-#sys-apps/util-linux						static-libs
+sys-apps/util-linux						static-libs
 #sys-apps/coreutils						static
 
 # net-misc/openssh						static
