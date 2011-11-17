@@ -28,14 +28,13 @@ galago \
 colord \
 webgl \
 sendto \
+clutter \
 "
 
 USE="${USE}\
 -eds\
 "
 
-
-# clutter \
 # eds \
 # tracker
 # gnome-keyring
