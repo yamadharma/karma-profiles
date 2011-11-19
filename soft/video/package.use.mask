@@ -11,4 +11,5 @@ media-libs/mlt					qt3
 =media-video/vlc-1.1.7				libnotify
 =media-video/gpac-0.4.5-r4			javascript
 =net-misc/mediatomb-0.12.1			javascript
+media-tv/tvtime					-alsa
 
