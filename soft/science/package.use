@@ -56,6 +56,7 @@ dev-python/matplotlib						tk
 dev-lang/R							tk perl
 dev-libs/libxslt						python
 =dev-lisp/clisp-2.48*						-pari
+sci-geosciences/gpsd						python
 
 
 
