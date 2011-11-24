@@ -1,5 +1,6 @@
 ../../../type/workstation/x86_64
-../../../hw/arch/core2/x86_64
+#../../../hw/arch/core2/x86_64
+../../../hw/arch/x86_64
 ../../../hw/net/bluetooth
 ../../../soft/qemu
 ../../../soft/lxde

@@ -1,7 +1,7 @@
 COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/ws--nocona
+PKGDIR=${COMPORTDIR}/packages/ws--x86_64
 
-PORTAGE_BINHOST="ftp://mark.sci.pfu.edu.ru/ws--nocona/"
+PORTAGE_BINHOST="ftp://mark.sci.pfu.edu.ru/ws--x86_64/"
 
 ELISP_DISABLE_ELC=1
 MAKEOPTS="-j3"
