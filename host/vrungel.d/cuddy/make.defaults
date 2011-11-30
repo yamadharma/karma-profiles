@@ -1,5 +1,0 @@
-COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/ws--x86_64
-
-FEATURES="buildpkg"
-

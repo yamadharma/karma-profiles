@@ -103,6 +103,7 @@ net-libs/farsight2						python
 app-text/ghostscript-gpl					cups
 www-apps/moodle							postgres
 media-gfx/imagemagick						perl
+dev-libs/libxml2						python
 
 
 

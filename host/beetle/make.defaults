@@ -1,6 +1,3 @@
-COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/ws--x86
-
 FEATURES="buildpkg"
 
 MAKEOPTS="-j5"

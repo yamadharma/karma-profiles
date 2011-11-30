@@ -1,6 +1,7 @@
 ../../type/server/server--x86_64
-../../hw/arch/k10/x86_64
-# ../../soft/xen
+#../../hw/arch/k10/x86_64
+../../hw/arch/x86_64
+../../soft/xen
 ../../soft/kvm
 
 

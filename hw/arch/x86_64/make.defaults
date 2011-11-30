@@ -1,3 +1,8 @@
+LOCAL_PORTAGE_ARCH=x86_64
+
+PKGDIR=${COMPORTDIR}/packages/${LOCAL_PORTAGE_PROFILE}/${LOCAL_PORTAGE_ARCH}
+PORTAGE_BINHOST="ftp://mark.sci.pfu.edu.ru/${LOCAL_PORTAGE_PROFILE}/${LOCAL_PORTAGE_ARCH}/"
+
 # For java
 USE="-shark \
 development \
