@@ -9,7 +9,7 @@ projectm \
 alac \
 flake \
 mpg123 \
-cddb cdparanoia \
+cddb cdio \
 "
 
 # arts artswrappersuid

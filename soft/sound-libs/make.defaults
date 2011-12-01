@@ -30,4 +30,5 @@ playlist \
 sndfile \
 gstreamer \
 libcanberra \
+aacplus \
 "
