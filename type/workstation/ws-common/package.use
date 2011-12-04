@@ -26,5 +26,6 @@ dev-ml/findlib							tk
 dev-lang/ruby							tk
 dev-lang/erlang							tk
 www-client/luakit						luajit
+app-misc/gtypist						-emacs
 
 
