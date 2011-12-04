@@ -1,0 +1,2 @@
+=app-office/libreoffice-3.5.0.0
+=app-office/libreoffice-l10n-3.5.0
