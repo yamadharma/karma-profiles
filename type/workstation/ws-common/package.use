@@ -27,5 +27,6 @@ dev-lang/ruby							tk
 dev-lang/erlang							tk
 www-client/luakit						luajit
 app-misc/gtypist						-emacs
+=app-office/lyx-2.0.2						-subversion
 
 
