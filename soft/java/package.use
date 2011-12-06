@@ -3,7 +3,7 @@ www-servers/tomcat				doc
 dev-java/icedtea6				nio2 systemtap
 dev-java/icedtea				systemtap nio2
 dev-java/icedtea				zero
-dev-java/icedtea				jamvm
+# dev-java/icedtea				jamvm
 # dev-java/sun-jdk				odbc
 
 www-servers/resin				admin doc
