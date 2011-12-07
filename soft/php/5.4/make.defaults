@@ -1,0 +1,1 @@
+PHP_TARGETS="${PHP_TARGETS} php5-4"

@@ -15,7 +15,7 @@ gzip-el \
 lzo lzma \
 vim-syntax \
 archive \
-aspell \
+aspell enchant \
 libssh2 \
 gnutls \
 sctp \
