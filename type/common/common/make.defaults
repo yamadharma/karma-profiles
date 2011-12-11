@@ -92,6 +92,7 @@ ${LAYMAN_DIR}/moonrise \
 ${LAYMAN_DIR}/sunrise \
 ${LAYMAN_DIR}/haskell \
 ${LAYMAN_DIR}/calculate \
+${LAYMAN_DIR}/sabayon \
 /usr/local/share/portage/local/ ${PORTDIR_OVERLAY}"
 
 # ${LAYMAN_DIR}/pure-funtoo \

@@ -1,0 +1,3 @@
+LDFLAGS_amd64="-melf_x86_64"
+LDFLAGS_x86="-melf_i386"
+LDFLAGS_x32="-melf32_x86_64"

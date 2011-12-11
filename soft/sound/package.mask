@@ -6,3 +6,5 @@ media-libs/portaudio:19
 =media-libs/portaudio-19-r3
 =media-libs/portaudio-19-r4
 
+#
+=media-sound/deadbeef-0.5.1-r1

@@ -7,7 +7,7 @@ crypt \
 encode gdbm gif gpm imlib \
 libg++ libwww mikmod mpeg ncurses nls \
 opengl pam pdflib png qt qtmt quicktime readline sdl slang spell \
-tcpd truetype xml2 xmms xv zlib \
+tcpd truetype xml2 xmms xv \
 ldap \
 dvd dvdr \
 leim \

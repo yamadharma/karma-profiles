@@ -5,7 +5,7 @@ USE="${USE} \
 apm avi berkdb encode gdbm gpm imlib \
 libg++ libwww ncurses nls \
 pam qtmt readline slang spell  \
-tcpd xml2 xmms zlib \
+tcpd xml2 xmms \
 ldap \
 dvd \
 leim \

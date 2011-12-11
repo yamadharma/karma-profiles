@@ -1,8 +1,2 @@
-COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/ws--nocona
-
-PORTAGE_BINHOST="ftp://mark.sci.pfu.edu.ru/ws--nocona/"
-
-USE="lirc"
 MAKEOPTS="-j5"
 

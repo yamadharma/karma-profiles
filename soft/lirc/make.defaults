@@ -1,1 +1,3 @@
+USE="lirc"
 LIRC_DEVICES="all"
+

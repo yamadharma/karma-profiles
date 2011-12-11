@@ -107,6 +107,9 @@ dev-libs/libxml2						python
 
 
 
+sys-apps/pciutils -zlib
+
+
 
 
 
