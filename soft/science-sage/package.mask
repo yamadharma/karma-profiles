@@ -12,11 +12,9 @@
 =dev-python/numpy-1.6.0*
 =dev-python/numpy-1.6.1*
 
-# =sci-chemistry/jmol-12*
-# =sci-chemistry/jmol-applet-12*
-
 =sci-libs/linbox-1.1.7
 =sci-libs/givaro-3.3*
 
 # >=sci-mathematics/singular-3.1.3
 
+=dev-lang/python-2.7.3_pre*

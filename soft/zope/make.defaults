@@ -1,0 +1,8 @@
+USE=" \
+"
+
+PORTDIR_OVERLAY="\
+${LAYMAN_DIR}/progress \
+${PORTDIR_OVERLAY}"
+
+

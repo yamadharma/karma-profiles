@@ -1,2 +1,3 @@
 app-misc/tracker							iptc playlist
-app-misc/tracker							firefox-bookmarks flickr
+app-misc/tracker							flickr
+# app-misc/tracker							firefox-bookmarks

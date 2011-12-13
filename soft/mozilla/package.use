@@ -25,4 +25,7 @@ x11-plugins/enigmail					-gnome
 =x11-misc/google-gadgets-0.11.2				-xulrunner
 #
 www-client/firefox					pgo
+www-client/firefox					system-sqlite
+mail-client/thunderbird					system-sqlite
+
 

@@ -5,6 +5,8 @@ dev-util/anjuta							valgrind
 sys-devel/llvm							llvm-gcc
 
 dev-vcs/subversion						-dso perl
+dev-vcs/subversion						webdav-serf
+
 
 
 
