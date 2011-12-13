@@ -1,4 +1,4 @@
-=app-office/libreoffice-3.4.99.1
+=app-office/libreoffice-3.4.99.1*
 =app-office/libreoffice-l10n-3.5.0-r1
 
 =app-office/abiword-2.8.6-r2
