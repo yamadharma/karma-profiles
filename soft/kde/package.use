@@ -46,4 +46,6 @@ kde-base/kdegames-meta						python
 kde-base/superkaramba						python
 kde-base/marble							python
 
+kde-base/kde-meta						sdk
+dev-java/antlr							script
 
