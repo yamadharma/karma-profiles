@@ -18,6 +18,7 @@ net-libs/rb_libtorrent				python
 media-gfx/imagemagick				perl
 media-tv/mythtv					python perl
 media-video/dvdauthor				graphicsmagick
+media-video/ffmpeg				ass
 
 
 

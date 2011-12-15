@@ -99,7 +99,7 @@ async automount syslog \
 big-tables extraengine geometry utf8 \
 idn \
 nautilus t1lib  \
-pccts musicbrainz \
+musicbrainz \
 urandom \
 effects inkjar plugin  \
 epson  \
