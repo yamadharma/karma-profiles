@@ -20,6 +20,7 @@ dev-util/geany-plugins						lua nls webkit enchant gtkspell soup
 sys-apps/pmount							-crypt
 dev-libs/boost							python
 dev-util/boost-build						python
+dev-libs/redland-bindings					python
 dev-lang/ocaml							tk
 dev-ml/lablgl							tk
 dev-ml/findlib							tk
@@ -28,5 +29,6 @@ dev-lang/erlang							tk
 www-client/luakit						luajit
 app-misc/gtypist						-emacs
 =app-office/lyx-2.0.2						-subversion
+
 
 

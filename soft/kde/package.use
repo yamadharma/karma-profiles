@@ -40,6 +40,8 @@ net-im/sim							-kde
 net-p2p/rtorrent						color
 
 media-libs/phonon						vlc
+=media-libs/phonon-4.6.0-r1					-vlc
+media-libs/phonon						zeitgeist
 
 kde-base/plasma-workspace					python
 kde-base/kdegames-meta						python
