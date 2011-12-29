@@ -104,10 +104,12 @@ app-text/ghostscript-gpl					cups
 www-apps/moodle							postgres
 media-gfx/imagemagick						perl
 dev-libs/libxml2						python
+sys-auth/sssd							python
 dev-db/sqlite							secure-delete unlock-notify
 
 
 sys-apps/pciutils						-zlib
+sys-auth/sssd							-glib
 
 
 

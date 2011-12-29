@@ -216,7 +216,7 @@ fping \
 inquisitio \
 thunderbird \
 toolkit-scroll-bars xft \
-glib pch sqlite3 \
+pch sqlite3 \
 purge \
 daap sdl-image \
 emf lash fluidsynth \
