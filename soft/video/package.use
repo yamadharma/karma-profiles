@@ -10,6 +10,7 @@ media-plugins/mythmusic				libvisual
 media-video/mplayer				libmpeg2 mpg123
 
 media-tv/xbmc					webserver
+media-tv/xbmc					airplay bluray goom
 
 media-libs/libbluray				aacs
 media-video/vlc					libnotify
@@ -19,6 +20,11 @@ media-gfx/imagemagick				perl
 media-tv/mythtv					python perl
 media-video/dvdauthor				graphicsmagick
 media-video/ffmpeg				ass
+
+media-libs/libbluray				java 
+media-libs/libbluray				utils static-libs
+
+
 
 
 
