@@ -67,3 +67,5 @@ app-emacs/reftex
 =dev-db/sqlite-3.7.8*
 =dev-db/sqlite-3.7.9*
 =sys-fs/mtd-utils-20060907
+
+=app-emacs/org-mode-7.8.03-r1
