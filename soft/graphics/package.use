@@ -6,6 +6,7 @@ media-gfx/hugin							sift
 media-gfx/gimp							python
 media-libs/lcms:0						python
 media-gfx/pstoedit						plotutils
+media-libs/gegl							lua
 
 
 
