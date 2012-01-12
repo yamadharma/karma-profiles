@@ -21,9 +21,9 @@ vpx \
 vaapi rtmp \
 frei0r \
 gme \
+vdpau \
+bluray \
 "
-
-# bluray \
 
 #PORTDIR_OVERLAY="\
 #${PORTDIR_OVERLAY} \

@@ -106,10 +106,11 @@ media-gfx/imagemagick						perl
 dev-libs/libxml2						python
 sys-auth/sssd							python
 dev-db/sqlite							secure-delete unlock-notify
-
+app-arch/libarchive						nettle xattr
 
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
+
 
 
 
