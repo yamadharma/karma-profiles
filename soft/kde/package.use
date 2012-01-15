@@ -51,3 +51,4 @@ kde-base/marble							python
 kde-base/kde-meta						sdk
 dev-java/antlr							script
 
+x11-libs/qt-gui							gtkstyle
