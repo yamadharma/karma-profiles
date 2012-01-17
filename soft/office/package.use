@@ -11,6 +11,7 @@ app-office/libreoffice			python
 app-office/kplato			python
 
 
+app-office/calligra			kdepim glew mysql
 
 
 
