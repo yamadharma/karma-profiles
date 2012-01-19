@@ -19,3 +19,6 @@
 =sci-libs/scipy-0.10*
 
 =dev-lang/python-2.7.3_pre*
+
+=dev-python/cython-0.15*
+

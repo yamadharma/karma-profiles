@@ -1,5 +1,6 @@
 ../../type/workstation/x86_64
-../../hw/arch/core-i3/x86_64
+../../hw/arch/x86_64
+../../hw/arch/core-i3
 ../../hw/video/ati
 ../../soft/qemu
 ../../soft/lxde
