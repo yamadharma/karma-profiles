@@ -1,0 +1,3 @@
+# gcjh: unrecognized option '-m64'
+CFLAGS_amd64=""
+
