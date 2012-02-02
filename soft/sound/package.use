@@ -14,6 +14,8 @@ media-sound/pulseaudio					realtime
 dev-libs/libcdio					cddb
 media-video/mplayer					-cddb -cdparanoia
 
+media-plugins/audacious-plugins				gtk3 -gtk
+media-sound/audacious					gtk3 -gtk
 
 
 
