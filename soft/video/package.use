@@ -20,7 +20,10 @@ net-libs/rb_libtorrent				python
 media-gfx/imagemagick				perl
 media-tv/mythtv					python perl
 media-video/dvdauthor				graphicsmagick
+
 media-video/ffmpeg				ass
+media-video/ffmpeg				libv4l
+media-video/ffmpeg				openssl 
 
 media-libs/libbluray				java 
 media-libs/libbluray				utils static-libs

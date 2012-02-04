@@ -7,3 +7,5 @@ dev-java/lucene-analyzers:2.4
 =dev-java/swingx-20070211*
 
 =dev-java/swt-3.5.2_rc1
+
+=dev-java/bytelist-1.0.9
