@@ -98,7 +98,7 @@ vcd \
 async automount syslog \
 big-tables extraengine geometry utf8 \
 idn \
-nautilus t1lib  \
+t1lib  \
 musicbrainz \
 urandom \
 effects inkjar plugin  \

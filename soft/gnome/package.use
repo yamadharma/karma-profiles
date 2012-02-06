@@ -12,6 +12,7 @@ www-plugins/gecko-mediaplayer					-gnome
 
 gnome-extra/nautilus-sendto					-empathy
 dev-vcs/bzr-gtk							-gconf -gnome-keyring
+dev-vcs/bzr-gtk							-nautilus
 
 app-office/openoffice						-gnome
 app-editors/emacs						-gconf

@@ -29,6 +29,7 @@ colord \
 webgl \
 sendto \
 clutter \
+nautilus \
 "
 
 USE="${USE}\
