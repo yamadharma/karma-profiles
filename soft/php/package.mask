@@ -1,0 +1,2 @@
+=dev-lang/php-5.4.0_rc*
+=virtual/httpd-php-5.4
