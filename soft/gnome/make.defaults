@@ -30,6 +30,7 @@ webgl \
 sendto \
 clutter \
 nautilus \
+zeitgeist \
 "
 
 USE="${USE}\
