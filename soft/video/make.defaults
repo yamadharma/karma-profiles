@@ -22,6 +22,7 @@ vaapi rtmp \
 frei0r \
 gme \
 vdpau \
+g3dvl \
 bluray \
 "
 
