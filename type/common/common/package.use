@@ -111,7 +111,9 @@ dev-db/sqlite							secure-delete unlock-notify
 
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
+
 net-nds/openldap						-gnutls
+net-print/cups							-gnutls
 
 
 
