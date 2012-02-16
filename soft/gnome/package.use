@@ -55,7 +55,7 @@ mail-client/evolution						python
 =app-misc/tomboy-1.8.0						-galago
 net-im/empathy							call
 gnome-extra/dockbarx						awn
-
+media-gfx/eog							python
 
 # temporary
 net-wireless/gnome-bluetooth					-sendto
