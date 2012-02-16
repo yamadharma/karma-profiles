@@ -56,6 +56,9 @@ mail-client/evolution						python
 net-im/empathy							call
 gnome-extra/dockbarx						awn
 
+gnome-extra/zeitgeist						plugins extensions passiv
+gnome-extra/zeitgeist-datasources				emacs firefox gedit rhythmbox totem bzr chromium geany telepathy tomboy vim xchat
+
 # temporary
 net-wireless/gnome-bluetooth					-sendto
 net-im/empathy							-sendto
