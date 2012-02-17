@@ -17,7 +17,6 @@ mac \
 monitor \
 equalizer \
 artist-screen colors lyrics-screen song-screen cover lyrics \
-celt \
 podcast \
 faac faad \
 spiff \
@@ -32,3 +31,5 @@ gstreamer \
 libcanberra \
 aacplus \
 "
+
+# celt \

@@ -1,6 +1,6 @@
 media-sound/xmms2			asx diskwrite eq lastfm mms nophonehome ofa xspf
 # cpp avcodec
-media-sound/jack-audio-connection-kit			classic freebob dbus mixed
+
 media-plugins/audacious-plugins				bs2b projectm
 
 media-sound/banshee					wikipedia youtube web karma
@@ -16,6 +16,11 @@ media-video/mplayer					-cddb -cdparanoia
 
 media-plugins/audacious-plugins				gtk3 -gtk
 media-sound/audacious					gtk3 -gtk
+
+media-sound/jack-audio-connection-kit			classic dbus
+media-sound/jack-audio-connection-kit			32bit mixed
+=media-sound/jack-audio-connection-kit-1.9*		-dbus
+
 
 
 
