@@ -8,3 +8,5 @@ media-libs/portaudio:19
 
 #
 =media-sound/deadbeef-0.5.1-r1
+
+media-libs/celt:0
