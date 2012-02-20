@@ -9,3 +9,8 @@ development \
 "
 
 VIDEO_CARDS=""
+
+USE="\
+mmx mmx2 mmxext sse sse2 \
+sse3 ssse3 \
+"
