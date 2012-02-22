@@ -54,6 +54,7 @@ prelude \
 caps \
 glib \
 netlink \
+zlib \
 "
 
 LINGUAS="ru en"

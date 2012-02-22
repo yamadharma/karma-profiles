@@ -1,5 +1,5 @@
-../../common/common
 ../../../../../../../portage/profiles/targets/desktop
+../../common/common
 ../../../hw/net/bluetooth
 ../../../soft/x11
 ../../../soft/x11-qt

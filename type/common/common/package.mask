@@ -70,4 +70,5 @@ app-emacs/reftex
 
 =app-emacs/org-mode-7.8.03-r1
 =net-misc/dropbox-1.2.51
+=sys-fs/udev-180
 

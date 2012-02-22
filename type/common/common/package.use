@@ -108,8 +108,8 @@ dev-libs/libxml2						python
 sys-auth/sssd							python
 dev-db/sqlite							secure-delete unlock-notify
 # app-arch/libarchive						nettle
+sys-apps/pciutils						compress-db zlib
 
-sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
 
 net-nds/openldap						-gnutls
