@@ -31,6 +31,8 @@ app-text/pdf2oo							kde
 
 =kde-base/solid-4.7.2						networkmanager
 
+=dev-util/kdevplatform-1.2.3*					subversion
+
 
 
 
