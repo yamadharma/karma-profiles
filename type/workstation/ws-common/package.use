@@ -31,6 +31,6 @@ app-misc/gtypist						-emacs
 =app-office/lyx-2.0.2						-subversion
 
 net-misc/remmina						freerdp telepathy
-sys-apps/pciutils						zlib
+
 
 
