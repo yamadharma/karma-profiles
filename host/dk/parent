@@ -5,6 +5,8 @@
 ../../hw/video/ati
 ../../hw/video/sis
 ../../hw/video/nvidia_free
+../../soft/kde
+../../soft/gnome
 ../../soft/xfce
 ../../soft/mpi
 ../../soft/kvm
