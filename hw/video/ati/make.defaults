@@ -1,1 +1,1 @@
-VIDEO_CARDS="radeon"
+VIDEO_CARDS="radeon r100 r200 r300 r600"

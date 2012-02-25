@@ -1,1 +1,1 @@
-VIDEO_CARDS="intel"
+VIDEO_CARDS="intel i915 i965"
