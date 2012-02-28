@@ -29,6 +29,7 @@ media-video/ffmpeg				openssl
 media-libs/libbluray				java 
 media-libs/libbluray				utils static-libs
 
+media-video/vlc					lua
 
 
 

@@ -18,7 +18,6 @@ media-plugins/audacious-plugins				gtk3 -gtk
 media-sound/audacious					gtk3 -gtk
 
 media-sound/jack-audio-connection-kit			classic dbus
-media-sound/jack-audio-connection-kit			32bit mixed
 =media-sound/jack-audio-connection-kit-1.9*		-dbus
 
 
