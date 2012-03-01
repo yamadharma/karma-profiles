@@ -4,3 +4,6 @@
 # model name  : Intel(R) Pentium(R) 4 CPU XXXXMHz
 
 USE="mmx mmx2 mmxext sse sse2"
+
+CFLAGS="${CFLAGS} -march=pentium4 -mtune=pentium4"
+CXXFLAGS="${CFLAGS}"

@@ -1,4 +1,2 @@
-COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/server--pentium4
-
 FEATURES="fixpackages"
+
