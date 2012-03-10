@@ -11,5 +11,6 @@ dev-java/xmlgraphics-commons:1
 
 =sci-libs/blas-reference-20070226*
 
-
+# need llvm-3.1
+=sci-physics/root-5.32.01-r1
 
