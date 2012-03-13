@@ -2,4 +2,8 @@
 ../../hw/arch/athlon
 ../../hw/platform/notebook
 ../../hw/video/ati
+../../soft/vnc
+../../soft/kvm
+../../soft/qemu
+../../soft/kde3
 

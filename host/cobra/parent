@@ -2,8 +2,9 @@
 ../../hw/arch/core-i3/x86
 ../../hw/video/ati
 ../../soft/vnc
-../../soft/kde3
 ../../soft/kvm
+../../soft/qemu
+../../soft/kde3
 
 
 

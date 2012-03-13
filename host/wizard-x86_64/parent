@@ -5,6 +5,10 @@
 ../../hw/net/bluetooth
 ../../hw/video/ati
 ../../soft/kde3
+../../soft/vnc
+../../soft/kvm
+../../soft/qemu
+
 
 
 
