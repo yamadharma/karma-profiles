@@ -32,5 +32,6 @@ app-misc/gtypist						-emacs
 
 net-misc/remmina						freerdp telepathy
 
+sys-kernel/genkernel						-crypt
 
 

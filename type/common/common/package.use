@@ -71,10 +71,11 @@ dev-libs/libgpg-error						static-libs
 dev-libs/libgcrypt						static-libs
 dev-libs/boost							static-libs
 sys-apps/util-linux						static-libs
-sys-fs/udev							static-libs
+#sys-fs/udev							static-libs
 sys-fs/lvm2							static-libs
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
+
 
 # net-misc/openssh						static
 
