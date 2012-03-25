@@ -18,5 +18,6 @@
 
 =sci-libs/scipy-0.10*
 
-# =dev-python/cython-0.15*
+=sci-mathematics/singular-3.1.4
+
 

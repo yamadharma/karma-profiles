@@ -93,11 +93,6 @@
 >=media-gfx/gthumb-2.13
 >=gnome-extra/nautilus-open-terminal-0.19
 
-# Nirbheek Chauhan <nirbheek@gentoo.org> (14 Jun 2011)
-# GNOME 3.1.x pre-releases for libraries in the tree
->=dev-libs/gobject-introspection-1.29
->=dev-libs/gjs-1.29
-=media-libs/clutter-1.7*
 
 # Gilles Dartiguelongue <eva@gentoo.org> (24 Jul 2011)
 # Mask development release
@@ -119,39 +114,8 @@ x11-themes/gtk-engines-unico
 >=x11-themes/gnome-themes-standard-3.2
 >=x11-misc/notify-osd-0.9.32
 
-# Nirbheek Chauhan <nirbheek@gentoo.org> (14 Jun 2011)
-# GNOME 3.2 mask
->=dev-libs/gobject-introspection-1.29
->=dev-libs/gjs-1.29
->=dev-python/pygobject-2.28.6-r50
-=media-libs/clutter-1.7*
 
 # Alexandre Rostovtsev <tetromino@gentoo.org> (19 Oct 2011)
 # Requires nautilus[introspection] to run
 >=dev-python/nautilus-python-1.0
-
-# Nirbheek Chauhan <nirbheek@gentoo.org> (14 Jun 2011)
-# GNOME 3.2 mask
->=app-accessibility/caribou-0.4
-app-admin/eselect-gnome-shell-extensions
->=app-misc/tracker-0.12
->=dev-libs/folks-0.6
->=dev-libs/gobject-introspection-1.29
->=dev-libs/gjs-1.29
->=dev-libs/libgdata-0.9
->=dev-libs/libpeas-1.2
->=dev-python/pyatspi-2.2
->=dev-python/pygobject-2.28.6-r50
->=gnome-base/gconf-3.2
->=gnome-extra/at-spi-2.2
-gnome-extra/gnome-contacts
-gnome-extra/gnome-documents
-gnome-extra/gnome-shell-extensions
->=gnome-extra/nautilus-tracker-tags-0.12
-gnome-extra/sushi
->=media-libs/clutter-1.7
->=media-libs/cogl-1.7
->=net-libs/gnome-online-accounts-3
->=x11-libs/libcryptui-3
->=x11-misc/alacarte-0.13.2-r50
 
