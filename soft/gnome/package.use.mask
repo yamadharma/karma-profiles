@@ -17,6 +17,7 @@ net-misc/networkmanager							dhclient nss
 =dev-libs/libpeas-1.0.0							glade
 =x11-libs/gtksourceview-2.10.5*						glade
 
-=gnome-extra/zeitgeist-datasources-0.8*					firefox emacs
+=gnome-extra/zeitgeist-datasources-0.8*					firefox emacs vim
+
 
 
