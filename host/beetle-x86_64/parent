@@ -6,6 +6,7 @@
 ../../soft/tracker
 #../../soft/beagle
 ../../soft/kvm
+../../soft/p2p
 ../../soft/lirc
 
 
