@@ -2,8 +2,8 @@
 #../../../hw/arch/core2/x86_64
 ../../../hw/arch/x86_64
 ../../../hw/video/dummy
-../../../soft/vhost/xen
-../../../soft/vhost/kvm
+# ../../../soft/vhost/xen
+# ../../../soft/vhost/kvm
 
 
 

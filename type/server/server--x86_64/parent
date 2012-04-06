@@ -1,4 +1,4 @@
-../../../../../../../portage/profiles/selinux/v2refpolicy/amd64
+../../../../../../../portage/profiles/selinux/v2refpolicy/amd64/server
 ../server-common
 #../../../soft/multilib
 
