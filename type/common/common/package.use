@@ -115,6 +115,7 @@ dev-db/sqlite							secure-delete unlock-notify
 # sys-apps/pciutils						compress-db zlib
 net-misc/dropbox						librsync-bundled
 
+dev-vcs/git							perl
 
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
