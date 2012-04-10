@@ -12,3 +12,6 @@ media-libs/portaudio:19
 media-libs/celt:0
 
 =media-sound/pulseaudio-1.99*
+# pulse output problem  Bug #359837
+=media-libs/openal-1.13
+
