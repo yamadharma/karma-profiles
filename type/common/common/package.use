@@ -117,6 +117,8 @@ net-misc/dropbox						librsync-bundled
 
 dev-vcs/git							perl
 
+app-arch/rpm							lua python
+
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
 
