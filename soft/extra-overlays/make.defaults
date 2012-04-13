@@ -1,9 +1,7 @@
 USE="\
 "
 
-# mpir
-
 PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/sage-on-gentoo \
+${LAYMAN_DIR}/sabayon \
 ${PORTDIR_OVERLAY}"
 

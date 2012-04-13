@@ -1,0 +1,21 @@
+sci-chemistry/chemtool							kde
+=sci-libs/plplot-5.9.2							wxwindows
+dev-python/matplotlib							doc
+sci-visualization/epix							doc
+#sci-physics/root							mysql kerberos afs
+sci-physics/root							kerberos afs
+=sci-visualization/labplot-1.6.0.2					hdf5
+
+#=sci-mathematics/scilab-5.2.0*						hdf5
+#=sci-mathematics/scilab-5.2.0*						scicos
+#=sci-mathematics/scilab-5.2.0*						doc
+
+sci-mathematics/fricas							gmp
+
+=sci-physics/root-5.28.00						python
+
+=sci-chemistry/openbabel-2.3.0						perl python
+
+
+
+

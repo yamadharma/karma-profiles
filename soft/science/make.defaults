@@ -13,6 +13,5 @@ pari \
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/science \
-${LAYMAN_DIR}/sage-on-gentoo \
 ${PORTDIR_OVERLAY}"
 
