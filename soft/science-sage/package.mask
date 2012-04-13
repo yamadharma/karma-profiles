@@ -21,6 +21,7 @@
 =sci-mathematics/singular-3.1.4
 
 =sci-mathematics/sage-data-elliptic_curves-0.5-r1
+=sci-mathematics/sage-data-elliptic_curves-0.6
 =sci-mathematics/sage-data-graphs-20070722_p2
 =sci-mathematics/sage-data-polytopes_db-20100210_p1
 
