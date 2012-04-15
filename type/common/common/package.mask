@@ -76,4 +76,5 @@ app-emacs/reftex
 
 # Configure problem
 =dev-libs/glib-2.32.1
+=dev-util/gdbus-codegen-2.32.1
 
