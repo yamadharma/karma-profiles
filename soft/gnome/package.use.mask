@@ -19,5 +19,7 @@ net-misc/networkmanager							dhclient nss
 
 =gnome-extra/zeitgeist-datasources-0.8*					firefox emacs vim
 
+=mail-client/evolution-3.2.3*						map
+
 
 
