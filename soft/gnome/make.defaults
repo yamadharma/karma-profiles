@@ -32,13 +32,13 @@ clutter \
 nautilus \
 zeitgeist \
 udisks \
-webkit2 \
 "
 
 USE="${USE}\
 -eds\
 "
 
+# webkit2 \
 # eds \
 # tracker
 # gnome-keyring
