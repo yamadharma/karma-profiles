@@ -74,3 +74,6 @@ app-emacs/reftex
 =sys-fs/udev-180
 =net-dns/maradns-2.0.06
 
+# Configure problem
+=dev-libs/glib-2.32.1
+
