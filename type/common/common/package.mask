@@ -78,3 +78,6 @@ app-emacs/reftex
 #=dev-libs/glib-2.32.1
 #=dev-util/gdbus-codegen-2.32.1
 
+# Compile and work problem
+# =net-dns/bind-9.9.0
+

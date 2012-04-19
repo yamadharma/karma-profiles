@@ -55,7 +55,7 @@ underscores \
 pam_timestamp \
 nodrm \
 rdesktop \
-dlz idn \
+idn \
 erandom urandom \
 pcre \
 exim neural virtual-users \
