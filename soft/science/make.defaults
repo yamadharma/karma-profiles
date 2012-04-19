@@ -1,5 +1,6 @@
 USE="\
 fortran95 \
+fortran2003 \
 numeric numarray \
 excel \
 glpk \
