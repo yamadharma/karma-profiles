@@ -7,6 +7,7 @@ media-sound/banshee					wikipedia youtube web karma
 
 app-admin/conky						-audacious
 media-sound/deadbeef					adplug dumb ffap gme nullout vtx
+media-sound/deadbeef					converter cover-imlib2 hotkeys infobar m3u mms mono2stereo rpath shellexec shn supereq
 
 media-sound/mpd						wildmidi pipe
 # media-sound/clementine					ayatana
