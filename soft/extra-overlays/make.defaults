@@ -3,5 +3,6 @@ USE="\
 
 PORTDIR_OVERLAY="\
 ${LAYMAN_DIR}/sabayon \
+${LAYMAN_DIR}/linamh \
 ${PORTDIR_OVERLAY}"
 
