@@ -1,0 +1,7 @@
+USE=" \
+"
+
+#PORTDIR_OVERLAY="\
+#${LAYMAN_DIR}/gamerlay \
+#${PORTDIR_OVERLAY}"
+
