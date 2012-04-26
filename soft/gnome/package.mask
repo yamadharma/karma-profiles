@@ -9,8 +9,8 @@
 =dev-libs/glib-9999*
 
 # Don't compile
-=dev-libs/dee-1.0.10
-=gnome-extra/zeitgeist-0.9.0
+#=dev-libs/dee-1.0.10
+#=gnome-extra/zeitgeist-0.9.0
 
 
 
