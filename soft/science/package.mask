@@ -13,3 +13,5 @@ dev-java/xmlgraphics-commons:1
 # need llvm-3.1
 =sci-physics/root-5.32.01-r1
 
+# Problem with scilab
+=sci-libs/matio-1.5.0
