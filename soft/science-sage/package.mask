@@ -28,5 +28,5 @@
 =dev-lang/python-2.7.3
 =dev-lang/python-2.7.3-r1
 
-
+=dev-python/cython-0.16*
 
