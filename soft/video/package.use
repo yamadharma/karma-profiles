@@ -24,8 +24,8 @@ media-tv/mythtv					python perl
 media-video/dvdauthor				graphicsmagick
 
 media-video/ffmpeg				ass
-media-video/ffmpeg				libv4l
-media-video/ffmpeg				openssl 
+media-video/ffmpeg				libv4l v4l
+media-video/ffmpeg				openssl
 
 media-libs/libbluray				java 
 media-libs/libbluray				utils static-libs
