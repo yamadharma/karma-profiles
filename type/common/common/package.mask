@@ -81,3 +81,6 @@ app-emacs/reftex
 # Compile and work problem
 # =net-dns/bind-9.9.0
 
+# Bug 414401
+=net-misc/openssh-6.0_p1
+
