@@ -14,7 +14,7 @@ samba \
 xfs acpi4linux \
 usb \
 slp \
-curl flash xml \
+flash xml \
 imap \
 plotutils \
 acl \
@@ -76,7 +76,7 @@ unicode \
 diet \
 objc++ \
 cgi xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
-iconv inifile bcmath curl curlwrappers pcntl flatfile \
+iconv inifile bcmath pcntl flatfile \
 sharedext wddx \
 dba cli \
 mod_pubsub mod_irc mod_muc web \
@@ -94,7 +94,7 @@ bittorrent metalink \
 jce \
 vim-pager \
 finger ftp gopher \
-hpn ares \
+ares \
 objc-gc \
 threadsafe \
 glsa qa  \

@@ -17,7 +17,6 @@ introspection \
 libunique atk libsoup libwnck \
 goocanvas \
 vala \
-introspection \
 goffice \
 gtk3 \
 vte \

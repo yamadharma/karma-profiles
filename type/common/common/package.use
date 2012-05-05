@@ -126,6 +126,7 @@ sys-auth/sssd							-glib
 
 net-nds/openldap						-gnutls
 net-print/cups							-gnutls
+=net-libs/liboauth-0.9.6					-curl
 
 
 

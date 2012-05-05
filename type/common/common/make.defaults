@@ -55,6 +55,7 @@ caps \
 glib \
 netlink \
 zlib \
+curl \
 "
 
 LINGUAS="ru en"

@@ -1,4 +1,4 @@
 # For gimp 2.7
-=media-libs/gegl-0.2*
-=media-libs/babl-0.1.8*
-=media-libs/babl-0.1.10*
+#=media-libs/gegl-0.2*
+#=media-libs/babl-0.1.8*
+#=media-libs/babl-0.1.10*

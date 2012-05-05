@@ -63,6 +63,8 @@ gnome-extra/zeitgeist-datasources				emacs firefox gedit rhythmbox totem bzr chr
 net-wireless/gnome-bluetooth					-sendto
 net-im/empathy							-sendto
 =gnome-extra/zeitgeist-datasources-0.8*				-eog
+=media-libs/babl-0.1.10						-introspection
+=media-libs/gegl-0.2.0						-introspection
 
 
 

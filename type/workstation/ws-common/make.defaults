@@ -15,7 +15,7 @@ sasl \
 kerberos \
 samba \
 xfs acpi4linux \
-usb tiff slp curl flash xml \
+usb tiff slp flash xml \
 imap \
 plotutils acl \
 innodb \
@@ -131,7 +131,7 @@ bl \
 objc++  \
 calendar \
 cgi xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
-inifile bcmath curl curlwrappers pcntl flatfile \
+inifile bcmath pcntl flatfile \
 sharedext wddx \
 extras \
 mime pdf \
@@ -172,7 +172,7 @@ chardet sid timidity ao \
 libsamplerate \
 amr \
 aotuv \
-hpn ares \
+ares \
 szip ansi hlapi \
 follow-xff underscores \
 sound \
