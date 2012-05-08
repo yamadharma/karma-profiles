@@ -10,6 +10,7 @@ alac \
 flake \
 mpg123 \
 cddb cdio \
+lv2 \
 "
 
 # arts artswrappersuid
