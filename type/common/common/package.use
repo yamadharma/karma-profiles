@@ -73,6 +73,7 @@ dev-libs/boost							static-libs
 sys-apps/util-linux						static-libs
 sys-fs/udev							static-libs
 sys-fs/lvm2							static-libs
+sys-libs/e2fsprogs-libs						static-libs
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
 

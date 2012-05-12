@@ -69,6 +69,7 @@ unmerge-orphans \
 compress-build-logs \
 fixlafiles unmerge-orphans \
 -strict -stricter \
+-parse-eapi-ebuild-head \
 "
 # prelink confcache
 # lua luajit \
