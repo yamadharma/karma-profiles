@@ -84,3 +84,7 @@ app-emacs/reftex
 # Bug 414401
 =net-misc/openssh-6.0_p1
 
+# Не видит karma overlay
+=sys-apps/portage-2.2.0_alpha104
+
+
