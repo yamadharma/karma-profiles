@@ -17,7 +17,7 @@
 
 =sci-libs/scipy-0.10*
 
-=sci-mathematics/singular-3.1.4
+=sci-mathematics/singular-3.1.4*
 
 =sci-mathematics/sage-data-elliptic_curves-0.5-r1
 =sci-mathematics/sage-data-elliptic_curves-0.6
