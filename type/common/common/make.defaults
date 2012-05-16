@@ -97,7 +97,6 @@ ${LAYMAN_DIR}/moonrise \
 ${LAYMAN_DIR}/sunrise \
 ${LAYMAN_DIR}/calculate \
 ${LAYMAN_DIR}/389-ds \
-${PORTDIR_OVERLAY} \
 /usr/local/share/portage/local/"
 
 # ${LAYMAN_DIR}/sabayon \
@@ -117,6 +116,7 @@ ${PORTDIR_OVERLAY} \
 # OpenCA
 # ${LAYMAN_DIR}/rion \
 # ${LAYMAN_DIR}/haskell \
+# ${PORTDIR_OVERLAY} \
 
 # PORTDIR_OVERLAY="/usr/local/share/portage/local/"
 
