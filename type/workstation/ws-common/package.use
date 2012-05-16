@@ -34,4 +34,5 @@ net-misc/remmina						freerdp telepathy
 
 sys-kernel/genkernel						-crypt
 
+=net-im/gajim-0.15*						-jingle
 

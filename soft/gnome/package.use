@@ -55,6 +55,7 @@ mail-client/evolution						python
 =app-misc/tomboy-1.8.0						-galago
 net-im/empathy							call
 gnome-extra/dockbarx						awn
+dev-libs/folks							eds
 
 gnome-extra/zeitgeist						plugins extensions passiv
 gnome-extra/zeitgeist-datasources				emacs firefox gedit rhythmbox totem bzr chromium geany telepathy tomboy vim xchat
@@ -65,6 +66,7 @@ net-im/empathy							-sendto
 =gnome-extra/zeitgeist-datasources-0.8*				-eog
 =media-libs/babl-0.1.10						-introspection
 =media-libs/gegl-0.2.0						-introspection
+
 
 
 
