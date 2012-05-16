@@ -25,3 +25,5 @@ x11-libs/gtkmathview					mathml
 x11-base/xorg-server					xvfb
 x11-libs/vte						python
 
+app-text/xdvik						-Xaw -Xaw3d motif
+
