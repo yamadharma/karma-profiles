@@ -87,6 +87,7 @@ app-emacs/reftex
 # Не видит karma overlay
 =sys-apps/portage-2.2.0_alpha104
 =sys-apps/portage-2.2.0_alpha105
+=sys-apps/portage-2.2.0_alpha107
 
 
 
