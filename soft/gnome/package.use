@@ -41,8 +41,9 @@ gnome-extra/evolution-data-server				weather
 =dev-ml/lablgtk-2.14*						-gnome
 net-dns/avahi							utils
 
-# app-emulation/virt-viewer					-gtk3
-# net-misc/spice-gtk						-gtk3
+app-emulation/virt-viewer					-gtk3
+net-misc/spice-gtk						-gtk3
+=net-misc/vinagre-3.4*						-spice
 
 net-misc/networkmanager						connection-sharing
 dev-libs/folks							socialweb

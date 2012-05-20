@@ -3,5 +3,6 @@ app-emulation/libvirt						qemu iscsi virt-network
 net-misc/spice-gtk						python
 net-misc/spice-gtk						usbredir
 app-emulation/qemu-kvm						usbredir tls
+=net-misc/vinagre-3.4*						-spice
 
 
