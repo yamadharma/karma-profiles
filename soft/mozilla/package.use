@@ -1,6 +1,7 @@
 app-emulation/virt-viewer				-nsplugin
 app-text/djvu						-nsplugin
 =dev-java/icedtea6-1.6.2-r2				-nsplugin
+=app-admin/packagekit-base-0.7*				-nsplugin
 
 media-gfx/freewrl					libeai
 
