@@ -18,7 +18,6 @@
 ../../../soft/graphics
 ../../../soft/photo
 ../../../soft/snmp
-../../../soft/java
 ../../../soft/python
 ../../../soft/mozilla
 ../../../soft/tex
@@ -26,6 +25,7 @@
 ../../../soft/office
 ../../../soft/science
 ../../../soft/science-sage
+../../../soft/java
 ../../../soft/pda
 ../../../soft/lang-misc
 ../../../soft/nx
