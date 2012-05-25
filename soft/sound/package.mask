@@ -15,3 +15,5 @@ media-libs/celt:0
 # pulse output problem  Bug #359837
 =media-libs/openal-1.13
 
+# sabayon
+=media-sound/pulseaudio-2.0-r1

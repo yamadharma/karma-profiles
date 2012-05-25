@@ -11,6 +11,7 @@
 
 =dev-python/numpy-1.6.0*
 =dev-python/numpy-1.6.1*
+=dev-python/numpy-1.6.2*
 
 =sci-libs/linbox-1.1.7
 =sci-libs/givaro-3.3*
