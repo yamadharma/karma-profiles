@@ -1,4 +1,4 @@
-# media-video/totem				nsplugin
+media-video/totem				nsplugin flash
 media-video/vlc					nsplugin
 media-video/gxine				nsplugin
 
