@@ -2,4 +2,5 @@ dev-games/physfs						grp hog mvl wad qpak zip
 games-strategy/lordsawar					pbm zip editor
 games-strategy/0ad						editor
 # =dev-games/cegui-0.7.5*						-ogre
+games-fps/wolf4sdl						smooth strafe wolf3d_id spear_full -wolf3d_shareware
 
