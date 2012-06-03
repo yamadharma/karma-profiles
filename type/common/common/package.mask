@@ -89,6 +89,8 @@ app-emacs/reftex
 =sys-apps/portage-2.2.0_alpha105
 =sys-apps/portage-2.2.0_alpha107
 =sys-apps/portage-2.2.0_alpha108
+=sys-apps/portage-2.2.0_alpha109
+
 
 
 
