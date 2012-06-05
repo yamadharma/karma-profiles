@@ -12,7 +12,3 @@ maximalib \
 pari \
 "
 
-PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/science \
-${PORTDIR_OVERLAY}"
-

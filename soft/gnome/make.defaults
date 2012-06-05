@@ -42,6 +42,3 @@ USE="${USE}\
 # tracker
 # gnome-keyring
 
-#PORTDIR_OVERLAY="\
-#${LAYMAN_DIR}/gnome \
-#${PORTDIR_OVERLAY}"

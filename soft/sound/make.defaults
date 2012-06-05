@@ -17,6 +17,3 @@ lv2 \
 # amarok \
 # esd \
 
-PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/pro-audio \
-${PORTDIR_OVERLAY}"

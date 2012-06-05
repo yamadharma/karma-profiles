@@ -13,10 +13,3 @@ jfreechart jgoodiesforms nachocalendar \
 # cacao shark zero \
 # jmx
 
-PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/java-overlay \
-${PORTDIR_OVERLAY}"
-
-#PORTDIR_OVERLAY="\
-#${LAYMAN_DIR}/java-experimental \
-#${PORTDIR_OVERLAY}"
