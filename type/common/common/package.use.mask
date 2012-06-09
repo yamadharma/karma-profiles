@@ -51,6 +51,7 @@ dev-python/pylint		html
 =net-misc/openssh-5.6*						ldap hpn
 =net-misc/openssh-5.7*						ldap hpn
 
+
 # bzr-gtk too old
 #dev-vcs/bzr-explorer						gtk
 
