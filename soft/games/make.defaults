@@ -7,8 +7,4 @@ tinyxml \
 mousewarp \
 "
 
-PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/gamerlay \
-${LAYMAN_DIR}/hasufell \
-${PORTDIR_OVERLAY}"
 
