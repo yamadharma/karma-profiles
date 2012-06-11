@@ -1,16 +1,18 @@
 USE="lirc"
 # LIRC_DEVICES="all"
-LIRC_DEVICES="accent act200l act220l adaptec alsa_usb animax asusdh
+LIRC_DEVICES="
+accent act200l act220l adaptec alsa_usb animax asusdh
 audio audio_alsa avermedia avermedia98 avermedia_vdomate awlibusb bestbuy bestbuy2 
-breakoutbox bte bw6130 caraca chronos commandir cph06x creative creative_infracd devinput 
-digimatrix dsp dvico ea65 ene0100 exaudio flyvideo ftdi gvbctv5pci hauppauge hauppauge_dvb 
-hercules_smarttv_stereo i2cuser igorplugusb iguanaIR imon imon_24g imon_knob imon_lcd 
-imon_pad imon_rsc inputlirc irdeo irdeo_remote irlink irman irreal it87 ite8709 knc_one 
-kworld leadtek_0007 leadtek_0010 leadtek_pvr2000 livedrive_midi livedrive_seq logitech 
-macmini mediafocusI mouseremote mouseremote_ps2 mp3anywhere mplay nslu2 packard_bell 
-parallel pcmak pcmak_usb pctv pixelview_bt878 pixelview_pak pixelview_pro provideo 
-realmagic remote_wonder_plus remotemaster sa1100 samsung sasem sb0540 serial 
-serial_igor_cesko silitek sir slinke streamzap tekram tekram_bt829 tira ttusbir 
-tuxbox tvbox udp uirt2 uirt2_raw usb_uirt_raw usbirboy usbx userspace wpc8769l xboxusb"
+breakoutbox bte bw6130 caraca chronos commandir cph06x creative creative_infracd devinput
+digimatrix dsp dvico ea65 ene0100 exaudio flyvideo ftdi gvbctv5pci hauppauge hauppauge_dvb
+hercules_smarttv_stereo i2cuser imon imon_24g imon_knob imon_lcd 
+rdeo irdeo_remote irlink irman irreal it87 ite8709 knc_one 
+kworld leadtek_0007 leadtek_0010 leadtek_pvr2000 livedrive_midi livedrive_seq logitech
+mediafocusI mouseremote mouseremote_ps2 mp3anywhere mplay nslu2 packard_bell
+pcmak pcmak_usb pctv pixelview_bt878 pixelview_pak pixelview_pro provideo
+realmagic remotemaster sa1100 samsung sasem sb0540
+silitek sir slinke streamzap tekram tekram_bt829 tira ttusbir
+tuxbox tvbox udp uirt2 uirt2_raw usb_uirt_raw usbx userspace
+"
 
 
