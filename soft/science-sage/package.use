@@ -21,7 +21,7 @@ sci-libs/gdal							-hdf netcdf
 sci-lib/mpir							cxx
 sci-mathematics/sage-scripts					wiki
 sci-mathematics/singular					-libsingular sage
-dev-lang/python							sage
+=dev-lang/python-2*						sage
 sci-mathematics/pari:3						data gmp sage
 
 sci-mathematics/sage						testsuite
