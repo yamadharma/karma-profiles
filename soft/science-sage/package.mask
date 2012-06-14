@@ -29,5 +29,6 @@
 =dev-python/cython-0.16*
 
 =sci-mathematics/maxima-5.27.0
+=sci-mathematics/maxima-5.27.0-r1
 
 =sci-chemistry/jmol-12.2.27*
