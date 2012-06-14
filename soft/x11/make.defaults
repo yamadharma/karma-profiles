@@ -21,6 +21,7 @@ rups \
 gallium \
 fltk \
 startup-notification \
+gles gles2 \
 "
 
 
