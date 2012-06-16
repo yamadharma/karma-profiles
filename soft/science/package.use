@@ -59,5 +59,6 @@ dev-libs/libxslt						python
 sci-geosciences/gpsd						python
 
 dev-perl/PDL							badval pdl2 pgplot plplot proj
+sci-libs/plplot							lua perl python
 
 
