@@ -58,8 +58,8 @@ dev-libs/libxslt						python
 =dev-lisp/clisp-2.48*						-pari
 sci-geosciences/gpsd						python
 
-dev-perl/PDL							badval pdl2 pgplot proj
-# dev-perl/PDL							plplot
+dev-perl/PDL							badval pdl2 pgplot
+# dev-perl/PDL							plplot proj
 sci-libs/plplot							lua perl python
 
 
