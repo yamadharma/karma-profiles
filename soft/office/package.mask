@@ -1,3 +1,3 @@
 =app-office/unoconv-20120327
 # Bug 419949
-=dev-cpp/libcmis-0.2.2
+=dev-cpp/libcmis-0.2*
