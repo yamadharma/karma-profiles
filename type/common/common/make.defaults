@@ -58,6 +58,8 @@ zlib \
 curl \
 "
 
+# c++0x \
+
 LINGUAS="ru en"
 
 FEATURES="${FEATURES} \
