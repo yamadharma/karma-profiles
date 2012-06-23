@@ -13,7 +13,9 @@
 #=gnome-extra/zeitgeist-0.9.0
 
 # due mask sys-auth/polkit-0.106 bug #420269
-#=sys-fs/udisks-1.98.0
+=sys-fs/udisks-1.98.0
+=sys-auth/polkit-0.106*
+
 
 
 
