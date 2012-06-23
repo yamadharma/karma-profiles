@@ -16,6 +16,10 @@
 =sys-fs/udisks-1.98.0
 =sys-auth/polkit-0.106*
 
+# 
+=app-admin/system-config-printer-common-1.3.9-r2
+=system-config-printer-gnome-1.3.9-r1
+
 
 
 
