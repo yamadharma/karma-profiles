@@ -74,6 +74,8 @@ sys-apps/util-linux						static-libs
 sys-fs/udev							static-libs
 sys-fs/lvm2							static-libs
 sys-libs/e2fsprogs-libs						static-libs
+app-arch/bzip2							static-libs
+sys-libs/zlib							static-libs
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
 
