@@ -20,9 +20,8 @@ artist-screen colors lyrics-screen song-screen cover lyrics \
 podcast \
 faac faad \
 spiff \
-cue lastfmradio libmms \
+cue libmms \
 xspf \
-lastfm \
 midi \
 bs2b \
 playlist \
@@ -33,3 +32,4 @@ aacplus \
 "
 
 # celt \
+# lastfmradio lastfm \

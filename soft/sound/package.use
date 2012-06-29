@@ -1,4 +1,4 @@
-media-sound/xmms2			asx diskwrite eq lastfm mms nophonehome ofa xspf
+media-sound/xmms2			asx diskwrite eq mms nophonehome ofa xspf
 # cpp avcodec
 
 media-plugins/audacious-plugins				bs2b projectm
