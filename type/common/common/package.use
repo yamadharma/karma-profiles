@@ -125,7 +125,7 @@ sys-apps/busybox						sep-usr
 
 net-analyzer/nmap						ssl lua ncat ndiff nmap-update nping
 
-sys-boot/grub							mount
+# sys-boot/grub							mount
 
 
 sys-apps/pciutils						-zlib
