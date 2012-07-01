@@ -82,4 +82,5 @@ sys-block/open-iscsi						slp
 
 net-dns/bind							ldap
 
+dev-libs/m17n-lib						spell
 
