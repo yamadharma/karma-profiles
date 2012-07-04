@@ -1,5 +1,6 @@
-sys-libs/libsemanage						python ruby
-sys-libs/libselinux						python ruby
-app-admin/setools						python ruby
+sys-libs/libsemanage						python
+sys-libs/libselinux						python
+app-admin/setools						python
+
 
 
