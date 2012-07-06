@@ -28,3 +28,5 @@ dev-java/xmlgraphics-commons:1
 
 =dev-python/pexpect-2.4*
 
+# Bug 424765
+=sci-libs/atlas-3.9.82
