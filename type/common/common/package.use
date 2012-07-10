@@ -121,7 +121,7 @@ net-misc/dropbox						librsync-bundled
 dev-vcs/git							perl
 
 app-arch/rpm							lua python
-sys-apps/busybox						sep-usr
+# sys-apps/busybox						sep-usr
 
 net-analyzer/nmap						ssl lua ncat ndiff nmap-update nping
 
