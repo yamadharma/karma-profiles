@@ -76,6 +76,7 @@ sys-fs/lvm2							static-libs
 sys-libs/e2fsprogs-libs						static-libs
 app-arch/bzip2							static-libs
 sys-libs/zlib							static-libs
+dev-libs/elfutils						static-libs
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
 
