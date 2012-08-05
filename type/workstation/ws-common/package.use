@@ -36,3 +36,6 @@ sys-kernel/genkernel						-crypt
 
 =net-im/gajim-0.15*						-jingle
 
+# sys-devel/llvm							-ocaml
+
+
