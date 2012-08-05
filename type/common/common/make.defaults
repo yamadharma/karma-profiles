@@ -60,7 +60,7 @@ curl \
 
 # c++0x \
 
-LINGUAS="ru en"
+LINGUAS="ru ru_RU en"
 
 FEATURES="${FEATURES} \
 sandbox usersandbox \
