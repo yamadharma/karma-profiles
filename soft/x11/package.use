@@ -13,7 +13,7 @@ media-libs/freetype					auto-hinter
 
 media-libs/mesa						gles llvm
 media-libs/mesa						gles1 gles2
-media-libs/mesa						wayland
+# media-libs/mesa						wayland
 
 
 x11-libs/cairo						X opengl svg xcb drm gallium 
