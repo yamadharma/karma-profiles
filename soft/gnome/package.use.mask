@@ -21,5 +21,7 @@ net-misc/networkmanager							dhclient nss
 
 =mail-client/evolution-3.2.3*						map
 
+# Don't compile with new cups
+# =gnome-base/gnome-control-center-3.4.2-r1				cups
 
 

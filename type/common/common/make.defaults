@@ -56,11 +56,12 @@ glib \
 netlink \
 zlib \
 curl \
+natspec unicode \
 "
 
 # c++0x \
 
-LINGUAS="ru ru_RU en"
+LINGUAS="ru ru_RU en en_US"
 
 FEATURES="${FEATURES} \
 sandbox usersandbox \
