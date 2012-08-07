@@ -17,6 +17,8 @@ dev-lang/erlang					java
 dev-tex/tex4ht					java
 dev-lang/mercury				java
 app-emacs/ecb					java
+dev-java/bsh					bsf
+
 
 
 
