@@ -59,6 +59,7 @@
 =net-im/empathy-3.4*
 =net-libs/gnome-online-accounts-3.4*
 >=net-libs/telepathy-farstream-0.2
+=net-voip/telepathy-rakia-0.7*
 =net-wireless/gnome-bluetooth-3.4*
 =sys-apps/baobab-3.4*
 =x11-libs/libcryptui-3.4*
@@ -72,8 +73,5 @@
 =media-libs/clutter-gtk-1.2*
 =media-libs/clutter-gst-1.5*
 =media-libs/clutter-gst-1.6*
-# Farsight2 conflicts with Farstream
-# So pidgin needs a patch
-=net-im/pidgin-2.10.3-r100
 # Needs gst-plugins-flac-0.10.31 + commit 265a5bfa to write seekable flac files
 =media-sound/sound-juicer-3.4*

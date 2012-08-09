@@ -1,3 +1,7 @@
 USE=" \
 word-perfect \
 "
+
+LIBREOFFICE_EXTENSIONS="
+presenter-console presenter-minimizer nlpsolver pdfimport scripting-beanshell scripting-javascript wiki-publisher
+"
