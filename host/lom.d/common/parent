@@ -1,4 +1,4 @@
-../../../type/server/server--x86_64
+../../../type/server/x86_64
 # ../../../hw/arch/core2/x86_64
 ../../../hw/arch/x86_64
 ../../../hw/video/dummy

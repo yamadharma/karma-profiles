@@ -6,7 +6,7 @@ sys-libs/ncurses					static-libs
 
 media-fonts/terminus-font				-pcf
 
-sys-apps/portage					python3
+# sys-apps/portage					python3
 sys-libs/pam						nis
 x11-libs/cairo						X
 dev-libs/libnatspec					-python
