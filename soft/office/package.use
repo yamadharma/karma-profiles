@@ -12,6 +12,7 @@ app-office/kplato			python
 
 
 app-office/calligra			kdepim glew mysql xbase attica
+app-office/calligra			opengtl
 
 app-office/libreoffice			postgres
 virtual/ooo				java
