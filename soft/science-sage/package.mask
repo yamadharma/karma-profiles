@@ -37,3 +37,5 @@
 # =sci-libs/pynac-0.2.4
 
 # =sci-mathematics/polybori-0.8.2*
+
+=sci-mathematics/pari-2.5.2
