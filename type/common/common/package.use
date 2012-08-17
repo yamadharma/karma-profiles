@@ -112,6 +112,7 @@ net-libs/farsight2						python
 app-text/ghostscript-gpl					cups
 www-apps/moodle							postgres
 media-gfx/imagemagick						perl
+media-gfx/imagemagick						postscript
 dev-libs/libxml2						python
 sys-auth/sssd							python
 dev-db/sqlite							secure-delete unlock-notify
