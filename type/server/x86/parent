@@ -1,2 +1,3 @@
 ../../../../../../../portage/profiles/selinux/v2refpolicy/x86
-../server-common
+../common
+

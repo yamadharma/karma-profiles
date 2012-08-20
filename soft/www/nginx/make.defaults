@@ -1,0 +1,23 @@
+USE="
+pcre-jit
+"
+
+NGINX_MODULES_HTTP="
+access auth_basic autoindex browser charset empty_gif fastcgi
+geo gzip limit_req limit_conn map memcached proxy referer rewrite scgi ssi
+split_clients upstream_ip_hash userid uwsgi
+addition dav degradation flv geoip gzip_static image_filter
+mp4 perl random_index realip secure_link stub_status sub xslt
+upload_progress
+headers_more
+push
+cache_purge
+upload
+slowfs_cache
+fancyindex
+lua
+"
+
+NGINX_MODULES_MAIL="imap pop3 smtp"
+
+

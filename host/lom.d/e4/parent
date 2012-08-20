@@ -1,6 +1,7 @@
 ../common
 ../../../soft/www/apache
 ../../../soft/www/lighttpd
+../../../soft/www/nginx
 ../../../soft/graphics
 ../../../soft/photo
 ../../../soft/postgres

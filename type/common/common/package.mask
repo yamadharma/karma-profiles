@@ -92,6 +92,8 @@ app-emacs/reftex
 =sys-apps/portage-2.2.0_alpha109
 
 
+# Virtual machine error
+=app-admin/tmpwatch-2.11*
 
 
 

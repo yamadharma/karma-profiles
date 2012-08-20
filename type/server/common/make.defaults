@@ -44,7 +44,6 @@ quotas libclamav \
 bash-completion \
 fortran \
 dnsdb lmtp exiscan-acl syslog wildlsearch mbox \
-lm_sensors \
 fftw \
 ecc \
 sysfs sysvipc  \
@@ -103,7 +102,7 @@ pop smime buffysize mbox \
 fasttrack gnutella magic \
 glep \
 zsh-completion contrarius cran \
-mfd-rewrites rpm diskio \
+mfd-rewrites diskio \
 rcc \
 device-mapper \
 inquisitio \
@@ -134,7 +133,8 @@ log4j servletapi \
 # pam_console 
 # extensions
 # imq
-# 
+# lm_sensors 
+# rpm
 
 # unicode
 # erandom uclibc

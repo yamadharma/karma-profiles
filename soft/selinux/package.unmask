@@ -1,1 +1,3 @@
 sec-policy/selinux-base
+sec-policy/selinux-phpfpm
+

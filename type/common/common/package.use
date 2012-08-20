@@ -58,7 +58,6 @@ dev-libs/nss							revocator
 sys-kernel/pf-sources						experimental
 dev-libs/ppl							pch lpsol watchdog
 
-dev-db/mariadb							big-tables community extraengine libevent pbxt
 
 # sys-apps/coreutils						static
 
