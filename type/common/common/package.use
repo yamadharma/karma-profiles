@@ -126,7 +126,10 @@ app-arch/rpm							lua python
 
 net-analyzer/nmap						ssl lua ncat ndiff nmap-update nping
 
+media-fonts/terminus-font					ru-dv ru-i ru-k ru-g
+
 # sys-boot/grub							mount
+
 
 
 sys-apps/pciutils						-zlib
