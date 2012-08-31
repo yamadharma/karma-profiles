@@ -138,6 +138,8 @@ sys-auth/sssd							-glib
 net-nds/openldap						-gnutls
 net-print/cups							-gnutls
 =net-libs/liboauth-0.9.6					-curl
+=app-forensics/sleuthkit-3.2.3					ewf
+
 
 
 
