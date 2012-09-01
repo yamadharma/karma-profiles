@@ -76,7 +76,7 @@ ecc \
 sysfs sysvipc  \
 djbfft threads \
 sox \
-expat ithreads \
+ithreads \
 avalon \
 mjpeg fame \
 musepack css \

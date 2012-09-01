@@ -57,6 +57,7 @@ netlink \
 zlib \
 curl \
 natspec unicode \
+expat \
 "
 
 # c++0x \

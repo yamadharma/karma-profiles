@@ -47,8 +47,7 @@ dnsdb lmtp exiscan-acl syslog wildlsearch mbox \
 fftw \
 ecc \
 sysfs sysvipc  \
-threads \
-expat ithreads \
+threads ithreads \
 logrotate  \
 underscores \
 pam_timestamp \
