@@ -3,5 +3,6 @@ word-perfect \
 "
 
 LIBREOFFICE_EXTENSIONS="
-presenter-console presenter-minimizer nlpsolver scripting-beanshell scripting-javascript wiki-publisher pdfimport
+presenter-console presenter-minimizer scripting-beanshell scripting-javascript wiki-publisher
 "
+# pdfimport nlpsolver
