@@ -7,6 +7,7 @@
 ../../../soft/photo
 ../../../soft/www/apache
 ../../../soft/www/lighttpd
+../../../soft/www/nginx
 ../../../soft/php/5.2
 ../../../soft/php/5.3
 ../../../soft/php/5.4
