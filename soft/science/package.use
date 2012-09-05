@@ -57,9 +57,15 @@ dev-lang/R							tk perl
 dev-libs/libxslt						python
 =dev-lisp/clisp-2.48*						-pari
 sci-geosciences/gpsd						python
+sci-chemistry/avogadro						python
 
 dev-perl/PDL							badval pdl2 pgplot
 # dev-perl/PDL							plplot proj
 sci-libs/plplot							lua perl python
+
+sci-chemistry/pymol						numpy
+sci-chemistry/pymol						apbs
+sci-chemistry/apbs						arpack fetk
+
 
 
