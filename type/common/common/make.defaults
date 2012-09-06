@@ -58,6 +58,7 @@ zlib \
 curl \
 natspec unicode \
 expat \
+bittorrent metalink \
 "
 
 # c++0x \
