@@ -18,13 +18,13 @@ xinerama \
 emacs23icons \
 wxwindows wxwidgets \
 rups \
-gallium \
 fltk \
 startup-notification \
 gles gles2 \
+gallium openvg xa \
 "
 
 
-PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/desktop-effects \
-${PORTDIR_OVERLAY}"
+# PORTDIR_OVERLAY="\
+# ${LAYMAN_DIR}/desktop-effects \
+# ${PORTDIR_OVERLAY}"
