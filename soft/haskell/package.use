@@ -2,4 +2,3 @@ dev-lang/ghc						llvm
 x11-misc/xmonad-extras					eval volume
 =dev-lang/ghc-7.2.1					ghcbootstrap
 x11-misc/xmobar						timezone
-
