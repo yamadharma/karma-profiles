@@ -59,6 +59,7 @@ curl \
 natspec unicode \
 expat \
 bittorrent metalink \
+cron \
 "
 
 # c++0x \
