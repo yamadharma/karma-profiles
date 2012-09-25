@@ -1,1 +1,5 @@
 gnome-base/gnome-applets					battstat
+
+www-client/firefox						-wifi
+www-client/seamonkey						-wifi
+mail-client/thunderbird						-wifi
