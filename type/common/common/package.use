@@ -130,6 +130,7 @@ media-fonts/terminus-font					ru-dv ru-i ru-k ru-g
 
 # sys-boot/grub							mount
 
+net-print/hplip							hpijs
 
 
 sys-apps/pciutils						-zlib
