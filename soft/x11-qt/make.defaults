@@ -5,6 +5,7 @@ qt3support \
 optimized-qmake \
 private-headers \
 qscintilla \
+egl \
 "
 # qt3 \
 
