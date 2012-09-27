@@ -132,6 +132,8 @@ media-fonts/terminus-font					ru-dv ru-i ru-k ru-g
 
 # net-print/hplip							hpijs
 
+app-emacs/org-mode						odt-schema
+
 
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
@@ -145,12 +147,5 @@ net-misc/curl							ssh
 =net-misc/curl-7.27.0-r3					-metalink
 
 dev-libs/ucommon						-socks
-
-
-
-
-
-
-
 
 
