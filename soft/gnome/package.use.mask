@@ -25,3 +25,17 @@ net-misc/networkmanager							dhclient nss
 # =gnome-base/gnome-control-center-3.4.2-r1				cups
 
 
+# Fundamentally incompatible with evolution-3.6, see
+# https://bugzilla.gnome.org/show_bug.cgi?id=678235
+=app-misc/tracker-0.14.2*						eds
+
+# Mask until we get gstreamer-1.0
+=gnome-base/gnome-control-center-3.6.0					v4l
+=gnome-extra/gnome-contacts-3.6.0					v4l
+
+#
+app-emulation/virt-viewer					gtk3
+net-misc/spice-gtk						gtk3
+=net-misc/vinagre-3.4*						spice
+=net-misc/vinagre-3.5*						spice
+

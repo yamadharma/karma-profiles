@@ -44,6 +44,7 @@ net-dns/avahi							utils
 app-emulation/virt-viewer					-gtk3
 net-misc/spice-gtk						-gtk3
 =net-misc/vinagre-3.4*						-spice
+=net-misc/vinagre-3.5*						-spice
 
 net-misc/networkmanager						connection-sharing
 dev-libs/folks							socialweb
@@ -60,6 +61,8 @@ dev-libs/folks							eds
 
 gnome-extra/zeitgeist						plugins extensions passiv
 gnome-extra/zeitgeist-datasources				emacs firefox gedit rhythmbox totem bzr chromium geany telepathy tomboy vim xchat
+
+app-i18n/ibus							dconf
 
 # temporary
 net-wireless/gnome-bluetooth					-sendto
