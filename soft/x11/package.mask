@@ -6,5 +6,7 @@
 
 =media-libs/mesa-9.0_pre*
 =media-libs/mesa-9_pre*
+=media-libs/mesa-8.1_rc1*
+
 
 
