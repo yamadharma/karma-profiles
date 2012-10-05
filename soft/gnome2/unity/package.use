@@ -1,0 +1,4 @@
+dev-libs/xapian-bindings				python
+dev-libs/protobuf					python
+gnome-extra/zeitgeist-extensions			geolocation
+
