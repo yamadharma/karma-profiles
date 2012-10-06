@@ -11,7 +11,7 @@
 =dev-python/pyatspi-2.6*
 =dev-python/pygobject-3.4*:3
 =dev-util/gdbus-codegen-2.34*
-=gnome-base/dconf-0.14*
+# =gnome-base/dconf-0.14*
 =gnome-base/gvfs-1.14*
 =net-libs/glib-networking-2.34*
 =x11-libs/gtk+-3.6*:3
