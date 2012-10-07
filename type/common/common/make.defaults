@@ -172,4 +172,3 @@ EMERGE_DEFAULT_OPTS="--quiet-build=n"
 
 RUBY_TARGETS="ruby18 ruby19"
 
-
