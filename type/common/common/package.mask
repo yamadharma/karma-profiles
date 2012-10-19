@@ -95,5 +95,7 @@ app-emacs/reftex
 # Virtual machine error
 =app-admin/tmpwatch-2.11*
 
+# Many compilation errors
+=net-libs/libotr-4.0.0
 
 
