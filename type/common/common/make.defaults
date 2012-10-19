@@ -9,7 +9,7 @@ m17n-lib \
 jfs ntfs reiserfs fat \
 gcrypt pcap smi \
 networking \
-sqlite3 \
+sqlite sqlite3 sqlite2 \
 json ldap-sasl \
 gzip-el \
 lzo lzma \

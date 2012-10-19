@@ -80,7 +80,7 @@ dba cli \
 mod_pubsub mod_irc mod_muc web \
 mime \
 fuse \
-filter sqlite nfs \
+filter nfs \
 nodrm \
 kernel_linux \
 xinetd msdfs \

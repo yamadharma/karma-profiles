@@ -65,7 +65,6 @@ xscreensaver gphoto2 scanner povray xine pda \
 glut \
 cdr nntp \
 fortran \
-sqlite \
 dts aac \
 pcre \
 gtkhtml  \
@@ -216,7 +215,7 @@ fping \
 inquisitio \
 thunderbird \
 toolkit-scroll-bars xft \
-pch sqlite3 \
+pch  \
 purge \
 daap sdl-image \
 emf lash fluidsynth \
