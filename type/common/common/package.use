@@ -144,7 +144,7 @@ net-print/cups							-gnutls
 =app-forensics/sleuthkit-3.2.3					-ewf
 media-libs/libmetalink						-expat
 net-misc/curl							ssh
-=net-misc/curl-7.27.0-r3					-metalink
+=net-misc/curl-7.28*						-metalink
 
 dev-libs/ucommon						-socks
 

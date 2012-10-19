@@ -34,8 +34,9 @@
 =sci-mathematics/maxima-5.28.0
 
 # =sci-chemistry/jmol-12.2.27*
-# =sci-libs/pynac-0.2.4
 
 # =sci-mathematics/polybori-0.8.2*
 # =sci-mathematics/pari-2.5.2*
+
+=sci-libs/pynac-0.2.5
 
