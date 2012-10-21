@@ -40,3 +40,4 @@
 
 =sci-libs/pynac-0.2.5
 
+=dev-python/sympy-0.7.2
