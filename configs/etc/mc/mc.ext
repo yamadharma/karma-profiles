@@ -517,7 +517,8 @@ type/^PDF
 # DjVu
 type/^DjVu
 	#Open=(xdg-open %f >/dev/null 2>&1 &)
-	Open=(evince %f >/dev/null 2>&1 &)
+	#Open=(evince %f >/dev/null 2>&1 &)
+	Open=(djview4 %f >/dev/null 2>&1 &)
 	#Open=(okular %f >/dev/null 2>&1 &)
 	#Open=(xpdf %f >/dev/null 2>&1 &)
 	#Open=(acroread %f &)
@@ -589,7 +590,8 @@ regex/\.([Tt][Ee][Xx])$
 
 # DjVu
 regex/\.(djvu?|DJVU?)$
-	Open=(evince %f >/dev/null 2>&1 &)
+	#Open=(evince %f >/dev/null 2>&1 &)
+	Open=(djview4 %f >/dev/null 2>&1 &)
 	#Open=djview %f &
 	View=%view{ascii} djvused -e print-pure-txt %f
 
