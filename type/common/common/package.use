@@ -147,5 +147,8 @@ net-misc/curl							ssh
 =net-misc/curl-7.28*						-metalink
 
 dev-libs/ucommon						-socks
+dev-libs/ucommon						-gnutls
+
+
 
 
