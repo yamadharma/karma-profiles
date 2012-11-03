@@ -4,5 +4,6 @@ word-perfect \
 
 LIBREOFFICE_EXTENSIONS="
 presenter-console presenter-minimizer scripting-beanshell scripting-javascript wiki-publisher
+pdfimport nlpsolver
 "
-# pdfimport nlpsolver
+#
