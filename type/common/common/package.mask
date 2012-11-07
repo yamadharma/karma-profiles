@@ -103,4 +103,5 @@ app-emacs/reftex
 
 # icu problem
 =dev-db/sqlite-3.7.14.1
+=app-misc/tracker-0.14.3
 
