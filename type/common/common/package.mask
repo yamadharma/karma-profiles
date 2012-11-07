@@ -101,4 +101,6 @@ app-emacs/reftex
 =dev-lang/ocaml-4.00.0
 =dev-lang/ocaml-4.00.1
 
+# icu problem
+=dev-db/sqlite-3.7.14.1
 

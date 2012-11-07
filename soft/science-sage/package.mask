@@ -34,6 +34,7 @@
 =sci-mathematics/maxima-5.28.0
 
 =sci-chemistry/jmol-12.3.27*
+=sci-chemistry/jmol-12.3.14*
 
 # =sci-mathematics/polybori-0.8.2*
 =sci-mathematics/pari-2.5.3*
