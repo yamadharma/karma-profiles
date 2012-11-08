@@ -1,4 +1,4 @@
-=dev-libs/boost-1.52.0
+=dev-libs/boost-1.52.0*
 
 # Tomáš Chvátal <scarabeus@gentoo.org> (04 Nov 2012)
 # Masked for testing with gcc-4.7 and to verify reverse deps
