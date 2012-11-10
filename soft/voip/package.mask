@@ -3,6 +3,8 @@
 =x11-plugins/pidgin-otr-4.0.0
 
 # Dependensies
-#=net-libs/ptlib-2.10.8
-#=net-libs/opal-3.10.8-r1
+=net-libs/ptlib-2.10.8
+=net-libs/opal-3.10.8-r1
+=net-voip/ekiga-3.9.90
+
 
