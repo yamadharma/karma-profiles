@@ -9,7 +9,7 @@ dev-java/xmlgraphics-commons:1
 =dev-java/jogl-2.0*
 #=sci-libs/hdf5-1.8.8*
 #=sci-libs/hdf5-1.8.9*
-#=sci-libs/hdf5-1.8.10*
+=sci-libs/hdf5-1.8.10*
 =sci-libs/netcdf-4.2*
 =sci-libs/netcdf-4.1.3*
 
