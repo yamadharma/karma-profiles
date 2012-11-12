@@ -37,7 +37,7 @@
 
 
 # =sci-mathematics/polybori-0.8.2*
-=sci-mathematics/pari-2.5.3*
+#=sci-mathematics/pari-2.5.3*
 
 =sci-libs/pynac-0.2.5
 
@@ -45,10 +45,10 @@
 
 
 # for sage-5.4
-=sci-mathematics/sage-notebook-0.10.2*
-=sci-mathematics/sage-data-polytopes_db-20100210_p2*
-=sci-mathematics/sage-data-elliptic_curves-0.7
-=sci-mathematics/sage-data-conway_polynomials-0.3
-=sci-mathematics/sage-data-graphs-20120404_p4
-=sci-chemistry/jmol-12.3.14
-=sci-chemistry/jmol-applet-12.3.14
+#=sci-mathematics/sage-notebook-0.10.2*
+#=sci-mathematics/sage-data-polytopes_db-20100210_p2*
+#=sci-mathematics/sage-data-elliptic_curves-0.7
+#=sci-mathematics/sage-data-conway_polynomials-0.3
+#=sci-mathematics/sage-data-graphs-20120404_p4
+#=sci-chemistry/jmol-12.3.14
+#=sci-chemistry/jmol-applet-12.3.14
