@@ -1,4 +1,5 @@
 =dev-games/ogre-1.6.1
 #
 =games-strategy/widelands-9999
+=games-strategy/0ad-99999
 

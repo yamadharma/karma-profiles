@@ -1,5 +1,5 @@
 USE="\
-laptop pcmcia wifi \
+laptop pcmcia \
 "
 
 INPUT_DEVICES="${INPUT_DEVICES} synaptics"
