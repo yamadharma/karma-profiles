@@ -130,10 +130,10 @@ media-fonts/terminus-font					ru-dv ru-i ru-k ru-g
 
 # sys-boot/grub							mount
 
-# net-print/hplip							hpijs
+# net-print/hplip						hpijs
 
 app-emacs/org-mode						odt-schema
-
+dev-cpp/glog							gflags
 
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
