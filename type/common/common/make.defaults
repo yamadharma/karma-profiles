@@ -44,7 +44,6 @@ libyaml \
 udev \
 isdn \
 ssl gnutls \
-spidermonkey \
 libxml2 \
 btrfs \
 xattr \
@@ -63,6 +62,7 @@ cron \
 "
 
 # c++0x \
+# spidermonkey \
 
 LINGUAS="ru ru_RU en en_US"
 
