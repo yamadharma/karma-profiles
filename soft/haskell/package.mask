@@ -12,3 +12,5 @@
 =dev-haskell/binary-0.6.2.0
 #=dev-haskell/network-2.4.0.1
 #=dev-haskell/vector-0.10.0.1
+
+=dev-haskell/mtl-2.1.2-r1
