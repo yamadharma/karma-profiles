@@ -5,7 +5,7 @@
 =dev-haskell/split-0.2*
 
 # For darcs-2.8.2
-=dev-haskell/tar-0.4*
+#=dev-haskell/tar-0.4*
 
 # For dev-haskell/dbus-core-0.9.2.1
 #>dev-haskell/primitive-0.4.1
