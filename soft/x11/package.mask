@@ -3,6 +3,7 @@
 =x11-drivers/xf86-video-ati-6.14.4
 
 =x11-wm/awesome-3.4.9999
+=x11-wm/awesome-3.5_rc1
 
 =media-libs/mesa-9.0_pre*
 =media-libs/mesa-9_pre*
