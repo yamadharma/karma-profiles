@@ -42,4 +42,4 @@
 =dev-python/cython-0.17.1
 #=dev-python/cython-0.17.2
 
-=dev-python/matplotlib-1.2.0
+=dev-python/matplotlib-1.2.0*
