@@ -78,6 +78,7 @@ dev-ml/lablgtk							-gnome
 media-sound/pulseaudio						-gnome
 
 net-misc/spice-gtk						-vala
+net-libs/gtk-vnc						-gtk3
 
 
 
