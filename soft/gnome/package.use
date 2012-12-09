@@ -75,6 +75,7 @@ net-im/empathy							-sendto
 
 
 dev-ml/lablgtk							-gnome
+media-sound/pulseaudio						-gnome
 
 
 
