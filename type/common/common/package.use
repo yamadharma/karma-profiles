@@ -124,7 +124,8 @@ dev-vcs/git							perl
 app-arch/rpm							lua python
 # sys-apps/busybox						sep-usr
 
-net-analyzer/nmap						ssl lua ncat ndiff nmap-update nping
+net-analyzer/nmap						ssl lua ncat ndiff nping
+# net-analyzer/nmap						nmap-update
 
 media-fonts/terminus-font					ru-dv ru-i ru-k ru-g
 
