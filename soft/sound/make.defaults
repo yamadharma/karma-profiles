@@ -1,5 +1,5 @@
 USE="\
-oss alsa \
+alsa \
 jack netjack jackmidi jack-tmpfs \
 pulseaudio \
 plugins \
@@ -16,4 +16,5 @@ lv2 \
 # arts artswrappersuid
 # amarok \
 # esd \
+# oss 
 
