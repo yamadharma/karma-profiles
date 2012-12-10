@@ -34,8 +34,8 @@ net-misc/networkmanager							dhclient nss
 =gnome-extra/gnome-contacts-3.6.0					v4l
 
 #
-app-emulation/virt-viewer					gtk3
-net-misc/spice-gtk						gtk3
+# app-emulation/virt-viewer					gtk3
+# net-misc/spice-gtk						gtk3
 =net-misc/vinagre-3.4*						spice
 =net-misc/vinagre-3.5*						spice
 
