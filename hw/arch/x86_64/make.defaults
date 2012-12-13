@@ -15,5 +15,5 @@ mmx mmx2 mmxext sse sse2
 sse3 ssse3
 "
 
-CFLAGS="${CFLAGS}"
+CFLAGS="${CFLAGS} -O2 -mfpmath=sse -Ofast -flto -funroll-loops"
 CXXFLAGS="${CFLAGS}"

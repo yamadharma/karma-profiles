@@ -16,4 +16,5 @@
 =net-libs/glib-networking-2.34*
 =x11-libs/gtk+-3.6*:3
 =x11-themes/gnome-themes-standard-3.6*
+=app-text/evince-3.6*
 

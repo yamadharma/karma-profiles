@@ -1,0 +1,2 @@
+CFLAGS="${CFLAGS} -march=native"
+CXXFLAGS="${CXXFLAGS} -march=native"
