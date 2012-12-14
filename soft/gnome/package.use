@@ -80,6 +80,10 @@ media-sound/pulseaudio						-gnome
 net-misc/spice-gtk						-vala
 
 
+# depend on gstreamer-0.10
+=net-im/pidgin-2.10.6						-gstreamer
+net-misc/spice-gtk                      			-gstreamer
+
 
 
 

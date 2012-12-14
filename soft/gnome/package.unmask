@@ -17,4 +17,6 @@
 =x11-libs/gtk+-3.6*:3
 =x11-themes/gnome-themes-standard-3.6*
 =app-text/evince-3.6*
+=net-im/empathy-3.6*
+
 
