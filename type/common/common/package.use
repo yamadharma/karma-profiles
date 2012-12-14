@@ -136,6 +136,8 @@ media-fonts/terminus-font					ru-dv ru-i ru-k ru-g
 app-emacs/org-mode						odt-schema
 dev-cpp/glog							gflags
 
+sys-block/gparted						dmraid hfs mdadm reiser4
+
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
 
