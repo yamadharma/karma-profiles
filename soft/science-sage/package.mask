@@ -27,6 +27,7 @@
 =sci-mathematics/maxima-5.27.0
 =sci-mathematics/maxima-5.27.0-r1
 =sci-mathematics/maxima-5.28.0
+=sci-mathematics/maxima-5.29.1
 
 =sci-chemistry/jmol-12.3.27*
 
