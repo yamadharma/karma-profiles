@@ -1,0 +1,1 @@
+tmpfs   /tmp   tmpfs   defaults,nosuid,size=20%,mode=1777   0 0
