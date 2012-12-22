@@ -488,6 +488,9 @@ regex/\.([fF][lL][iIcCvV])$
 regex/\.([oO][gG][mM])$
 	Include=video
 
+regex/\.([wW][eE][bB][mM])$
+	Include=video
+
 regex/\.([rR][aA]?[mM])$
 	Open=(realplay %f >/dev/null 2>&1 &)
 
