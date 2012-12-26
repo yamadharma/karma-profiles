@@ -13,6 +13,7 @@ media-video/mplayer				libmpeg2 mpg123
 media-tv/xbmc					webserver
 media-tv/xbmc					airplay bluray goom
 media-tv/xbmc					pvr mysql
+media-tv/xbmc					java
 # media-tv/xbmc					cec
 
 media-libs/libbluray				aacs
