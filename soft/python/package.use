@@ -6,4 +6,6 @@ sys-libs/talloc							python
 sys-libs/tdb							python
 dev-lang/python							tk
 
+dev-python/PyQt4						help script
+
 
