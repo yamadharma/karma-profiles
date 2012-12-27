@@ -1,5 +1,6 @@
 USE=" \
 word-perfect \
+office \
 "
 
 LIBREOFFICE_EXTENSIONS="
