@@ -17,3 +17,6 @@ media-libs/celt:0
 
 # sabayon
 =media-sound/pulseaudio-2.0-r1
+
+# pro-audio
+=media-sound/lash-9998
