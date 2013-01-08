@@ -127,7 +127,8 @@ app-arch/rpm							lua python
 net-analyzer/nmap						ssl lua ncat ndiff nping
 # net-analyzer/nmap						nmap-update
 
-media-fonts/terminus-font					ru-dv ru-i ru-k ru-g
+# media-fonts/terminus-font					ru-dv ru-i ru-k ru-g
+media-fonts/terminus-font					ru-dv ru-i ru-g
 
 # sys-boot/grub							mount
 
