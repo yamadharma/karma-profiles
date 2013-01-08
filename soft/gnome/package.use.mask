@@ -39,3 +39,5 @@ net-misc/networkmanager							dhclient nss
 =net-misc/vinagre-3.4*						spice
 =net-misc/vinagre-3.5*						spice
 
+=media-sound/rhythmbox-2.97					cdr html webkit
+
