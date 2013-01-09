@@ -172,7 +172,7 @@ dev-tex/xcolor		doc
 dev-tex/xkeyval		doc
 dev-tex/xmltex		doc
 #
-dev-tex/latex-beamer					examples
+# dev-tex/latex-beamer					examples
 app-text/writer2latex					doc examples
 
 
