@@ -28,6 +28,7 @@ playlist \
 sndfile \
 libcanberra \
 aacplus \
+opus \
 "
 
 # celt \
