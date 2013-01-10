@@ -2,5 +2,8 @@ sys-libs/libsemanage						python
 sys-libs/libselinux						python
 app-admin/setools						python
 
+dev-libs/libpcre						static-libs
+sys-libs/libselinux						static-libs
+
 
 

@@ -1,5 +1,5 @@
-# Bug 430262
-=app-admin/setools-3.3.7-r3
+# for app-admin/setools-3.3.7-r6
+>=dev-lang/swig-2.0
 
 
 
