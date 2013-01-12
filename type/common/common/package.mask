@@ -90,6 +90,9 @@ app-emacs/reftex
 =sys-apps/portage-2.2.0_alpha107
 =sys-apps/portage-2.2.0_alpha108
 =sys-apps/portage-2.2.0_alpha109
+#=sys-apps/portage-2.2.0_alpha142
+#=sys-apps/portage-2.2.0_alpha149
+#=sys-apps/portage-2.2.0_alpha151
 
 
 # Virtual machine error
