@@ -16,6 +16,7 @@ app-office/calligra			kdepim glew mysql xbase attica
 
 app-office/libreoffice			postgres
 virtual/ooo				java
+app-office/libreoffice			telepathy
 
 
 

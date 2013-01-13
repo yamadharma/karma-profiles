@@ -7,8 +7,10 @@ mozsvg mozcalendar mozaccess mozinterfaceinfo mozp3p mozxmlterm \
 mozdom replytolist \
 moznopango \
 custom-optimization \
-nsplugin \
+
 "
+
+# nsplugin \
 
 #PORTDIR_OVERLAY="\
 #${LAYMAN_DIR}/mozilla \
