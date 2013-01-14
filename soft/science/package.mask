@@ -5,8 +5,6 @@ dev-java/xmlgraphics-commons:1
 =dev-java/jgraphx-1.4.1.2
 # =dev-java/gluegen-1_p20080421
 =dev-java/gluegen-20080421
-=dev-java/gluegen-2*
-=dev-java/jogl-2.0*
 #=sci-libs/hdf5-1.8.8*
 #=sci-libs/hdf5-1.8.9*
 =sci-libs/hdf5-1.8.10*
@@ -31,3 +29,6 @@ dev-java/xmlgraphics-commons:1
 
 # Bug 424765
 =sci-libs/atlas-3.9.82
+
+=dev-java/jogl-2.0*
+=dev-java/gluegen-2*
