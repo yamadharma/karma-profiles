@@ -38,6 +38,8 @@ media-video/handbrake				ffmpeg2
 media-video/mplayer				yuv4mpeg
 media-video/mplayer2				yuv4mpeg
 
+net-libs/libmicrohttpd				messages
+
 
 
 
