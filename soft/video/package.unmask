@@ -4,3 +4,11 @@ media-video/realplayer
 media-libs/amd64codecs
 media-libs/realcodecs
 
+# Ben de Groot <yngwin@gentoo.org> (20 Jan 2013)
+# 2.5* has known security and other issues due to bundled ffmpeg,
+# see (bugs #446468 and #444262)
+# 2.6* is masked for testing, and may have unknown issues due to bundled ffmpeg
+# This package needs a new, dedicated maintainer. We voted for keeping it in
+# the tree for now, so users who are willing to accept the known issues can
+# still easily install it by unmasking this.
+media-video/avidemux
