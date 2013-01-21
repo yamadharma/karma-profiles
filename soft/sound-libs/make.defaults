@@ -1,6 +1,8 @@
 USE="\
 cdaudio mp3tunes \
-flac mp3 vorbis oggvorbis wavpack ape \
+flac mp3 \
+vorbis oggvorbis \
+wavpack ape \
 lame mp3rtp \
 mtp fmod \
 id3tag soundtouch twolame vamp \
@@ -29,6 +31,7 @@ sndfile \
 libcanberra \
 aacplus \
 opus \
+
 "
 
 # celt \
