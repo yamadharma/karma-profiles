@@ -138,6 +138,7 @@ app-emacs/org-mode						odt-schema
 dev-cpp/glog							gflags
 
 sys-block/gparted						dmraid hfs mdadm reiser4
+sys-apps/etckeeper						bazaar cron
 
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
