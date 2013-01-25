@@ -1,6 +1,7 @@
 USE=" \
 word-perfect \
 office \
+hunspell \
 "
 
 LIBREOFFICE_EXTENSIONS="
