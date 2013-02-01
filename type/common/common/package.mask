@@ -110,3 +110,6 @@ app-emacs/reftex
 # gmp problem
 # Bug 447928
 #=dev-libs/ppl-0.12.1
+
+# Install problem
+=dev-libs/openssl-1.0.1c
