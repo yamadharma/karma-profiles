@@ -19,6 +19,7 @@ media-libs/mesa						gles1 gles2
 x11-libs/cairo						X opengl svg xcb drm gallium 
 # x11-libs/cairo						openvg
 x11-libs/gtkmathview					mathml
+x11-libs/qwt						svg mathml
 
 =media-sound/alsa-tools-1.0.24*				-fltk
 
