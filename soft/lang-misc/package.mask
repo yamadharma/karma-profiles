@@ -1,4 +1,4 @@
 =dev-tcltk/itk-3.4_pre20090417-r1
 # For lazarus
->=dev-lang/fpc-2.4.4
+# >=dev-lang/fpc-2.4.4
 
