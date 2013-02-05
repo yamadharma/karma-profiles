@@ -142,6 +142,7 @@ dev-cpp/glog							gflags
 
 sys-block/gparted						dmraid hfs mdadm reiser4
 sys-apps/etckeeper						bazaar cron
+dev-libs/libpcre						jit
 
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
