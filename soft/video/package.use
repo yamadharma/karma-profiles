@@ -42,5 +42,8 @@ net-libs/libmicrohttpd				messages
 media-libs/mlt					kdenlive
 
 
+app-misc/tracker				-xine
+
+
 
 

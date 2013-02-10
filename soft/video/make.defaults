@@ -25,6 +25,7 @@ vdpau \
 g3dvl \
 bluray \
 g726 g729 silk \
+xine \
 "
 
 #PORTDIR_OVERLAY="\
