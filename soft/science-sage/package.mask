@@ -36,7 +36,7 @@
 =dev-python/sympy-0.7.2
 
 =dev-python/cython-0.17.1
-=dev-python/cython-0.18
+=dev-python/cython-0.18*
 
 =dev-python/matplotlib-1.2.0*
 
