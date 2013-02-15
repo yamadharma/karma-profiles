@@ -13,3 +13,5 @@ dev-java/lucene-analyzers:2.4
 =dev-java/java-config-2.2.9999
 =dev-java/icedtea-6.9999
 
+# conficts with installed packages
+=dev-java/java-config-2.2.0
