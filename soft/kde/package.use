@@ -3,7 +3,7 @@ dev-db/mysql							embedded -minimal
 dev-db/mariadb							embedded
 virtual/mysql							embedded
 
-x11-libs/qt-sql:4						mysql
+dev-qt/qtsql:4						mysql
 app-office/akonadi-server					mysql
 #
 x11-wm/compiz-fusion						-kde
@@ -29,7 +29,7 @@ kde-base/kopete							msn
 dev-libs/libf2c							static-libs
 app-office/kchart						reports
 app-office/koffice-libs						reports
-x11-libs/qt-sql							mysql
+dev-qt/qtsql							mysql
 
 dev-util/kdevelop						okteta
 
@@ -51,4 +51,4 @@ kde-base/marble							python
 kde-base/kde-meta						sdk
 dev-java/antlr							script
 
-x11-libs/qt-gui							gtkstyle
+dev-qt/qtgui							gtkstyle

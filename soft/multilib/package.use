@@ -93,10 +93,10 @@ x11-misc/imake						lib32
 x11-misc/xorg-cf-files					lib32
 virtual/opengl						lib32
 sys-apps/acl						lib32
-x11-libs/qt-xmlpatterns					lib32
-x11-libs/qt-core					lib32
-x11-libs/qt-gui						lib32
-x11-libs/qt-webkit					lib32
+dev-qt/qtxmlpatterns					lib32
+dev-qt/qtcore					lib32
+dev-qt/qtgui						lib32
+dev-qt/qtwebkit					lib32
 dev-db/ctdb						lib32
 sys-apps/tcp-wrappers					lib32
 dev-libs/cyrus-sasl					lib32
