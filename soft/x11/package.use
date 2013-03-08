@@ -29,4 +29,5 @@ x11-libs/vte						python
 app-text/xdvik						-Xaw -Xaw3d motif
 
 =dev-games/ogre-1.8*					-gles2
+dev-qt/qthelp						compat
 
