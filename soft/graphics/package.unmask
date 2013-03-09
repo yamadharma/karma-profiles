@@ -1,2 +1,8 @@
 =media-gfx/gimp-2.7*
 =media-gfx/gimp-2.8*
+
+# Diego Elio Pettenò <flameeyes@gentoo.org> (05 Feb 2013)
+# Needs a complete ebuild rewrite to use CMake, and a new patchset to
+# unbundle the bundled libraries. Use at your own risk; don't ask for
+# a bump unless you can provide the two needed items (see bug #364291).
+media-gfx/blender
