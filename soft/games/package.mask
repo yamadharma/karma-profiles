@@ -3,3 +3,7 @@
 =games-strategy/widelands-9999
 =games-strategy/0ad-99999
 
+# for steam
+=media-libs/libsdl-2.0.0_pre6963
+=media-libs/libsdl-2.0.0_pre6799
+
