@@ -5,3 +5,4 @@ games-strategy/0ad						editor
 games-fps/wolf4sdl						smooth strafe wolf3d_id spear_full -wolf3d_shareware
 
 games-util/steam-client-meta					flash windows-games
+media-libs/libsdl:2						abi_x86_32
