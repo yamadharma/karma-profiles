@@ -17,3 +17,5 @@ sse3 ssse3
 
 CFLAGS="${CFLAGS} -O2 -mfpmath=sse -funroll-loops"
 CXXFLAGS="${CFLAGS}"
+
+ABI_X86="32 64"

@@ -4,5 +4,8 @@ games-strategy/0ad						editor
 # =dev-games/cegui-0.7.5*						-ogre
 games-fps/wolf4sdl						smooth strafe wolf3d_id spear_full -wolf3d_shareware
 
+# Steam
 games-util/steam-client-meta					flash windows-games
-media-libs/libsdl:2						abi_x86_32
+dev-libs/libindicator						-gtk3
+dev-libs/libappindicator					-gtk3
+dev-libs/libdbusmenu						-gtk3

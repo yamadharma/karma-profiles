@@ -28,7 +28,8 @@ sci-mathematics/sage						testsuite
 sci-mathematics/sage-baselayout					testsuite
 dev-python/sympy						pyglet
 
-dev-python/ipython						notebook
+# dev-python/ipython						notebook
+
 
 
 

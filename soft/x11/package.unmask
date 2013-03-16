@@ -1,0 +1,5 @@
+# Markos Chandras <hwoarang@gentoo.org> (13 Mar 2013)
+# Mask because breaking updates out of the blue is bad
+# See 461608. Unmask it only if you want abi_x86_32
+# which means you have ABI_X86=32 set in your make.conf
+=app-emulation/emul-linux-x86-xlibs-20130224-r1
