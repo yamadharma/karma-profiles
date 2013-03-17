@@ -2,7 +2,7 @@ media-video/mplayer						quicktime
 app-emulation/wine-etersoft-public				gnutls
 app-emulation/wine						gnutls
 
-gnustep-base/gnustep-make					native-exceptions
+# gnustep-base/gnustep-make					native-exceptions
 
 app-emulation/wine-etersoft-public				dbus hal scanner ldap gphoto2 gsm mp3 openal esd gstreamer
 
