@@ -1,3 +1,6 @@
 =media-gfx/gimp-2.7*
 =media-gfx/gimp-2.8*
 
+# Julian Ospald <hasufell@gentoo.org> (10 Mar 2013)
+# Depends on maked dev-lang/python:3.3
+=media-gfx/blender-2.66
