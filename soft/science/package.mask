@@ -32,3 +32,6 @@ dev-java/xmlgraphics-commons:1
 
 # =dev-java/jogl-2.0*
 # =dev-java/gluegen-2*
+
+# FOR sci-mathematics/scilab-5.4.0
+=sci-libs/matio-1.5.1
