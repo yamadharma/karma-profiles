@@ -1,4 +1,5 @@
 media-fonts/tex-gyre					latex
 =app-office/lyx-2.0*					subversion
+=dev-tex/latex2rtf-2.3.3				doc
 
 

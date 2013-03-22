@@ -1,0 +1,4 @@
+# Mike Gilbert <floppym@gentoo.org> (08 Oct 2012)
+# Python 3.3 is masked for testing.
+python_targets_python3_3
+python_single_target_python3_3
