@@ -9,3 +9,4 @@ games-util/steam-client-meta					flash windows-games
 dev-libs/libindicator						-gtk3
 dev-libs/libappindicator					-gtk3
 dev-libs/libdbusmenu						-gtk3
+#=dev-libs/libdbusmenu-0.6.2-r1					-introspection
