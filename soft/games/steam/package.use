@@ -3,3 +3,4 @@ dev-libs/libindicator						-gtk3
 dev-libs/libappindicator					-gtk3
 dev-libs/libdbusmenu						-gtk3
 =dev-libs/libdbusmenu-0.6.2-r1					-introspection
+=dev-libs/libappindicator-12.10.0-r1				-introspection
