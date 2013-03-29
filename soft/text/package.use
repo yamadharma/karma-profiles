@@ -2,14 +2,16 @@ app-text/fbreader						-gtk -qt3 qt4
 =app-text/djvu-3.5.21* 						-nsplugin
 # app-text/coolreader3						hyphen -qt4
 app-text/coolreader3						hyphen qt4 -wxwidgets
-media-gfx/gscan2pdf						cuneiform adf djvu unpaper
+media-gfx/gscan2pdf						adf djvu unpaper
+# media-gfx/gscan2pdf						cuneiform
 app-text/pdf2djvu						graphicsmagick
-app-text/ocrodjvu						cuneiform
+# app-text/ocrodjvu						cuneiform
 media-gfx/scantailor						dewarping
 app-text/myrulib						reader
 app-editors/emacs-vcs						wide-int gsettings
 app-editors/emacs						wide-int gsettings
-app-text/djvubind						cuneiform minidjvu
+app-text/djvubind						minidjvu
+# app-text/djvubind						cuneiform
 app-editors/bluefish						python
 app-text/tesseract						en ru de fr es
 # for dbtoepub script
