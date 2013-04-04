@@ -1,2 +1,2 @@
 # for luatex-0.71
-=app-text/poppler-0.22.1
+=app-text/poppler-0.22*
