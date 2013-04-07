@@ -117,6 +117,7 @@ app-emacs/reftex
 # install problem
 =sys-boot/grub-2.00-r3
 =sys-boot/grub-2.00-r4
+=sys-boot/grub-2.00-r5
 
 # Bug 463718
 # net-fs/autofs-5.0.7 fails to mount nfsv3 shares
