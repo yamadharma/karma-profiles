@@ -18,6 +18,7 @@ openjpeg \
 netpbm \
 fpx \
 webp \
+animgif \
 "
 
 # openvg \
