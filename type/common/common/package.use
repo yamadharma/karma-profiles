@@ -144,6 +144,7 @@ sys-block/gparted						dmraid hfs mdadm reiser4
 sys-apps/etckeeper						bazaar cron
 dev-libs/libpcre						jit
 sys-process/lsof						rpc
+net-fs/cifs-utils						acl ads caps caps-ng creds upcall
 
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib

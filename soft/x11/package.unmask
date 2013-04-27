@@ -3,3 +3,13 @@
 # See 461608. Unmask it only if you want abi_x86_32
 # which means you have ABI_X86=32 set in your make.conf
 =app-emulation/emul-linux-x86-xlibs-20130224-r1
+
+# Chí-Thanh Christopher Nguyễn <chithanh@gentoo.org> (21 Apr 2013)
+# Mask packages that depend on multilib fontconfig, bug #466546
+=x11-libs/libXft-2.3.1-r1
+
+# Ben de Groot <yngwin@gentoo.org> (05 Apr 2013)
+# Non-maintainer ebuild with experimental multilib features
+# masked for further testing
+=media-libs/freetype-2.4.11-r2
+=media-libs/fontconfig-2.10.2-r1
