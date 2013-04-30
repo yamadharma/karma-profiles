@@ -122,3 +122,6 @@ app-emacs/reftex
 # Bug 463718
 # net-fs/autofs-5.0.7 fails to mount nfsv3 shares
 =net-fs/autofs-5.0.7
+
+# Temporary
+=dev-libs/json-c-0.11
