@@ -50,5 +50,10 @@
 # depends problem
 #=sci-libs/scipy-0.11.0-r1
 =dev-python/ipython-0.13.1-r1
+=dev-python/ipython-0.13.2
+
+
+
+
 
 
