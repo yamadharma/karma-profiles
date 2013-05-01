@@ -38,3 +38,6 @@ dev-java/xmlgraphics-commons:1
 
 #
 =app-text/jabref-2.10b
+
+# for sci-mathematics/maxima-5.30.0
+=sys-apps/texinfo-5.1
