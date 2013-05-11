@@ -28,6 +28,8 @@
 =sci-mathematics/maxima-5.28.0
 #=sci-mathematics/maxima-5.29.1*
 #=app-emacs/imaxima-1.0-r3
+=sci-mathematics/maxima-5.30.0*
+=dev-lisp/ecls-12.12.1-r4
 
 =sci-chemistry/jmol-12.3.27*
 
@@ -43,9 +45,7 @@
 
 =dev-tex/sage-latex-2.3.4
 
-=sci-mathematics/polybori-0.8.3*
-
-=dev-python/matplotlib-1.2*
+#=sci-mathematics/polybori-0.8.3*
 
 # depends problem
 #=sci-libs/scipy-0.11.0-r1
