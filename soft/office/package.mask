@@ -1,11 +1,5 @@
 =app-office/unoconv-20120327
-# Bug 419949
-#=dev-cpp/libcmis-0.2*
-#=net-misc/curl-7.27.0*
 
-# Don't compile
-# Bug 428328
-=app-office/libreoffice-3.6.0.4
-=app-office/libreoffice-l10n-3.6.0.4
-
+#
+=dev-util/mdds-0.8.0
 
