@@ -30,6 +30,7 @@
 #=app-emacs/imaxima-1.0-r3
 =sci-mathematics/maxima-5.30.0*
 =dev-lisp/ecls-12.12.1-r4
+=dev-lisp/ecls-12.12.1-r5
 =dev-lisp/ecls-13.5.1
 
 =sci-chemistry/jmol-12.3.27*
