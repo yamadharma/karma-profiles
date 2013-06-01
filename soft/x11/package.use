@@ -27,6 +27,8 @@ x11-libs/qwt						svg mathml
 x11-base/xorg-server					xvfb
 x11-libs/vte						python
 
+x11-libs/libxcb						xkb
+
 app-text/xdvik						-Xaw -Xaw3d motif
 
 =dev-games/ogre-1.8*					-gles2
