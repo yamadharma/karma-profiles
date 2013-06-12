@@ -3,9 +3,9 @@ USE="mozldap"
 APACHE2_MODULES="${APACHE2_MODULES} \
 actions alias auth_basic authz_default cgi mime_magic rewrite setenvif"
 
-PORTDIR_OVERLAY="\
-${PORTDIR_OVERLAY} \
-${LAYMAN_DIR}/389-ds \
-${LOCAL_PORTDIR_OVERLAY}"
+#PORTDIR_OVERLAY="\
+#${PORTDIR_OVERLAY} \
+#${LAYMAN_DIR}/389-ds \
+#${LOCAL_PORTDIR_OVERLAY}"
 
 
