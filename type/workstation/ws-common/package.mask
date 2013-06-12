@@ -1,3 +1,6 @@
 =net-misc/freerdp-1.0.1_p20120726
+=net-misc/freerdp-1.1.0_beta1_p20130605
+=net-misc/freerdp-1.1.0_beta1
+
 =x11-base/xorg-server-1.12.99*
 

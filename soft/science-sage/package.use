@@ -27,10 +27,13 @@ sci-mathematics/pari:3						data gmp sage
 sci-mathematics/sage						testsuite
 sci-mathematics/sage-baselayout					testsuite
 dev-python/sympy						pyglet
+sci-mathematics/flint						ntl
+
 
 # dev-python/ipython						notebook
 
 =sci-mathematics/gmp-ecm-6.4*					-openmp
+
 
 
 

@@ -37,8 +37,10 @@
 
 #=sci-libs/pynac-0.2.6*
 
-# =dev-python/sympy-0.7.2
-# =dev-python/sympy-0.7.2-r2
+#{{{ Depends on dev-python/imaging
+=dev-python/sympy-0.7.2-r1
+=dev-python/sympy-0.7.2-r2
+#}}}
 
 =dev-python/cython-0.17.1
 #=dev-python/cython-0.18*
