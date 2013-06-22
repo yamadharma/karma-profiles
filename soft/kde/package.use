@@ -52,3 +52,4 @@ kde-base/kde-meta						sdk
 dev-java/antlr							script
 
 dev-qt/qtgui							gtkstyle
+media-plugins/kipi-plugins					videoslideshow
