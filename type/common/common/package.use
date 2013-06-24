@@ -146,6 +146,8 @@ dev-libs/libpcre						jit
 sys-process/lsof						rpc
 net-fs/cifs-utils						acl ads caps caps-ng creds upcall
 
+app-admin/keepas						aot
+
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
 
