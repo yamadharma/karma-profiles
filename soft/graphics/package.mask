@@ -3,5 +3,5 @@
 #=media-libs/babl-0.1.8*
 #=media-libs/babl-0.1.10*
 
-=media-libs/freeimage-3.15.4
+#=media-libs/freeimage-3.15.4
 
