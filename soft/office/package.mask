@@ -3,3 +3,6 @@
 #
 =dev-util/mdds-0.8.0
 
+# don't compile
+=app-office/libreoffice-4.1.0.1*
+=app-office/libreoffice-l10n-4.1.0.1*
