@@ -4,4 +4,7 @@ dev-java/blackdown-jdk						doc
 dev-java/sun-jdk						doc
 dev-java/jdbc-postgresql					java5
 
+# pyenchant problem
+=dev-util/eric-4.5*						spell
+=dev-util/eric-5.3*						spell
 
