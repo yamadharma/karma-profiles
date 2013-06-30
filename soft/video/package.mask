@@ -4,3 +4,5 @@
 #=media-libs/libmp4v2-1.9.1_p479
 
 
+# need ffmpeg-1.2
+=media-video/handbrake-0.9.9*
