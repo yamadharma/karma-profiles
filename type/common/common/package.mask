@@ -130,4 +130,6 @@ app-emacs/reftex
 
 # Don't work
 =net-dns/avahi-0.6.31-r1
+=net-dns/avahi-0.6.31-r2
+
 
