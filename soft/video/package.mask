@@ -5,4 +5,4 @@
 
 
 # need ffmpeg-1.2
-=media-video/handbrake-0.9.9*
+#=media-video/handbrake-0.9.9*
