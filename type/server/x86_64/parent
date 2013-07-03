@@ -1,4 +1,4 @@
-../../../../../../../portage/profiles/hardened/linux/13.0/amd64/selinux
+../../../../../../../portage/profiles/hardened/linux/amd64/selinux
 ../common
 #../../../soft/multilib
 
