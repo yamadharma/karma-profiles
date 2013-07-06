@@ -18,7 +18,7 @@ wma-fixed libtiger \
 melt \
 opencore-amr \
 vpx \
-vaapi rtmp \
+rtmp \
 frei0r \
 gme \
 vdpau \
@@ -27,6 +27,8 @@ bluray \
 g726 g729 silk \
 xine \
 "
+
+# vaapi
 
 #PORTDIR_OVERLAY="\
 #${PORTDIR_OVERLAY} \
