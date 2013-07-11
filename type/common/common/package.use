@@ -148,6 +148,8 @@ net-fs/cifs-utils						acl ads caps caps-ng creds upcall
 
 app-admin/keepass						aot
 
+net-fs/samba							winbind
+
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
 

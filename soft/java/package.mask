@@ -21,3 +21,5 @@ dev-java/lucene-analyzers:2.4
 # For compile prevention
 dev-java/blackdown-jdk
 
+# >dev-java/bctsp-1.45 absent
+dev-java/itext:5
