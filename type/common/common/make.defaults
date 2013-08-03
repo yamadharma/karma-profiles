@@ -59,6 +59,7 @@ natspec unicode \
 expat \
 bittorrent metalink \
 cron \
+systemd
 "
 
 # c++0x \

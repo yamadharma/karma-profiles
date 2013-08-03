@@ -65,6 +65,7 @@ gnome-extra/zeitgeist-datasources				emacs firefox gedit rhythmbox totem bzr gea
 app-i18n/ibus							dconf
 
 net-misc/vinagre						rdp
+# sys-auth/pambase						systemd
 
 # temporary
 net-wireless/gnome-bluetooth					-sendto
