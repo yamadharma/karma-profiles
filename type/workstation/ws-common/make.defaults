@@ -281,7 +281,6 @@ extrafilters \
 opengl-video opengl-xvmc iptv \
 openxml \
 sourceview tunepimp epiphany gedit \
-consolekit \
 freesound \
 postproc atmo \
 hardcoded-tables \
@@ -329,7 +328,8 @@ tk \
 # nowin
 # extrafilters
 # fastcgi
-# nptlonly 
+# nptlonly
+# consolekit  
 
 # erandom uclibc
 #lirc
