@@ -19,6 +19,7 @@ virtual/ooo				java
 app-office/libreoffice			telepathy
 
 
+=app-office/libreoffice-4.1*		-odk
 
 
 
