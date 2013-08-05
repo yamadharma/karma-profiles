@@ -1,2 +1,2 @@
-MAKEOPTS="-j1"
-CFLAGS=""
+# MAKEOPTS="-j1"
+# CFLAGS=""
