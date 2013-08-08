@@ -16,6 +16,7 @@ app-editors/bluefish						python
 app-text/tesseract						en ru de fr es
 # for dbtoepub script
 app-text/docbook-xsl-ns-stylesheets				ruby
+app-office/scribus						scripts
 
 
 
