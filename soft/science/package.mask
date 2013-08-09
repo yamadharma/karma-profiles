@@ -42,3 +42,7 @@ dev-java/xmlgraphics-commons:1
 
 # for sci-mathematics/maxima-5.30.0
 =sys-apps/texinfo-5.1
+
+# for sci-mathematics/scilab-5.4.1::science 
+>=sci-libs/matio-1.5
+
