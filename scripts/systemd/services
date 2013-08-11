@@ -1,0 +1,7 @@
+#!/bin/sh
+
+systemctl enable rpcbind.service
+systemctl enable sshd.service
+systemctl enable autofs.service
+systemctl enable rsyslog.service
+systemctl enable kdm.service
