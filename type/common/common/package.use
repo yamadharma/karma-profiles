@@ -85,6 +85,8 @@ sys-fs/cryptsetup						static
 
 # net-misc/openssh						static
 
+sys-fs/lvm2							lvm2create_initrd
+
 net-firewall/iptables						netlink
 app-arch/rar							all_sfx
 
