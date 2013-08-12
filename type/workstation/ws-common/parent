@@ -24,7 +24,8 @@
 ../../../soft/text
 ../../../soft/office
 ../../../soft/science
-../../../soft/science-sage
+../../../soft/science/octave
+../../../soft/science/sage
 ../../../soft/java
 ../../../soft/pda
 ../../../soft/lang-misc
