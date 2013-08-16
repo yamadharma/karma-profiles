@@ -39,4 +39,5 @@ sys-kernel/genkernel						-crypt
 # sys-devel/llvm							-ocaml
 
 sys-process/cronie						anacron
+sys-fs/hfsutils							tcl tk
 
