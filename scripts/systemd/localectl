@@ -1,5 +1,5 @@
 #!/bin/sh
 
-localectl set-locale LANG=ru_RU.utf8
+localectl set-locale LANG="ru_RU.UTF-8"
 localectl set-keymap ru-ms
 localectl set-x11-keymap "us,ru(winkeys)" "acpi" "" "grp:rctrl_toggle,compose:ralt,terminate:ctrl_alt_bksp"
