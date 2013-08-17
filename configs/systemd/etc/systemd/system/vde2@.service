@@ -1,0 +1,19 @@
+#
+# VDE2 interface
+#
+
+[Unit]
+Description=Network Connectivity for %i
+Wants=network.target
+Before=network.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/usr/bin/vde_switch -tap %i -daemon -mod 660 -group kvm
+ExecStart=/sbin/ip link set dev %i up
+ExecStop=/sbin/ip addr flush dev %i
+ExecStop=/sbin/ip link set dev %i down
+
+[Install]
+WantedBy=multi-user.target

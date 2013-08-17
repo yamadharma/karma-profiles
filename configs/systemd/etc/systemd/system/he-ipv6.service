@@ -1,0 +1,21 @@
+#
+# IPv6 (Hurricane Electric)
+#
+
+[Unit]
+Description=he.net IPv6 tunnel
+After=network.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/sbin/ip tunnel add he-ipv6 mode sit remote 209.51.161.14 local <local IPv4> ttl 255
+ExecStart=/sbin/ip link set he-ipv6 up mtu 1480
+ExecStart=/sbin/ip addr add <local IPv6>/64 dev he-ipv6
+ExecStart=/sbin/ip -6 route add ::/0 dev he-ipv6
+ExecStop=/sbin/ip -6 route del ::/0 dev he-ipv6
+ExecStop=/sbin/ip link set he-ipv6 down
+ExecStop=/sbin/ip tunnel del he-ipv6
+
+[Install]
+WantedBy=multi-user.target
