@@ -295,6 +295,7 @@ themes \
 cdrkit \
 upnp \
 tk \
+systemd \
 "
 
 # examples \

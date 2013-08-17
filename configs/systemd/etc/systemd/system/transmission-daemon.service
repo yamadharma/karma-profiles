@@ -1,0 +1,16 @@
+# To customize, copy this file to /etc/systemd/system and edit there
+
+[Unit]
+Description=Transmission BT Client headless
+After=syslog.target network.target autofs.service
+
+[Service]
+Type=forking
+User=transmission
+ExecStartPre=/bin/rm -f /var/run/transmission.pid
+PIDFile=/var/run/transmission.pid
+ExecStart=/usr/bin/transmission-daemon -f --config-dir /var/transmission/config --encryption-preferred -u transmission --pid-file /var/run/transmission.pid
+Type=notify
+
+[Install]
+WantedBy=multi-user.target
