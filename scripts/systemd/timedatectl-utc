@@ -1,0 +1,5 @@
+#!/bin/sh
+
+timedatectl set-timezone UTC
+timedatectl set-local-rtc 0
+timedatectl set-ntp 1
