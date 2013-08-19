@@ -23,3 +23,5 @@ dev-java/blackdown-jdk
 
 # >dev-java/bctsp-1.45 absent
 dev-java/itext:5
+
+dev-java/commons-vfs:2
