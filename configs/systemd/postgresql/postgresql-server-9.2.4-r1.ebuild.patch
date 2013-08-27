@@ -1,0 +1,51 @@
+--- /usr/portage/dev-db/postgresql-server/postgresql-server-9.2.4.ebuild	2013-04-05 23:01:07.000000000 +0400
++++ dev-db/postgresql-server/postgresql-server-9.2.4-r1.ebuild	2013-07-24 03:44:24.211829128 +0400
+@@ -1,15 +1,15 @@
+ # Copyright 1999-2013 Gentoo Foundation
+ # Distributed under the terms of the GNU General Public License v2
+-# $Header: /var/cvsroot/gentoo-x86/dev-db/postgresql-server/postgresql-server-9.2.4.ebuild,v 1.12 2013/04/05 18:45:00 ago Exp $
++# $Header: $
+ 
+ EAPI="5"
+ 
+ PYTHON_COMPAT=( python{2_{5,6,7},3_{1,2,3}} )
+ WANT_AUTOMAKE="none"
+ 
+-inherit autotools eutils flag-o-matic multilib pam prefix python-single-r1 user versionator
++inherit autotools eutils flag-o-matic multilib pam prefix python-single-r1 systemd user versionator
+ 
+-KEYWORDS="alpha amd64 arm hppa ia64 ~mips ppc ppc64 s390 sh sparc x86 ~amd64-fbsd ~x86-fbsd ~ppc-macos ~x86-solaris"
++KEYWORDS="~alpha ~amd64 ~arm ~hppa ~ia64 ~mips ~ppc ~ppc64 ~s390 ~sh ~sparc ~x86 ~amd64-fbsd ~x86-fbsd ~ppc-macos ~x86-solaris"
+ 
+ SLOT="$(get_version_component_range 1-2)"
+ 
+@@ -91,6 +91,16 @@
+ 		-i "${WORKDIR}/postgresql.init" "${WORKDIR}/postgresql.confd" || \
+ 		die "SLOT sed failed"
+ 
++	cp "${FILESDIR}"/{postgresql.service,postgresql-check-db-dir} "${WORKDIR}"/
++
++	sed -e "s|@SLOT@|${SLOT}|g" \
++		-i "${WORKDIR}"/postgresql.service || \
++		die "SLOT sed failed"
++
++	sed -e "s|@SLOT@|${SLOT}|g" \
++		-i "${WORKDIR}"/postgresql-check-db-dir || \
++		die "SLOT sed failed"
++
+ 	eautoconf
+ }
+ 
+@@ -147,6 +157,12 @@
+ 	newinitd "${WORKDIR}/postgresql.init" postgresql-${SLOT} || \
+ 		die "Inserting conf failed"
+ 
++	systemd_newunit "${WORKDIR}"/postgresql.service postgresql-${SLOT}.service
++	systemd_newtmpfilesd "${FILESDIR}"/postgresql.tmpfilesd postgresql-${SLOT}.conf
++
++	insinto /usr/bin/
++	newbin "${WORKDIR}"/postgresql-check-db-dir postgresql-${SLOT}-check-db-dir
++
+ 	use pam && pamd_mimic system-auth postgresql-${SLOT} auth account session
+ 
+ 	if use prefix ; then
