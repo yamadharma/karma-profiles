@@ -1,27 +1,5 @@
-# Use this file to pass additional options to the afsd and bosserver
-# executables.
+# OpenAFS Client Configuration
+AFSD_ARGS="-dynroot -fakestat -afsdb"
 
-# Systemd will pass $AFSD_ARGS to afsd.
-# You may want to add more settings below.
-AFSD_ARGS="-nosettime -afsdb -dynroot -fakestat"
-
-# OpenAFS Client Cache Options
-# Default: Memcache - Quick and easy, 100 MB of memory used
-CACHE="-memcache -blocks 102400"
-# Disk based cache - Use this for servers.  Set size in /etc/openafs/cacheinfo
-#CACHE="-cachedir /var/cache/openafs"
-
-# Fine-tuned AFS client configuration options.  These affect system
-# performance.
-# Normal workstations, and servers that use AFS sparingly
-OPTIONS="-daemons 3"
-# For servers, greater AFS performance, and more memory/processes used
-# Use these options with the disk based cache settings above.
-# OPTIONS="-daemons 5 -chunksize 18 -volumes 512"
-
-# Directory to use for configuration information:
-CONFDIR="-confdir /etc/openafs"
-
-# AFS server initialization
-#BOSSERVER_ARGS=
-
+# OpenAFS Server Configuration
+BOSSERVER_ARGS=

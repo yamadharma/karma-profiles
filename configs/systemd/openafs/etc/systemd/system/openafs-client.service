@@ -5,12 +5,12 @@ After=syslog.target network.target
 [Service]
 Type=forking
 EnvironmentFile=/etc/sysconfig/openafs
-ExecStartPre=/sbin/modprobe libafs
-ExecStart=/usr/sbin/afsd $AFSD_ARGS $CACHE $OPTIONS $CONFDIR
-# ExecStartPost=/usr/libexec/openafs/posthooks.sh
-ExecStop=/bin/umount /afs
-ExecStop=/usr/sbin/afsd -shutdown
-ExecStop=/sbin/rmmod libafs
+ExecStartPre=/usr/bin/modprobe libafs
+ExecStart=/usr/bin/afsd $AFSD_ARGS
+ExecStartPost=/usr/bin/fs setcrypt on
+ExecStop=/usr/bin/umount /afs
+ExecStop=/usr/bin/afsd -shutdown
+ExecStop=/usr/bin/rmmod libafs
 KillMode=none
 
 [Install]
