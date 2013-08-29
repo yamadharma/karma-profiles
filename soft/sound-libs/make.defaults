@@ -30,9 +30,9 @@ playlist \
 sndfile \
 libcanberra \
 aacplus \
-opus \
-
 "
 
 # celt \
+# opus \
 # lastfmradio lastfm \
+
