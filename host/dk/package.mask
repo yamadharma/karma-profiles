@@ -1,0 +1,3 @@
+# don't work
+=net-fs/openafs-1.6.5*
+=net-fs/openafs-kernel-1.6.5*

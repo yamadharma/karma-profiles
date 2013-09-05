@@ -8,5 +8,7 @@
 ../../soft/kde
 ../../soft/gnome
 ../../soft/xfce
-../../soft/mpi
+# ../../soft/mpi
+../../soft/qemu
 ../../soft/kvm
+
