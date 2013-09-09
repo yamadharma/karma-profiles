@@ -154,6 +154,8 @@ net-fs/samba							winbind
 sys-devel/llvm							clang
 app-emulation/libvirt-glib					python
 
+net-dns/bind-tools						gssapi
+
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
 
