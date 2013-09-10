@@ -38,4 +38,5 @@ dev-qt/qthelp						compat
 =media-tv/xbmc-12.2*					-gles
 
 
+razorqt-base/razorqt-meta				-lightdm
 
