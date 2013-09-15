@@ -101,8 +101,8 @@ app-emacs/reftex
 =net-misc/freerapid-0.8*
 
 # Problems with unison
-=dev-lang/ocaml-4.00.0*
-=dev-lang/ocaml-4.00.1*
+=dev-lang/ocaml-4.00*
+=dev-lang/ocaml-4.01*
 
 # don't compile
 #=dev-lang/spidermonkey-1.8.5-r4
