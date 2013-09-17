@@ -58,6 +58,8 @@ dev-libs/libxslt						python
 =dev-lisp/clisp-2.48*						-pari
 sci-geosciences/gpsd						python
 sci-chemistry/avogadro						python
+# segmentation fault
+sci-chemistry/avogadro						-glsl
 
 dev-perl/PDL							badval pdl2 pgplot
 # dev-perl/PDL							plplot proj
