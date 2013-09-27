@@ -3,6 +3,8 @@
 # =media-sound/jack-audio-connection-kit-0.109.2-r2			3dnow
 media-sound/jack-audio-connection-kit					ieee1394 freebob
 media-sound/rhythmbox							nsplugin
+=media-sound/rhythmbox-3.0*						python dbus webkit
+
 
 
 

@@ -53,7 +53,7 @@
 
 =dev-python/matplotlib-1.2.0*
 
-=dev-tex/sage-latex-2.3.4
+# =dev-tex/sage-latex-2.3.4
 
 =dev-python/ipython-1.0.0
 

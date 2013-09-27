@@ -174,3 +174,6 @@ EMERGE_DEFAULT_OPTS="--quiet-build=n"
 RUBY_TARGETS="ruby20"
 
 DRACUT_MODULES="lvm systemd"
+
+
+
