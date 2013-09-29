@@ -167,7 +167,7 @@ infopipe \
 vim-pager \
 ionflux ionxrandr iontruetype ionscripts \
 finger ftp gopher \
-chardet sid timidity ao \
+chardet timidity ao \
 libsamplerate \
 amr \
 aotuv \

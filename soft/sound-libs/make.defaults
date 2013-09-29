@@ -30,6 +30,7 @@ playlist \
 sndfile \
 libcanberra \
 aacplus \
+sid \
 "
 
 # celt \
