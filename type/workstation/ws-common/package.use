@@ -41,3 +41,5 @@ sys-kernel/genkernel						-crypt
 sys-process/cronie						anacron
 sys-fs/hfsutils							tcl tk
 
+net-misc/tor							ecc stats threads upnp bufferevents nat-pmp transparent-proxy web
+
