@@ -9,7 +9,7 @@
 ../../soft/kvm
 ../../soft/p2p
 ../../soft/lirc
-../../soft/games/steam
+# ../../soft/games/steam
 # ../../soft/gnome2/unity
 
 
