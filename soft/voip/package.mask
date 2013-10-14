@@ -11,5 +11,5 @@
 #=net-libs/farstream-0.2.2
 #=net-libs/libnice-0.1.3*
 
-=net-libs/libeXosip-4*
-=net-libs/libosip-4*
+#=net-libs/libeXosip-4*
+#=net-libs/libosip-4*
