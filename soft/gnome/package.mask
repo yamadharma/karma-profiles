@@ -23,6 +23,10 @@
 # don't compile
 =media-libs/gupnp-dlna-0.10.2
 
+# Gnome2
+=gnome-base/gnome-panel-2.32*
+=gnome-extra/gnome-utils-2.32*
+
 
 
 
