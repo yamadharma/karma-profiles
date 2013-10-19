@@ -79,6 +79,7 @@ dev-libs/elfutils						static-libs
 # virtual/udev							static-libs
 sys-fs/udev							static-libs
 sys-fs/eudev							static-libs
+app-arch/xz-utils						static-libs
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
 

@@ -40,7 +40,8 @@ media-video/mplayer2				yuv4mpeg
 
 net-libs/libmicrohttpd				messages
 media-libs/mlt					kdenlive
-
+media-video/mpv					lua luajit
+media-video/mpv					libguess vf-dlopen
 
 app-misc/tracker				-xine
 

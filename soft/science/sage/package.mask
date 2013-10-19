@@ -22,7 +22,7 @@
 
 =sci-mathematics/sage-data-elliptic_curves-0.5-r1
 #=sci-mathematics/sage-notebook-0.10.4
-=sci-mathematics/sage-notebook-0.10.7*
+#=sci-mathematics/sage-notebook-0.10.7*
 
 # Maxima
 =sci-mathematics/maxima-5.27.0
@@ -66,7 +66,8 @@
 # depends problem
 #=sci-libs/scipy-0.11.0-r1
 =dev-python/ipython-0.13.1-r1
-=dev-python/ipython-0.13.2
+#=dev-python/ipython-0.13.2
+
 
 
 
