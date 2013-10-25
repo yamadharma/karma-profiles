@@ -16,7 +16,7 @@ dev-java/lucene-analyzers:2.4
 =dev-java/commons-vfs-2.0
 
 # conficts with installed packages
-=dev-java/java-config-2.2.0
+#=dev-java/java-config-2.2.0
 
 # For compile prevention
 dev-java/blackdown-jdk
