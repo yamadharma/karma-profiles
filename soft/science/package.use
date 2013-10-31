@@ -59,7 +59,7 @@ dev-libs/libxslt						python
 sci-geosciences/gpsd						python
 sci-chemistry/avogadro						python
 # segmentation fault
-sci-chemistry/avogadro						-glsl
+# sci-chemistry/avogadro					-glsl
 
 dev-perl/PDL							badval pdl2 pgplot
 # dev-perl/PDL							plplot proj

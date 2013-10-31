@@ -1,7 +1,10 @@
 USE=" \
 gnustep \
 native-exceptions \
+boehm-gc \
+libobjc2 \
 "
-PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/gnustep \
-${PORTDIR_OVERLAY}"
+
+#PORTDIR_OVERLAY="\
+#${LAYMAN_DIR}/gnustep \
+#${PORTDIR_OVERLAY}"
