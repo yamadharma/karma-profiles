@@ -9,3 +9,6 @@
 
 # don't compile
 =media-tv/xbmc-12.2-r1
+
+# Need lbav not in portage
+=media-video/vlc-2.1.0
