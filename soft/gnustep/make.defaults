@@ -2,8 +2,10 @@ USE=" \
 gnustep \
 native-exceptions \
 boehm-gc \
-libobjc2 \
 "
+
+# clang problem
+# libobjc2 \
 
 #PORTDIR_OVERLAY="\
 #${LAYMAN_DIR}/gnustep \
