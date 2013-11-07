@@ -44,5 +44,5 @@ dev-java/xmlgraphics-commons:1
 =sys-apps/texinfo-5.1
 
 # for sci-mathematics/scilab-5.4.1::science 
->=sci-libs/matio-1.5
+# >=sci-libs/matio-1.5
 
