@@ -296,7 +296,6 @@ cdrkit \
 upnp \
 tk \
 systemd \
-llvm \
 "
 
 # examples \
