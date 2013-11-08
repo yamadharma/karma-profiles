@@ -151,7 +151,7 @@ net-fs/cifs-utils						acl ads caps caps-ng creds upcall
 app-admin/keepass						aot
 
 net-fs/samba							winbind
-sys-devel/llvm							clang
+# sys-devel/llvm							clang
 app-emulation/libvirt-glib					python
 
 net-dns/bind-tools						gssapi

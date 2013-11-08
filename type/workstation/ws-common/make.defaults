@@ -296,6 +296,7 @@ cdrkit \
 upnp \
 tk \
 systemd \
+clang \
 "
 
 # examples \
