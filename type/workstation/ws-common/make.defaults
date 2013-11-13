@@ -59,7 +59,6 @@ bash-completion portaudio bdf \
 bitmap-fonts insecure-drivers font-server truetype-fonts type1-fonts xv \
 dga real xanim quicktime audiofile \
 fpx yv12 dv v4l2 \
-emacs \
 hbci quotes \
 xscreensaver gphoto2 scanner povray pda \
 glut \
