@@ -1,2 +1,3 @@
 CFLAGS=""
 LDFLAGS=""
+CXXFLAGS=""
