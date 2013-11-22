@@ -155,6 +155,7 @@ net-fs/samba							winbind
 app-emulation/libvirt-glib					python
 
 net-dns/bind-tools						gssapi
+net-libs/farstream						python
 
 # Temporary. Compilation error
 =net-dns/libidn-1.28						emacs

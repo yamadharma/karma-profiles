@@ -12,3 +12,4 @@
 
 # Need lbav not in portage
 =media-video/vlc-2.1.0
+=media-video/vlc-2.1.1
