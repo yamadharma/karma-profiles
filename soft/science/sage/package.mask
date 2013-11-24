@@ -48,6 +48,7 @@
 #=dev-python/cython-0.18*
 #=dev-python/cython-0.19.1
 #=dev-python/cython-0.19.1-r1
+=dev-python/cython-0.19.2
 
 #=sci-libs/m4ri-20130416
 
