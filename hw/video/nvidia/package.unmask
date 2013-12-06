@@ -1,0 +1,6 @@
+# required by =x11-drivers/nvidia-drivers-331* (argument)
+# /usr/portage/profiles/targets/desktop/kde/package.mask:
+# Andreas K. Huettel <dilfridge@gentoo.org> (1 Dec 2013)
+# Mask recent nvidia drivers because of sigprocmask corruption, bug 487558
+# (this hits akonadi and makes significant parts of KDE hang)
+=x11-drivers/nvidia-drivers-331.20
