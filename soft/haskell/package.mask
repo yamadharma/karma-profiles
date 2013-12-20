@@ -2,7 +2,7 @@
 =dev-haskell/haddock-2.10.0_pre20120202
 
 =dev-haskell/haskeline-0.7*
-=dev-haskell/split-0.2*
+#=dev-haskell/split-0.2*
 
 # For darcs-2.8.2
 #=dev-haskell/tar-0.4*
