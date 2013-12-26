@@ -156,6 +156,8 @@ app-emulation/libvirt-glib					python
 
 net-dns/bind-tools						gssapi
 net-libs/farstream						python
+sys-fs/ntfs3g							ntfsdecryp
+
 
 # Temporary. Compilation error
 =net-dns/libidn-1.28						emacs

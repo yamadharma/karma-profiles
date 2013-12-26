@@ -18,8 +18,12 @@
 =dev-haskell/syb-0.4*
 
 # depends problems
-=app-text/pandoc-1.12*
-=dev-haskell/pandoc-types-1.12*
+#=app-text/pandoc-1.12*
+#=dev-haskell/pandoc-types-1.12*
+#=dev-haskell/zip-archive-0.2*
 
 # depends problems
 =dev-haskell/text-1*
+
+# for pandoc
+=dev-haskell/zip-archive-0.2*
