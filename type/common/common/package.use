@@ -25,7 +25,8 @@ dev-libs/libburn						track-src-odirect
 
 app-portage/portage-utils					static
 
-sys-devel/gcc							gcj
+sys-devel/gcc							gcj awt
+sys-devel/gcc							go
 
 app-antivirus/clamav						clamdtop
 
@@ -104,6 +105,7 @@ sys-libs/ncurses						static-libs
 dev-libs/cyrus-sasl						openldap
 sys-fs/ntfs3g							acl crypt external-fuse udev xattr ntfsprogs
 sys-fs/ntfs3g							extras
+sys-fs/ntfs3g							ntfsdecrypt
 net-dns/avahi							howl-compat mdnsresponder-compat
 # net-misc/mediatomb						mysql
 # app-forensics/libewf						ewf2
