@@ -1,4 +1,5 @@
 sci-mathematics/sage						mpc
+sci-mathematics/sage						lrs nauty
 
 sci-mathematics/maxima						ecls -sbcl
 sci-mathematics/maxima						clisp
