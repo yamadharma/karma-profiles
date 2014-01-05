@@ -35,7 +35,7 @@ app-text/xdvik						-Xaw -Xaw3d motif
 dev-qt/qthelp						compat
 
 =media-tv/xbmc-12.1*					-gles
-=media-tv/xbmc-12.2*					-gles
+=media-tv/xbmc-12*					-gles
 
 
 razorqt-base/razorqt-meta				-lightdm

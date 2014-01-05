@@ -84,5 +84,6 @@ net-dns/bind							ldap
 
 dev-libs/m17n-lib						spell
 
-# =sys-boot/grub-2.00*		truetype
+=sys-boot/grub-2.00*						truetype
 
+=app-admin/packagekit-base-0.8.15*				bash-completion
