@@ -27,7 +27,7 @@ gd \
 skey \
 matroska \
 guile xface \
-cups ppds \
+cups ppds foomatic \
 jbig lcms \
 nptl nptlonly pic \
 foomaticdb \
