@@ -32,6 +32,7 @@ dev-java/xmlgraphics-commons:1
 
 # =dev-java/jogl-2.0*
 # =dev-java/gluegen-2*
+=dev-java/jogl-2.1.4_rc1
 =dev-java/gluegen-2.1.4_p1
 
 # FOR sci-mathematics/scilab-5.4.0
