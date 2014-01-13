@@ -139,4 +139,5 @@ app-emacs/reftex
 #=dev-util/boost-build-1.53.0
 
 # Temporary, due absense dev-cpp/gmock-1.7.0
-=dev-cpp/gtest-1.7.0
+#=dev-cpp/gtest-1.7.0
+
