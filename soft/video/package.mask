@@ -8,7 +8,7 @@
 #=media-video/handbrake-0.9.9*
 
 # don't compile
-=media-tv/xbmc-12.2-r1
+#=media-tv/xbmc-12.2-r1
 
 # Need lbav not in portage
 =media-video/vlc-2.1*
