@@ -411,41 +411,49 @@ include/image
 ### Sound files ###
 
 regex/\.([wW][aA][vV]|[sS][nN][dD]|[vV][oO][cC]|[aA][uU]|[sS][mM][pP]|[aA][iI][fF][fF]|[sS][nN][dD])$
-       Open=if [ "$DISPLAY" = "" ]; then play %f; else (xmms %f >/dev/null 2>&1 &); fi
+        #Open=if [ "$DISPLAY" = "" ]; then play %f; else (xmms %f >/dev/null 2>&1 &); fi
+	#Open=mplayer -vo null %f
+	Open=mpv -vo null %f
 
 regex/\.([mM][oO][dD]|[sS]3[mM]|[xX][mM]|[iI][tT]|[mM][tT][mM]|669|[sS][tT][mM]|[uU][lL][tT]|[fF][aA][rR])$
        Open=mikmod %f
        #Open=tracker %f
 
 regex/\.([wW][aA][wW]22)$
-       Open=vplay -s 22 %f
+	Open=vplay -s 22 %f
+
 
 regex/\.([mM][pP]3)$
-	Open=mplayer -vo null %f
+	Open=mpv -vo null %f
+	#Open=mplayer -vo null %f
 	#Open=if [ "$DISPLAY" = "" ]; then mpg123 %f; else (xmms %f >/dev/null 2>&1 &); fi
 	View=%view{ascii} mpg123 -vtn1 %f 2>&1 | sed -n '/^Title/,/^Comment/p;/^MPEG/,/^Audio/p'
 
 regex/\.([oO][gG][gG|aA|vV|xX])$
-	Open=mplayer -vo null %f
+	Open=mpv -vo null %f
+	#Open=mplayer -vo null %f
 	#Open=if [ "$DISPLAY" = "" ]; then ogg123 %f; else (xmms %f >/dev/null 2>&1 &); fi
 	View=%view{ascii} ogginfo %s
 
 regex/\.([sS][pP][xX]|[fF][lL][aA][cC])$
-	Open=mplayer -vo null %f
+	Open=mpv -vo null %f
+	#Open=mplayer -vo null %f
 	#Open=if [ "$DISPLAY" = "" ]; then play %f; else (xmms %f >/dev/null 2>&1 &); fi
 
 regex/\.([mM][iI][dD][iI]?|[rR][mM][iI][dD]?)$
 	Open=timidity %f
 
 regex/\.([wW][mM][aA])$
-	Open=mplayer -vo null %f
+	Open=mpv -vo null %f
+	#Open=mplayer -vo null %f
 	View=%view{ascii} mplayer -quiet -slave -frames 0 -vo null -ao null -identify %f 2>/dev/null | tail +13 || file %f
 
 
 ### Play lists ###
 
 regex/\.([mM]3[uU]|[pP][lL][sS])$
-		Open=mplayer -vo null -playlist %f
+	Open=mpv -vo null -playlist %f
+	#Open=mplayer -vo null -playlist %f
 	Open=if [ -z "$DISPLAY" ]; then mplayer -vo null -playlist %f; else (xmms -p %f >/dev/null 2>&1 &); fi
 
 
@@ -467,7 +475,8 @@ regex/\.([mM][oO][vV]|[qQ][tT])$
 	Include=video
 
 regex/\.([mM][pP]4|[mM]4[vV]|[mM][pP][eE]?[gG])$
-	Include=video
+#	Include=video
+	Open=(vlc %f >/dev/null 2>&1 &)
 
 # MPEG-2 TS container + H.264 codec
 regex/\.([mM][tT][sS])$
@@ -495,7 +504,8 @@ regex/\.([rR][aA]?[mM])$
 	Open=(realplay %f >/dev/null 2>&1 &)
 
 include/video
-	Open=(mplayer %f >/dev/null 2>&1 &)
+	Open=(mpv %f >/dev/null 2>&1 &)
+	#Open=(mplayer %f >/dev/null 2>&1 &)
 	#Open=(gtv %f >/dev/null 2>&1 &)
 	#Open=(xanim %f >/dev/null 2>&1 &)
 
@@ -597,6 +607,14 @@ regex/\.(djvu?|DJVU?)$
 	Open=(djview4 %f >/dev/null 2>&1 &)
 	#Open=djview %f &
 	View=%view{ascii} djvused -e print-pure-txt %f
+
+# ebook
+regex/\.(fb2.zip?|epub?)$
+	#Open=(evince %f >/dev/null 2>&1 &)
+	Open=(fbreader %f >/dev/null 2>&1 &)
+	#Open=djview %f &
+	#View=%view{ascii} djvused -e print-pure-txt %f
+
 
 ### Miscellaneous ###
 
