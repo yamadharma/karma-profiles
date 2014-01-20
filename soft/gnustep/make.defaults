@@ -5,7 +5,7 @@ boehm-gc \
 "
 
 # clang problem
-# libobjc2 \
+#libobjc2 \
 
 #PORTDIR_OVERLAY="\
 #${LAYMAN_DIR}/gnustep \
