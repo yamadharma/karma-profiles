@@ -60,6 +60,7 @@ expat \
 bittorrent metalink \
 cron \
 llvm \
+libtirpc \
 "
 
 # c++0x \
