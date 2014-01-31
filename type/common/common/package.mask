@@ -141,6 +141,4 @@ app-emacs/reftex
 # Temporary, due absense dev-cpp/gmock-1.7.0
 #=dev-cpp/gtest-1.7.0
 
-# Temporary, due net-libs/libbluedevil-1.9.4
-=net-wireless/bluez-5*
 
