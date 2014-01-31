@@ -37,6 +37,8 @@ dev-qt/qthelp						compat
 =media-tv/xbmc-12.1*					-gles
 =media-tv/xbmc-12*					-gles
 
+net-libs/webkit-gtk					-gles2
+
 
 razorqt-base/razorqt-meta				-lightdm
 
