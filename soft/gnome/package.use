@@ -67,6 +67,8 @@ app-i18n/ibus							dconf
 net-misc/vinagre						rdp
 # sys-auth/pambase						systemd
 
+net-misc/networkmanager						modemmanager
+
 # temporary
 net-wireless/gnome-bluetooth					-sendto
 net-im/empathy							-sendto
