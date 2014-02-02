@@ -160,6 +160,7 @@ net-dns/bind-tools						gssapi
 net-libs/farstream						python
 sys-fs/ntfs3g							ntfsdecryp
 
+sys-devel/autogen						libopts
 
 # Temporary. Compilation error
 =net-dns/libidn-1.28						emacs
