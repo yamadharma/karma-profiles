@@ -3,3 +3,6 @@
 =sci-mathematics/scilab-5.5.0*
 =dev-java/jgraphx-2.1*
 =dev-java/jogl-2.1.2
+
+# lang julia
+#=dev-lang/julia-9999
