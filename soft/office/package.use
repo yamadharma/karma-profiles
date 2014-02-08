@@ -17,7 +17,7 @@ app-office/calligra			kdepim glew mysql xbase attica
 app-office/libreoffice			postgres
 virtual/ooo				java
 app-office/libreoffice			telepathy
-
+app-office/libreoffice			vlc
 
 =app-office/libreoffice-4.1*		-odk
 
