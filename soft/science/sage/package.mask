@@ -70,6 +70,7 @@
 =dev-python/pexpect-3.0
 
 =sci-libs/libcliquer-1.21_p1
+=sci-mathematics/pari-2.5.5-r2
 
 # depends problem
 #=sci-libs/scipy-0.11.0-r1
