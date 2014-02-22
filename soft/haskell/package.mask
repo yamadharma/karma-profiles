@@ -18,7 +18,7 @@
 =dev-haskell/syb-0.4*
 
 # depends problems
-=dev-haskell/text-1*
+#=dev-haskell/text-1*
 #=dev-haskell/connection-0.2.0
 
 # for pandoc
