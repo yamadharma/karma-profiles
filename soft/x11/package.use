@@ -15,7 +15,7 @@ media-libs/freetype					auto-hinter
 media-libs/mesa						gles llvm
 media-libs/mesa						gles1 gles2
 media-libs/mesa						gbm
-media-libs/mesa						-classic
+# media-libs/mesa					-classic
 media-libs/mesa						xorg gallium
 x11-libs/libdrm						libkms
 # media-libs/mesa						wayland
