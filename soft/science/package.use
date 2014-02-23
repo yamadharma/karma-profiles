@@ -60,6 +60,7 @@ sci-geosciences/gpsd						python
 sci-chemistry/avogadro						python
 # segmentation fault
 # sci-chemistry/avogadro					-glsl
+sci-mathematics/octave						java
 
 dev-perl/PDL							badval pdl2 pgplot
 # dev-perl/PDL							plplot proj
