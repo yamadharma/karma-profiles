@@ -13,6 +13,7 @@ VIDEO_CARDS=""
 USE="
 mmx mmx2 mmxext sse sse2
 sse3 ssse3
+multilib
 "
 
 CFLAGS="${CFLAGS} -O2 -mfpmath=sse -funroll-loops"

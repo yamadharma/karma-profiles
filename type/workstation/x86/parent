@@ -1,3 +1,5 @@
+../../../../../../../portage/profiles/arch/x86
+../../../../../../../portage/profiles/targets/systemd
 ../../../../../../../portage/profiles/default/linux/x86/13.0/desktop
 ../ws-common
 
