@@ -46,5 +46,7 @@ media-video/mpv					libguess vf-dlopen
 app-misc/tracker				-xine
 
 media-video/handbrake				-ffmpeg
+=media-video/vlc-2.1*				-vdpau
+
 
 

@@ -1,5 +1,5 @@
 USE="\
-vdpau \
 "
 
+# vdpau \
 # opencl \
