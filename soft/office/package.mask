@@ -2,3 +2,7 @@
 
 #
 =dev-util/mdds-0.9*
+
+# due libreoffice
+=dev-libs/liborcus-0.7.0*
+=dev-libs/libixion-0.7.0*
