@@ -1,0 +1,7 @@
+# Tom Wijsman <TomWij@gentoo.org> (31 Mar 2014)
+# Prevent users from switching JDK / JRE implementation.
+#
+# Unmask this if you want to upgrade or switch to Oracle JDK / JRE 1.8.
+=virtual/jdk-1.8*
+=virtual/jre-1.8*
+
