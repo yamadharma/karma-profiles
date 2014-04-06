@@ -51,3 +51,6 @@ dev-java/xmlgraphics-commons:1
 # >=sci-libs/matio-1.5
 
 =dev-python/cython-0.20*
+
+# for dev-libs/ppl
+=sci-mathematics/glpk-4.54*
