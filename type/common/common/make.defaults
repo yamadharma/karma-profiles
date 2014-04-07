@@ -52,7 +52,6 @@ zeroconf \
 prelude \
 caps \
 glib \
-netlink \
 zlib \
 curl \
 natspec unicode \
@@ -64,6 +63,7 @@ libtirpc \
 tbb \
 "
 
+# netlink \
 # c++0x \
 # spidermonkey \
 

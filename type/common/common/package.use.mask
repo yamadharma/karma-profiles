@@ -87,3 +87,7 @@ dev-libs/m17n-lib						spell
 =sys-boot/grub-2.00*						truetype
 
 =app-admin/packagekit-base-0.8.15*				bash-completion
+
+net-analyzer/wireshark			gtk2
+net-analyzer/wireshark			qt4
+
