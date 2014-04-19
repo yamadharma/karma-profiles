@@ -295,3 +295,5 @@
 =kde-base/kdebase-meta-9999
 =kde-base/kde-meta-9999
 
+# due kde-base/baloo-4.13
+=dev-libs/xapian-1.3*
