@@ -11,6 +11,7 @@ flake \
 mpg123 \
 cddb cdio \
 lv2 \
+opus \
 "
 
 # arts artswrappersuid
