@@ -12,6 +12,8 @@ media-sound/deadbeef					converter cover-imlib2 hotkeys infobar m3u mms mono2ste
 media-sound/mpd						wildmidi pipe
 # media-sound/clementine					ayatana
 media-sound/pulseaudio					realtime
+media-libs/opus						custom-modes
+
 dev-libs/libcdio					cddb
 media-video/mplayer					-cddb -cdparanoia
 
