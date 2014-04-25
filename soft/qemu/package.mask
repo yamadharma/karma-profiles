@@ -1,7 +1,2 @@
-# Temporary blocked (dependencies problem)
-=app-emulation/libvirt-1.2.0
-
-=sys-firmware/seabios-1.7.3.2
-
 
 

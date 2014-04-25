@@ -32,8 +32,8 @@ dev-java/xmlgraphics-commons:1
 
 # =dev-java/jogl-2.0*
 # =dev-java/gluegen-2*
-#=dev-java/jogl-2.1.4*
-#=dev-java/gluegen-2.1.4*
+=dev-java/jogl-2.1.4*
+=dev-java/gluegen-2.1.4*
 
 
 
