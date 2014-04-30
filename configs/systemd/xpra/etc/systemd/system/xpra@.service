@@ -4,7 +4,7 @@ Description=xpra display
 [Service]
 Type=simple
 User=%i
-# EnvironmentFile=/etc/conf.d/xpra
+EnvironmentFile=/etc/conf.d/xpra
 ExecStart=/usr/bin/xpra --no-daemon start ${%i}
 
 [Install]
