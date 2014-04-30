@@ -37,6 +37,7 @@ sys-kernel/genkernel						-crypt
 =net-im/gajim-0.15*						-jingle
 
 # sys-devel/llvm							-ocaml
+app-text/gocr							-tk
 
 sys-process/cronie						anacron
 sys-fs/hfsutils							tcl tk

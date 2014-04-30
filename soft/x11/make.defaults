@@ -22,6 +22,7 @@ fltk \
 startup-notification \
 gles gles2 \
 gallium openvg xa \
+glamor \
 "
 
 # PORTDIR_OVERLAY="\
