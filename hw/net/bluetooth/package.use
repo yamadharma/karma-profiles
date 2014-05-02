@@ -1,7 +1,7 @@
 gnome-extra/nautilus-sendto					-bluetooth
 net-wireless/bluez						attrib health pnat
 # need <net-wireless/bluez-5
-=kde-base/solid-runtime-4.12*					-bluetooth
+=kde-base/solid-runtime-4.1*					-bluetooth
 
 
 
