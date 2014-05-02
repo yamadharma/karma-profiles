@@ -53,3 +53,5 @@ dev-java/antlr							script
 
 dev-qt/qtgui							gtkstyle
 media-plugins/kipi-plugins					videoslideshow
+
+=kde-base/solid-runtime-4*					-bluetooth
