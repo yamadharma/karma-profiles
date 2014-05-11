@@ -74,6 +74,7 @@
 
 =sci-libs/libcliquer-1.21_p1
 =sci-mathematics/pari-2.5.5-r2
+=sci-mathematics/pari-2.7.0*
 
 =sci-mathematics/singular-3.1.6
 =dev-libs/ntl-6.0.0
