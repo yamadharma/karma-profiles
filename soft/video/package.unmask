@@ -12,3 +12,7 @@ media-libs/realcodecs
 # the tree for now, so users who are willing to accept the known issues can
 # still easily install it by unmasking this.
 media-video/avidemux
+
+# Luca Barbato <lu_zero@gentoo.org> (30 Mar 2014)
+# Current stable for upstream, pending a tinderbox run.
+=media-video/libav-10*
