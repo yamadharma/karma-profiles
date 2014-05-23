@@ -2,6 +2,7 @@ USE="\
 ogm mp4 \
 srt libass \
 x264 \
+x265 \
 dirac schroedinger \
 kate \
 csv \
