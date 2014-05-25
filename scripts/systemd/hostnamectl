@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /etc/conf.d/hostname
+hostnamectl set-hostname ${hostname}
+
