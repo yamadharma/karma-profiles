@@ -29,6 +29,7 @@ sci-mathematics/sage						testsuite
 sci-mathematics/sage-baselayout					testsuite
 dev-python/sympy						pyglet
 sci-mathematics/flint						ntl
+sci-mathematics/eclib						flint
 
 
 # dev-python/ipython						notebook
