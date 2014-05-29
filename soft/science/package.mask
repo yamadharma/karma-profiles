@@ -50,7 +50,7 @@ dev-java/xmlgraphics-commons:1
 # for sci-mathematics/scilab-5.4.1::science 
 # >=sci-libs/matio-1.5
 
-=dev-python/cython-0.20*
+#=dev-python/cython-0.20*
 
 # for dev-libs/ppl
 =sci-mathematics/glpk-4.53*
