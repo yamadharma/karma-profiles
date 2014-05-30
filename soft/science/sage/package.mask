@@ -80,6 +80,7 @@
 =sci-mathematics/singular-4*
 =dev-libs/ntl-6.0.0
 
+=dev-python/docutils-0.10*
 =dev-python/docutils-0.11*
 
 # depends problem

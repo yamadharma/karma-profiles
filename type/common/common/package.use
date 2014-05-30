@@ -162,6 +162,7 @@ sys-fs/ntfs3g							ntfsdecryp
 
 sys-devel/autogen						libopts
 app-editors/emacs-vcs						gfile
+sys-libs/tevent							python
 
 # Temporary. Compilation error
 =net-dns/libidn-1.28						emacs

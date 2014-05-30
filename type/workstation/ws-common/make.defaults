@@ -196,7 +196,6 @@ srv \
 fasttrack gnutella magic \
 cdda corba mod rtsp seamonkey shout skins stream vlm  \
 iontruetype ionunicode \
-glep \
 numeric \
 addbookmarks alias autoreplace connectionstatus contactnotes highlight history statistics texteffect trnslator webpresence \
 idle trayicon xhtml \
@@ -331,6 +330,7 @@ clang \
 # fastcgi
 # nptlonly
 # consolekit  
+# glep \
 
 # erandom uclibc
 #lirc

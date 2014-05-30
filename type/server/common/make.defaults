@@ -98,7 +98,6 @@ glsa qa  \
 charconv \
 pop smime buffysize mbox \
 fasttrack gnutella magic \
-glep \
 zsh-completion contrarius cran \
 mfd-rewrites diskio \
 rcc \
@@ -158,6 +157,7 @@ log4j servletapi \
 # faad matroska \
 # tdb recursor \
 # fbcon \
+# glep \
 
 
 FEATURES="${FEATURES} \
