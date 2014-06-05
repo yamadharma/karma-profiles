@@ -7,6 +7,7 @@ app-emulation/wine						gnutls
 app-emulation/wine-etersoft-public				dbus hal scanner ldap gphoto2 gsm mp3 openal esd gstreamer
 
 =sys-boot/grub-0*						static
+=media-sound/jack-audio-connection-kit-1.9*			dbus
 
 
 
