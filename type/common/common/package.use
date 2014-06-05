@@ -98,7 +98,9 @@ app-arch/dpkg							dselect
 media-libs/libpng						apng
 net-p2p/transmission						utp
 sys-boot/grub							extras
-sys-boot/grub							static
+# sys-boot/grub							static
+sys-boot/grub							mount
+sys-boot/grub							efiemu
 media-libs/freetype						static-libs
 sys-fs/udev							edd floppy gudev hwdb keymap
 sys-libs/ncurses						static-libs

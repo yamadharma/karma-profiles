@@ -1,6 +1,6 @@
-../../type/workstation/x86
+../../type/workstation/x86_64
 # ../../hw/arch/pentium4
-../../hw/arch/core-i3/x86
+../../hw/arch/core-i3/x86_64
 ../../hw/video/intel
 ../../hw/video/ati
 ../../hw/video/sis

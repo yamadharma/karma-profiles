@@ -132,7 +132,7 @@ cgi xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
 inifile bcmath pcntl flatfile \
 sharedext wddx \
 extras \
-mime pdf \
+mime \
 bookmarks \
 fuse nfs \
 nodrm \

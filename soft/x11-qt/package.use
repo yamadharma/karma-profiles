@@ -2,7 +2,7 @@ www-client/opera					-qt-static
 x11-themes/qtcurve-qt4					windeco
 
 dev-python/PyQt4					multimedia
-app-office/texmacs					-qt4
+# app-office/texmacs					-qt4
 
 # Dont't compile
 =media-video/mkvtoolnix-4.0.0				-qt4
