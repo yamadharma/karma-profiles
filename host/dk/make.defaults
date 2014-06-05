@@ -1,5 +1,5 @@
 USE="\
-afs cpudetection"
+afs"
 
 VIDEO_CARDS="intel sis radeon nouveau"
 
