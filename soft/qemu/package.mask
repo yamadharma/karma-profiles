@@ -1,4 +1,4 @@
 # due app-emulation/qemu-2.0.0:0/0::gentoo
-=sys-firmware/seabios-1.7.4
+# =sys-firmware/seabios-1.7.4
 
 
