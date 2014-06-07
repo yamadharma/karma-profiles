@@ -141,4 +141,7 @@ app-emacs/reftex
 # Temporary, due absense dev-cpp/gmock-1.7.0
 #=dev-cpp/gtest-1.7.0
 
+# Bug 512298
+# =net-libs/webkit-gtk-2.4.3
+=sys-devel/gettext-0.19
 
