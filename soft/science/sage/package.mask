@@ -35,7 +35,7 @@
 =dev-lisp/ecls-12.12.1-r5
 # =dev-lisp/ecls-13.5.1
 
-=sci-chemistry/jmol-12.3.27*
+# =sci-chemistry/jmol-12.3.27*
 
 #=sci-libs/pynac-0.2.6*
 
