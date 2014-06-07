@@ -167,7 +167,7 @@ app-editors/emacs-vcs						gfile
 sys-libs/tevent							python
 
 # Temporary. Compilation error
-=net-dns/libidn-1.28						emacs
+=net-dns/libidn-1.28*						emacs
 
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
