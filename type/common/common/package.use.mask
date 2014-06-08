@@ -91,3 +91,5 @@ dev-libs/m17n-lib						spell
 net-analyzer/wireshark			gtk2
 net-analyzer/wireshark			qt4
 
+=media-libs/libextractor-1.3					tidy
+
