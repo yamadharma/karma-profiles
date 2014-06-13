@@ -180,3 +180,4 @@ app-text/writer2latex					doc examples
 app-text/texlive		pdfannotextractor
 app-text/texlive		epspdf metapost texi2html
 
+dev-tex/biblatex	doc examples

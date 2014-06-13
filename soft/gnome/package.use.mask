@@ -41,3 +41,5 @@ net-misc/networkmanager							dhclient nss
 
 =media-sound/rhythmbox-2.97					cdr html webkit
 
+=media-libs/gst-plugins-bad-1.2.4*				egl
+

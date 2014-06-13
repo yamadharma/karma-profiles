@@ -20,6 +20,8 @@ sci-mathematics/fricas							gmp
 =sci-libs/hdf5-1.8*							threads
 =dev-lisp/clisp-2.49*							pari
 
+=sci-mathematics/sage-doc-6.2						pdf
+
 
 
 
