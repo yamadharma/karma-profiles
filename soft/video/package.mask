@@ -13,3 +13,5 @@
 # Need lbav not in portage
 #=media-video/vlc-2.1*
 
+# Bug 513184
+# =media-video/ffmpeg-2.2.3-r1
