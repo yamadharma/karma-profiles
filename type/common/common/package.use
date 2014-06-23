@@ -166,8 +166,17 @@ sys-devel/autogen						libopts
 app-editors/emacs-vcs						gfile
 sys-libs/tevent							python
 
+# for app-admin/389-ds-console
+dev-libs/nss							utils
+app-crypt/mit-krb5						openldap
+
+sys-libs/glibc							nscd
+
+
 # Temporary. Compilation error
 =net-dns/libidn-1.28*						emacs
+
+
 
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
