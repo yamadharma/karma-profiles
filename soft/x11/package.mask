@@ -10,7 +10,7 @@
 =media-libs/mesa-8.1_rc1*
 
 # due media-libs/mesa-9.2.5
-=sys-devel/llvm-3.4*
-=sys-devel/clang-3.4*
+#=sys-devel/llvm-3.4*
+#=sys-devel/clang-3.4*
 
 
