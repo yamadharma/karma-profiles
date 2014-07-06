@@ -60,7 +60,6 @@ app-emacs/reftex
 
 =virtual/linux-sources-2.6
 
-<dev-lang/perl-5.14.1-r1
 
 =dev-libs/xmlrpc-c-1.27.5-r1
 # =net-print/gutenprint-5.2.7
@@ -145,3 +144,4 @@ app-emacs/reftex
 # =net-libs/webkit-gtk-2.4.3
 =sys-devel/gettext-0.19
 
+#=dev-lang/perl-5.20.0
