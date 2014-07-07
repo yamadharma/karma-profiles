@@ -144,4 +144,4 @@ app-emacs/reftex
 # =net-libs/webkit-gtk-2.4.3
 =sys-devel/gettext-0.19
 
-#=dev-lang/perl-5.20.0
+
