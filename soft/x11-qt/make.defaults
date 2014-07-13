@@ -11,5 +11,5 @@ egl \
 # qt3 \
 
 #PORTDIR_OVERLAY="\
-#${LAYMAN_DIR}/qting-edge \
+#${LAYMAN_DIR}/qt \
 #${PORTDIR_OVERLAY}"

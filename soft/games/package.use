@@ -4,3 +4,5 @@ games-strategy/0ad						editor
 # =dev-games/cegui-0.7.5*						-ogre
 games-fps/wolf4sdl						smooth strafe wolf3d_id spear_full -wolf3d_shareware
 
+games-strategy/vcmi						erm launcher
+#games-strategy/vcmi						editor

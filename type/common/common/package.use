@@ -173,6 +173,8 @@ app-crypt/mit-krb5						openldap
 sys-libs/glibc							nscd
 
 
+dev-libs/libpcre                                		pcre16 pcre32
+
 # Temporary. Compilation error
 =net-dns/libidn-1.28*						emacs
 
