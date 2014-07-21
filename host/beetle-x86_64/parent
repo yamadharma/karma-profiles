@@ -2,6 +2,7 @@
 ../../hw/arch/core2/x86_64
 ../../hw/arch/native
 ../../hw/video/nvidia/gfx8000
+../../hw/video/nvidia_free
 ../../hw/net/bluetooth
 ../../soft/qemu
 ../../soft/tracker

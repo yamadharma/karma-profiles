@@ -1,0 +1,12 @@
+#!/bin/bash
+
+
+# http://askubuntu.com/questions/3830/how-can-i-use-networkmanager-in-gdm
+# I need to connect to a specific wireless network before being able to successfully connect to my user account, since it needs access to a secured LDAP server.
+#
+# Turns out it's pretty simple; just need to add a .desktop file in the directory:
+# /usr/share/gdm/autostart/LoginWindow/
+# A quick way to do this is to copy the nm-applet.desktop file from /etc/xdg/autostart:
+
+ln -s /etc/xdg/autostart/nm-applet.desktop /usr/share/gdm/autostart/LoginWindow/
+
