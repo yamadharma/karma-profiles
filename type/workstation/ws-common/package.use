@@ -44,3 +44,4 @@ sys-fs/hfsutils							tcl tk
 
 net-misc/tor							ecc stats threads upnp bufferevents nat-pmp transparent-proxy web
 
+net-analyzer/d-itg						doc
