@@ -1,2 +1,4 @@
 app-emulation/qemu					virtfs
 app-emulation/qemu					vhost-net
+
+=app-emulation/qemu-2.1.0				-nfs
