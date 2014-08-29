@@ -27,6 +27,7 @@ media-sound/jack-audio-connection-kit			classic dbus
 =media-sound/traverso-0.49.2-r1				-lv2
 =media-sound/sidplayfp-1.1.0				-pulseaudio
 
+dev-qt/qtmultimedia:5                                   -alsa pulseaudio
 
 
 
