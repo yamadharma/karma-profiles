@@ -59,7 +59,7 @@
 # =dev-tex/sage-latex-2.3.4
 
 # =dev-python/ipython-0.13*
-=dev-python/ipython-2.1*
+# =dev-python/ipython-2.1*
 =dev-python/ipython-2.2*
 
 #=sci-mathematics/polybori-0.8.3*

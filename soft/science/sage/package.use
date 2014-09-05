@@ -36,6 +36,8 @@ sci-mathematics/eclib						flint
 
 =sci-mathematics/gmp-ecm-6.4*					-openmp
 
+sci-libs/libsingular						flint
+
 
 
 
