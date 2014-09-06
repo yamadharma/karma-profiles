@@ -32,3 +32,4 @@
 #=dev-haskell/transformers-0.4*
 
 =dev-haskell/network-2.6*
+=dev-haskell/conduit-1.2*
