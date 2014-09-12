@@ -2,3 +2,19 @@
 # Multiple security vulnerabilities, bug #510960.
 # Masked for removal in 30 days, bug #517932.
 app-emulation/emul-linux-x86-compat
+
+# Ulrich Müller <ulm@gentoo.org> (15 Jul 2014)
+# Permanently mask sys-libs/lib-compat and its reverse dependencies,
+# pending multiple security vulnerabilities and QA issues.
+# See bugs #515926 and #510960.
+sys-libs/lib-compat
+sys-libs/lib-compat-loki
+games-action/mutantstorm-demo
+games-action/phobiaii
+games-emulation/handy
+games-fps/rtcw
+games-fps/unreal
+games-strategy/heroes3
+games-strategy/heroes3-demo
+games-strategy/smac
+sys-block/afacli
