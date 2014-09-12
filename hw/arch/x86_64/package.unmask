@@ -1,0 +1,4 @@
+# Ulrich Müller <ulm@gentoo.org> (10 Sep 2014)
+# Multiple security vulnerabilities, bug #510960.
+# Masked for removal in 30 days, bug #517932.
+app-emulation/emul-linux-x86-compat
