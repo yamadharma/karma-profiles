@@ -6,3 +6,5 @@
 # due libreoffice
 =dev-libs/liborcus-0.7.0*
 =dev-libs/libixion-0.7.0*
+
+=app-text/libwps-0.3*
