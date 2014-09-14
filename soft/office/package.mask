@@ -7,7 +7,9 @@
 =dev-libs/liborcus-0.7.0*
 =dev-libs/libixion-0.7.0*
 =media-libs/libcdr-0.1*
-
+=media-libs/libvisio-0.1*
+=app-text/libmspub-0.1*
+=app-text/libetonyek-0.1*
 
 =app-text/libwps-0.3*
 
