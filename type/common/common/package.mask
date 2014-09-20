@@ -147,3 +147,7 @@ app-emacs/reftex
 # UnicodeDecodeError
 =sys-apps/portage-2.2.11*
 
+# llvm
+=sys-devel/llvm-3.5*
+=sys-devel/clang-3.5*
+
