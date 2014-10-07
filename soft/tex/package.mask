@@ -1,3 +1,5 @@
+# Need texlive-2014
+=dev-libs/kpathsea-6.2.0*
 
 
 
