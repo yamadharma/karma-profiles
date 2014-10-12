@@ -1,6 +1,6 @@
 # Many compilation errors
-=net-libs/libotr-4.0.0
-=x11-plugins/pidgin-otr-4.0.0
+#=net-libs/libotr-4.0.0
+#=x11-plugins/pidgin-otr-4.0.0
 
 # Dependensies
 #=net-libs/ptlib-2.10.8
