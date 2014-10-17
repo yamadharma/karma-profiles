@@ -1,2 +1,4 @@
 =games-strategy/xscorch-0.2.0-r1						gtk
 
+# required by games-strategy/0ad
+dev-lang/spidermonkey								icu
