@@ -60,7 +60,6 @@ bittorrent metalink \
 cron \
 llvm \
 libtirpc \
-tbb \
 iproute2 \
 evdev \
 "
@@ -85,6 +84,7 @@ fixlafiles unmerge-orphans \
 "
 # prelink confcache
 # lua luajit \
+# tbb \
 
 SEARCH_DIRS="/usr/GNUstep"
 
