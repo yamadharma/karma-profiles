@@ -3,6 +3,7 @@ dev-python/wxpython						doc examples
 x11-misc/xneur							aplay gstreamer openal
 x11-wm/awesome							doc
 sys-auth/policykit						zsh-completion
-media-libs/libmediaart						gtk
+media-libs/libmediaart						gtk qt4
+
 
 

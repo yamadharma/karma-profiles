@@ -2,8 +2,8 @@
 ../../common/common
 ../../../hw/net/bluetooth
 ../../../soft/x11
-../../../soft/x11-qt
-../../../soft/x11-qt3
+../../../soft/x11/qt
+../../../soft/x11/qt/3
 ../../../soft/gnome
 ../../../soft/gnome2/mate
 ../../../soft/kde

@@ -1,2 +1,4 @@
 #net-libs/aqbanking					qt4
 media-libs/coin						javascript
+dev-qt/qtwebkit:5					gstreamer gstreamer010
+

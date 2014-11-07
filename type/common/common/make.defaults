@@ -62,6 +62,7 @@ llvm \
 libtirpc \
 iproute2 \
 evdev \
+firmware \
 "
 
 # netlink \

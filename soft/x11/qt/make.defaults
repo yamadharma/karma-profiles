@@ -1,5 +1,4 @@
 USE="\
-qt4 \
 qt5 \
 raster \
 qt3support \
@@ -9,7 +8,4 @@ qscintilla \
 egl \
 "
 # qt3 \
-
-#PORTDIR_OVERLAY="\
-#${LAYMAN_DIR}/qt \
-#${PORTDIR_OVERLAY}"
+# qt4 \
