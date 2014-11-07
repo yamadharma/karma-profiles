@@ -31,7 +31,6 @@ app-text/pdf2oo							kde
 
 =kde-base/solid-4.7.2						networkmanager
 
-dev-libs/libattica						qt4
 
 
 

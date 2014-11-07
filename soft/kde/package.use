@@ -57,3 +57,5 @@ media-plugins/kipi-plugins					videoslideshow
 =kde-base/solid-runtime-4*					-bluetooth
 
 app-office/akonadi-server					qt4 -qt5
+dev-libs/libattica						qt4 -qt5
+
