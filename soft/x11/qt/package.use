@@ -21,7 +21,7 @@ dev-qt/qtwebkit						multimedia printsupport qml widgets
 dev-qt/qtmultimedia					widgets
 dev-python/PyQt5					widgets printsupport
 
-media-video/vlc						-qt4 qt5
+media-video/vlc						qt4 -qt5
 dev-util/cmake						-qt4 qt5
 
 
