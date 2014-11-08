@@ -23,6 +23,8 @@ dev-python/PyQt5					widgets printsupport
 
 media-video/vlc						qt4 -qt5
 dev-util/cmake						-qt4 qt5
+media-video/mkvtoolnix					-qt5
+
 
 
 
