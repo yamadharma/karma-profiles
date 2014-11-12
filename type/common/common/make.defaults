@@ -181,5 +181,6 @@ RUBY_TARGETS="ruby21 ruby20"
 
 DRACUT_MODULES="lvm systemd"
 
+PORTAGE_NICENESS=5
 
 
