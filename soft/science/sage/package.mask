@@ -62,6 +62,7 @@
 # =dev-python/ipython-0.13*
 # =dev-python/ipython-2.1*
 =dev-python/ipython-2.2*
+=dev-python/ipython-2.3*
 
 #=sci-mathematics/polybori-0.8.3*
 #=sci-mathematics/sage-data-polytopes_db-20120220

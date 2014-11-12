@@ -25,6 +25,7 @@ media-video/vlc						qt4 -qt5
 dev-util/cmake						-qt4 qt5
 media-video/mkvtoolnix					-qt5
 
+dev-qt/qtgui:5						accessibility
 
 
 
