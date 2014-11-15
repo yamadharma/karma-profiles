@@ -23,6 +23,7 @@ media-sound/audacious					gtk3 -gtk
 
 media-sound/jack-audio-connection-kit			classic dbus
 # =media-sound/jack-audio-connection-kit-1.9*		-dbus
+=media-sound/jack-audio-connection-kit-2.9999*		-dbus -ieee1394
 
 =media-sound/traverso-0.49.2-r1				-lv2
 =media-sound/sidplayfp-1.1.0				-pulseaudio
