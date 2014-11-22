@@ -36,8 +36,9 @@ sci-mathematics/fricas						ecl
 
 sci-libs/gdal							-hdf netcdf
 
-sci-visualization/qtiplot					origin emf latex ods png python xls
-
+sci-visualization/qtiplot					origin emf latex ods png xls
+sci-visualization/qtiplot					python
+=sci-visualization/qtiplot-0.9.8.9-r2				-python
 sci-chemistry/openbabel						gui python
 
 sci-physics/root						llvm

@@ -1,2 +1,0 @@
-# need python-3.2
-=dev-util/eric-5.4.0_rc1

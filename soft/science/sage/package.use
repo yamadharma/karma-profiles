@@ -32,11 +32,10 @@ sci-mathematics/flint						ntl
 sci-mathematics/eclib						flint
 
 
-# dev-python/ipython						notebook
-
 =sci-mathematics/gmp-ecm-6.4*					-openmp
 
 sci-libs/libsingular						flint
+dev-python/ipython						notebook
 
 
 
