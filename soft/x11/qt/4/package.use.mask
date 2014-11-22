@@ -1,1 +1,1 @@
-dev-qt/qtgui:4				mng
+#dev-qt/qtgui:4				mng

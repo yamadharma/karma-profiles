@@ -2,3 +2,4 @@ media-gfx/gimp							doc
 media-gfx/graphicsmagick					imagemagick
 =media-gfx/greycstoration-2.9					lapack
 =media-gfx/hugin-2011.2.0					lapack
+

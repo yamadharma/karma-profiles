@@ -1,0 +1,1 @@
+media-libs/libmng						-abi_x86_32
