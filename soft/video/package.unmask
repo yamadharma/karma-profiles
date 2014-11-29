@@ -19,7 +19,10 @@ media-video/avidemux
 
 # Maxim Koltsov <maksbotan@gentoo.org> (12 Sep 2014)
 # Requires masked libav-10
-# Please DO NOT REMOVE this mask, which was discussed and agreed on #gentoo-dev
-# by mgorny, patrick and others
-=media-video/mpv-0.4*
-=media-video/mpv-0.5*
+# If you use media-video/ffmpeg, it's absolutely safe to unmask this package.
+# Sorry for the inconvenience!
+#
+# Developers: Please DO NOT REMOVE this mask, which was discussed and
+# agreed on #gentoo-dev by mgorny, patrick and others
+=media-video/mpv-0.6*
+=media-video/mpv-0.7*
