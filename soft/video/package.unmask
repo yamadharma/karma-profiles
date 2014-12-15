@@ -26,3 +26,14 @@ media-video/avidemux
 # agreed on #gentoo-dev by mgorny, patrick and others
 =media-video/mpv-0.6*
 =media-video/mpv-0.7*
+
+
+# Alexis Ballier <aballier@gentoo.org> (4 Aug 2014)
+# <vlc-2.2 will not work with this ffmpeg version; others to be investigated.
+#>=media-video/ffmpeg-2.3
+=media-video/ffmpeg-2.3*
+=media-video/ffmpeg-2.4*
+=media-video/ffmpeg-2.5*
+# bug #525070
+>=media-video/mplayer-1.2_pre20141011
+
