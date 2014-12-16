@@ -50,6 +50,8 @@ app-misc/tracker				-xine
 =media-video/vlc-2.1*				-vdpau
 app-misc/tracker				-ffmpeg
 
+=media-video/gpac-0.5.1_pre5456			-ffmpeg
+
 
 
 
