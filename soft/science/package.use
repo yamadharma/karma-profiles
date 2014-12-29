@@ -70,6 +70,7 @@ sci-libs/plplot							lua perl python
 sci-chemistry/pymol						numpy
 sci-chemistry/pymol						apbs
 sci-chemistry/apbs						arpack fetk
+sci-chemistry/avogadro2						rpc
 
 
 
