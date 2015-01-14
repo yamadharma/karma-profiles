@@ -84,6 +84,7 @@
 #=sci-mathematics/eclib-20140805
 #=sci-libs/m4ri-20140914
 
+=sci-libs/givaro-3.8.0*
 
 
 
