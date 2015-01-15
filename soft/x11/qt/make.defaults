@@ -1,7 +1,6 @@
 USE="\
 qt5 \
 raster \
-qt3support \
 optimized-qmake \
 private-headers \
 qscintilla \

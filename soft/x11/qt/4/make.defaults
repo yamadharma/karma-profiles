@@ -1,0 +1,4 @@
+USE="\
+qt4 \
+qt3support \
+"
