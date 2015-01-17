@@ -22,7 +22,8 @@ x11-libs/libdrm						libkms
 
 
 x11-libs/cairo						X opengl svg xcb drm gallium 
-# x11-libs/cairo						openvg
+x11-libs/cairo						-openvg
+dev-qt/qt-meta						-openvg
 x11-libs/gtkmathview					mathml
 x11-libs/qwt						svg mathml
 
