@@ -29,6 +29,7 @@ media-sound/jack-audio-connection-kit			classic dbus
 =media-sound/sidplayfp-1.1.0				-pulseaudio
 
 dev-qt/qtmultimedia:5                                   -alsa pulseaudio
+media-plugins/gst-plugins-meta:0.10			-modplug
 
 
 

@@ -12,6 +12,7 @@ mpg123 \
 cddb cdio \
 lv2 \
 opus \
+modplug \
 "
 
 # arts artswrappersuid
