@@ -38,7 +38,7 @@ sci-libs/gdal							-hdf netcdf
 
 sci-visualization/qtiplot					origin emf latex ods png xls
 sci-visualization/qtiplot					python
-=sci-visualization/qtiplot-0.9.8.9*				-python
+=sci-visualization/qtiplot-0.9.8.9-r1				-python
 sci-chemistry/openbabel						gui python
 
 sci-physics/root						llvm
