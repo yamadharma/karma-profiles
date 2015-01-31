@@ -1,5 +1,5 @@
 # OpenGL craching
-=x11-drivers/nvidia-drivers-340.76
+#=x11-drivers/nvidia-drivers-340.76
 
 
 

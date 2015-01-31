@@ -8,3 +8,4 @@
 CFLAGS="${CFLAGS} -march=core2"
 CXXFLAGS="${CFLAGS}"
 
+CPU_FLAGS_X86="mmx mmxext sse sse2 sse3 sse4_1 ssse3"
