@@ -26,7 +26,7 @@ dev-util/cmake						-qt4 qt5
 media-video/mkvtoolnix					-qt5
 =dev-qt/qtlockedfile-2.4.1*				qt4 -qt5
 =dev-qt/qtsingleapplication-2.6.1*			qt4 -qt5
-app-office/texmaker					-qt4 qt5
+app-office/texmaker					qt4 -qt5
 
 dev-qt/qtgui:5						accessibility
 
