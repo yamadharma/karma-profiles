@@ -7,8 +7,10 @@ media-gfx/gimp							python
 media-libs/lcms:0						python
 media-gfx/pstoedit						plotutils
 media-libs/gegl							lua
+media-gfx/inkscape						visio wpg
 
 =app-office/texmacs-1.99*					-pdf
+
 
 
 

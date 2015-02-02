@@ -37,3 +37,4 @@ media-video/avidemux
 # bug #525070
 >=media-video/mplayer-1.2_pre20141011
 
+=media-video/handbrake-0.10.0*

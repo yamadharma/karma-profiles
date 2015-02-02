@@ -20,6 +20,7 @@
 =sci-mathematics/sage-data-elliptic_curves-0.5-r1
 
 =sci-mathematics/sage-notebook-0.11.2*
+=sci-mathematics/sage-notebook-0.11.4*
 
 # Maxima
 =sci-mathematics/maxima-5.30.0*
