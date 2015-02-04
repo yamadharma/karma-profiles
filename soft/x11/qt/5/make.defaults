@@ -1,2 +1,3 @@
-USE="qt5"
+USE="qt5
+qml"
 
