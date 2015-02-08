@@ -51,5 +51,6 @@ razorqt-base/razorqt-meta				-lightdm
 
 lxqt-base/lxqt-meta					lximage
 lxqt-base/lxqt-panel					screensaver
+media-libs/cogl						gles2
 
 

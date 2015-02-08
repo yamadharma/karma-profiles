@@ -10,5 +10,6 @@ blas hdf hdf5 \
 matplotlib \
 maximalib \
 pari \
+R \
 "
 

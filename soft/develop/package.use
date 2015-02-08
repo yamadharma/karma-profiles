@@ -7,7 +7,7 @@ sys-devel/llvm							llvm-gcc
 dev-vcs/subversion						-dso perl
 dev-vcs/subversion						webdav-serf
 
-dev-util/eric:5							-python_single_target_python2_7 python_single_target_python3_3
+dev-util/eric:5							-python_single_target_python2_7 python_single_target_python3_4
 
 
 

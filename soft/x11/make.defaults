@@ -20,11 +20,13 @@ wxwindows wxwidgets \
 rups \
 fltk \
 startup-notification \
-gles gles2 \
 gallium openvg xa \
 glamor \
+egl \
 "
 
 # PORTDIR_OVERLAY="\
 # ${LAYMAN_DIR}/desktop-effects \
 # ${PORTDIR_OVERLAY}"
+
+# gles gles2 \

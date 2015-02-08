@@ -73,4 +73,7 @@ sci-chemistry/apbs						arpack fetk
 sci-chemistry/avogadro2						rpc
 
 
+# Temporary
+#dev-python/pandas						-R
+
 
