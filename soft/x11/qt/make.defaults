@@ -1,5 +1,4 @@
 USE="\
-qt5 \
 raster \
 optimized-qmake \
 private-headers \
@@ -8,3 +7,4 @@ egl \
 "
 # qt3 \
 # qt4 \
+# qt5 \
