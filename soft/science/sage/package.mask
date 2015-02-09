@@ -48,6 +48,7 @@
 =dev-python/matplotlib-1.4.2*
 
 =dev-python/ipython-2.3.1
+=dev-python/ipython-2.4.0*
 
 #=sci-mathematics/polybori-0.8.3*
 #=sci-mathematics/sage-data-polytopes_db-20120220
