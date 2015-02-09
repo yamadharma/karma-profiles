@@ -33,3 +33,7 @@
 
 # Bug 515558
 =dev-libs/folks-0.9.7.1
+
+# due media-libs/clutter-1.20.0
+=dev-libs/libinput-0.8.0
+=dev-libs/libinput-0.9.0
