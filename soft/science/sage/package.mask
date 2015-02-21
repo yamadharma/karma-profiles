@@ -19,8 +19,8 @@
 
 =sci-mathematics/sage-data-elliptic_curves-0.5-r1
 
-=sci-mathematics/sage-notebook-0.11.2*
-=sci-mathematics/sage-notebook-0.11.4*
+#=sci-mathematics/sage-notebook-0.11.2*
+#=sci-mathematics/sage-notebook-0.11.4*
 
 # Maxima
 =sci-mathematics/maxima-5.30.0*
@@ -63,7 +63,7 @@
 #=sci-mathematics/pari-2.5.5-r2
 #=sci-mathematics/pari-2.7.1
 #=sci-mathematics/pari-2.7*
-=sci-mathematics/pari-2.7.1-r2
+#=sci-mathematics/pari-2.7.1-r2
 
 #=sci-mathematics/singular-3.1.6
 =sci-mathematics/singular-4*
@@ -83,5 +83,6 @@
 
 =dev-python/flask-babel-0.9*
 
-=sci-mathematics/sage-data-graphs-20130920*
+#=sci-mathematics/sage-data-graphs-20130920*
+
 
