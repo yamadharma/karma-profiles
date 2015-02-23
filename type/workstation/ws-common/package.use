@@ -47,3 +47,5 @@ net-misc/tor							ecc stats threads upnp bufferevents nat-pmp transparent-proxy
 net-analyzer/d-itg						doc
 
 sys-apps/portage						python3
+
+sys-apps/systemd						terminal xkb

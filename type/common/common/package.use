@@ -175,7 +175,8 @@ sys-libs/glibc							nscd
 
 dev-libs/libpcre                                		pcre16 pcre32
 
-sys-apps/systemd						elfutils kdbus lz4
+sys-apps/systemd						elfutils kdbus lz4 importd nat
+sys-apps/systemd						python
 
 # Temporary. Compilation error
 =net-dns/libidn-1.28*						emacs
