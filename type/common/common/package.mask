@@ -153,3 +153,7 @@ app-emacs/reftex
 # for net-fs/nfs-utils-1.3.1-r1
 =dev-libs/libevent-2.1.5*
 
+# Don't work
+=net-misc/youtube-dl-2015.02.18
+
+
