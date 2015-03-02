@@ -55,6 +55,8 @@ dev-java/xmlgraphics-commons:1
 # for dev-libs/ppl
 =sci-mathematics/glpk-4.53*
 =sci-mathematics/glpk-4.54*
+# sci-libs/coinor-osi-0.106.6 compilation error
+=sci-mathematics/glpk-4.55*
 
 # due dev-python/sympy-0.7.4.1
 =dev-python/pexpect-3.3
