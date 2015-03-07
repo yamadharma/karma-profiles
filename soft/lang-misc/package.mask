@@ -2,3 +2,6 @@
 
 # need new version of tcl/tk
 =media-sound/timidity++-2.14.0-r1
+
+# Don't compile
+=dev-lisp/ecls-15.2.21
