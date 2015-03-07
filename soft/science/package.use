@@ -29,6 +29,7 @@ sci-libs/flint							qs
 dev-lisp/ecls							precisegc
 
 sci-visualization/gnuplot					thin-splines
+sci-visualization/gnuplot					lua libcerf
 
 # sci-libs/gsl							cblas
 sci-mathematics/fricas						ecl
