@@ -10,7 +10,6 @@ ldap \
 dvd \
 leim \
 sasl kerberos \
-samba \
 xfs acpi4linux \
 usb \
 slp \

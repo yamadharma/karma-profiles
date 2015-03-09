@@ -63,6 +63,7 @@ libtirpc \
 iproute2 \
 evdev \
 firmware \
+samba \
 "
 
 # netlink \

@@ -13,7 +13,6 @@ dvd dvdr \
 leim \
 sasl \
 kerberos \
-samba \
 xfs acpi4linux \
 usb tiff slp flash xml \
 imap \
