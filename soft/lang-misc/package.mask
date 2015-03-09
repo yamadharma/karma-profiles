@@ -5,3 +5,5 @@
 
 # Don't compile
 =dev-lisp/ecls-15.2.21
+=dev-lisp/ecls-15.3.7
+

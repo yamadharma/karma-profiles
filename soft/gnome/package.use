@@ -69,6 +69,8 @@ net-misc/vinagre						rdp
 
 net-misc/networkmanager						modemmanager
 
+media-sound/gnome-music						-python_single_target_python3_3 python_single_target_python3_4
+
 # temporary
 net-wireless/gnome-bluetooth					-sendto
 net-im/empathy							-sendto

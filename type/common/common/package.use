@@ -178,6 +178,13 @@ dev-libs/libpcre                                		pcre16 pcre32
 sys-apps/systemd						elfutils kdbus lz4 importd nat
 sys-apps/systemd						python
 
+# samba
+sys-libs/ntdb							python
+net-fs/samba							client
+=gnome-base/gnome-vfs-2.24.4-r2					-samba
+=media-video/ffmpeg-2.6						-samba
+
+
 # Temporary. Compilation error
 =net-dns/libidn-1.28*						emacs
 
