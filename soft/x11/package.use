@@ -54,4 +54,5 @@ lxqt-base/lxqt-panel					screensaver
 media-libs/cogl						gles2
 media-fonts/unifont					utils
 
+x11-misc/tint2						tint2conf
 
