@@ -18,7 +18,6 @@ addressbook \
 clucene redland sesame2 \
 webkit \
 oscar \
-phonon \
 akonadi \
 kontact \
 social-desktop \
@@ -30,6 +29,7 @@ prison \
 # telepathy
 # kdeprefix \
 # kde4enablefinal \
+# phonon \
 
 # PORTDIR_OVERLAY="\
 # ${LAYMAN_DIR}/kde \

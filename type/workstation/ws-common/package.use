@@ -30,6 +30,8 @@ www-client/luakit						luajit
 app-misc/gtypist						-emacs
 =app-office/lyx-2.0.2						-subversion
 
+=sci-mathematics/octave-3.8*					-jit
+
 net-misc/remmina						freerdp telepathy
 
 sys-kernel/genkernel						-crypt
