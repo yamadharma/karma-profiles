@@ -15,7 +15,7 @@
 =sci-libs/linbox-1.1.7
 =sci-libs/givaro-3.3*
 
-=sci-mathematics/singular-3.1.4*
+=sci-mathematics/singular-4.0.2*
 
 =sci-mathematics/sage-data-elliptic_curves-0.5-r1
 
