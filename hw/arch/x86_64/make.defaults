@@ -14,6 +14,7 @@ USE="
 mmx mmx2 mmxext sse sse2
 sse3 ssse3
 multilib
+abi_x86_32
 "
 
 CFLAGS="${CFLAGS} -O2 -mfpmath=sse -funroll-loops"

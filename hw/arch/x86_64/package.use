@@ -2,3 +2,4 @@ media-sound/jack-audio-connection-kit					32bit
 # media-sound/jack-audio-connection-kit					mixed
 www-plugins/adobe-flash							32bit
 =media-sound/jack-audio-connection-kit-1.9*           			-dbus
+
