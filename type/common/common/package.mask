@@ -144,8 +144,8 @@ app-emacs/reftex
 =sys-apps/portage-2.2.11*
 
 # llvm
-=sys-devel/llvm-3.5*
-=sys-devel/clang-3.5*
+#=sys-devel/llvm-3.5*
+#=sys-devel/clang-3.5*
 
 # for net-misc/remmina-1.1.1
 =net-misc/freerdp-1.2*
@@ -156,4 +156,6 @@ app-emacs/reftex
 # Don't work
 =net-misc/youtube-dl-2015.02.18
 
+# for dev-python/m2crypto-0.22.3-r3
+=dev-lang/swig-3.0.5*
 
