@@ -159,3 +159,5 @@ app-emacs/reftex
 # for dev-python/m2crypto-0.22.3-r3
 =dev-lang/swig-3.0.5*
 
+# for net-libs/gnutls-3.3
+=dev-libs/nettle-3.1*
