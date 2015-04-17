@@ -10,7 +10,7 @@
 
 =sci-libs/hdf5-1.8.6*
 
-#=dev-python/numpy-1.9*
+=dev-python/numpy-1.9*
 
 =sci-libs/linbox-1.1.7
 =sci-libs/givaro-3.3*
