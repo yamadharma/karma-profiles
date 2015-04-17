@@ -1,6 +1,6 @@
 USE="\
 irda irmc \
-obex http \
+obex \
 gnokii \
 nokia6600 \
 opensync \
