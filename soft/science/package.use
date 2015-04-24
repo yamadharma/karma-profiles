@@ -73,6 +73,7 @@ sci-chemistry/pymol						apbs
 sci-chemistry/apbs						arpack fetk
 sci-chemistry/avogadro2						rpc
 
+sci-physics/root						table
 
 # Temporary
 #dev-python/pandas						-R
