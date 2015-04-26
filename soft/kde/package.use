@@ -51,7 +51,7 @@ kde-base/marble							python
 kde-base/kde-meta						sdk
 dev-java/antlr							script
 
-dev-qt/qtgui							gtkstyle
+dev-qt/qtgui:4							gtkstyle
 media-plugins/kipi-plugins					videoslideshow
 media-libs/phonon						designer
 

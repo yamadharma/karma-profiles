@@ -31,8 +31,8 @@ app-office/texmaker					qt4 -qt5
 media-video/smplayer					-qt4
 net-p2p/transmission					-qt4
 
-dev-qt/qtgui:5						accessibility -gtkstyle
-
+dev-qt/qtgui:5						accessibility 
+dev-qt/qtgui:5						-gtkstyle
 
 
 
