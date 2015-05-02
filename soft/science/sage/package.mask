@@ -27,7 +27,7 @@
 #=sci-mathematics/sage-notebook-0.11.4*
 
 # Maxima
-=sci-mathematics/maxima-5.30.0*
+=sci-mathematics/maxima-5.36.0
 
 # =sci-chemistry/jmol-12.3.27*
 
