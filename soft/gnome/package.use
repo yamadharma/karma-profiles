@@ -65,6 +65,7 @@ gnome-extra/zeitgeist-datasources				emacs firefox gedit rhythmbox totem bzr gea
 app-i18n/ibus							dconf
 
 net-misc/vinagre						rdp
+=net-misc/vinagre-3.14.3					-rdp
 # sys-auth/pambase						systemd
 
 net-misc/networkmanager						modemmanager
