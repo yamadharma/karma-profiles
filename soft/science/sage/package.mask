@@ -29,9 +29,7 @@
 # Maxima
 =sci-mathematics/maxima-5.36*
 
-# =sci-chemistry/jmol-12.3.27*
-
-#=sci-libs/pynac-0.2.6*
+=sci-libs/pynac-0.3.7*
 
 #{{{ Depends on dev-python/imaging
 # =dev-python/sympy-0.7.2-r1
