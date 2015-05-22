@@ -29,7 +29,7 @@
 # Maxima
 =sci-mathematics/maxima-5.36*
 
-=sci-libs/pynac-0.3.7*
+#=sci-libs/pynac-0.3.7*
 
 #{{{ Depends on dev-python/imaging
 # =dev-python/sympy-0.7.2-r1
@@ -47,7 +47,7 @@
 =dev-python/matplotlib-1.4.3*
 
 #=dev-python/ipython-3.0.0*
-=dev-python/ipython-3.1.0*
+#=dev-python/ipython-3.1.0*
 
 #=sci-mathematics/polybori-0.8.3*
 #=sci-mathematics/sage-data-polytopes_db-20120220
