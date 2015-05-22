@@ -31,6 +31,7 @@ dev-python/sympy						pyglet
 sci-mathematics/flint						ntl
 sci-mathematics/eclib						flint
 
+sci-mathematics/pari						doc
 
 =sci-mathematics/gmp-ecm-6.4*					-openmp
 
