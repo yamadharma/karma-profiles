@@ -40,6 +40,7 @@ sys-kernel/genkernel						-crypt
 
 # sys-devel/llvm							-ocaml
 app-text/gocr							-tk
+app-misc/doublecmd						-gtk2 +qt4
 
 sys-process/cronie						anacron
 sys-fs/hfsutils							tcl tk
