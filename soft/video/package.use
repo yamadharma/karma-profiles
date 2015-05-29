@@ -44,6 +44,8 @@ media-video/mpv					lua luajit
 media-video/mpv					libguess vf-dlopen
 media-video/mplayer				bidi
 
+media-video/pitivi				python_single_target_python3_4
+
 app-misc/tracker				-xine
 
 #media-video/handbrake				-ffmpeg
