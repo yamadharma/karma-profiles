@@ -19,4 +19,4 @@ reqtimeout \
 "
 # proxy_scgi
 # APACHE2_MPMS="event itk peruser prefork worker" 
-
+APACHE2_MPMS="prefork"

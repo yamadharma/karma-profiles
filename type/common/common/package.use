@@ -80,6 +80,7 @@ dev-libs/elfutils						static-libs
 sys-fs/udev							static-libs
 sys-fs/eudev							static-libs
 app-arch/xz-utils						static-libs
+dev-libs/iniparser						static-libs
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
 
