@@ -1,0 +1,38 @@
+x11-themes/qtcurve-qt4						-kde
+=app-editors/yzis-9999						kde
+kde-base/kdelibs						doc
+=app-cdr/k3b-2.0_pre*						ffmpeg
+=media-plugins/kipi-plugins-0.2.0_rc1				ipod
+
+
+app-office/koffice-l10n						doc
+
+net-im/sim							kde
+
+#app-office/openoffice						kde
+
+app-text/pdf2oo							kde
+
+# Temporary
+#kde-base/kdebase-kioslaves					sftp
+
+# possibly incomplete list of useflags that need to be disabled in order
+# to prevent pykde4 from being pulled in (which normally doesn't build)
+
+#kde-base/marble							python
+#kde-base/plasma-workspace					python
+#kde-base/superkaramba						python
+#kde-base/kdeadmin-meta						cups
+#kde-base/kdeutils-meta						cups
+#dev-util/eric							kde
+
+=net-libs/glib-networking-2.28*					libproxy
+=net-libs/glib-networking-2.30*					libproxy
+
+=kde-base/solid-4.7.2						networkmanager
+
+
+
+
+
+

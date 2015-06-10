@@ -1,36 +1,3 @@
 USE="\
 kde \
-kde4 \
-logitech-mouse \
-kdeenablefinal \
-kdehiddenvisibility kig-scripting akode \
-htmlhandbook plasma \
-handbook \
-ebook \
-captury \
-semantic-desktop \
-desktopglobe \
-nepomuk \
-cviewer \
-kipi \ 
-marble designer-plugin \
-addressbook \
-clucene redland sesame2 \
-webkit \
-oscar \
-akonadi \
-kontact \
-social-desktop \
-strigi \
-prison \
 "
-
-# google-gadgets \
-# telepathy
-# kdeprefix \
-# kde4enablefinal \
-# phonon \
-
-# PORTDIR_OVERLAY="\
-# ${LAYMAN_DIR}/kde \
-# ${PORTDIR_OVERLAY}"

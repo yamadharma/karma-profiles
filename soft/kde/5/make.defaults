@@ -1,0 +1,25 @@
+USE="\
+kde \
+logitech-mouse \
+kdeenablefinal \
+kdehiddenvisibility kig-scripting akode \
+htmlhandbook plasma \
+handbook \
+ebook \
+captury \
+semantic-desktop \
+desktopglobe \
+nepomuk \
+cviewer \
+kipi \ 
+marble designer-plugin \
+addressbook \
+clucene redland sesame2 \
+webkit \
+oscar \
+akonadi \
+kontact \
+social-desktop \
+strigi \
+prison \
+"
