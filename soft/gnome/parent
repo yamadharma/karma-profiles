@@ -1,3 +1,6 @@
 ../../../../../../portage/profiles/targets/desktop/gnome
 ../tracker
+# need by gnome-extra/gnome-user-share
+../www/apache
+
 
