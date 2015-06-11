@@ -1,0 +1,2 @@
+# due APACHE2_MPMS=prefork
+www-servers/apache					threads

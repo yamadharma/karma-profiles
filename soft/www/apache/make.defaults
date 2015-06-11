@@ -16,6 +16,7 @@ cern_meta dbd dumpio ident imagemap \
 log_forensic proxy proxy_ajp proxy_balancer proxy_connect proxy_ftp proxy_http \
 cgi cgid \
 reqtimeout \
+slotmem_shm \
 "
 # proxy_scgi
 # APACHE2_MPMS="event itk peruser prefork worker" 
