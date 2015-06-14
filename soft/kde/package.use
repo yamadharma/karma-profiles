@@ -2,3 +2,4 @@ media-libs/phonon						zeitgeist
 dev-qt/designer:4						-phonon
 app-office/akonadi-server					qt4 -qt5
 dev-libs/libattica						qt4 -qt5
+net-voip/ekiga							-kde -kontact
