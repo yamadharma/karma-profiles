@@ -1,2 +1,4 @@
 net-p2p/ktorrent:4						plasma
+kde-apps/solid-runtime:4					bluetooth
+kde-apps/kdesu							handbook
 
