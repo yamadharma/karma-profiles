@@ -4,4 +4,3 @@
 #=net-misc/freerdp-1.1.0_beta1*
 
 =x11-base/xorg-server-1.12.99*
-
