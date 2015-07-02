@@ -64,6 +64,7 @@ iproute2 \
 evdev \
 firmware \
 samba \
+f2fs \
 "
 
 # netlink \
