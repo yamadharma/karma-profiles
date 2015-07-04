@@ -1,4 +1,5 @@
 net-p2p/ktorrent:4						plasma
 kde-apps/solid-runtime:4					bluetooth
 kde-apps/kdesu							handbook
+kde-plasma/plasma-desktop:5					gtk2 gtk3
 
