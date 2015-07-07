@@ -43,6 +43,8 @@ media-libs/mlt					kdenlive
 media-video/mpv					lua luajit
 media-video/mpv					libguess vf-dlopen
 media-video/mplayer				bidi
+net-misc/youtube-dl				offensive
+
 
 media-video/pitivi				python_single_target_python3_4
 
