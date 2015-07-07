@@ -54,6 +54,7 @@
 #=sci-mathematics/flint-2.3*
 
 #=sci-mathematics/gap-4.7.7
+=sci-mathematics/gap-4.7.8
 
 =dev-python/pexpect-3.0
 # =dev-python/pexpect-3.1
