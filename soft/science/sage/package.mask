@@ -36,8 +36,7 @@
 =dev-python/sympy-0.7.2-r2
 #}}}
 
-#=dev-python/cython-0.21.2
-#=dev-python/cython-0.22
+=dev-python/cython-0.22.1*
 
 
 #=sci-libs/m4ri-20130416
@@ -68,6 +67,7 @@
 
 =dev-libs/ntl-8.1.2*
 =dev-libs/ntl-9.0.2*
+=dev-libs/ntl-9.3.0*
 
 =dev-python/docutils-0.10*
 =dev-python/docutils-0.11*
