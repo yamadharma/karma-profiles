@@ -27,7 +27,9 @@ x11-plugins/enigmail					-gnome
 #
 www-client/firefox					pgo
 www-client/firefox					system-sqlite
+
 mail-client/thunderbird					system-sqlite
+
 
 
 dev-java/oracle-jdk-bin					nsplugin
@@ -37,4 +39,5 @@ dev-java/icedtea-bin					nsplugin
 
 www-client/firefox					system-cairo system-icu system-jpeg system-libvpx system-sqlite
 www-client/seamonkey					system-cairo system-icu system-jpeg system-libvpx system-sqlite
+mail-client/thunderbird					system-cairo system-icu system-jpeg system-libvpx system-sqlite
 
