@@ -1,5 +1,7 @@
 media-gfx/ufraw						contrast lensfun timezone hotpixels
 media-gfx/digikam					geolocation
 media-plugins/kipi-plugins				expoblending panorama vkontakte gpssync
+#=media-plugins/kipi-plugins-4.10.0			-redeyes
 media-libs/libraw					demosaic
+
 
