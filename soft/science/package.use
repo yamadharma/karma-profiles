@@ -75,8 +75,10 @@ sci-chemistry/avogadro2						rpc
 
 sci-physics/root						table
 
-sci-libs/vtk							all-modules python xdmf2 java imaging tcl tk web python gdal rendering views
+sci-libs/vtk							python xdmf2 java imaging tcl tk web python rendering views
 sci-libs/vtk							smp tbb
+#sci-libs/vtk							all-modules
+#sci-libs/vtk							gdal
 
 # Temporary
 #dev-python/pandas						-R
