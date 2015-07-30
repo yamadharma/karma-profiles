@@ -163,4 +163,4 @@ app-emacs/reftex
 =dev-libs/nettle-3.1*
 
 # conflicts with dev-libs/cloog-0.18.3
-=dev-libs/isl-0.15:0
+#=dev-libs/isl-0.15:0

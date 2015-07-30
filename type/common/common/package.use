@@ -184,6 +184,8 @@ app-emulation/docker						btrfs contrib device-mapper lxc overlay vim-syntax zsh
 # app-emulation/docker						aufs
 sys-fs/aufs3							hfs kernel-patch ramfs
 
+dev-db/mariadb							client-libs
+
 # samba
 sys-libs/ntdb							python
 net-fs/samba							client

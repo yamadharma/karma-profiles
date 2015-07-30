@@ -40,6 +40,7 @@ sci-mathematics/sage						bliss modular_decomposition
 sci-libs/libsingular						flint
 dev-python/ipython						notebook
 
+sci-mathematics/sage						-bin-html
 
 
 
