@@ -36,6 +36,7 @@
 #}}}
 
 =dev-python/cython-0.22.1*
+=dev-python/cython-0.23_beta*
 
 
 #=sci-libs/m4ri-20130416
