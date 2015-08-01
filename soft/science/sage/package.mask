@@ -36,8 +36,8 @@
 =dev-python/sympy-0.7.2-r2
 #}}}
 
-=dev-python/cython-0.22.1*
-=dev-python/cython-0.23_beta*
+#=dev-python/cython-0.22.1*
+#=dev-python/cython-0.23_beta*
 
 
 #=sci-libs/m4ri-20130416
