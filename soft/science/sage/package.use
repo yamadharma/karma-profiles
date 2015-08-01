@@ -25,8 +25,8 @@ sci-mathematics/singular					-libsingular sage
 =dev-lang/python-2*						sage
 sci-mathematics/pari:3						data gmp sage
 
-sci-mathematics/sage						testsuite
-sci-mathematics/sage-baselayout					testsuite
+#sci-mathematics/sage						testsuite
+#sci-mathematics/sage-baselayout				testsuite
 dev-python/sympy						pyglet
 sci-mathematics/flint						ntl
 sci-mathematics/eclib						flint
@@ -41,6 +41,8 @@ sci-libs/libsingular						flint
 dev-python/ipython						notebook
 
 sci-mathematics/sage						-bin-html
+sci-mathematics/sage						-html -pdf
+
 
 
 
