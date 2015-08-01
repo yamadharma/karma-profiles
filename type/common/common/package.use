@@ -186,6 +186,12 @@ sys-fs/aufs3							hfs kernel-patch ramfs
 
 dev-db/mariadb							client-libs
 
+dev-libs/fcgi							html
+app-text/acroread						html
+app-office/lyx							html
+media-sound/rhythmbox						html
+dev-python/pandas						html
+
 # samba
 sys-libs/ntdb							python
 net-fs/samba							client
