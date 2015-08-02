@@ -7,7 +7,7 @@ app-emacs/imaxima						examples
 sci-mathematics/scilab						examples doc
 sci-mathematics/octave						examples doc
 sci-mathematics/sage						doc wiki
-sci-visualization/gri						examples doc
+#sci-visualization/gri						examples doc
 
 #
 sci-mathematics/scilab						scicos
