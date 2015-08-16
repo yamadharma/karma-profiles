@@ -4,5 +4,8 @@ net-misc/spice-gtk						python
 net-misc/spice-gtk						usbredir
 app-emulation/qemu-kvm						usbredir tls
 =net-misc/vinagre-3.4*						-spice
+app-emulation/spice						client
+=app-emulation/qemu-2.4.0					-spice
+
 
 
