@@ -1,3 +1,4 @@
 dev-libs/xapian-bindings				-mono
 =net-libs/libproxy-0.4.10-r1				-mono
+=dev-libs/gmime-2.6.20					-mono
 

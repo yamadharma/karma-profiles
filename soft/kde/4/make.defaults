@@ -10,7 +10,6 @@ ebook \
 captury \
 semantic-desktop \
 desktopglobe \
-nepomuk \
 cviewer \
 kipi \ 
 marble designer-plugin \
@@ -30,6 +29,7 @@ prison \
 # kdeprefix \
 # kde4enablefinal \
 # phonon \
+# nepomuk \
 
 # PORTDIR_OVERLAY="\
 # ${LAYMAN_DIR}/kde \

@@ -60,7 +60,8 @@ gnome-extra/dockbarx						awn
 dev-libs/folks							eds
 
 gnome-extra/zeitgeist						plugins extensions passiv
-gnome-extra/zeitgeist-datasources				emacs firefox gedit rhythmbox totem bzr geany telepathy tomboy vim xchat
+gnome-extra/zeitgeist-datasources				emacs firefox gedit rhythmbox totem bzr geany telepathy vim xchat
+# gnome-extra/zeitgeist-datasources				tomboy
 
 app-i18n/ibus							dconf
 
