@@ -84,7 +84,7 @@
 
 =dev-python/flask-babel-0.9*
 
-#=sci-mathematics/sage-data-graphs-20130920*
+=sci-mathematics/sage-data-graphs-20150724*
 
 =media-gfx/tachyon-0.99*
 
