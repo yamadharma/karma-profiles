@@ -37,7 +37,7 @@ dev-java/oracle-jre-bin					nsplugin
 dev-java/icedtea					nsplugin
 dev-java/icedtea-bin					nsplugin
 
-www-client/firefox					system-cairo system-icu system-jpeg system-libvpx system-sqlite
-www-client/seamonkey					system-cairo system-icu system-jpeg system-libvpx system-sqlite
-mail-client/thunderbird					system-cairo system-icu system-jpeg system-libvpx system-sqlite
+#www-client/firefox					system-cairo system-icu system-jpeg system-libvpx system-sqlite
+#www-client/seamonkey					system-cairo system-icu system-jpeg system-libvpx system-sqlite
+#mail-client/thunderbird					system-cairo system-icu system-jpeg system-libvpx system-sqlite
 
