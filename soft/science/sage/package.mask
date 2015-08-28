@@ -90,3 +90,5 @@
 
 =dev-python/sphinx-1.2.3*
 =dev-python/sphinx-1.3.1*
+
+=dev-tex/sage-latex-3.0*
