@@ -195,7 +195,7 @@ dev-python/pandas						html
 # samba
 sys-libs/ntdb							python
 net-fs/samba							client
-=gnome-base/gnome-vfs-2.24.4-r2					-samba
+=gnome-base/gnome-vfs-2.24.4*					-samba
 =media-video/ffmpeg-2.6*					-samba
 =media-video/ffmpeg-2.7*					-samba
 
