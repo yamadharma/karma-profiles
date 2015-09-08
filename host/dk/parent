@@ -7,7 +7,7 @@
 ../../hw/video/sis
 ../../hw/video/nvidia_free
 ../../soft/xfce
-# ../../soft/mpi
+../../soft/mpi
 ../../soft/qemu
 ../../soft/kvm
 
