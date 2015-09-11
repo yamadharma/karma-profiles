@@ -9,4 +9,5 @@
 =sys-kernel/gentoo-sources-3.18*
 =sys-kernel/gentoo-sources-3.19*
 =sys-kernel/gentoo-sources-3.20*
+=sys-kernel/gentoo-sources-4.2*
 
