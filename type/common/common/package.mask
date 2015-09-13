@@ -164,3 +164,7 @@ app-emacs/reftex
 
 # conflicts with dev-libs/cloog-0.18.3
 #=dev-libs/isl-0.15:0
+
+# error linking with ldap
+=net-misc/dhcp-4.3.3
+
