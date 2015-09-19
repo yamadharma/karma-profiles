@@ -198,6 +198,7 @@ net-fs/samba							client
 =gnome-base/gnome-vfs-2.24.4*					-samba
 =media-video/ffmpeg-2.6*					-samba
 =media-video/ffmpeg-2.7*					-samba
+=media-video/ffmpeg-2.8*					-samba
 
 
 # Temporary. Compilation error
