@@ -30,7 +30,9 @@
 =sci-mathematics/maxima-5.37*
 
 #=sci-libs/pynac-0.3.9*
+=sci-libs/pynac-0.3.9.5*
 =sci-libs/pynac-0.4.2*
+
 
 #{{{ Depends on dev-python/imaging
 # =dev-python/sympy-0.7.2-r1
