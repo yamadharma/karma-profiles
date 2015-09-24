@@ -1,0 +1,2 @@
+kde-apps/kdebase-runtime-meta:4
+kde-apps/kdebase-meta:4
