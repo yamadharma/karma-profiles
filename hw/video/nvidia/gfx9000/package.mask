@@ -1,2 +1,4 @@
 # Don't support
 >=x11-drivers/nvidia-drivers-341.0
+>=media-video/nvidia-settings-341.0
+
