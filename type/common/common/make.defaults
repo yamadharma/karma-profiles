@@ -188,3 +188,6 @@ PORTAGE_NICENESS=5
 PYTHON_TARGETS="python2_7 -python3_3 python3_4"
 PYTHON_SINGLE_TARGET="python2_7"
 
+GRUB_PLATFORMS="efi efi-64 emu multiboot pc"
+
+
