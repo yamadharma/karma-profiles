@@ -22,7 +22,6 @@ fltk \
 startup-notification \
 gallium openvg xa \
 glamor \
-egl \
 "
 
 # PORTDIR_OVERLAY="\
@@ -30,3 +29,4 @@ egl \
 # ${PORTDIR_OVERLAY}"
 
 # gles gles2 \
+# egl \

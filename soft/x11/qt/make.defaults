@@ -3,8 +3,8 @@ raster \
 optimized-qmake \
 private-headers \
 qscintilla \
-egl \
 "
 # qt3 \
 # qt4 \
 # qt5 \
+# egl \
