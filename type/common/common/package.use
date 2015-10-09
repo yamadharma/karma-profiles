@@ -221,7 +221,7 @@ net-misc/curl							ssh
 dev-libs/ucommon						-socks
 dev-libs/ucommon						-gnutls
 
-
+net-misc/iputils						-gcrypt -nettle openssl
 
 
 
