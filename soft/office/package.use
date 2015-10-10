@@ -19,6 +19,7 @@ virtual/ooo				java
 app-office/libreoffice			telepathy
 app-office/libreoffice			vlc
 
+=app-office/libreoffice-5.0*		-gtk3
 =app-office/libreoffice-4.1*		-odk
 
 
