@@ -69,6 +69,7 @@
 #=sci-mathematics/pari-2.7*
 #=sci-mathematics/pari-2.7.1-r2
 #=sci-mathematics/pari-2.8_pre20150611
+=sci-mathematics/pari-2.8_pre20151001
 
 #=dev-libs/ntl-8.1.2*
 #=dev-libs/ntl-9.0.2*
