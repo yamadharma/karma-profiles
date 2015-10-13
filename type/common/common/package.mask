@@ -168,3 +168,5 @@ app-emacs/reftex
 # error linking with ldap
 =net-misc/dhcp-4.3.3*
 
+# download problem
+=dev-java/jss-4.3.2
