@@ -32,6 +32,7 @@
 #=sci-libs/pynac-0.3.9*
 #=sci-libs/pynac-0.3.9.5*
 =sci-libs/pynac-0.4.2*
+=sci-libs/pynac-0.5.0*
 
 
 #{{{ Depends on dev-python/imaging
