@@ -99,5 +99,6 @@
 =dev-tex/sage-latex-3.0*
 
 # temporary
-#=dev-lisp/ecls-16.0.0
+#=dev-lisp/ecls-16.0.0*
+
 
