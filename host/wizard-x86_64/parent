@@ -1,10 +1,9 @@
 ../../type/workstation/x86_64
-#../../hw/arch/core2/x86_64
+../../hw/arch/core-i5/x86_64
 ../../hw/arch/x86_64
 ../../hw/platform/notebook
 ../../hw/net/bluetooth
-../../hw/video/ati
-../../soft/kde/3
+../../hw/video/intel
 ../../soft/vnc
 ../../soft/kvm
 ../../soft/qemu
