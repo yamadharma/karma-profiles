@@ -8,6 +8,7 @@ media-libs/lcms:0						python
 media-gfx/pstoedit						plotutils
 media-libs/gegl							lua
 media-gfx/inkscape						visio wpg
+media-gfx/blender						collada colorio cycles openimageio
 
 =app-office/texmacs-1.99*					-pdf
 
