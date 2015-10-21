@@ -9,7 +9,8 @@ media-gfx/pstoedit						plotutils
 media-libs/gegl							lua
 media-gfx/inkscape						visio wpg
 media-gfx/blender						collada colorio cycles openimageio
-media-libs/openimageio						colorio opencv python tbb
+media-libs/openimageio						opencv python tbb
+# media-libs/openimageio						colorio
 media-libs/opencollada						python
 
 =app-office/texmacs-1.99*					-pdf
