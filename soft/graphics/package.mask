@@ -2,4 +2,4 @@
 =media-libs/libopenraw-0.1.0_pre20130826
 
 # due media-libs/opencolorio-1.0.8
-=dev-cpp/yaml-cpp-0.5.1*
+#=dev-cpp/yaml-cpp-0.5.1*
