@@ -14,5 +14,5 @@ dev-lang/tcl:8.5
 dev-lang/tk:8.5
 
 # Проблемы с зависимостями
-=dev-lisp/uiop-3.1.5
-=dev-lisp/asdf-3.1.5
+#=dev-lisp/uiop-3.1.5
+#=dev-lisp/asdf-3.1.5
