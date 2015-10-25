@@ -42,6 +42,8 @@ sys-apps/paludis						search-index visibility
 sys-apps/paludis						pbins
 
 dev-db/sqlite							extensions
+dev-db/sqlite							secure-delete unlock-notify
+dev-db/sqlite							tcl
 net-misc/remmina						ssh
 net-misc/remmina-plugins					ssh telepathy xdmcp
 net-misc/freerdp						largefile
@@ -124,7 +126,7 @@ media-gfx/imagemagick						perl
 media-gfx/imagemagick						postscript
 dev-libs/libxml2						python
 sys-auth/sssd							python
-dev-db/sqlite							secure-delete unlock-notify
+
 # app-arch/libarchive						nettle
 # sys-apps/pciutils						compress-db zlib
 net-misc/dropbox						librsync-bundled
