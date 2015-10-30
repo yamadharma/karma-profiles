@@ -8,7 +8,8 @@ media-libs/lcms:0						python
 media-gfx/pstoedit						plotutils
 media-libs/gegl							lua
 media-gfx/inkscape						visio wpg
-media-gfx/blender						collada colorio cycles openimageio
+media-gfx/blender						collada cycles openimageio
+# media-gfx/blender						colorio
 media-libs/openimageio						python tbb
 # media-libs/openimageio						opencv
 # media-libs/openimageio						colorio
