@@ -25,3 +25,6 @@ dev-java/blackdown-jdk
 dev-java/itext:5
 
 dev-java/commons-vfs:2
+
+# due dev-java/jython-2.7.0
+=dev-java/asm-5.0.4
