@@ -1,0 +1,13 @@
+#!/bin/sh
+
+emaint sync -a
+
+layman -f
+layman -S
+
+layman -a ALL
+
+eix-update
+
+cfg-update --optimize-backups
+
