@@ -2,10 +2,9 @@
 
 emaint sync -a
 
-layman -f
-layman -S
-
-layman -a ALL
+#layman -f
+#layman -S
+#layman -a ALL
 
 eix-update
 
