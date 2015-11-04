@@ -203,12 +203,9 @@ net-fs/samba							client
 =media-video/ffmpeg-2.8*					-samba
 
 
-# Temporary. Compilation error
-=net-dns/libidn-1.28*						emacs
 
 app-portage/layman						g-sorcery squashfs sync-plugin-portage
-
-
+sys-kernel/gentoo-sources					experimental kdbus
 
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
@@ -227,6 +224,8 @@ dev-libs/ucommon						-gnutls
 
 net-misc/iputils						-gcrypt -nettle openssl
 
+# Temporary. Compilation error
+=net-dns/libidn-1.28*						emacs
 
 
 
