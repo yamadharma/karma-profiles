@@ -206,6 +206,8 @@ net-fs/samba							client
 # Temporary. Compilation error
 =net-dns/libidn-1.28*						emacs
 
+app-portage/layman						g-sorcery squashfs sync-plugin-portage
+
 
 
 sys-apps/pciutils						-zlib
