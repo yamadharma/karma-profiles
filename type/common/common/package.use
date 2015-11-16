@@ -194,6 +194,9 @@ app-office/lyx							html
 media-sound/rhythmbox						html
 dev-python/pandas						html
 
+
+sys-auth/consolekit						cgroups
+
 # samba
 sys-libs/ntdb							python
 net-fs/samba							client
