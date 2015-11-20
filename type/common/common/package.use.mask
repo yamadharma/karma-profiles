@@ -93,3 +93,5 @@ net-analyzer/wireshark			qt4
 
 =media-libs/libextractor-1.3					tidy
 
+net-misc/rancid-git						cvs subversion
+

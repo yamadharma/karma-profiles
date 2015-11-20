@@ -227,8 +227,9 @@ dev-libs/ucommon						-gnutls
 
 net-misc/iputils						-gcrypt -nettle openssl
 
+
 # Temporary. Compilation error
-net-dns/libidn*							emacs
+net-dns/libidn							emacs
 
 
 
