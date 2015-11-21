@@ -70,6 +70,7 @@ net-misc/vinagre						rdp
 # sys-auth/pambase						systemd
 
 net-misc/networkmanager						modemmanager
+gnome-base/gvfs							google
 
 media-sound/gnome-music						-python_single_target_python3_3 python_single_target_python3_4
 
