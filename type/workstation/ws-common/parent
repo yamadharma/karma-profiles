@@ -47,4 +47,6 @@
 ../../../soft/p2p
 ../../../soft/extra-overlays
 ../../../soft/systemd
+../../../soft/php/5.6
+
 
