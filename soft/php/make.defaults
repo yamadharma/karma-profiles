@@ -1,4 +1,4 @@
-USE="php \
+USE="
 ctype pcre session unicode \
 tokenizer \
 fpm \
@@ -11,4 +11,5 @@ calendar \
 "
 
 # suhosin \
+# php \
 
