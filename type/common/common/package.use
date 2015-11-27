@@ -211,6 +211,7 @@ app-portage/layman						g-sorcery squashfs sync-plugin-portage
 sys-kernel/gentoo-sources					experimental kdbus
 
 sys-apps/util-linux						fdformat python
+sys-process/procps						modern-top
 
 sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
