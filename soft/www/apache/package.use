@@ -1,2 +1,3 @@
 dev-vcs/subversion					-apache2
-www-servers/apache					threads alpn
+www-servers/apache					alpn
+#www-servers/apache					threads

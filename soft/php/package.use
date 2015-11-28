@@ -3,6 +3,9 @@ dev-php/pecl-apc				mmap
 dev-lang/php					mysqlnd mysql mysqli libmysqlclient
 dev-lang/php					postgres
 dev-lang/php					odbc
+dev-lang/php					-apache2
+
+
 
 
 
