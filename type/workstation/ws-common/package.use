@@ -54,6 +54,8 @@ sys-apps/portage						python3
 sys-apps/systemd						terminal xkb
 sys-apps/systemd						gnuefi
 
+media-libs/freetype						harfbuzz utils
+
 # Temporary
 net-fs/openafs							-modules
 
