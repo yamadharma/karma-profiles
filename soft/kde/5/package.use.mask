@@ -6,3 +6,5 @@ kde-apps/kdeadmin-meta:4					cron
 kde-apps/kdebase-meta:4						wallpapers
 kde-base/smokekde:4						kate
 
+
+
