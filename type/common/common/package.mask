@@ -160,7 +160,7 @@ app-emacs/reftex
 =dev-lang/swig-3.0.5*
 
 # for net-libs/gnutls-3.3
-=dev-libs/nettle-3.1*
+#=dev-libs/nettle-3.1*
 
 # conflicts with dev-libs/cloog-0.18.3
 #=dev-libs/isl-0.15:0
