@@ -95,7 +95,7 @@ app-emacs/reftex
 
 
 # Virtual machine error
-=app-admin/tmpwatch-2.11*
+#=app-admin/tmpwatch-2.11*
 
 =net-misc/freerapid-0.8*
 

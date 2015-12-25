@@ -3,4 +3,5 @@ media-gfx/tachyon						mpi
 #=sci-mathematics/sage-doc-4.7.1					html pdf
 =dev-python/ipython-0.13.1					matplotlib
 dev-python/mpmath						gmp
+sci-libs/bliss							gmp
 
