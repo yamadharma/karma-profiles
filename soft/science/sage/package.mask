@@ -64,10 +64,9 @@
 =dev-python/pexpect-4.0.1*
 
 #=sci-mathematics/pari-2.8_pre20151001
+=sci-mathematics/pari-2.8_pre20151201*
 
-#=dev-libs/ntl-8.1.2*
-#=dev-libs/ntl-9.0.2*
-#=dev-libs/ntl-9.3.0*
+=dev-libs/ntl-9.6.2*
 
 =dev-python/docutils-0.10*
 =dev-python/docutils-0.11*
