@@ -169,4 +169,4 @@ app-emacs/reftex
 =net-misc/dhcp-4.3.3*
 
 # download problem
-=dev-java/jss-4.3.2
+#=dev-java/jss-4.3.2
