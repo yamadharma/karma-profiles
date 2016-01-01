@@ -2,3 +2,6 @@ media-video/vlc						win32codecs
 media-gfx/pstoedit					emf
 media-sound/jack-audio-connection-kit			3dnow
 
+# Compilation problem
+# Bug: 563152
+=media-libs/allegro-5.0.11*					abi_x86_32

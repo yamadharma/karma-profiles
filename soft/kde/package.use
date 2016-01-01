@@ -4,3 +4,4 @@ app-office/akonadi-server					qt4 -qt5
 dev-libs/libattica						qt4 -qt5
 net-voip/ekiga							-kde -kontact
 media-libs/mlt							-kde -qt4
+

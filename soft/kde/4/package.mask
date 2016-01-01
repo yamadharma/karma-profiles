@@ -299,4 +299,4 @@
 =dev-libs/xapian-1.3*
 
 # dev-libs/libqzeitgeist-0.8.0:4 not multiarch
-=media-libs/phonon-4.8.3-r1
+#=media-libs/phonon-4.8.3-r1
