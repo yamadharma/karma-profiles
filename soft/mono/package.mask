@@ -1,5 +1,5 @@
 # due dev-dotnet/nuget-2.8.3
-#=dev-dotnet/xdt-for-monodevelop-2.8.3
+=dev-dotnet/xdt-for-monodevelop-2.8.3
 
 # dependencies problems
 #=dev-util/monodevelop-5.9.5.5
