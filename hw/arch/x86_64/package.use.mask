@@ -9,5 +9,5 @@ app-emulation/wine-etersoft-public				dbus hal scanner ldap gphoto2 gsm mp3 open
 =sys-boot/grub-0*						static
 =media-sound/jack-audio-connection-kit-1.9*			dbus
 
-
+=media-libs/mlt-0.9.8-r1					cpu_flags_x86_mmx
 
