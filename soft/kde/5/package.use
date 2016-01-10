@@ -1,4 +1,5 @@
 kde-plasma/plasma-desktop:5					legacy-systray
 media-libs/opencv						-qt4
 kde-plasma/plasma-meta						mediacenter
+dev-util/kdevplatform:4						-konsole
 
