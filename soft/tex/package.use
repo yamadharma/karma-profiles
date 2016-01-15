@@ -94,7 +94,6 @@ dev-tex/bera		doc
 dev-tex/bibtex2html		doc
 dev-tex/catdvi		doc
 dev-tex/cdcover		doc
-dev-tex/chktex		doc
 dev-tex/cjk-latex		doc
 dev-tex/cpp2latex		doc
 dev-tex/crosstex		doc
