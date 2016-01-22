@@ -17,9 +17,9 @@ media-libs/opus						custom-modes
 dev-libs/libcdio					cddb
 media-video/mplayer					-cddb -cdparanoia
 
-media-plugins/audacious-plugins				gtk3 -gtk
+media-plugins/audacious-plugins				-gtk3 -gtk
 =media-plugins/audacious-plugins-3.4*			-sid
-media-sound/audacious					gtk3 -gtk
+media-sound/audacious					-gtk3 -gtk
 
 media-sound/jack-audio-connection-kit			classic dbus
 # =media-sound/jack-audio-connection-kit-1.9*		-dbus
