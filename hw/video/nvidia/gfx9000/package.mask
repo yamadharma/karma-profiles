@@ -5,7 +5,7 @@
 
 # Temporary masked
 =x11-base/xorg-server-1.18*
-=x11-drivers/xf86-input-evdev-2.10.1*
+=x11-drivers/xf86-input-evdev-2.10*
 
 
 
