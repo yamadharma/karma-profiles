@@ -98,4 +98,5 @@
 
 =dev-libs/ntl-9.6.2-r1
 
-
+# Compile error with gcc-5.3.0
+#=sci-mathematics/flint-2.5.2
