@@ -4,4 +4,4 @@ media-gfx/tachyon						mpi
 =dev-python/ipython-0.13.1					matplotlib
 dev-python/mpmath						gmp
 sci-libs/bliss							gmp
-
+dev-libs/ntl							threads
