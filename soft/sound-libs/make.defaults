@@ -11,7 +11,6 @@ gsm \
 ladspa \
 rhythmbox \
 plugins \
-scrobbler \
 aplay \
 openal \
 shorten \
@@ -36,4 +35,5 @@ sid \
 # celt \
 # opus \
 # lastfmradio lastfm \
+# scrobbler \
 
