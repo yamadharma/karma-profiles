@@ -170,3 +170,7 @@ app-emacs/reftex
 
 # download problem
 #=dev-java/jss-4.3.2
+
+# Bug 570884
+=net-fs/autofs-5.1.1
+
