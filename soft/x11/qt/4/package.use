@@ -1,2 +1,3 @@
 dev-qt/qthelp:4					compat
+dev-qt/qtwebkit:4				-exceptions
 
