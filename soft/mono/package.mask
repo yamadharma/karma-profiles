@@ -3,3 +3,6 @@
 
 # dependencies problems
 #=dev-util/monodevelop-5.9.5.5
+
+# build problem due giflib
+=dev-dotnet/libgdiplus-4.2-r1

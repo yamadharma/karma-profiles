@@ -167,7 +167,7 @@ dev-tex/texpower		doc
 dev-tex/tipa		doc
 dev-tex/translator		doc
 dev-tex/tth		doc
-dev-tex/xcolor		doc
+dev-tex/xcolor		-doc
 dev-tex/xkeyval		doc
 dev-tex/xmltex		doc
 #
