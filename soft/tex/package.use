@@ -170,6 +170,7 @@ dev-tex/tth		doc
 dev-tex/xcolor		-doc
 dev-tex/xkeyval		doc
 dev-tex/xmltex		doc
+dev-tex/tikzuml		doc examples
 #
 dev-tex/latex-beamer					examples
 =dev-tex/latex-beamer-3.26				-lyx
