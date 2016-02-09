@@ -234,6 +234,8 @@ net-misc/iputils						-gcrypt -nettle openssl
 # Temporary. Compilation error
 net-dns/libidn							emacs
 
+# required by app-emulation/docker-1.10.0
+sys-libs/libseccomp						static-libs
 
 
 
