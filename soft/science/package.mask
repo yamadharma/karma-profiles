@@ -72,3 +72,6 @@ dev-java/xmlgraphics-commons:1
 
 # compilation error
 =sci-libs/atlas-3.11.38-r1
+
+# need sci-libs/gsl-2
+=sci-visualization/qtiplot-0.9.8.9-r4

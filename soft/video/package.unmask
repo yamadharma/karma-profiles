@@ -34,7 +34,5 @@ media-video/avidemux
 =media-video/ffmpeg-2.3*
 =media-video/ffmpeg-2.4*
 =media-video/ffmpeg-2.5*
-# bug #525070
->=media-video/mplayer-1.2_pre20141011
 
 =media-video/handbrake-0.10.0*
