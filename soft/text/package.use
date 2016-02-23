@@ -18,5 +18,6 @@ app-text/tesseract						en ru de fr es
 app-text/docbook-xsl-ns-stylesheets				ruby
 app-office/scribus						scripts
 
+app-text/sigil							python_single_target_python3_4
 
 
