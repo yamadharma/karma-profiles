@@ -16,7 +16,7 @@
 
 =sci-libs/linbox-1.1.7
 =sci-libs/givaro-3.3*
-
+=sci-libs/givaro-4.0*
 
 =sci-mathematics/singular-4.0*
 
@@ -35,6 +35,7 @@
 =sci-libs/pynac-0.5.2*
 =sci-libs/pynac-0.5.4*
 =sci-libs/pynac-0.6.1*
+=sci-libs/pynac-0.6.2*
 
 #{{{ Depends on dev-python/imaging
 # =dev-python/sympy-0.7.2-r1
