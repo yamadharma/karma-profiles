@@ -15,6 +15,8 @@
 =dev-python/bottleneck-1*
 
 =sci-libs/linbox-1.1.7
+=sci-libs/linbox-1.4.0*
+
 =sci-libs/givaro-3.3*
 =sci-libs/givaro-4.0*
 
