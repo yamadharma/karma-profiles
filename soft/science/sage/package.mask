@@ -74,7 +74,7 @@
 =sci-mathematics/pari-2.8_pre20160130*
 =sci-mathematics/pari-2.8_pre20160209*
 
-# =dev-libs/ntl-9.6.2*
+=dev-libs/ntl-9.6.4*
 
 =dev-python/docutils-0.10*
 =dev-python/docutils-0.11*
