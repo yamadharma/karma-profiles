@@ -174,3 +174,7 @@ app-emacs/reftex
 # Bug 570884
 #=net-fs/autofs-5.1.1
 
+# Bug 576128
+# dev-libs/openssl-1.0.2g causes ABI breakage in reverse dependencies
+=dev-libs/openssl-1.0.2g*
+

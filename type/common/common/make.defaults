@@ -65,6 +65,7 @@ evdev \
 firmware \
 samba \
 f2fs \
+libressl \
 "
 
 # netlink \
