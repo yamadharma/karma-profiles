@@ -65,9 +65,9 @@ evdev \
 firmware \
 samba \
 f2fs \
-libressl \
 "
 
+# libressl \
 # netlink \
 # c++0x \
 # spidermonkey \
