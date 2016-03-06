@@ -229,7 +229,7 @@ dev-libs/ucommon						-socks
 dev-libs/ucommon						-gnutls
 
 net-misc/iputils						-gcrypt -nettle openssl
-
+dev-db/mariadb							-yassl -openssl libressl
 
 # Temporary. Compilation error
 net-dns/libidn							emacs
