@@ -178,3 +178,5 @@ app-emacs/reftex
 # dev-libs/openssl-1.0.2g causes ABI breakage in reverse dependencies
 =dev-libs/openssl-1.0.2g*
 
+# Bug 574044
+=app-emulation/wine-1.9*
