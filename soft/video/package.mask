@@ -26,3 +26,6 @@
 =media-libs/libass-0.13.0*
 =media-libs/libass-0.13.1*
 
+# Bug 575690, 577410
+=media-libs/opencv-3.1.0-r2
+
