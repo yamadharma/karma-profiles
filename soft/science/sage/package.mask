@@ -37,7 +37,7 @@
 =sci-libs/pynac-0.5.2*
 =sci-libs/pynac-0.5.4*
 =sci-libs/pynac-0.6.1*
-=sci-libs/pynac-0.6.2*
+#=sci-libs/pynac-0.6.2*
 =sci-libs/pynac-0.6.3*
 =sci-libs/pynac-0.6.4*
 
@@ -73,10 +73,10 @@
 # =sci-mathematics/pari-2.8_pre20151001
 # =sci-mathematics/pari-2.8_pre20151201*
 =sci-mathematics/pari-2.8_pre20160130*
-=sci-mathematics/pari-2.8_pre20160209*
+#=sci-mathematics/pari-2.8_pre20160209*
 
 =dev-libs/ntl-9.6.4*
-=dev-libs/ntl-9.7.0*
+#=dev-libs/ntl-9.7.0*
 
 =dev-python/docutils-0.10*
 =dev-python/docutils-0.11*
