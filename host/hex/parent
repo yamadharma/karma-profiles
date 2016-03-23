@@ -1,0 +1,14 @@
+../../type/workstation/x86_64
+../../hw/arch/core-i7/x86_64
+../../hw/video/intel
+../../soft/vnc
+../../soft/kvm
+../../soft/qemu
+
+
+
+
+
+
+
+
