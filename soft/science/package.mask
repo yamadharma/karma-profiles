@@ -68,7 +68,7 @@ dev-java/xmlgraphics-commons:1
 =dev-libs/protobuf-c-1.1.1*
 
 # sci-mathematics/fricas-1.2.7 compile problem
-=dev-lisp/sbcl-1.3*
+#=dev-lisp/sbcl-1.3*
 
 # compilation error
 =sci-libs/atlas-3.11.38-r1
