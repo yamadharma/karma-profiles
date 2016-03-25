@@ -34,6 +34,7 @@ sci-visualization/gnuplot					lua libcerf
 # sci-libs/gsl							cblas
 sci-mathematics/fricas						ecl
 # sci-mathematics/fricas						sbcl gmp
+sci-mathematics/fricas						cmucl
 
 sci-libs/gdal							-hdf netcdf
 
