@@ -39,6 +39,7 @@ net-misc/gns3-gui					-qt4 qt5
 net-wireless/wpa_supplicant				-qt4 qt5
 media-sound/flacon					-qt4 qt5
 sys-devel/qconf						-qt4 qt5
+kde-misc/kdiff3						-qt4 qt5
 
 dev-qt/qtgui:5						accessibility 
 dev-qt/qtgui:5						-gtkstyle
