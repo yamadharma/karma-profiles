@@ -56,6 +56,8 @@ sys-apps/systemd						gnuefi
 
 media-libs/freetype						harfbuzz utils
 
+dev-python/cython						-emacs
+
 # Temporary
 net-fs/openafs							-modules
 
