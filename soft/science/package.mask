@@ -64,8 +64,8 @@ dev-java/xmlgraphics-commons:1
 =dev-python/pexpect-3.3
 
 # due sci-visualization/paraview-4.3.1
-=dev-libs/protobuf-2.6*
-=dev-libs/protobuf-c-1.1.1*
+#=dev-libs/protobuf-2.6*
+#=dev-libs/protobuf-c-1.1.1*
 
 # sci-mathematics/fricas-1.2.7 compile problem
 =dev-lisp/sbcl-1.3*
