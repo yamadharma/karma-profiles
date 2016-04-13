@@ -1,5 +1,10 @@
 #!/bin/sh
 
+(cd /usr/portage; git stash --progress; git clean -d -f --progress)
+
+chown -R portage:portage /usr/portage/
+chown -R portage:portage /usr/local/share/portage/
+
 emaint sync -a
 
 #layman -f
