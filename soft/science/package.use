@@ -44,6 +44,7 @@ sci-visualization/qtiplot					python
 sci-chemistry/openbabel						gui python
 
 sci-physics/root						llvm
+sci-physics/root						gdml
 
 sci-libs/atlas							static-libs
 sci-libs/blas-reference						static-libs
