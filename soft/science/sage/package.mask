@@ -15,10 +15,10 @@
 =dev-python/bottleneck-1*
 
 =sci-libs/linbox-1.1.7
-=sci-libs/linbox-1.4.0*
+=sci-libs/linbox-1.4*
 
 =sci-libs/givaro-3.3*
-=sci-libs/givaro-4.0*
+=sci-libs/givaro-4*
 
 =sci-mathematics/singular-4.0*
 
@@ -30,6 +30,7 @@
 # Maxima
 =sci-mathematics/maxima-5.36*
 =sci-mathematics/maxima-5.37*
+=sci-mathematics/maxima-5.38*
 
 =sci-libs/pynac-0.4.2*
 =sci-libs/pynac-0.5.0*
@@ -103,6 +104,8 @@
 # =sci-libs/fplll-20151201*
 
 =dev-libs/ntl-9.6.2-r1
+
+=sci-libs/fflas-ffpack-2.2*
 
 # Compile error with gcc-5.3.0
 #=sci-mathematics/flint-2.5.2
