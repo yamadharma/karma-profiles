@@ -179,4 +179,4 @@ app-emacs/reftex
 =dev-libs/openssl-1.0.2g*
 
 # Bug 574044
-=app-emulation/wine-1.9*
+#=app-emulation/wine-1.9*
