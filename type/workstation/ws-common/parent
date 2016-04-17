@@ -1,4 +1,5 @@
-../../../../../../../portage/profiles/targets/desktop
+../../../../../../../portage/profiles/targets/desktop/gnome
+../../../../../../../portage/profiles/targets/desktop/plasma
 ../../common/common
 ../../../hw/net/bluetooth
 ../../../soft/x11
@@ -8,7 +9,7 @@
 ../../../soft/x11/qt/5
 ../../../soft/gnome
 ../../../soft/gnome2/mate
-../../../soft/kde/4
+#../../../soft/kde/4
 ../../../soft/kde/5
 ../../../soft/xfce
 ../../../soft/gnustep
