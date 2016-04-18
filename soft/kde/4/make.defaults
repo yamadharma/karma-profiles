@@ -5,7 +5,6 @@ logitech-mouse \
 kdeenablefinal \
 kdehiddenvisibility kig-scripting akode \
 htmlhandbook plasma \
-handbook \
 ebook \
 captury \
 semantic-desktop \
@@ -30,6 +29,7 @@ prison \
 # kde4enablefinal \
 # phonon \
 # nepomuk \
+# handbook \
 
 # PORTDIR_OVERLAY="\
 # ${LAYMAN_DIR}/kde \
