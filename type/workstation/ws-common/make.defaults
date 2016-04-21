@@ -138,7 +138,7 @@ nodrm \
 kernel_linux \
 activefilter \
 estraier thumbnail kakasi mecab \
-exscalibar ifp ipod \
+exscalibar ifp  \
 mozdevelop mozsvg \
 sou hou nowin \
 pango \
@@ -352,6 +352,7 @@ clang \
 # jackmidi
 # agg
 # ggi
+# ipod
 
 LINGUAS="ru en"
 # LANGUAGE="RUSS"
