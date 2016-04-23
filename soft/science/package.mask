@@ -40,7 +40,7 @@ dev-java/xmlgraphics-commons:1
 
 
 # FOR sci-mathematics/scilab-5.4.0
-=sci-libs/matio-1.5.1
+#=sci-libs/matio-1.5.1
 
 #
 =app-text/jabref-2.10b

@@ -10,6 +10,7 @@ sci-physics/root							kerberos afs
 #=sci-mathematics/scilab-5.2.0*						scicos
 #=sci-mathematics/scilab-5.2.0*						doc
 #=sci-mathematics/scilab-5.4.0						doc
+=sci-mathematics/scilab-5.5*						emf
 
 =sci-mathematics/octave-4.0*						jit
 
