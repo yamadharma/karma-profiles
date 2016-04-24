@@ -238,5 +238,6 @@ net-dns/libidn							emacs
 # required by app-emulation/docker-1.10.0
 sys-libs/libseccomp						static-libs
 
+dev-python/docker-py						-python_targets_python2_7
 
 
