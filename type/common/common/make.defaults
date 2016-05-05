@@ -1,7 +1,6 @@
 USE="\
 openmp \
 evms2 \
-afs \
 lvm lvm2 parted \
 nptl \
 libgcrypt \
@@ -71,6 +70,7 @@ f2fs \
 # netlink \
 # c++0x \
 # spidermonkey \
+#afs \
 
 LINGUAS="ru ru_RU en en_US"
 

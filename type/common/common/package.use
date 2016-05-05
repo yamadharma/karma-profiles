@@ -240,4 +240,6 @@ sys-libs/libseccomp						static-libs
 
 dev-python/docker-py						-python_targets_python2_7
 
+net-fs/openafs							bitmap-later
+net-fs/openafs							pthreaded-ubik
 
