@@ -180,3 +180,6 @@ app-emacs/reftex
 
 # Bug 574044
 #=app-emulation/wine-1.9*
+
+# Compilation hangs
+#=dev-lang/perl-5.22.2
