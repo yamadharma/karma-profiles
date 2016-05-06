@@ -3,3 +3,6 @@ media-libs/opencv						-qt4
 kde-plasma/plasma-meta						mediacenter
 dev-util/kdevplatform:4						-konsole
 
+kde-plasma/plasma-desktop					handbook
+kde-plasma/plasma-meta						handbook
+
