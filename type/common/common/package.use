@@ -243,3 +243,8 @@ dev-python/docker-py						-python_targets_python2_7
 net-fs/openafs							bitmap-later
 net-fs/openafs							pthreaded-ubik
 
+sys-devel/gcc							mpx
+sys-devel/gcc							cilk
+
+
+
