@@ -183,3 +183,7 @@ app-emacs/reftex
 
 # Compilation hangs
 #=dev-lang/perl-5.22.2
+
+# due www-apps/jekyll-3.1.6
+=dev-ruby/colorator-1.0.0
+
