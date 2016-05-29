@@ -107,3 +107,4 @@
 
 =sci-libs/fflas-ffpack-2.2*
 
+=sci-libs/libsingular-3.1.7_p1-r8
