@@ -41,7 +41,7 @@ quota \
 libyaml \
 udev \
 isdn \
-ssl gnutls \
+ssl \
 libxml2 \
 btrfs \
 xattr \
