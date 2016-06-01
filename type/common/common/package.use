@@ -246,5 +246,6 @@ net-fs/openafs							pthreaded-ubik
 sys-devel/gcc							mpx
 sys-devel/gcc							cilk
 
+dev-cpp/commoncpp2						-gnutls
 
 

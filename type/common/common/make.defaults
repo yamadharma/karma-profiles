@@ -16,7 +16,6 @@ vim-syntax \
 archive \
 aspell enchant \
 libssh2 \
-gnutls \
 sctp \
 inotify \
 icu iconv \
@@ -71,6 +70,7 @@ f2fs \
 # c++0x \
 # spidermonkey \
 #afs \
+# gnutls \
 
 LINGUAS="ru ru_RU en en_US"
 
