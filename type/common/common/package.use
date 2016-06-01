@@ -247,5 +247,6 @@ sys-devel/gcc							mpx
 sys-devel/gcc							cilk
 
 dev-cpp/commoncpp2						-gnutls
+net-misc/networkmanager						gnutls
 
 
