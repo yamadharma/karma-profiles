@@ -42,6 +42,7 @@ sys-devel/qconf						-qt4 qt5
 kde-misc/kdiff3						-qt4 qt5
 sci-libs/vtk						-qt4 qt5
 app-office/lyx						-qt4 qt5
+net-print/hplip						-qt4 qt5
 
 dev-qt/qtgui:5						accessibility 
 dev-qt/qtgui:5						-gtkstyle
