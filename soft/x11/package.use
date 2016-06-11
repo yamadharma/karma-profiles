@@ -58,3 +58,5 @@ media-fonts/unifont					utils
 x11-misc/tint2						tint2conf
 
 app-editors/bluefish					-gtk2 gtk3
+www-client/firefox					-gtk2
+
