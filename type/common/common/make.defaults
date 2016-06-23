@@ -73,7 +73,7 @@ f2fs \
 # gnutls \
 
 LINGUAS="ru ru_RU en en_US"
-L10N="ru ru_RU en en_US"
+L10N="ru ru-RU en en-US"
 
 FEATURES="${FEATURES} \
 sandbox usersandbox \
