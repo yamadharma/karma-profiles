@@ -249,4 +249,6 @@ sys-devel/gcc							cilk
 net-misc/networkmanager						gnutls
 net-fs/samba							gnutls
 
+dev-libs/libgit2						ssh
+
 
