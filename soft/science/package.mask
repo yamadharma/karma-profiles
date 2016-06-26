@@ -74,3 +74,6 @@ dev-java/xmlgraphics-commons:1
 
 # need sci-libs/gsl-2
 =sci-visualization/qtiplot-0.9.8.9-r4
+
+# break eselect from science overlay
+=app-admin/eselect-1.4.6
