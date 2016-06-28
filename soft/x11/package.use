@@ -59,3 +59,5 @@ x11-misc/tint2						tint2conf
 
 app-editors/bluefish					-gtk2 gtk3
 www-client/firefox					gtk2
+
+x11-libs/gtk+						cloudprint
