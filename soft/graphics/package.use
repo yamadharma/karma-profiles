@@ -19,6 +19,7 @@ media-libs/lensfun						python_single_target_python3_4
 
 =app-office/texmacs-1.99*					-pdf
 
+media-gfx/geeqie						gpu-accel lua
 
 
 
