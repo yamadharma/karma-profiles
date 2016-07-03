@@ -7,3 +7,5 @@
 # build problem due giflib
 =dev-dotnet/libgdiplus-4.2*
 
+# build problem
+#=dev-dotnet/nuget-2.8.7
