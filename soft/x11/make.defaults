@@ -22,7 +22,8 @@ fltk \
 startup-notification \
 gallium openvg xa \
 glamor \
-wayland
+wayland \
+dri3
 "
 
 # PORTDIR_OVERLAY="\
