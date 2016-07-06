@@ -35,7 +35,7 @@ x11-libs/vte						python
 
 x11-libs/libxcb						xkb
 x11-wm/xpra						csc dec_av server
-# x11-wm/xpra						dec_av2
+x11-wm/xpra						dec_av2
 
 app-text/xdvik						-Xaw -Xaw3d motif
 
