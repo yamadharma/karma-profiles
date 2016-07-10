@@ -82,7 +82,8 @@ sci-libs/vtk							smp tbb
 #sci-libs/vtk							all-modules
 #sci-libs/vtk							gdal
 
-sci-visualization/paraview					python tcl coprocessing
+sci-visualization/paraview					tcl coprocessing
+# sci-visualization/paraview					python mpi
 
 # Temporary
 #dev-python/pandas						-R
