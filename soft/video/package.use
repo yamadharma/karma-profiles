@@ -48,6 +48,8 @@ net-misc/youtube-dl				offensive
 
 media-video/mpv					rubberband
 
+media-video/ffmpeg				fdk
+
 
 media-video/pitivi				python_single_target_python3_4
 
