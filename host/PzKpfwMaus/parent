@@ -1,0 +1,14 @@
+../../type/workstation/x86_64
+../../hw/arch/core-i5/x86_64
+../../hw/arch/native
+../../hw/video/nvidia
+../../hw/video/nvidia_free
+../../hw/net/bluetooth
+../../soft/qemu
+../../soft/tracker
+../../soft/kvm
+../../soft/p2p
+
+
+
+
