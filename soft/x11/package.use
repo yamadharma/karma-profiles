@@ -9,6 +9,7 @@ x11-base/xorg-server					-hal
 
 media-libs/freetype					auto-hinter
 media-libs/freetype					infinality
+media-libs/freetype					cleartype_hinting
 
 <x11-base/xorg-server-1.8				hal
 
@@ -59,5 +60,6 @@ x11-misc/tint2						tint2conf
 
 app-editors/bluefish					-gtk2 gtk3
 www-client/firefox					gtk2
+
 
 x11-libs/gtk+						cloudprint
