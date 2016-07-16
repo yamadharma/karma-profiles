@@ -4,6 +4,7 @@
 ../../hw/video/nvidia
 ../../hw/video/nvidia_free
 ../../hw/net/bluetooth
+../../hw/platform/notebook
 ../../soft/qemu
 ../../soft/tracker
 ../../soft/kvm
