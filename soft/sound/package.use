@@ -20,6 +20,7 @@ media-video/mplayer					-cddb -cdparanoia
 media-plugins/audacious-plugins				-gtk3 -gtk
 media-plugins/audacious-plugins				-scrobbler
 =media-plugins/audacious-plugins-3.4*			-sid
+media-plugins/audacious-plugins				-jack
 media-sound/audacious					-gtk3 -gtk
 
 media-sound/jack-audio-connection-kit			classic dbus
