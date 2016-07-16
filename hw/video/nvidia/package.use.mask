@@ -1,0 +1,2 @@
+# media-video/nvidia-settings now in x11-drivers/nvidia-drivers
+sci-libs/vtk					video_cards_nvidia
