@@ -3,6 +3,7 @@
 ../../hw/arch/native
 ../../hw/video/nvidia
 ../../hw/video/nvidia_free
+../../hw/video/intel
 ../../hw/net/bluetooth
 ../../hw/platform/notebook
 ../../soft/qemu
