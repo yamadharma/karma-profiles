@@ -2,3 +2,5 @@ media-libs/devil				nvtt
 x11-drivers/nvidia-drivers			uvm
 x11-drivers/nvidia-drivers			static-libs
 
+sci-libs/vtk					-nvidia
+
