@@ -21,6 +21,7 @@ media-libs/lensfun						python_single_target_python3_4
 
 media-gfx/geeqie						gpu-accel lua
 
+media-libs/libmypaint						gegl
 
 
 

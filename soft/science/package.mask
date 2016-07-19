@@ -77,3 +77,6 @@ dev-java/xmlgraphics-commons:1
 
 # break eselect from science overlay
 =app-admin/eselect-1.4.6
+
+# due net-misc/gns3-server-1.5.1
+=dev-python/aiohttp-0.21.6*
