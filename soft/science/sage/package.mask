@@ -42,7 +42,7 @@
 =sci-libs/pynac-0.6.3*
 =sci-libs/pynac-0.6.4*
 #=sci-libs/pynac-0.6.5*
-=sci-libs/pynac-0.6.7*
+#=sci-libs/pynac-0.6.7*
 =sci-libs/pynac-0.6.8*
 
 #=dev-python/sympy-1.0*
@@ -77,7 +77,7 @@
 =sci-mathematics/pari-2.8_pre20160130*
 #=sci-mathematics/pari-2.8_pre20160209*
 =sci-mathematics/pari-2.8_pre20160510*
-=sci-mathematics/pari-2.8_pre20160616*
+#=sci-mathematics/pari-2.8_pre20160616*
 =sci-mathematics/pari-2.8_pre20160712*
 =sci-mathematics/pari-2.8.0_pre1*
 
@@ -114,4 +114,4 @@
 
 =sci-libs/fflas-ffpack-2.2*
 
-=sci-libs/libsingular-3.1.7_p1-r8
+#=sci-libs/libsingular-3.1.7_p1-r8
