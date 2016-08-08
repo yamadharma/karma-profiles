@@ -80,3 +80,5 @@ dev-java/xmlgraphics-commons:1
 
 # due net-misc/gns3-server-1.5.1
 =dev-python/aiohttp-0.21.6*
+=dev-python/aiohttp-0.22*
+
