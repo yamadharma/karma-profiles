@@ -251,4 +251,6 @@ net-fs/samba							gnutls
 
 dev-libs/libgit2						ssh
 
+net-misc/teamviewer						-system-wine
+
 
