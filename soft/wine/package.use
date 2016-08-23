@@ -3,6 +3,18 @@ app-emulation/wine-etersoft-public				cups
 # app-emulation/wine						opencl
 app-emulation/wine						dos
 app-emulation/wine						d3d9
+app-emulation/wine						staging
+app-emulation/wine						themes
+app-emulation/wine						s3tc
+app-emulation/wine						run-exes
+app-emulation/wine						pipelight
+app-emulation/wine						netapi samba
+
+
+
+
+
+
 
 
 
