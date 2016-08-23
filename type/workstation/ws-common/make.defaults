@@ -56,7 +56,7 @@ sndfile \
 modelock quotas libclamav \
 bash-completion portaudio bdf \
 bitmap-fonts insecure-drivers font-server truetype-fonts type1-fonts xv \
-dga real xanim quicktime audiofile \
+dga real quicktime audiofile \
 fpx yv12 dv v4l2 \
 hbci quotes \
 xscreensaver gphoto2 scanner povray pda \
@@ -353,6 +353,7 @@ clang \
 # agg
 # ggi
 # ipod
+# xanim
 
 LINGUAS="ru en"
 # LANGUAGE="RUSS"
