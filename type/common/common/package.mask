@@ -188,5 +188,5 @@ app-emacs/reftex
 =dev-ruby/colorator-1.0*
 =dev-ruby/colorator-1.1*
 
-
-
+# compile errror
+=sys-fs/xfsprogs-4.7.0
