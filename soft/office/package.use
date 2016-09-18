@@ -25,10 +25,12 @@ app-office/libreoffice			-python_single_target_python2_7
 app-office/libreoffice			python_single_target_python3_4
 
 
+
 # Problems with gtk-3
 =app-office/libreoffice-5.0*		-gtk3
 =app-office/libreoffice-5.1*		-gtk3
-=app-office/libreoffice-4.1*		-odk
+=app-office/libreoffice-5.2*		-gtk3
+
 
 
 
