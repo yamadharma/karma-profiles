@@ -250,6 +250,7 @@ net-misc/networkmanager						gnutls
 net-fs/samba							gnutls
 
 dev-libs/libgit2						ssh
+app-i18n/enca							iconv recode
 
 net-misc/teamviewer						-system-wine
 
