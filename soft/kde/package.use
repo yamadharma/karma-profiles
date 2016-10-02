@@ -6,3 +6,5 @@ net-voip/ekiga							-kde -kontact
 media-libs/mlt							-kde -qt4
 kde-misc/kdiff3							-kde -qt4 qt5
 
+=app-crypt/gpgme-1.7*						-qt5
+
