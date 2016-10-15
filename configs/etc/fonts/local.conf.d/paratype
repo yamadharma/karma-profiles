@@ -2,26 +2,6 @@
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
 <!-- /etc/fonts/local.conf file for local customizations -->
 <fontconfig>
-	<match target="font" >
-		<edit mode="assign" name="antialias" >
-			<bool>true</bool>
-		</edit>
-	</match>
-	<match target="font" >
-		<edit mode="assign" name="hinting" >
-			<bool>true</bool>
-		</edit>
-	</match>
-	<match target="font" >
-		<edit mode="assign" name="hintstyle" >
-			<const>hintfull</const>
-		</edit>
-	</match>
-	<match target="font" >
-		<edit mode="assign" name="rgba" >
-			<const>rgb</const>
-		</edit>
-	</match>
 	<alias>
 		<family>sans-serif</family>
 		<prefer>

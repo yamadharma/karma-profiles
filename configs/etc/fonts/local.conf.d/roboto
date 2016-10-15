@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+<!-- /etc/fonts/local.conf file for local customizations -->
+<fontconfig>
+	<alias>
+		<family>sans-serif</family>
+		<prefer>
+			<family>Roboto</family>
+		</prefer>
+	</alias>
+	<alias>
+		<family>serif</family>
+		<prefer>
+			<family>Roboto Slab</family>
+		</prefer>
+	</alias>
+	<alias>
+		<family>monospace</family>
+		<prefer>
+			<family>InconsolataHellenic</family>
+		</prefer>
+	</alias>
+	<alias>
+		<family>Helvetica</family>
+		<prefer>
+			<family>Roboto</family>
+		</prefer>
+		<default>
+			<family>sans-serif</family>
+		</default>
+	</alias>
+	<alias>
+		<family>Times</family>
+		<prefer>
+			<family>Roboto Slab</family>
+		</prefer>
+		<default>
+			<family>serif</family>
+		</default>
+	</alias>
+	<alias>
+		<family>Courier</family>
+		<prefer>
+			<family>InconsolataHellenic</family>
+		</prefer>
+		<default>
+			<family>monospace</family>
+		</default>
+	</alias>
+</fontconfig>
