@@ -36,6 +36,7 @@ sci-mathematics/pari						doc
 sci-mathematics/sage						bliss modular_decomposition
 
 =sci-mathematics/gmp-ecm-6.4*					-openmp
+sci-mathematics/gmp-ecm						-openmp
 
 sci-libs/libsingular						flint
 dev-python/ipython						notebook
