@@ -2,7 +2,7 @@
 # System-wide defaults for the gcc 3.2 Portage system
 
 USE="${USE} \
-apm avi berkdb encode gdbm gpm imlib \
+apm avi berkdb encode gdbm gpm \
 libg++ libwww ncurses nls \
 pam qtmt readline slang spell  \
 tcpd xml2 xmms \
@@ -32,7 +32,7 @@ pg-hier pg-vacuumdelay pg-intdatetime \
 f77 objc \
 idea \
 cap \
-imlib2 lynxkeymap \
+lynxkeymap \
 xvid live divx \
 xprint \
 mailwrapper md5sum \
