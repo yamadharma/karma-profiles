@@ -83,6 +83,7 @@ metadata-transfer \
 unmerge-orphans \
 compress-build-logs \
 fixlafiles unmerge-orphans \
+metadata-transfer \
 -strict -stricter \
 -parse-eapi-ebuild-head \
 -xattr \

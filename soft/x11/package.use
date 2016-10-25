@@ -63,3 +63,7 @@ www-client/firefox					gtk2
 
 
 x11-libs/gtk+						cloudprint
+
+media-libs/libsdl2					-wayland
+media-video/mpv						-wayland
+
