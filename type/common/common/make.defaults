@@ -160,7 +160,7 @@ GNUSTEP_LAYOUT=gnustep
 # GNUSTEP_LAYOUT=fhs-system
 # USE="${USE} non-flattened"
 
-#PORTAGE_NICENESS=5
+PORTAGE_NICENESS=5
 PORTAGE_TMPFS="/dev/shm"
 
 #{{{ For paludis
