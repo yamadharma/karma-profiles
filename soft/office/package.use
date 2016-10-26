@@ -20,9 +20,11 @@ virtual/ooo				java
 app-office/libreoffice			telepathy
 app-office/libreoffice			vlc
 app-office/libreoffice			google
+app-office/libreoffice			googledrive
 
 app-office/libreoffice			-python_single_target_python2_7
 app-office/libreoffice			python_single_target_python3_4
+
 
 
 

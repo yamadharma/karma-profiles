@@ -8,3 +8,4 @@ kde-misc/kdiff3							-kde -qt4 qt5
 
 =app-crypt/gpgme-1.7*						-qt5
 
+kde-apps/okular							ebook mobi
