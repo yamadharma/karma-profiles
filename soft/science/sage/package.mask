@@ -51,6 +51,7 @@
 
 #=dev-python/cython-0.22.1*
 #=dev-python/cython-0.23_beta*
+=dev-python/cython-0.25.1*
 
 
 #=sci-libs/m4ri-20130416
@@ -120,3 +121,5 @@
 #=sci-libs/fflas-ffpack-2.2*
 
 #=sci-libs/libsingular-3.1.7_p1-r8
+
+=sci-mathematics/gmp-ecm-7.0*
