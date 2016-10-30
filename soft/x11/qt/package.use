@@ -18,6 +18,7 @@ media-sound/clementine					system-qxt
 x11-libs/qt-svg						accessibility
 
 dev-qt/qtwebkit						multimedia printsupport qml widgets
+dev-qt/qtwebkit:4					-gstreamer
 dev-qt/qtmultimedia					widgets
 dev-python/PyQt5					widgets printsupport
 
