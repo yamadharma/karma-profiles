@@ -123,3 +123,5 @@
 #=sci-libs/libsingular-3.1.7_p1-r8
 
 =sci-mathematics/gmp-ecm-7.0*
+
+=sci-libs/fplll-20160331
