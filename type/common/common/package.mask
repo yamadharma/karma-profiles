@@ -190,3 +190,6 @@ app-emacs/reftex
 
 # compile errror
 =sys-fs/xfsprogs-4.7.0
+
+# compile error
+=media-libs/libextractor-1.3-r1
