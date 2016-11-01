@@ -67,3 +67,7 @@ x11-libs/gtk+						cloudprint
 media-libs/libsdl2					-wayland
 media-video/mpv						-wayland
 
+dev-qt/qtgui						-egl
+dev-qt/qtwayland					-egl
+
+
