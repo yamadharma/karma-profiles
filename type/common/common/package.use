@@ -254,6 +254,8 @@ net-fs/samba							gnutls
 dev-libs/libgit2						ssh
 app-i18n/enca							iconv recode
 
+net-print/cups-filters						perl static-libs
+
 net-misc/teamviewer						-system-wine
 
 
