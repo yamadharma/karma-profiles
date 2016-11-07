@@ -22,6 +22,7 @@
 
 #=sci-mathematics/singular-4.0*
 =sci-mathematics/singular-4.0.3_p4
+=sci-mathematics/singular-4.0.3_p5
 
 
 =sci-mathematics/sage-data-elliptic_curves-0.5-r1
