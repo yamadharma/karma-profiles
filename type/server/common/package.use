@@ -21,3 +21,5 @@ gnome-base/librsvg					-gtk
 # w/o systemd
 sys-auth/consolekit					policykit
 
+sys-boot/grub						-multislot
+

@@ -92,6 +92,7 @@ sys-fs/cryptsetup						static
 sys-fs/lvm2							lvm2create_initrd
 
 net-firewall/iptables						netlink
+net-firewall/iptables						conntrack nftables static-libs
 app-arch/rar							all_sfx
 
 media-libs/gd							fontconfig jpeg png truetype
