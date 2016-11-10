@@ -228,6 +228,8 @@ net-libs/neon							-gnutls ssl
 media-libs/libmetalink						-expat
 net-misc/curl							ssh
 =net-misc/curl-7.28*						-metalink
+net-misc/curl							-curl_ssl_gnutls -curl_ssl_openssl curl_ssl_nss
+dev-python/pycurl						curl_ssl_nss -curl_ssl_openssl
 
 dev-libs/ucommon						-socks
 dev-libs/ucommon						-gnutls
@@ -260,4 +262,6 @@ net-print/cups-filters						perl static-libs
 
 net-misc/teamviewer						-system-wine
 
+# don't compile
+=dev-libs/boost-1.62*						-tools
 
