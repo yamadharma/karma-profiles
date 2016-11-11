@@ -95,3 +95,6 @@ net-analyzer/wireshark			qt4
 
 net-misc/rancid-git						cvs subversion
 
+# don't compile
+=dev-libs/boost-1.62*						tools
+

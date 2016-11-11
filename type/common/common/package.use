@@ -262,6 +262,5 @@ net-print/cups-filters						perl static-libs
 
 net-misc/teamviewer						-system-wine
 
-# don't compile
-=dev-libs/boost-1.62*						-tools
+
 
