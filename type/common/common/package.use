@@ -262,5 +262,6 @@ net-print/cups-filters						perl static-libs
 
 net-misc/teamviewer						-system-wine
 
+sys-apps/busybox						pam -static
 
 
