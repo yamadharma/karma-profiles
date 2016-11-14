@@ -37,6 +37,7 @@ sci-mathematics/fricas						ecl
 sci-mathematics/fricas						cmucl
 
 sci-libs/gdal							-hdf netcdf
+=sci-libs/gdal-2.0.2*						-jpeg2k
 
 sci-visualization/qtiplot					origin emf latex ods png xls
 sci-visualization/qtiplot					python
