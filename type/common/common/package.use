@@ -264,4 +264,7 @@ net-misc/teamviewer						-system-wine
 
 sys-apps/busybox						pam -static
 
+sys-process/tini						static
+
+
 
