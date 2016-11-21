@@ -5,7 +5,7 @@
 #=dev-util/monodevelop-5.9.5.5
 
 # build problem due giflib
-=dev-dotnet/libgdiplus-4.2*
+#=dev-dotnet/libgdiplus-4.2*
 
 # build problem
 #=dev-dotnet/nuget-2.8.7
