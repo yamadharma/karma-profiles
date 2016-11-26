@@ -61,4 +61,5 @@ dev-python/cython						-emacs
 # Temporary
 net-fs/openafs							-modules
 
+=net-proxy/dante-1.4.0*						-upnp
 
