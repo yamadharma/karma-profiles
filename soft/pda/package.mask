@@ -1,1 +1,1 @@
-=dev-libs/openobex-1.7*
+# =dev-libs/openobex-1.7*
