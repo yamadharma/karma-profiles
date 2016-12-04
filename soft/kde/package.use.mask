@@ -1,0 +1,2 @@
+kde-apps/konq-plugins:4						tidy
+kde-apps/klinkstatus:4						tidy
