@@ -32,6 +32,8 @@ app-text/pdf2oo							kde
 =kde-base/solid-4.7.2						networkmanager
 
 
+kde-apps/konq-plugins:4						tidy
+kde-apps/klinkstatus:4						tidy
 
 
 
