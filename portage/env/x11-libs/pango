@@ -1,0 +1,4 @@
+# Bug 559258
+CFLAGS="-O2 -pipe -mtune=generic"
+CXXFLAGS=$CFLAGS
+
