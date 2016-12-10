@@ -133,3 +133,5 @@
 =sci-mathematics/gmp-ecm-7.0*
 
 =sci-libs/fplll-20160331
+
+=dev-python/pkgconfig-1.2*
