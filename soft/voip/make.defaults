@@ -4,7 +4,7 @@ stun \
 sip h323 \
 g711plc \
 wav \
-dns dtmf fax h224 h281 iax rfc4175 sbc sipim srtp stats  \
+dns dtmf h224 h281 iax rfc4175 sbc sipim srtp stats  \
 pipechan qos shmvideo soap \
 "
 
@@ -15,3 +15,4 @@ pipechan qos shmvideo soap \
 # xcap \
 # vxml ivr \
 # ixj lid vpb \
+# fax 
