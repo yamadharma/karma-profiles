@@ -50,6 +50,7 @@ media-video/mpv					rubberband
 
 media-video/ffmpeg				fdk
 
+media-libs/libvpx				svc
 
 media-video/pitivi				python_single_target_python3_4
 
