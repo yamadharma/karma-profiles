@@ -2,5 +2,5 @@ kde-apps/kdebase-runtime-meta:4
 kde-apps/kdebase-meta:4
 
 # due kde-base/baloo-4.13
-=dev-libs/xapian-1.3*
-=dev-libs/xapian-1.4*
+#=dev-libs/xapian-1.3*
+#=dev-libs/xapian-1.4*

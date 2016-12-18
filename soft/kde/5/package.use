@@ -6,3 +6,7 @@ dev-util/kdevplatform:4						-konsole
 kde-plasma/plasma-desktop					handbook
 kde-plasma/plasma-meta						handbook
 
+kde-apps/kde-apps-meta:5					accessibility pim sdk
+
+
+
