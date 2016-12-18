@@ -21,6 +21,8 @@ dev-qt/qtwebkit						multimedia printsupport qml widgets
 dev-qt/qtwebkit:4					-gstreamer
 dev-qt/qtmultimedia					widgets
 dev-python/PyQt5					widgets printsupport
+net-libs/telepathy-qt					farstream
+
 
 media-video/vlc						qt4 -qt5
 dev-util/cmake						-qt4 qt5
