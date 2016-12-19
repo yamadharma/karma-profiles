@@ -7,6 +7,7 @@ kde-apps/kdeadmin-meta:4					cron
 kde-apps/kdebase-meta:4						wallpapers
 kde-base/smokekde:4						kate
 kde-apps/kget:4							bittorrent
+kde-apps/konqueror:5						tidy
 
 
 

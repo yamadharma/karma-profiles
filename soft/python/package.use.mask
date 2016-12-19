@@ -8,3 +8,4 @@ dev-java/jdbc-postgresql					java5
 =dev-util/eric-4.5*						spell
 =dev-util/eric-5.3*						spell
 
+=dev-python/translate-toolkit-2.0*				html
