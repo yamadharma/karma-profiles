@@ -9,5 +9,9 @@ kde-plasma/plasma-meta						handbook
 kde-apps/kde-apps-meta:5					accessibility pim sdk
 kde-apps/dolphin-plugins:5					dropbox
 
+kde-apps/kalzium:5						solver editor
+# Bug 372671
+=kde-apps/kalzium-16.12*					-solver -editor
+
 
 

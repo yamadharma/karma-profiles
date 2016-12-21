@@ -108,6 +108,8 @@
 #=sci-mathematics/eclib-20140805
 #=sci-libs/m4ri-20140914
 
+=dev-lisp/ecls-16.1.3*
+
 =sci-libs/givaro-3.8.0*
 
 =dev-python/flask-babel-0.9*
