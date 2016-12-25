@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [[ -d /com/lib/portage/extras/texlive ]]
+then
+    tlmgr update --repository=/com/lib/portage/extras/texlive --all
+else
+    tlmgr update --all
+fi
