@@ -1,6 +1,5 @@
-# OpenGL craching
-#=x11-drivers/nvidia-drivers-340.76
-
+# Temporary masked
+>=sys-kernel/gentoo-sources-4.10
 
 
 

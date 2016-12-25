@@ -1,4 +1,3 @@
 # due openafs-kernel
-=sys-kernel/gentoo-sources-4.5*
-=sys-kernel/gentoo-sources-4.6*
+>=sys-kernel/gentoo-sources-4.8
 
