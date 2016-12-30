@@ -1,2 +1,4 @@
 PORTDIR_CACHE_METHOD='sqlite'
-OVERLAY_CACHE_METHOD='parse' # changed to parse. Otherwise eix doesn't show the overlay of an ebuild
+OVERLAY_CACHE_METHOD='sqlite'
+#OVERLAY_CACHE_METHOD='parse' # changed to parse. Otherwise eix doesn't show the overlay of an ebuild
+
