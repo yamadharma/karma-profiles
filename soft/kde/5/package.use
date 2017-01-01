@@ -13,5 +13,5 @@ kde-apps/kalzium:5						solver editor
 # Bug 372671
 =kde-apps/kalzium-16.12*					-solver -editor
 
-
-
+# needed for kde-apps/kremotecontrol
+app-misc/lirc							python_single_target_python3_4
