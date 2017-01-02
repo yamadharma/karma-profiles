@@ -12,6 +12,8 @@
 dev-lang/tcl:8.5
 =dev-lang/tk-8.6*
 dev-lang/tk:8.5
+=dev-tcltk/itk-4*
+=dev-tcltk/itcl-4*
 
 # Проблемы с зависимостями
 =dev-lisp/uiop-3.1.4
