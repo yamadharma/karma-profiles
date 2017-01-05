@@ -266,5 +266,7 @@ sys-apps/busybox						pam -static
 
 sys-process/tini						static
 
+app-misc/ca-certificates					cacert
+
 
 
