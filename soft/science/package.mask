@@ -84,6 +84,7 @@ dev-java/xmlgraphics-commons:1
 =dev-python/aiohttp-0.22*
 =dev-python/aiohttp-1.0*
 =dev-python/aiohttp-1.1*
+=dev-python/aiohttp-1.2*
 
 # name mismatch Bug 596734
 =dev-lang/julia-0.5.0-r2
