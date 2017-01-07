@@ -32,7 +32,7 @@ app-misc/gtypist						-emacs
 
 =sci-mathematics/octave-3.8*					-jit
 
-net-misc/remmina						freerdp telepathy
+net-misc/remmina						freerdp telepathy rdp
 
 sys-kernel/genkernel						-crypt
 
