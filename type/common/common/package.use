@@ -268,5 +268,5 @@ sys-process/tini						static
 
 app-misc/ca-certificates					cacert
 
-
+dev-libs/libpcre2						pcre32
 
