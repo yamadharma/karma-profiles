@@ -60,6 +60,6 @@ dev-python/cython						-emacs
 
 # Temporary
 net-fs/openafs							-modules
-
 =net-proxy/dante-1.4.0*						-upnp
+=sci-mathematics/maxima-5.35*					-emacs
 
