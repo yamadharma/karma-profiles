@@ -254,6 +254,7 @@ sys-devel/gcc							cilk
 
 net-misc/networkmanager						gnutls
 net-fs/samba							gnutls
+net-fs/samba							-gpg
 
 dev-libs/libgit2						ssh
 app-i18n/enca							iconv recode
