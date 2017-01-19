@@ -114,7 +114,6 @@ cxx \
 regex audit \
 sftp ads \
 portage \
-gpg \
 file neon \
 log4j servletapi \
 -opengl \

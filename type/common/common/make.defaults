@@ -63,6 +63,7 @@ evdev \
 firmware \
 samba \
 f2fs \
+gpg \
 "
 
 # libressl \

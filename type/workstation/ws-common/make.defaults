@@ -261,7 +261,7 @@ espeak aften \
 sftp ads \
 adf unpaper \
 portage visibility \
-darcs git gpg \
+darcs git \
 file neon \
 deskbar \
 log4j servletapi \
