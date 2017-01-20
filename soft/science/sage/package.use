@@ -43,5 +43,6 @@ dev-python/ipython						notebook
 
 sci-mathematics/sage						-bin-html
 sci-mathematics/sage						-html -pdf
+sci-mathematics/sage						-doc-html
 # sci-mathematics/sage						sagenb
 

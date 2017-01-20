@@ -23,7 +23,7 @@
 #=sci-mathematics/singular-4.0*
 =sci-mathematics/singular-4.0.3_p4
 =sci-mathematics/singular-4.0.3_p5
-=sci-mathematics/singular-4.1.0*
+#=sci-mathematics/singular-4.1.0*
 
 
 =sci-mathematics/sage-data-elliptic_curves-0.5-r1
@@ -53,14 +53,14 @@
 =sci-libs/pynac-0.7.0*
 =sci-libs/pynac-0.7.1*
 =sci-libs/pynac-0.7.2*
-=sci-libs/pynac-0.7.3*
+#=sci-libs/pynac-0.7.3*
 
 #=dev-python/sympy-1.0*
 
 #=dev-python/cython-0.22.1*
 #=dev-python/cython-0.23_beta*
 =dev-python/cython-0.25.1*
-=dev-python/cython-0.25.2*
+#=dev-python/cython-0.25.2*
 
 #=sci-libs/m4ri-20130416
 
@@ -115,8 +115,8 @@
 
 =dev-python/flask-babel-0.9*
 
-# =sci-mathematics/sage-data-graphs-20151224*
-=sci-mathematics/sage-data-graphs-20161026*
+#=sci-mathematics/sage-data-graphs-20151224*
+#=sci-mathematics/sage-data-graphs-20161026*
 
 =media-gfx/tachyon-0.99*
 
@@ -138,6 +138,6 @@
 
 =sci-libs/fplll-20160331
 
-=dev-python/pkgconfig-1.2*
+#=dev-python/pkgconfig-1.2*
 
 =dev-cpp/eigen-3.3*
