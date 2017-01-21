@@ -97,7 +97,7 @@
 
 =dev-libs/ntl-9.6.4*
 #=dev-libs/ntl-9.7.0*
-=dev-libs/ntl-10.1.0*
+#=dev-libs/ntl-10.1.0*
 
 =dev-python/docutils-0.10*
 =dev-python/docutils-0.11*
