@@ -36,7 +36,8 @@ x11-libs/vte						python
 
 x11-libs/libxcb						xkb
 x11-wm/xpra						csc dec_av server
-x11-wm/xpra						dec_av2
+x11-wm/xpra						dec_av2 x264 x265
+=x11-wm/xpra-1.0*					-dec_av2 -x264 -x265
 
 app-text/xdvik						-Xaw -Xaw3d motif
 
