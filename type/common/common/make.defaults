@@ -64,6 +64,7 @@ firmware \
 samba \
 f2fs \
 gpg \
+berkdb \
 "
 
 # libressl \
