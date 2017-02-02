@@ -43,6 +43,7 @@ net-wireless/wpa_supplicant				-qt4 qt5
 media-sound/flacon					-qt4 qt5
 sys-devel/qconf						-qt4 qt5
 kde-misc/kdiff3						-qt4 qt5
+=sci-libs/vtk-6*					qt4
 sci-libs/vtk						-qt4 qt5
 app-office/lyx						-qt4 qt5
 net-print/hplip						-qt4 qt5
