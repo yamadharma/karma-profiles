@@ -54,6 +54,8 @@
 =sci-libs/pynac-0.7.1*
 =sci-libs/pynac-0.7.2*
 #=sci-libs/pynac-0.7.3*
+=sci-libs/pynac-0.7.4*
+
 
 #=dev-python/sympy-1.0*
 
