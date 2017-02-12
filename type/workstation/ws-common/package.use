@@ -56,6 +56,8 @@ sys-apps/systemd						gnuefi
 
 media-libs/freetype						harfbuzz utils
 
+app-editors/emacs						imagemagick
+
 dev-python/cython						-emacs
 
 # Temporary
