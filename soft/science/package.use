@@ -6,6 +6,7 @@ dev-python/matplotlib						examples
 app-emacs/imaxima						examples
 sci-mathematics/scilab						examples doc
 sci-mathematics/octave						examples doc
+sci-mathematics/octave						graphicsmagick -imagemagick
 sci-mathematics/sage						doc wiki
 #sci-visualization/gri						examples doc
 

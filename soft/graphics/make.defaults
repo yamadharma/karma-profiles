@@ -19,7 +19,8 @@ netpbm \
 fpx \
 webp \
 animgif \
-graphicsmagick imagemagick \
+graphicsmagick \
 "
 
 # openvg \
+# imagemagick
