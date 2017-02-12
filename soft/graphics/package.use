@@ -23,5 +23,5 @@ media-gfx/geeqie						gpu-accel lua
 
 media-libs/libmypaint						gegl
 
-
+media-video/dvdauthor						graphicsmagick -imagemagick
 

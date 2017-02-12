@@ -1,7 +1,7 @@
 USE="xmp jpeg svg wmf jpeg2k \
 cairo \
 cgraph \
-graphviz dot imagemagick \
+graphviz dot \
 gnuplot visual \
 metric \
 png tiff \
@@ -19,6 +19,7 @@ netpbm \
 fpx \
 webp \
 animgif \
+graphicsmagick imagemagick \
 "
 
 # openvg \

@@ -111,7 +111,6 @@ tools \
 jasper \
 preview-latex \
 dhcp \
-imagemagick  \
 on-the-fly-crypt  \
 visualization \
 ocaml \
