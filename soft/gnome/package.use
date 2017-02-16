@@ -93,7 +93,7 @@ x11-libs/vte:2.90						-glade
 # depend on gstreamer-0.10
 =net-im/pidgin-2.10.6						-gstreamer
 net-misc/spice-gtk                      			-gstreamer
-=mail-client/thunderbird-45.7*					-gstreamer
+#=mail-client/thunderbird-45.7*					-gstreamer
 
 
 
