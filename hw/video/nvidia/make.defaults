@@ -1,3 +1,4 @@
 VIDEO_CARDS="nvidia"
 USE="cg \
+nvenc \
 "
