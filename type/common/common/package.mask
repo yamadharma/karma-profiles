@@ -200,3 +200,6 @@ app-emacs/reftex
 
 # due net-print/hplip-3.16.11-r1
 #=dev-python/reportlab-3*
+
+# For avoid conflicts with app-text/tidy-html5
+#app-text/htmltidy
