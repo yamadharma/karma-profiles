@@ -1,0 +1,12 @@
+--- a/CMakeLists.txt	2016-11-30 09:53:40.012570336 +0100
++++ b/CMakeLists.txt	2016-11-30 10:02:26.250567831 +0100
+@@ -3,6 +3,9 @@
+ if(POLICY CMP0011)
+    cmake_policy(SET CMP0011 NEW)
+ endif(POLICY CMP0011)
++if(POLICY CMP0054)
++   cmake_policy(SET CMP0054 NEW)
++endif(POLICY CMP0054)
+ 
+ # Make sure we look in our cmake folder for additional definitions
+ set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_SOURCE_DIR}/cmake )
