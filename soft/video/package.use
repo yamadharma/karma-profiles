@@ -63,7 +63,8 @@ app-misc/tracker				-ffmpeg
 =media-video/gpac-0.5.1_pre5456			-ffmpeg
 #=x11-wm/xpra-1.0*				-dec_av2 -x264 -x265
 
-
+# don't compile with ffmpeg-3
+=media-gfx/blender-2.72b-r4			-ffmpeg
 
 
 

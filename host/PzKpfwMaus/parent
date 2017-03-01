@@ -8,7 +8,7 @@
 ../../hw/platform/notebook
 ../../soft/qemu
 ../../soft/tracker
-../../soft/kvm
+../../soft/emulation/kvm
 ../../soft/p2p
 
 

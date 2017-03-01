@@ -3,6 +3,8 @@
 ../../hw/arch/core-i3/x86_64
 #../../hw/video/ati
 #../../hw/video/intel
-../../soft/qemu
 ../../soft/lxde
-../../soft/kvm
+../../soft/emulation/kvm
+../../soft/emulation/qemu
+../../soft/emulation/vmware
+

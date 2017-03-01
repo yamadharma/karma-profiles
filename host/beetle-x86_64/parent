@@ -4,10 +4,11 @@
 ../../hw/video/nvidia/gfx9000
 ../../hw/video/nvidia_free
 ../../hw/net/bluetooth
-../../soft/qemu
+../../soft/emulation/qemu
 ../../soft/tracker
 #../../soft/beagle
-../../soft/kvm
+../../soft/emulation/kvm
+../../soft/emulation/vmware
 ../../soft/p2p
 #../../soft/lirc
 # ../../soft/games/steam

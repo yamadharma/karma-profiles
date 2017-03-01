@@ -5,8 +5,8 @@
 ../../hw/net/bluetooth
 ../../hw/video/intel
 ../../soft/vnc
-../../soft/kvm
-../../soft/qemu
+../../soft/emulation/kvm
+../../soft/emulation/qemu
 
 
 

@@ -8,6 +8,7 @@
 ../../hw/video/nvidia_free
 ../../soft/xfce
 ../../soft/mpi
-../../soft/qemu
-../../soft/kvm
+../../soft/emulation/qemu
+../../soft/emulation/kvm
+../../soft/emulation/qemu
 

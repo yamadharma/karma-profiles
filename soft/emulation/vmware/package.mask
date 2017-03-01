@@ -1,0 +1,4 @@
+# patch error
+=app-emulation/vmware-modules-308.5.2*
+=app-emulation/vmware-player-12.5.2.4638234*
+
