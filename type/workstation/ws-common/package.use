@@ -57,6 +57,7 @@ sys-apps/systemd						gnuefi
 media-libs/freetype						harfbuzz utils
 
 app-editors/emacs						imagemagick
+app-editors/emacs						dynamic-loading
 
 dev-python/cython						-emacs
 
