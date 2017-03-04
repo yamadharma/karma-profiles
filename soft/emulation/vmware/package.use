@@ -1,3 +1,7 @@
-app-emulation/vmware-tools					vmware_guest_freebsd vmware_guest_linux vmware_guest_netware vmware_guest_solaris vmware_guest_winPre2k vmware_guest_windows
-app-emulation/vmware-player					bundled-libs ovftool
+app-emulation/vmware-tools					vmware_guest_linux vmware_guest_winPre2k vmware_guest_windows
+app-emulation/vmware-tools					-vmware_guest_freebsd -vmware_guest_netware -vmware_guest_solaris
+app-emulation/vmware-player					-bundled-libs
+app-emulation/vmware-player					ovftool
+app-emulation/vmware-workstation				ovftool
+
 

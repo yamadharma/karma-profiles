@@ -7,5 +7,7 @@ sys-libs/tdb							python
 dev-lang/python							tk
 
 dev-python/PyQt4						help script
+dev-python/PyQt5						help
+
 
 
