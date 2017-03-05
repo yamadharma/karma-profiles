@@ -91,4 +91,5 @@ sci-visualization/paraview					tcl coprocessing
 # Temporary
 #dev-python/pandas						-R
 
+=sci-libs/coinor-osi-0.106.6					-glpk
 
