@@ -1,0 +1,20 @@
+#!/bin/sh
+
+
+(cd /usr/local/share/portage/local; ./push; ./push compress)
+(cd /usr/local/share/portage/profiles; ./push; ./push compress)
+(cd /usr/portage; git stash; git clean -d -f; git pull; git fsck; git gc --aggressive --prune=now)
+
+chown -R portage:portage /usr/portage/
+chown -R portage:portage /usr/local/share/portage/
+
+# /usr/sbin/emaint sync -a
+
+#layman -f
+su - portage -s /bin/bash -c 'layman -S'
+#layman -a ALL
+
+eix-update
+
+cfg-update --optimize-backups
+

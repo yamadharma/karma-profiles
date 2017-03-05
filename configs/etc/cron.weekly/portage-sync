@@ -1,0 +1,3 @@
+#!/bin/sh
+
+su - portage -s /bin/bash -c '(cd /usr/portage/local/layman; ./pull_all compress)'
