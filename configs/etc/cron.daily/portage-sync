@@ -1,9 +1,9 @@
 #!/bin/sh
 
 
-(cd /usr/local/share/portage/local; ./push; ./push compress)
-(cd /usr/local/share/portage/profiles; ./push; ./push compress)
-(cd /usr/portage; git stash; git clean -d -f; git pull; git fsck; git gc --aggressive --prune=now)
+(cd /usr/local/share/portage/local; ./push)
+(cd /usr/local/share/portage/profiles; ./push)
+(cd /usr/portage; git stash; git clean -d -f; git pull)
 
 chown -R portage:portage /usr/portage/
 chown -R portage:portage /usr/local/share/portage/
