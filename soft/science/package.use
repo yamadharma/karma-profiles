@@ -88,6 +88,8 @@ sci-libs/vtk							smp tbb
 sci-visualization/paraview					tcl coprocessing
 # sci-visualization/paraview					python mpi
 
+dev-java/oracle-jdk-bin						javafx
+
 # Temporary
 #dev-python/pandas						-R
 
