@@ -1,4 +1,10 @@
 app-emulation/qemu					virtfs
 app-emulation/qemu					vhost-net
+app-emulation/qemu					python
+app-emulation/qemu					sdl2
+app-emulation/qemu					snappy
+app-emulation/qemu					usbredir 
+app-emulation/qemu					virgl
+app-emulation/qemu					tci
 
 =app-emulation/qemu-2.1.0				-nfs
