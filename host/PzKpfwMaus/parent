@@ -6,9 +6,9 @@
 ../../hw/video/intel
 ../../hw/net/bluetooth
 ../../hw/platform/notebook
-../../soft/qemu
 ../../soft/tracker
 ../../soft/emulation/kvm
+../../soft/emulation/qemu
 ../../soft/p2p
 
 
