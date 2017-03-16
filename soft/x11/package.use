@@ -71,4 +71,5 @@ media-video/mpv						-wayland
 dev-qt/qtgui:4						-egl
 dev-qt/qtwayland:4					-egl
 
+x11-wm/awesome						luajit
 
