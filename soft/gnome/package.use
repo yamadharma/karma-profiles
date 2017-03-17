@@ -54,6 +54,7 @@ media-video/totem						grilo
 gnome-base/gnome-menus						python
 gnome-base/gnome-core-libs					python
 app-editors/gedit						python
+app-editors/gedit						python_single_target_python3_4
 mail-client/evolution						python
 =app-misc/tomboy-1.8.0						-galago
 net-im/empathy							call
