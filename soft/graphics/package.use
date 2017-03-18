@@ -27,6 +27,6 @@ media-video/dvdauthor						graphicsmagick -imagemagick
 media-gfx/greycstoration					imagemagick
 
 virtual/imagemagick-tools					perl
-x11-misc/shutter						drawin
+x11-misc/shutter						drawing
 
 
