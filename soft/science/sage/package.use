@@ -46,3 +46,5 @@ sci-mathematics/sage						-html -pdf
 sci-mathematics/sage						-doc-html
 # sci-mathematics/sage						sagenb
 
+sci-libs/pynac							-giac
+

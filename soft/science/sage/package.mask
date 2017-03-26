@@ -35,7 +35,7 @@
 =sci-mathematics/maxima-5.36*
 =sci-mathematics/maxima-5.37*
 =sci-mathematics/maxima-5.38*
-=sci-mathematics/maxima-5.39*
+#=sci-mathematics/maxima-5.39*
 
 =sci-libs/pynac-0.4.2*
 =sci-libs/pynac-0.5.0*
@@ -56,7 +56,7 @@
 =sci-libs/pynac-0.7.2*
 #=sci-libs/pynac-0.7.3*
 =sci-libs/pynac-0.7.4*
-=sci-libs/pynac-0.7.5*
+#=sci-libs/pynac-0.7.5*
 
 #=dev-python/sympy-1.0*
 
@@ -81,8 +81,8 @@
 #=sci-mathematics/sage-data-polytopes_db-20120220
 #=sci-mathematics/flint-2.3*
 
-=sci-mathematics/gap-4.8.6*
-=sci-libs/libgap-4.8.6*
+#=sci-mathematics/gap-4.8.6*
+#=sci-libs/libgap-4.8.6*
 
 
 # =dev-python/pexpect-4.0*
@@ -96,7 +96,7 @@
 =sci-mathematics/pari-2.8_pre20160712*
 =sci-mathematics/pari-2.8.0_pre1*
 #=sci-mathematics/pari-2.8.0_alpha*
-=sci-mathematics/pari-2.9.1*
+#=sci-mathematics/pari-2.9.1*
 
 =dev-libs/ntl-9.6.4*
 #=dev-libs/ntl-9.7.0*
