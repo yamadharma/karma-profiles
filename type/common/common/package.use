@@ -224,6 +224,7 @@ net-nds/openldap						-gnutls
 net-print/cups							-gnutls
 net-libs/neon							-gnutls ssl
 =net-libs/liboauth-0.9.6					-curl
+net-libs/liboauth						-nss curl
 =app-forensics/sleuthkit-3.2.3					-ewf
 media-libs/libmetalink						-expat
 net-misc/curl							ssh
