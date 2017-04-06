@@ -1,4 +1,3 @@
-net-misc/curl							ssl -gnutls nss
 # Remove kde-3.5
 app-portage/cfg-update						-kde
 # USE clash
