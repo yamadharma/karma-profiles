@@ -285,7 +285,7 @@ xtom \
 hyperestraier \
 gecko \
 contrib \
-nss dhclient dhcpcd \
+dhclient dhcpcd \
 themes \
 cdrkit \
 upnp \
