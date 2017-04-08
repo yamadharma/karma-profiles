@@ -276,3 +276,7 @@ dev-libs/libpcre2						pcre32
 mail-client/mutt						berkdb -gdbm -lmdb -qdbm -tokyocabinet
 
 sys-process/audit						python
+
+app-text/poppler						nss
+app-crypt/qca							nss
+dev-libs/apr-util						nss

@@ -19,6 +19,7 @@ dev-lang/mercury				java
 app-emacs/ecb					java
 dev-java/bsh					bsf
 
+dev-java/icedtea-bin				nss
 
 
 
