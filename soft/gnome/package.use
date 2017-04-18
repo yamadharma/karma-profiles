@@ -53,6 +53,7 @@ net-im/empathy							gnome-online-accounts
 media-video/totem						grilo
 media-video/totem						python_single_target_python3_4
 media-sound/rhythmbox						python_single_target_python3_4
+dev-libs/libpeas						python_single_target_python3_4
 gnome-base/gnome-menus						python
 gnome-base/gnome-core-libs					python
 app-editors/gedit						python
