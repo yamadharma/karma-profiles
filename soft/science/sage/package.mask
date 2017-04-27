@@ -98,6 +98,7 @@
 =sci-mathematics/pari-2.8.0_pre1*
 #=sci-mathematics/pari-2.8.0_alpha*
 #=sci-mathematics/pari-2.9.1*
+=sci-mathematics/pari-2.9.2*
 
 =dev-libs/ntl-9.6.4*
 #=dev-libs/ntl-9.7.0*
@@ -154,4 +155,4 @@
 =dev-python/cysignals-1.5.0*
 =dev-python/cysignals-1.6.2*
 =dev-python/cysignals-1.6.3*
-
+=dev-python/cysignals-1.6.4*

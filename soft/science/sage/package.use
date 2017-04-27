@@ -45,6 +45,7 @@ sci-mathematics/sage						-bin-html
 sci-mathematics/sage						-html -pdf
 sci-mathematics/sage						-doc-html
 # sci-mathematics/sage						sagenb
+sci-mathematics/sage						libhomfly
 
 sci-libs/pynac							-giac
 
