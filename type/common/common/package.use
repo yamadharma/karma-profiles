@@ -283,3 +283,4 @@ dev-libs/apr-util						nss
 dev-libs/xmlsec							nss
 
 sys-libs/libcxx							libunwind
+sys-libs/libcxxrt						libunwind
