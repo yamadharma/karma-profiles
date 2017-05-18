@@ -281,3 +281,5 @@ app-text/poppler						nss
 app-crypt/qca							nss
 dev-libs/apr-util						nss
 dev-libs/xmlsec							nss
+
+sys-libs/libcxx							libunwind
