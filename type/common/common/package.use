@@ -284,3 +284,5 @@ dev-libs/xmlsec							nss
 
 sys-libs/libcxx							libunwind
 sys-libs/libcxxrt						libunwind
+sys-libs/libcxxabi						libunwind
+sys-libs/libcxx							libcxxabi -libcxxrt
