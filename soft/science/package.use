@@ -95,4 +95,6 @@ dev-java/oracle-jdk-bin						javafx
 
 =sci-libs/coinor-osi-0.106.6					-glpk
 
+sci-libs/openfoam						doc examples
+sci-libs/openfoam						opendx paraview
 
