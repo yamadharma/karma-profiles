@@ -97,4 +97,5 @@ dev-java/oracle-jdk-bin						javafx
 
 sci-libs/openfoam						doc examples
 sci-libs/openfoam						opendx paraview
+sci-visualization/paraview					development
 
