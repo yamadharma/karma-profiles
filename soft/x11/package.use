@@ -19,6 +19,7 @@ media-libs/mesa						gbm
 media-libs/mesa						d3d9
 # media-libs/mesa					-classic
 media-libs/mesa						xorg gallium
+media-libs/mesa						vulkan
 x11-libs/libdrm						libkms
 # media-libs/mesa						wayland
 
