@@ -286,3 +286,5 @@ sys-libs/libcxx							libunwind
 sys-libs/libcxxrt						libunwind
 sys-libs/libcxxabi						libunwind
 #sys-libs/libcxx							libcxxabi -libcxxrt
+
+net-libs/loudmouth						openssl
