@@ -288,3 +288,5 @@ sys-libs/libcxxabi						libunwind
 #sys-libs/libcxx							libcxxabi -libcxxrt
 
 net-libs/loudmouth						openssl
+
+sys-devel/gcc							gcj

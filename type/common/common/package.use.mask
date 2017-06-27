@@ -98,3 +98,4 @@ net-misc/rancid-git						cvs subversion
 # don't compile
 =dev-libs/boost-1.62*						tools
 
+=sys-devel/gcc-6* 						-gcj
