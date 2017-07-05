@@ -141,6 +141,7 @@
 =dev-python/sphinx-1.5.1*
 =dev-python/sphinx-1.5.2*
 =dev-python/sphinx-1.5.3*
+=dev-python/sphinx-1.6.3*
 
 #=dev-tex/sage-latex-3.0*
 
