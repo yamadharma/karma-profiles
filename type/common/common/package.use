@@ -290,3 +290,7 @@ sys-libs/libcxxabi						libunwind
 net-libs/loudmouth						openssl
 
 sys-devel/gcc							gcj
+
+net-misc/connman						l2tp openvpn pptp vpnc wispr openconnect
+net-misc/connman						iptables -nftables
+net-misc/connman-gtk						openconnect
