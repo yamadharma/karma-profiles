@@ -1,7 +1,52 @@
-#!/bin/sh
+#!/bin/bash
 
-su - portage -s /bin/bash -c '(cd /usr/local/share/portage/local; ./push compress)'
-su - portage -s /bin/bash -c '(cd /usr/local/share/portage/profiles; ./push compress)'
-su - portage -s /bin/bash -c '(cd /usr/portage; git stash; git clean -d -f; git fsck; git gc --aggressive --prune=now)'
+LAYMAN_DIR="$(portageq envvar LAYMAN_DIR)"
 
-su - portage -s /bin/bash -c '(cd /usr/portage/local/layman; ./pull_all compress)'
+# Сжатие git
+git_compress () {
+
+    CUR_DIR=$(pwd)
+    
+    if [[ -d .git ]]
+    then
+	echo -e "\033[1m""Compressing ${CUR_DIR}"; tput sgr0
+	
+	su - portage -s /bin/bash -p \
+	   -c '\
+	      git fsck;\
+	      git gc --prune=now;\
+	      git gc --aggressive --prune=now'
+    fi
+}
+
+git_compress_sub () {
+    
+    for i in *
+    do
+	if [[ -d $i ]]
+	then
+	    cd "$i"
+	    
+	    if [[ -d .git ]]
+	    then
+		echo -e "\033[1m""Compressing $i"; tput sgr0
+
+		su - portage \
+		   -s /bin/bash -p \
+		   -c '\
+		   git fsck;\
+		   git gc --prune=now;\
+		   git gc --aggressive --prune=now'
+	    fi
+	    
+	    cd ../
+	fi
+    done
+}
+
+(cd /usr/local/share/portage/local; git_compress)
+(cd /usr/local/share/portage/profiles; git_compress)
+(cd /usr/portage; git_compress)
+
+(cd ${LAYMAN_DIR}; git_compress_sub)
+
