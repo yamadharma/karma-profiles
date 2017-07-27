@@ -184,7 +184,7 @@ PORTAGE_ECLASS_WARNING_ENABLE="0"
 
 EMERGE_DEFAULT_OPTS="--quiet-build=n"
 
-RUBY_TARGETS="ruby21 ruby22 ruby23 -ruby24"
+#RUBY_TARGETS="ruby21 ruby22 ruby23 -ruby24"
 
 DRACUT_MODULES="lvm systemd"
 
