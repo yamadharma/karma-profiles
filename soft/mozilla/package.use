@@ -31,6 +31,8 @@ www-client/firefox					system-sqlite
 mail-client/thunderbird					system-sqlite
 
 
+www-client/firefox					hwaccel
+
 
 dev-java/oracle-jdk-bin					nsplugin
 dev-java/oracle-jre-bin					nsplugin
