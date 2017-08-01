@@ -10,5 +10,6 @@
 #>=sys-kernel/gentoo-sources-4.4
 >=sys-kernel/gentoo-sources-4.10
 >=sys-kernel/linux-headers-4.10
+>=sys-kernel/pf-sources-4.10
 
 
