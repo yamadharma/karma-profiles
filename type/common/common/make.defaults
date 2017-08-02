@@ -181,6 +181,8 @@ PORTAGE_ECLASS_WARNING_ENABLE="0"
 
 #FETCHCOMMAND="/usr/bin/aria2c -s 5 \${URI} --dir=\${DISTDIR}"
 #RESUMECOMMAND="/usr/bin/aria2c -s 5 \${URI} --dir=\${DISTDIR}"
+#FETCHCOMMAND="/usr/bin/curl -LO --connect-timeout 15 -# -o \${DISTDIR}/\${FILE} \${URI}"
+#RESUMECOMMAND="/usr/bin/curl -LO --connect-timeout 15 -# -C - -o \${DISTDIR}/\${FILE}\${URI}" 
 
 EMERGE_DEFAULT_OPTS="--quiet-build=n"
 
