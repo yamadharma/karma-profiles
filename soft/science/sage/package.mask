@@ -65,6 +65,7 @@
 =sci-libs/pynac-0.7.9*
 
 #=dev-python/sympy-1.0*
+=dev-python/sympy-1.1*
 
 #=dev-python/cython-0.22.1*
 #=dev-python/cython-0.23_beta*
@@ -79,7 +80,7 @@
 =dev-python/matplotlib-2.0.2*
 
 #=dev-python/ipython-3.0.0*
-#=dev-python/ipython-3.1.0*
+=dev-python/ipython-3.1.0*
 #=dev-python/ipython-4.0.0*
 =dev-python/ipython-5.0.0*
 #=dev-python/ipython-5.1.0*
@@ -141,7 +142,7 @@
 =dev-python/sphinx-1.5.1*
 =dev-python/sphinx-1.5.2*
 #=dev-python/sphinx-1.5.3*
-#=dev-python/sphinx-1.6.3*
+=dev-python/sphinx-1.6.3*
 
 #=dev-tex/sage-latex-3.0*
 
@@ -163,3 +164,5 @@
 =dev-python/cysignals-1.6.2*
 =dev-python/cysignals-1.6.3*
 =dev-python/cysignals-1.6.4*
+
+=sci-libs/cddlib-094h*
