@@ -2,7 +2,9 @@
 
 if [[ -d /com/lib/portage/extras/texlive ]]
 then
+    tlmgr update --repository=/com/lib/portage/extras/texlive --self
     tlmgr update --repository=/com/lib/portage/extras/texlive --all
 else
+    tlmgr update --self
     tlmgr update --all
 fi
