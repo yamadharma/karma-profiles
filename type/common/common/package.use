@@ -204,6 +204,8 @@ app-misc/gramps							-python_single_target_python3_5 python_single_target_pytho
 # samba
 sys-libs/ntdb							python
 net-fs/samba							client
+net-fs/samba							python
+
 =gnome-base/gnome-vfs-2.24.4*					-samba
 =media-video/ffmpeg-2.6*					-samba
 =media-video/ffmpeg-2.7*					-samba
