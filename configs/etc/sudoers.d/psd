@@ -1,0 +1,3 @@
+# Profile-sync-daemon
+ALL ALL=(ALL) NOPASSWD: /usr/bin/psd-overlay-helper
+
