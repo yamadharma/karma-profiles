@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Сжатие git
+git_compress () {
+
+    CUR_DIR=$(pwd)
+    
+    if [[ -d .git ]]
+    then
+	echo -e "\033[1m""Compressing ${CUR_DIR}"; tput sgr0
+	
+        git fsck;\
+	git gc --prune=now;\
+	git gc --aggressive --prune=now
+    fi
+}
+
+(cd /etc; git_compress)
+
