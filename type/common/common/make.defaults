@@ -65,6 +65,7 @@ samba \
 f2fs \
 gpg \
 berkdb \
+luajit \
 "
 
 # libressl \
