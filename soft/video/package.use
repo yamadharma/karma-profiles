@@ -67,5 +67,6 @@ app-misc/tracker				-ffmpeg
 # don't compile with ffmpeg-3
 =media-gfx/blender-2.72b-r4			-ffmpeg
 
+=media-libs/avidemux-plugins-2.6.20		-x264
 
 
