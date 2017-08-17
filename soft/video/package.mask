@@ -30,6 +30,6 @@
 =media-libs/opencv-3.1.0-r2
 
 # Compile problems
-=media-libs/avidemux-plugins-2.6.20*
-=media-libs/avidemux-core-2.6.20*
-=media-video/avidemux-2.6.20*
+#=media-libs/avidemux-plugins-2.6.20*
+#=media-libs/avidemux-core-2.6.20*
+#=media-video/avidemux-2.6.20*
