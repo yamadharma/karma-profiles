@@ -1,14 +1,10 @@
 ../../type/workstation/x86_64
+../../hw/arch/x86_64
 ../../hw/arch/core-i3/x86_64
-../../hw/video/ati
-../../soft/vnc
+#../../hw/video/ati
+#../../hw/video/intel
+#../../soft/lxde
 ../../soft/emulation/kvm
 ../../soft/emulation/qemu
-# ../../soft/kde3
-
-
-
-
-
-
+#../../soft/emulation/vmware
 
