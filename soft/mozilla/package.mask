@@ -1,3 +1,2 @@
-=www-client/firefox-bin-21.0
-=www-client/seamonkey-2.18_beta4
-
+# Compile error
+=mail-client/thunderbird-52.3.0
