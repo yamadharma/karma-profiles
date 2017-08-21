@@ -203,3 +203,6 @@ app-emacs/reftex
 
 # For avoid conflicts with app-text/tidy-html5
 #app-text/htmltidy
+
+# Temporary
+=net-print/hplip-3.17.7
