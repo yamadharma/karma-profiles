@@ -1,0 +1,11 @@
+--- a/cmake/GenerateExportHeader.cmake	2015-07-10 13:58:11.000000000 +0200
++++ b/cmake/GenerateExportHeader.cmake	2017-07-24 22:40:46.000000000 +0200
+@@ -162,7 +162,7 @@
+ macro(_test_compiler_hidden_visibility)
+ 
+   if(CMAKE_COMPILER_IS_GNUCXX)
+-    exec_program(${CMAKE_C_COMPILER} ARGS --version
++    exec_program(${CMAKE_C_COMPILER} ARGS -dumpversion
+       OUTPUT_VARIABLE _gcc_version_info)
+     string(REGEX MATCH "[345]\\.[0-9]\\.[0-9]"
+       _gcc_version "${_gcc_version_info}")
