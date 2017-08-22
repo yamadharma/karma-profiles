@@ -166,3 +166,5 @@
 =dev-python/cysignals-1.6.4*
 
 =sci-libs/cddlib-094h*
+
+=dev-python/ipywidgets-7.0.0*
