@@ -1,0 +1,4 @@
+#!/bin/bash
+
+git config --global http.https://github.com.proxy socks5://localhost:9050
+git config --global https.https://github.com.proxy.proxy socks5://localhost:9050
