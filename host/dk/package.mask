@@ -1,4 +1,5 @@
 # due openafs-kernel
->=sys-kernel/gentoo-sources-4.8
->=sys-kernel/linux-headers-4.8
+>=sys-kernel/gentoo-sources-4.12
+>=sys-kernel/linux-headers-4.12
+
 
