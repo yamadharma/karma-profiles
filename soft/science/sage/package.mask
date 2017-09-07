@@ -66,6 +66,7 @@
 =sci-libs/pynac-0.7.10*
 
 #=dev-python/sympy-1.0*
+=dev-python/sympy-1.0-r4
 =dev-python/sympy-1.1*
 
 #=dev-python/cython-0.22.1*
