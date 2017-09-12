@@ -39,31 +39,9 @@
 #=sci-mathematics/maxima-5.39*
 =sci-mathematics/maxima-5.40*
 
-=sci-libs/pynac-0.4.2*
-=sci-libs/pynac-0.5.0*
-=sci-libs/pynac-0.5.1*
-=sci-libs/pynac-0.5.2*
-=sci-libs/pynac-0.5.4*
-=sci-libs/pynac-0.6.1*
-#=sci-libs/pynac-0.6.2*
-=sci-libs/pynac-0.6.3*
-=sci-libs/pynac-0.6.4*
-#=sci-libs/pynac-0.6.5*
-#=sci-libs/pynac-0.6.7*
-=sci-libs/pynac-0.6.8*
-#=sci-libs/pynac-0.6.9*
-=sci-libs/pynac-0.6.91*
-=sci-libs/pynac-0.7.0*
-=sci-libs/pynac-0.7.1*
-=sci-libs/pynac-0.7.2*
-#=sci-libs/pynac-0.7.3*
-=sci-libs/pynac-0.7.4*
-#=sci-libs/pynac-0.7.5*
-=sci-libs/pynac-0.7.6*
-=sci-libs/pynac-0.7.7*
-#=sci-libs/pynac-0.7.8*
 =sci-libs/pynac-0.7.9*
 =sci-libs/pynac-0.7.10*
+=sci-libs/pynac-0.7.11*
 
 #=dev-python/sympy-1.0*
 =dev-python/sympy-1.0-r4
