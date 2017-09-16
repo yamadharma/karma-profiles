@@ -147,3 +147,5 @@
 =sci-libs/cddlib-094h*
 
 =dev-python/ipywidgets-7.0.0*
+
+=dev-python/cypari2-1.1*
