@@ -85,6 +85,7 @@
 #=sci-mathematics/pari-2.8.0_alpha*
 #=sci-mathematics/pari-2.9.1*
 =sci-mathematics/pari-2.9.2*
+=sci-mathematics/pari-2.10*
 
 =dev-libs/ntl-9.6.4*
 #=dev-libs/ntl-9.7.0*
