@@ -38,6 +38,7 @@
 =sci-mathematics/maxima-5.38*
 #=sci-mathematics/maxima-5.39*
 =sci-mathematics/maxima-5.40*
+=sci-mathematics/maxima-5.41*
 
 =sci-libs/pynac-0.7.9*
 =sci-libs/pynac-0.7.10*
