@@ -1,5 +1,6 @@
 dev-qt/qtwebkit:5		geolocation webchannel
 dev-qt/qtscript:5		scripttools
+dev-qt/qtgui:5			libinput
 
 
 
