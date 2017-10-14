@@ -301,3 +301,4 @@ sys-apps/systemd						libidn2
 
 net-print/cups-filters						pclm
 dev-libs/libpcre2						pcre16
+sys-apps/dbus							user-session
