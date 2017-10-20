@@ -153,3 +153,10 @@
 =dev-python/six-1.11*
 
 =sci-libs/fplll-5.2.0*
+
+=sci-mathematics/giac-1.4*
+=sci-mathematics/giac-1.4.9.15*
+
+=sci-libs/brial-1.1*
+
+=dev-python/rpy-2.9.0*
