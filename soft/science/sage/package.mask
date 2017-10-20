@@ -136,8 +136,6 @@
 
 #=sci-mathematics/gmp-ecm-7.0*
 
-=sci-libs/fplll-20160331
-
 #=dev-python/pkgconfig-1.2*
 
 =dev-cpp/eigen-3.3*
@@ -153,3 +151,5 @@
 
 =dev-python/cypari2-1.1*
 =dev-python/six-1.11*
+
+=sci-libs/fplll-5.2.0*
