@@ -47,6 +47,7 @@
 
 #=dev-python/sympy-1.0*
 =dev-python/sympy-1.0-r4
+=dev-python/sympy-1.0-r5
 =dev-python/sympy-1.1*
 
 #=dev-python/cython-0.22.1*
