@@ -153,7 +153,7 @@
 =dev-python/cypari2-1.1*
 =dev-python/six-1.11*
 
-=sci-libs/fplll-5.2.0*
+#=sci-libs/fplll-5.2.0*
 
 =sci-mathematics/giac-1.4*
 =sci-mathematics/giac-1.4.9.15*
