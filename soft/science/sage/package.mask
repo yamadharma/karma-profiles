@@ -159,5 +159,6 @@
 =sci-mathematics/giac-1.4.9.15*
 
 =sci-libs/brial-1.1*
+=sci-libs/brial-1.2*
 
 =dev-python/rpy-2.9.0*
