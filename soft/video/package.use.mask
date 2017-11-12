@@ -14,3 +14,4 @@ media-libs/mlt					qt3
 =net-misc/mediatomb-0.12.1			javascript
 media-tv/tvtime					-alsa
 
+#media-libs/avidemux-core 			-system-ffmpeg

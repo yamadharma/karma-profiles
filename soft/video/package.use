@@ -69,5 +69,7 @@ app-misc/tracker				-ffmpeg
 
 #=media-libs/avidemux-plugins-2.6.20		-x264
 
+#media-libs/avidemux-core			system-ffmpeg
+
 
 
