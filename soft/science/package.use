@@ -101,3 +101,5 @@ sci-visualization/paraview					development
 
 # sci-libs/vtk							all-modules
 sci-libs/vtk							gdal
+
+sci-visualization/qtiplot					-python -mono
