@@ -29,4 +29,5 @@ media-gfx/greycstoration					imagemagick
 virtual/imagemagick-tools					perl
 x11-misc/shutter						drawing
 
+media-gfx/krita							color-management qtmedia vc
 
