@@ -114,12 +114,12 @@ PORTDIR_OVERLAY="
 ${LAYMAN_DIR}/roslin 
 ${LAYMAN_DIR}/rion 
 ${LAYMAN_DIR}/moonrise 
-${LAYMAN_DIR}/sunrise 
 ${LAYMAN_DIR}/calculate 
-${LAYMAN_DIR}/389-ds 
 ${PORTDIR_OVERLAY} 
 /usr/local/share/portage/local/"
 
+# ${LAYMAN_DIR}/389-ds 
+# ${LAYMAN_DIR}/sunrise 
 # ${LAYMAN_DIR}/sabayon \
 # ${LAYMAN_DIR}/pure-funtoo \
 # ${LAYMAN_DIR}/zugaina \
