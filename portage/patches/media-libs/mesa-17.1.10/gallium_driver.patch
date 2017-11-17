@@ -1,0 +1,30 @@
+diff --git a/src/gallium/auxiliary/gallivm/lp_bld_misc.cpp b/src/gallium/auxiliary/gallivm/lp_bld_misc.cpp
+index 2a388cbfaf2..0e4a5310897 100644
+--- a/src/gallium/auxiliary/gallivm/lp_bld_misc.cpp
++++ b/src/gallium/auxiliary/gallivm/lp_bld_misc.cpp
+@@ -342,14 +342,20 @@ class DelegatingJITMemoryManager : public BaseMemoryManager {
+       virtual void registerEHFrames(uint8_t *Addr, uint64_t LoadAddr, size_t Size) {
+          mgr()->registerEHFrames(Addr, LoadAddr, Size);
+       }
+-      virtual void deregisterEHFrames(uint8_t *Addr, uint64_t LoadAddr, size_t Size) {
+-         mgr()->deregisterEHFrames(Addr, LoadAddr, Size);
+-      }
+ #else
+       virtual void registerEHFrames(llvm::StringRef SectionData) {
+          mgr()->registerEHFrames(SectionData);
+       }
+ #endif
++#if HAVE_LLVM >= 0x0500
++      virtual void deregisterEHFrames() {
++         mgr()->deregisterEHFrames();
++      }
++#elif HAVE_LLVM >= 0x0304
++      virtual void deregisterEHFrames(uint8_t *Addr, uint64_t LoadAddr, size_t Size) {
++         mgr()->deregisterEHFrames(Addr, LoadAddr, Size);
++      }
++#endif
+       virtual void *getPointerToNamedFunction(const std::string &Name,
+                                               bool AbortOnFailure=true) {
+          return mgr()->getPointerToNamedFunction(Name, AbortOnFailure);
+
+
