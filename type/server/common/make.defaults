@@ -76,7 +76,7 @@ cgi xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
 iconv inifile bcmath pcntl flatfile \
 sharedext wddx \
 dba cli \
-mod_pubsub mod_irc mod_muc web \
+mod_pubsub mod_irc mod_muc \
 mime \
 fuse \
 filter nfs \
