@@ -17,8 +17,7 @@
 #=sci-libs/linbox-1.4*
 =sci-libs/linbox-1.5*
 
-=sci-libs/givaro-3.3*
-#=sci-libs/givaro-4*
+=sci-libs/givaro-4.0.4*
 
 #=sci-mathematics/singular-4.0*
 =sci-mathematics/singular-4.0.3_p4
