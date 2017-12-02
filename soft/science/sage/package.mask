@@ -131,6 +131,7 @@
 =dev-libs/ntl-9.6.2-r1
 
 #=sci-libs/fflas-ffpack-2.2*
+=sci-libs/fflas-ffpack-2.3*
 
 #=sci-libs/libsingular-3.1.7_p1-r8
 
