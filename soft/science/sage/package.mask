@@ -14,8 +14,8 @@
 # need dev-python/numpy-1.9.1
 =dev-python/bottleneck-1*
 
-=sci-libs/linbox-1.1.7
 #=sci-libs/linbox-1.4*
+=sci-libs/linbox-1.5*
 
 =sci-libs/givaro-3.3*
 #=sci-libs/givaro-4*
@@ -44,6 +44,7 @@
 =sci-libs/pynac-0.7.10*
 =sci-libs/pynac-0.7.11*
 =sci-libs/pynac-0.7.12*
+=sci-libs/pynac-0.7.13*
 
 #=dev-python/sympy-1.0*
 =dev-python/sympy-1.0-r4
