@@ -15,7 +15,7 @@ kde-apps/kalzium:5						solver editor
 =kde-apps/kalzium-17.04*					-solver -editor
 
 # needed for kde-apps/kremotecontrol
-app-misc/lirc							python_single_target_python3_4
+app-misc/lirc							python_single_target_python3_5
 
 kde-apps/kdepim-meta						google
 

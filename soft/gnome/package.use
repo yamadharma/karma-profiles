@@ -51,13 +51,13 @@ net-misc/networkmanager						connection-sharing
 dev-libs/folks							socialweb
 net-im/empathy							gnome-online-accounts
 media-video/totem						grilo
-media-video/totem						python_single_target_python3_4
-media-sound/rhythmbox						python_single_target_python3_4
-dev-libs/libpeas						python_single_target_python3_4
+media-video/totem						python_single_target_python3_5
+media-sound/rhythmbox						python_single_target_python3_5
+dev-libs/libpeas						python_single_target_python3_5
 gnome-base/gnome-menus						python
 gnome-base/gnome-core-libs					python
 app-editors/gedit						python
-app-editors/gedit						python_single_target_python3_4
+app-editors/gedit						python_single_target_python3_5
 mail-client/evolution						python
 =app-misc/tomboy-1.8.0						-galago
 net-im/empathy							call
@@ -78,7 +78,7 @@ net-misc/vinagre						rdp
 net-misc/networkmanager						modemmanager
 gnome-base/gvfs							google
 
-media-sound/gnome-music						-python_single_target_python3_3 python_single_target_python3_4
+media-sound/gnome-music						-python_single_target_python3_3 python_single_target_python3_5
 
 # temporary
 net-wireless/gnome-bluetooth					-sendto

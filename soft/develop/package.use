@@ -9,8 +9,8 @@ dev-vcs/subversion						webdav-serf
 
 kde-apps/kdesdk-kioslaves					-subversion
 
-dev-util/eric:5							-python_single_target_python2_7 python_single_target_python3_4
-dev-util/eric:6							-python_single_target_python2_7 python_single_target_python3_4
+dev-util/eric:5							-python_single_target_python2_7 python_single_target_python3_5
+dev-util/eric:6							-python_single_target_python2_7 python_single_target_python3_5
 
 #sys-devel/llvm							LLVM_TARGETS: *
 #sys-devel/clang							LLVM_TARGETS: *

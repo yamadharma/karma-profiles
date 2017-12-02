@@ -199,7 +199,7 @@ dev-python/pandas						html
 
 sys-auth/consolekit						cgroups
 
-app-misc/gramps							-python_single_target_python3_5 python_single_target_python3_4
+app-misc/gramps							python_single_target_python3_5
 
 # samba
 sys-libs/ntdb							python
