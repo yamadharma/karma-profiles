@@ -26,6 +26,7 @@ sci-mathematics/fricas							gmp
 =sci-mathematics/sage-doc-6.2						pdf
 
 sci-libs/vtk                                                  		smp
+dev-python/matplotlib							qt4 gtk2
 
 
 
