@@ -1,11 +1,5 @@
 # For sage
 
-#=dev-python/networkx-1.3*
-#=dev-python/networkx-1.4*
-#=dev-python/networkx-1.5*
-#=dev-python/networkx-1.7*
-#=dev-python/networkx-1.8*
-
 =dev-python/mpmath-0.16*
 
 =sci-libs/hdf5-1.8.6*
@@ -14,7 +8,6 @@
 # need dev-python/numpy-1.9.1
 =dev-python/bottleneck-1*
 
-#=sci-libs/linbox-1.4*
 =sci-libs/linbox-1.5*
 
 =sci-libs/givaro-4.0.4*
@@ -42,13 +35,13 @@
 =sci-libs/pynac-0.7.9*
 =sci-libs/pynac-0.7.10*
 =sci-libs/pynac-0.7.11*
-=sci-libs/pynac-0.7.12*
+#=sci-libs/pynac-0.7.12*
 =sci-libs/pynac-0.7.13*
 
 #=dev-python/sympy-1.0*
 =dev-python/sympy-1.0-r4
 =dev-python/sympy-1.0-r5
-=dev-python/sympy-1.1*
+#=dev-python/sympy-1.1*
 
 #=dev-python/cython-0.22.1*
 #=dev-python/cython-0.23_beta*
@@ -67,7 +60,7 @@
 #=dev-python/ipython-5.1.0*
 =dev-python/ipython-6.1.0*
 
-=sci-mathematics/sage-data-polytopes_db-20170220*
+#=sci-mathematics/sage-data-polytopes_db-20170220*
 
 #=sci-mathematics/gap-4.8.6*
 #=sci-libs/libgap-4.8.6*
@@ -86,7 +79,7 @@
 #=sci-mathematics/pari-2.8.0_alpha*
 #=sci-mathematics/pari-2.9.1*
 =sci-mathematics/pari-2.9.2*
-=sci-mathematics/pari-2.10*
+#=sci-mathematics/pari-2.10*
 
 =dev-libs/ntl-9.6.4*
 #=dev-libs/ntl-9.7.0*
@@ -123,7 +116,7 @@
 =dev-python/sphinx-1.5.1*
 =dev-python/sphinx-1.5.2*
 #=dev-python/sphinx-1.5.3*
-=dev-python/sphinx-1.6.3*
+#=dev-python/sphinx-1.6.3*
 
 #=dev-tex/sage-latex-3.0*
 
@@ -149,8 +142,8 @@
 
 =dev-python/ipywidgets-7.0.0*
 
-=dev-python/cypari2-1.1*
-=dev-python/six-1.11*
+#=dev-python/cypari2-1.1*
+#=dev-python/six-1.11*
 
 #=sci-libs/fplll-5.2.0*
 
@@ -158,6 +151,6 @@
 =sci-mathematics/giac-1.4.9.15*
 
 =sci-libs/brial-1.1*
-=sci-libs/brial-1.2*
+#=sci-libs/brial-1.2*
 
 =dev-python/rpy-2.9.0*
