@@ -24,7 +24,7 @@ dev-python/PyQt5					widgets printsupport
 net-libs/telepathy-qt					farstream
 
 
-media-video/vlc						qt4 -qt5
+#media-video/vlc						qt4 -qt5
 dev-util/cmake						-qt4 qt5
 dev-libs/quazip						qt4 -qt5
 #media-video/mkvtoolnix					-qt5
