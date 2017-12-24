@@ -206,3 +206,6 @@ app-emacs/reftex
 
 # Temporary
 =net-print/hplip-3.17.7
+
+# Patch problem
+=media-libs/speexdsp_rc3-r2
