@@ -208,4 +208,4 @@ app-emacs/reftex
 =net-print/hplip-3.17.7
 
 # Patch problem
-=media-libs/speexdsp_rc3-r2
+=media-libs/speexdsp-1.2_rc3-r2
