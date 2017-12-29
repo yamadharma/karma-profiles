@@ -35,3 +35,6 @@
 # =dev-haskell/conduit-1.2*
 
 #=dev-lang/ghc-7.10.2
+
+# For dev-lang/ghc-8.0.2
+=app-admin/haskell-updater-1.3*
