@@ -1,7 +1,7 @@
 USE="\
 afs"
 
-VIDEO_CARDS="intel sis radeon nouveau"
+#VIDEO_CARDS="intel sis radeon nouveau"
 
 EVCS_OFFLINE=1
 
