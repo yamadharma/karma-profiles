@@ -52,7 +52,7 @@
 #=sci-libs/m4ri-20130416
 
 =dev-python/matplotlib-2.0*
-=dev-python/matplotlib-2.1*
+#=dev-python/matplotlib-2.1*
 
 #=dev-python/ipython-3.0.0*
 =dev-python/ipython-3.1.0*
