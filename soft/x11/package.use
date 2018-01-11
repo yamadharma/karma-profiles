@@ -75,3 +75,4 @@ dev-qt/qtwayland:4					-egl
 
 x11-wm/awesome						luajit
 
+dev-libs/efl						egl gles
