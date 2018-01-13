@@ -97,3 +97,5 @@ dev-java/xmlgraphics-commons:1
 # scilab compile problem
 =dev-java/xml-commons-external-1.4.01-r1
 
+# For QtiPlot
+=dev-libs/quazip-0.7.3-r1
