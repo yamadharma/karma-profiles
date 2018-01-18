@@ -89,6 +89,7 @@ dev-java/xmlgraphics-commons:1
 =dev-python/aiohttp-2.2*
 =dev-python/aiohttp-2.3*
 
+=dev-python/yarl-0.10*
 =dev-python/yarl-0.14*
 
 # name mismatch Bug 596734
