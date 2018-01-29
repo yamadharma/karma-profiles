@@ -76,3 +76,7 @@ dev-qt/qtwayland:4					-egl
 x11-wm/awesome						luajit
 
 dev-libs/efl						egl gles
+
+mate-base/mate-control-center				appindicator
+mate-base/mate-applets-meta				appindicator
+mate-extra/mate-polkit					accountsservice appindicator
