@@ -10,7 +10,7 @@ compiz-fusion \
 pcf \
 cleartype \
 lcdfilter \
-gtk gtk2 gtk3 \
+gtk gtk3 \
 xrender \
 afterimage \
 iso14755 \
@@ -32,3 +32,4 @@ dri3
 
 # gles gles2 \
 # egl \
+# gtk2
