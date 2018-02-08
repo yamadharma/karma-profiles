@@ -80,3 +80,6 @@ dev-libs/efl						egl gles
 mate-base/mate-control-center				appindicator
 mate-base/mate-applets-meta				appindicator
 mate-extra/mate-polkit					accountsservice appindicator
+
+x11-misc/lightdm-gtk-greeter				ayatana
+
