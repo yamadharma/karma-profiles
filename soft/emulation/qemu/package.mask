@@ -1,7 +1,6 @@
-# due app-emulation/qemu-2.0.0:0/0::gentoo
-# =sys-firmware/seabios-1.7.4
-# =sys-firmware/seabios-1.7.5
-# =sys-firmware/seabios-1.10.2*
+# due app-emulation/qemu-2.11.0:0/0::gentoo
+=sys-firmware/seabios-1.11.0*
+=sys-firmware/ipxe-1.0.0_p20180211
 
 
 
