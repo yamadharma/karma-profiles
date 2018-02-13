@@ -157,3 +157,5 @@
 #=sci-libs/brial-1.2*
 
 =dev-python/rpy-2.9.0*
+
+=dev-python/cypari2-1.1.4*
