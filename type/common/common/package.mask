@@ -209,3 +209,6 @@ app-emacs/reftex
 
 # Patch problem
 =media-libs/speexdsp-1.2_rc3-r2
+
+# dependency problem 
+=dev-cpp/gtest-1.8.0*
