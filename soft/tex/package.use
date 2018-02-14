@@ -182,3 +182,6 @@ app-text/texlive		epspdf metapost texi2html
 
 dev-tex/biblatex	doc examples
 app-text/dblatex	inkscape
+
+media-sound/lilypond	guile2
+
