@@ -5,8 +5,6 @@ sci-mathematics/maxima						ecls -sbcl
 sci-mathematics/maxima						clisp
 sci-libs/linbox							ntl sage
 sci-mathematics/polybori					sage singular
-dev-python/sympy						imaging ipython mathml
-#dev-python/sympy						texmacs
 sci-libs/flint							qs
 
 dev-lisp/ecls							precisegc
