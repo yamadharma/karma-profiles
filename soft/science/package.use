@@ -27,7 +27,8 @@ sci-mathematics/polybori					sage singular
 
 dev-python/sympy						imaging ipython mathml
 #dev-python/sympy						texmacs
-dev-python/sympy						symengine theano
+#dev-python/sympy						symengine
+dev-python/sympy						theano
 
 sci-libs/flint							qs
 

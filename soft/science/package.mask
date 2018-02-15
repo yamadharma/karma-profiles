@@ -100,3 +100,5 @@ dev-java/xmlgraphics-commons:1
 
 # For QtiPlot
 =dev-libs/quazip-0.7.3-r1
+
+=sci-libs/symengine-9999
