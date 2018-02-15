@@ -24,7 +24,7 @@ sci-mathematics/maxima						ecl -sbcl
 sci-mathematics/maxima						clisp
 sci-libs/linbox							ntl sage
 sci-mathematics/polybori					sage singular
-dev-python/sympy						imaging ipython mathml texmacs
+#dev-python/sympy						imaging ipython mathml texmacs
 sci-libs/flint							qs
 
 dev-lisp/ecls							precisegc
