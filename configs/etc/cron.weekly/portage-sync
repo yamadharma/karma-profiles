@@ -1,0 +1,9 @@
+#!/bin/sh
+
+chown -R portage:portage /usr/portage/
+chown -R portage:portage /usr/local/share/portage/
+
+chown -R portage:portage /com/lib/portage
+find /com/lib/portage/packages/ -type f -exec chmod 644 "{}" \;
+find /com/lib/portage/packages/ -type d -exec chmod 755 "{}" \;
+
