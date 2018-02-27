@@ -18,7 +18,7 @@
 #=sci-mathematics/singular-4.1.0*
 =sci-mathematics/singular-4.1.0_p2*
 #=sci-mathematics/singular-4.1.0_p3*
-=sci-mathematics/singular-4.1*
+=sci-mathematics/singular-4.1.1*
 
 
 
