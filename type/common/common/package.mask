@@ -209,3 +209,6 @@ app-emacs/reftex
 
 # Patch problem
 =media-libs/speexdsp-1.2_rc3-r2
+
+#=media-libs/freetype-2.9*
+#=media-libs/freetype-2.10*
