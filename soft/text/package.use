@@ -20,4 +20,7 @@ app-office/scribus						scripts
 
 app-text/sigil							python_single_target_python3_5
 
+app-editors/emacs-vcs						dynamic-loading
+app-editors/emacs						dynamic-loading
+
 
