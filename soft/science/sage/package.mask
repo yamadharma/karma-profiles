@@ -53,6 +53,7 @@
 #=dev-python/cython-0.23_beta*
 =dev-python/cython-0.25.1*
 #=dev-python/cython-0.25.2*
+=dev-python/cython-0.28.1*
 
 #=sci-libs/m4ri-20130416
 
@@ -127,6 +128,8 @@
 =dev-python/sphinx-1.6.5*
 =dev-python/sphinx-1.6.6*
 =dev-python/sphinx-1.6.7*
+=dev-python/sphinx-1.7.1*
+
 
 #=dev-tex/sage-latex-3.0*
 
