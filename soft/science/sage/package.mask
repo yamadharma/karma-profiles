@@ -43,6 +43,8 @@
 =sci-libs/pynac-0.7.15*
 =sci-libs/pynac-0.7.16*
 =sci-libs/pynac-0.7.17*
+=sci-libs/pynac-0.7.18*
+=sci-libs/pynac-0.7.19*
 
 #=dev-python/sympy-1.0*
 =dev-python/sympy-1.0-r4
@@ -150,6 +152,7 @@
 =dev-python/cysignals-1.6.2*
 =dev-python/cysignals-1.6.3*
 =dev-python/cysignals-1.6.4*
+=dev-python/cysignals-1.7.0*
 
 =sci-libs/cddlib-094h*
 
