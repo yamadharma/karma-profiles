@@ -33,3 +33,6 @@
 #=media-libs/avidemux-plugins-2.6.20*
 #=media-libs/avidemux-core-2.6.20*
 #=media-video/avidemux-2.6.20*
+
+# Compile problem
+=media-video/handbrake-1.1.0
