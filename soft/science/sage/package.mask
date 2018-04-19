@@ -153,6 +153,7 @@
 =dev-python/cysignals-1.6.3*
 =dev-python/cysignals-1.6.4*
 =dev-python/cysignals-1.7.0*
+=dev-python/cysignals-1.7.1*
 
 =sci-libs/cddlib-094h*
 
