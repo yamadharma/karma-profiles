@@ -102,3 +102,6 @@ dev-java/xmlgraphics-commons:1
 =dev-libs/quazip-0.7.3-r1
 
 =sci-libs/symengine-9999
+
+# Need Qt-5.10
+=sci-misc/mendeleydesktop-1.18*
