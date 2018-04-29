@@ -56,6 +56,7 @@
 =dev-python/cython-0.25.1*
 #=dev-python/cython-0.25.2*
 =dev-python/cython-0.28.1*
+=dev-python/cython-0.28.2*
 
 #=sci-libs/m4ri-20130416
 
