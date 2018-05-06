@@ -29,6 +29,7 @@ media-video/ffmpeg				libv4l v4l
 media-video/ffmpeg				openssl
 media-video/ffmpeg				snappy
 media-video/ffmpeg				rubberband zimg chromaprint
+media-video/ffmpeg				libdrm
 
 media-libs/libbluray				java 
 media-libs/libbluray				utils static-libs
