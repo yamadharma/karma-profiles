@@ -1,5 +1,8 @@
 dev-lang/php					mysqlnd mysql mysqli
-dev-db/mariadb							big-tables community extraengine libevent
-# dev-db/mariadb							pbxt
+dev-db/mariadb					big-tables community extraengine libevent
+#dev-db/mariadb					pbxt
+dev-db/mariadb					innodb-lz4 innodb-lzo innodb-snappy
+dev-db/mariadb					jdbc odbc
+
 
 
