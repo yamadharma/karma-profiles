@@ -109,6 +109,7 @@ sys-boot/grub							efiemu
 media-libs/freetype						static-libs
 sys-fs/udev							edd floppy gudev hwdb keymap
 sys-libs/ncurses						static-libs
+sys-libs/ncurses:5						tinfo
 dev-libs/cyrus-sasl						openldap
 sys-fs/ntfs3g							acl crypt external-fuse udev xattr ntfsprogs
 sys-fs/ntfs3g							extras
