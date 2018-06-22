@@ -20,7 +20,7 @@ app-text/tesseract						en ru de fr es
 app-text/docbook-xsl-ns-stylesheets				ruby
 app-office/scribus						scripts
 
-app-text/sigil							python_single_target_python3_5
+#app-text/sigil							python_single_target_python3_6
 
 app-editors/emacs-vcs						dynamic-loading
 app-editors/emacs						dynamic-loading
