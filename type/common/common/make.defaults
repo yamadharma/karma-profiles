@@ -194,7 +194,7 @@ PORTAGE_NICENESS=5
 
 # Temporary
 PYTHON_TARGETS="${PYTHON_TARGETS} python3_5"
-#PYTHON_SINGLE_TARGET="python2_7"
+PYTHON_SINGLE_TARGET="python3_5"
 
 GRUB_PLATFORMS="efi efi-64 emu multiboot pc coreboot"
 
