@@ -8,9 +8,9 @@
 # need dev-python/numpy-1.9.1
 =dev-python/bottleneck-1*
 
-=sci-libs/linbox-1.5*
+#=sci-libs/linbox-1.5*
 
-=sci-libs/givaro-4.0.4*
+#=sci-libs/givaro-4.0.4*
 
 #=sci-mathematics/singular-4.0*
 =sci-mathematics/singular-4.0.3_p4
@@ -37,7 +37,7 @@
 =sci-libs/pynac-0.7.13*
 =sci-libs/pynac-0.7.14*
 =sci-libs/pynac-0.7.15*
-=sci-libs/pynac-0.7.16*
+#=sci-libs/pynac-0.7.16*
 =sci-libs/pynac-0.7.17*
 =sci-libs/pynac-0.7.18*
 =sci-libs/pynac-0.7.19*
@@ -54,7 +54,7 @@
 =dev-python/cython-0.25.1*
 #=dev-python/cython-0.25.2*
 =dev-python/cython-0.28.1*
-=dev-python/cython-0.28.2*
+#=dev-python/cython-0.28.2*
 
 #=sci-libs/m4ri-20130416
 
@@ -125,7 +125,7 @@
 =dev-libs/ntl-9.6.2-r1
 
 #=sci-libs/fflas-ffpack-2.2*
-=sci-libs/fflas-ffpack-2.3*
+#=sci-libs/fflas-ffpack-2.3*
 
 #=sci-libs/libsingular-3.1.7_p1-r8
 
@@ -144,21 +144,19 @@
 
 =sci-libs/cddlib-094h*
 
-=dev-python/ipywidgets-7.0.0*
+#=dev-python/ipywidgets-7.0.0*
 
 #=dev-python/cypari2-1.1*
 #=dev-python/six-1.11*
 
 #=sci-libs/fplll-5.2.0*
 
-=sci-mathematics/giac-1.4*
+#=sci-mathematics/giac-1.4*
 =sci-mathematics/giac-1.4.9.15*
 
 =sci-libs/brial-1.1*
 #=sci-libs/brial-1.2*
 
 =dev-python/rpy-2.9.0*
-
-=dev-python/cypari2-1.1.4*
 
 =sci-mathematics/gfan-0.6*
