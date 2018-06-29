@@ -10,4 +10,4 @@
 =media-libs/mesa-8.1_rc1*
 
 ## hplip-plugin-3.18.6 absent 
-==net-print/hplip-plugin-3.18.6
+=net-print/hplip-plugin-3.18.6
