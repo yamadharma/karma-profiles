@@ -307,3 +307,4 @@ sys-apps/dbus							user-session
 net-wireless/bluez						user-session
 
 app-admin/keepassxc						network autotype browser
+app-admin/rsyslog						-gnutls openssl
