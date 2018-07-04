@@ -3,4 +3,9 @@ app-emulation/wine-staging		dos
 app-emulation/wine-d3d9			dos
 app-emulation/wine-staging		s3tc
 
+app-emulation/wine-vanilla		-opencl
+app-emulation/wine-staging		-opencl
+app-emulation/wine-d3d9			-opencl
+app-emulation/wine-staging		-opencl
+
 
