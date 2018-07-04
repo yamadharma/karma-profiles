@@ -20,9 +20,9 @@ media-libs/mesa						d3d9
 # media-libs/mesa					-classic
 media-libs/mesa						xorg gallium
 # media-libs/mesa						vulkan
-media-libs/mesa						opencl openmax
+media-libs/mesa						openmax
 x11-libs/libdrm						libkms
-# media-libs/mesa						wayland
+# media-libs/mesa					wayland
 
 
 x11-libs/cairo						X opengl svg xcb drm gallium 
