@@ -83,3 +83,6 @@ mate-extra/mate-polkit					accountsservice appindicator
 
 x11-misc/lightdm-gtk-greeter				ayatana
 
+media-libs/mesa						osmesa
+
+
