@@ -90,6 +90,7 @@
 =sci-mathematics/pari-2.9.2*
 #=sci-mathematics/pari-2.10*
 =sci-mathematics/pari-2.10.0_pre20170914-r2
+=sci-mathematics/pari-2.10.1_beta
 
 =dev-libs/ntl-9.6.4*
 #=dev-libs/ntl-9.7.0*
@@ -142,7 +143,8 @@
 =dev-python/cysignals-1.7.0*
 #=dev-python/cysignals-1.7.1*
 
-=sci-libs/cddlib-094h*
+#=sci-libs/cddlib-094h*
+=sci-libs/cddlib-094j*
 
 #=dev-python/ipywidgets-7.0.0*
 
