@@ -32,7 +32,7 @@
 =sci-mathematics/maxima-5.38*
 #=sci-mathematics/maxima-5.39*
 =sci-mathematics/maxima-5.40*
-=sci-mathematics/maxima-5.41*
+#=sci-mathematics/maxima-5.41*
 
 =sci-libs/pynac-0.7.13*
 =sci-libs/pynac-0.7.14*
@@ -42,7 +42,7 @@
 =sci-libs/pynac-0.7.18*
 =sci-libs/pynac-0.7.19*
 =sci-libs/pynac-0.7.20*
-=sci-libs/pynac-0.7.22*
+#=sci-libs/pynac-0.7.22*
 
 #=dev-python/sympy-1.0*
 =dev-python/sympy-1.0-r4
@@ -118,7 +118,7 @@
 =dev-python/sphinx-1.6.6*
 =dev-python/sphinx-1.6.7*
 =dev-python/sphinx-1.7.1*
-=dev-python/sphinx-1.7.5*
+#=dev-python/sphinx-1.7.5*
 
 
 #=dev-tex/sage-latex-3.0*
@@ -161,4 +161,4 @@
 
 =dev-python/rpy-2.9.0*
 
-=sci-mathematics/gfan-0.6*
+=sci-mathematics/gfan-0.6.1*
