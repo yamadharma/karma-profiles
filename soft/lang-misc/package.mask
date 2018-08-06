@@ -16,11 +16,11 @@
 #=dev-tcltk/itcl-4*
 
 # Проблемы с зависимостями
-=dev-lisp/uiop-3.1.4
-=dev-lisp/asdf-3.1.4
-=dev-lisp/uiop-3.1.5
-=dev-lisp/asdf-3.1.5
-=dev-lisp/uiop-3.1.6
-=dev-lisp/asdf-3.1.6
-=dev-lisp/uiop-3.1.7
-=dev-lisp/asdf-3.1.7
+#=dev-lisp/uiop-3.1.4
+#=dev-lisp/asdf-3.1.4
+#=dev-lisp/uiop-3.1.5
+#=dev-lisp/asdf-3.1.5
+#=dev-lisp/uiop-3.1.6
+#=dev-lisp/asdf-3.1.6
+#=dev-lisp/uiop-3.1.7
+#=dev-lisp/asdf-3.1.7
