@@ -29,6 +29,7 @@ john \
 gzip \
 zip unzip \
 bzip2 7zip \
+zstd \
 radvd \
 psf \
 ipv6 \
