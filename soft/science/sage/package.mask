@@ -161,3 +161,4 @@
 =dev-python/rpy-2.9.0*
 
 =sci-mathematics/gfan-0.6.1*
+=sci-mathematics/arb-2.14*
