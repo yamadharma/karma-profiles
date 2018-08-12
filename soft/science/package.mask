@@ -105,7 +105,7 @@ dev-java/xmlgraphics-commons:1
 =sci-libs/symengine-9999
 
 # Need Qt-5.10
-=sci-misc/mendeleydesktop-1.18*
+#=sci-misc/mendeleydesktop-1.18*
 
 # problems with jupyter-notebook
 =dev-python/html5lib-1.0.1*
