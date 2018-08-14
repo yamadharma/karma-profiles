@@ -203,3 +203,6 @@ app-emacs/reftex
 
 #=media-libs/freetype-2.9*
 #=media-libs/freetype-2.10*
+
+## Bug 663566 - dev-java/oracle-jdk-bin-1.8.0.181 misses the derby db
+=dev-java/oracle-jdk-bin-1.8.0.181
