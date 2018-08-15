@@ -311,3 +311,5 @@ app-admin/keepassxc						network autotype browser
 app-admin/rsyslog						-gnutls openssl
 sys-fs/udisks							vdo
 sys-libs/libblockdev						vdo
+sys-libs/libblockdev						bcache dmraid kbd 
+sys-libs/libblockdev						cryptsetup escrow
