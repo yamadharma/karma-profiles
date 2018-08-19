@@ -109,3 +109,6 @@ dev-java/xmlgraphics-commons:1
 
 # problems with jupyter-notebook
 =dev-python/html5lib-1.0.1*
+
+# Need dev-python/html5lib-0.999999999
+=dev-python/bleach-2.1.3
