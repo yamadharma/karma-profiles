@@ -3,13 +3,9 @@
 >=media-video/nvidia-settings-341.0
 >=dev-util/nvidia-cuda-toolkit-6.5.15
 
-# Temporary masked
-#=x11-base/xorg-server-1.18*
-#=x11-base/xorg-drivers-1.18*
-#=x11-drivers/xf86-input-evdev-2.10*
-#>=sys-kernel/gentoo-sources-4.4
->=sys-kernel/gentoo-sources-4.15
->=sys-kernel/linux-headers-4.15
->=sys-kernel/pf-sources-4.15
+# Masked by drivers
+>=sys-kernel/gentoo-sources-4.18
+>=sys-kernel/linux-headers-4.18
+>=sys-kernel/pf-sources-4.18
 
 
