@@ -1,1 +1,4 @@
 VIDEO_CARDS="intel i915 i965"
+USE="vulkan"
+
+
