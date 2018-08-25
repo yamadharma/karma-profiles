@@ -35,5 +35,6 @@ media-plugins/gst-plugins-meta:0.10			-modplug
 
 media-plugins/audacious-plugins				-libnotify
 
+media-sound/wildmidi					alsa -oss -openal
 
 

@@ -13,6 +13,7 @@ cddb cdio \
 lv2 \
 opus \
 modplug \
+openal \
 "
 
 # arts artswrappersuid
