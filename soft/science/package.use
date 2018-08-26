@@ -108,3 +108,5 @@ sci-visualization/paraview					development
 sci-libs/vtk							gdal
 
 sci-visualization/qtiplot					-python -mono
+
+sci-mathematics/cadabra2					examples
