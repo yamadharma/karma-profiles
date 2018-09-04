@@ -130,6 +130,7 @@ media-gfx/imagemagick						perl
 media-gfx/imagemagick						postscript
 dev-libs/libxml2						python
 sys-auth/sssd							python
+sys-auth/sssd							autofs netlink nfsv4 ssh sudo
 
 # app-arch/libarchive						nettle
 # sys-apps/pciutils						compress-db zlib
