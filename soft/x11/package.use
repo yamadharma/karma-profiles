@@ -76,6 +76,7 @@ dev-qt/qtwayland:4					-egl
 x11-wm/awesome						luajit
 
 dev-libs/efl						egl gles
+dev-libs/efl						harfbuzz hyphen luajit vlc vnc xcf xpresent ivi
 
 mate-base/mate-control-center				appindicator
 mate-base/mate-applets-meta				appindicator
