@@ -2,5 +2,5 @@ sci-mathematics/scilab
 sci-visualization/qtiplot
 #=sci-misc/mendeleydesktop-1.18*
 #=sci-misc/mendeleydesktop-1.19*
-=app-text/jabref-bin-4.3*
+#=app-text/jabref-bin-4.3*
 
