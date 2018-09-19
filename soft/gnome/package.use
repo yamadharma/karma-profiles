@@ -99,7 +99,8 @@ x11-libs/vte:2.90						-glade
 net-misc/spice-gtk                      			-gstreamer
 
 app-accessibility/brltty					python
-dev-libs/liblouis						pytho
+dev-libs/liblouis						python
+
 
 
 
