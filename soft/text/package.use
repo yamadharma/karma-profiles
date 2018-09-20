@@ -25,4 +25,5 @@ app-office/scribus						scripts
 app-editors/emacs-vcs						dynamic-loading
 app-editors/emacs						dynamic-loading
 
+app-text/qpdf							perl
 
