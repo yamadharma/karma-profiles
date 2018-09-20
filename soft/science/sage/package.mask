@@ -45,6 +45,7 @@
 #=sci-libs/pynac-0.7.22*
 
 =dev-python/sympy-1.2*
+=dev-python/sympy-1.3*
 
 #=dev-python/cython-0.22.1*
 #=dev-python/cython-0.23_beta*
