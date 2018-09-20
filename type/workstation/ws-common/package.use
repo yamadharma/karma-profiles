@@ -66,3 +66,4 @@ net-fs/openafs							-modules
 =sci-mathematics/maxima-5.35*					-emacs
 
 www-client/elinks						-guile
+=app-accessibility/brltty-5*					-ocaml
