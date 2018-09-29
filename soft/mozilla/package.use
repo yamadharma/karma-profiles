@@ -43,3 +43,5 @@ www-client/firefox					system-cairo system-icu system-jpeg system-libvpx system-
 www-client/seamonkey					system-cairo system-icu system-jpeg system-libvpx system-sqlite system-harfbuzz -system-libevent
 mail-client/thunderbird					system-cairo system-icu system-jpeg system-libvpx system-sqlite system-harfbuzz -system-libevent
 
+www-client/firefox					geckodriver
+

@@ -291,7 +291,6 @@ cdrkit \
 upnp \
 tk \
 systemd \
-clang \
 accessibility \
 "
 
@@ -355,6 +354,7 @@ accessibility \
 # ggi
 # ipod
 # xanim
+# clang \
 
 LINGUAS="ru en"
 # LANGUAGE="RUSS"
