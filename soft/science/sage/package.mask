@@ -18,7 +18,7 @@
 #=sci-mathematics/singular-4.1.0*
 =sci-mathematics/singular-4.1.0_p2*
 #=sci-mathematics/singular-4.1.0_p3*
-=sci-mathematics/singular-4.1.1*
+#=sci-mathematics/singular-4.1.1*
 
 
 
@@ -44,7 +44,7 @@
 =sci-libs/pynac-0.7.20*
 #=sci-libs/pynac-0.7.22*
 
-=dev-python/sympy-1.2*
+#=dev-python/sympy-1.2*
 =dev-python/sympy-1.3*
 
 #=dev-python/cython-0.22.1*
@@ -89,7 +89,7 @@
 #=sci-mathematics/pari-2.10*
 #=sci-mathematics/pari-2.10.0_pre20170914-r2
 =sci-mathematics/pari-2.10.1_beta
-=sci-mathematics/pari-2.11.0*
+#=sci-mathematics/pari-2.11.0*
 
 
 =dev-libs/ntl-9.6.4*
@@ -144,13 +144,13 @@
 #=dev-python/cysignals-1.7.1*
 
 #=sci-libs/cddlib-094h*
-=sci-libs/cddlib-094j*
+#=sci-libs/cddlib-094j*
 
 #=dev-python/ipywidgets-7.0.0*
 
 
 =dev-python/cypari2-1.2*
-=dev-python/cypari2-1.3*
+#=dev-python/cypari2-1.3*
 
 =sci-mathematics/giac-1.4.9.15*
 
@@ -160,4 +160,4 @@
 =dev-python/rpy-2.9.0*
 
 =sci-mathematics/gfan-0.6.1*
-=sci-mathematics/arb-2.14*
+#=sci-mathematics/arb-2.14*
