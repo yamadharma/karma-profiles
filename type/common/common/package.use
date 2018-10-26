@@ -314,3 +314,6 @@ sys-fs/udisks							vdo
 sys-libs/libblockdev						vdo
 sys-libs/libblockdev						bcache dmraid kbd 
 sys-libs/libblockdev						cryptsetup escrow
+
+net-libs/libssh							server
+
