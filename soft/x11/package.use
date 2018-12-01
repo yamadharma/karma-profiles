@@ -16,7 +16,7 @@ media-libs/freetype					cleartype_hinting
 media-libs/mesa						gles llvm
 media-libs/mesa						gles1 gles2
 media-libs/mesa						gbm
-media-libs/mesa						d3d9
+#media-libs/mesa						d3d9
 # media-libs/mesa					-classic
 media-libs/mesa						xorg gallium
 # media-libs/mesa						vulkan

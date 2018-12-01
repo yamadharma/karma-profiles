@@ -2,7 +2,7 @@ app-emulation/wine-etersoft-public				cups
 # app-emulation/wine						osmesa opencl
 # app-emulation/wine						opencl
 app-emulation/wine						dos
-app-emulation/wine						d3d9
+#app-emulation/wine						d3d9
 app-emulation/wine						staging
 app-emulation/wine						themes
 app-emulation/wine						s3tc
@@ -10,8 +10,10 @@ app-emulation/wine						run-exes
 app-emulation/wine						pipelight
 app-emulation/wine						netapi samba
 
-app-emulation/wine-any						d3d9 dos netapi odbc pipelight prelink s3tc staging
-virtual/wine							staging d3d9
+#app-emulation/wine-any						d3d9 
+app-emulation/wine-any						dos netapi odbc pipelight prelink s3tc staging
+virtual/wine							staging 
+#virtual/wine							d3d9
 
 
 
