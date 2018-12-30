@@ -6,3 +6,5 @@ games-fps/wolf4sdl						smooth strafe wolf3d_id spear_full -wolf3d_shareware
 
 games-strategy/vcmi						erm launcher
 #games-strategy/vcmi						editor
+
+games-emulation/dosbox						glide
