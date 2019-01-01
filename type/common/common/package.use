@@ -317,3 +317,4 @@ sys-libs/libblockdev						cryptsetup escrow
 
 net-libs/libssh							server
 
+sys-apps/smartmontools						update_drivedb
