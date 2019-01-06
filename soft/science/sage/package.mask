@@ -63,6 +63,7 @@
 
 #=sci-mathematics/gap-4.8.6*
 #=sci-libs/libgap-4.8.6*
+=sci-mathematics/gap-4.10*
 
 
 # =dev-python/pexpect-4.0*
