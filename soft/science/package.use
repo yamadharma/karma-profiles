@@ -111,3 +111,5 @@ sci-libs/vtk							gdal
 sci-visualization/qtiplot					-python -mono
 
 sci-mathematics/cadabra2					examples
+
+sci-chemistry/gamess						msucc neo openmp vb2000
