@@ -27,3 +27,5 @@ app-editors/emacs						dynamic-loading
 
 app-text/qpdf							perl
 
+dev-haskell/pandoc-citeproc					unicode_collation
+
