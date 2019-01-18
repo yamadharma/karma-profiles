@@ -2,7 +2,6 @@
 
 USE="${USE} \
 avi \
-berkdb \
 crypt \
 encode gif gpm imlib \
 libg++ libwww mikmod mpeg ncurses nls \

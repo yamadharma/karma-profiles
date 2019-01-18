@@ -112,6 +112,7 @@ sys-fs/udev							edd floppy gudev hwdb keymap
 sys-libs/ncurses						static-libs
 sys-libs/ncurses:5						tinfo
 dev-libs/cyrus-sasl						openldap
+dev-libs/cyrus-sasl						-berkdb sqlite
 sys-fs/ntfs3g							acl crypt external-fuse udev xattr ntfsprogs
 sys-fs/ntfs3g							extras
 sys-fs/ntfs3g							ntfsdecrypt
