@@ -5,3 +5,7 @@ x11-misc/xmobar						timezone
 
 dev-haskell/old-locale					profile
 dev-haskell/old-time					profile
+
+app-text/pandoc						embed_data_files static
+dev-haskell/pandoc-citeproc				embed_data_files static
+
