@@ -1,6 +1,7 @@
 # dev-lang/ghc						llvm
 x11-misc/xmonad-extras					eval volume
-=dev-lang/ghc-7.2.1					ghcbootstrap
+#dev-lang/ghc						ghcbootstrap
+dev-lang/ghc						ghcmakebinary
 x11-misc/xmobar						timezone
 
 dev-haskell/old-locale					profile
