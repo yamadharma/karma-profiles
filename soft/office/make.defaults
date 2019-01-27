@@ -2,7 +2,8 @@ USE=" \
 word-perfect \
 office \
 hunspell \
-odk
+odk \
+calendar \
 "
 
 LIBREOFFICE_EXTENSIONS="

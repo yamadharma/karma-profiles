@@ -7,7 +7,6 @@ tidy \
 jpeg png \
 intl \
 spl \
-calendar \
 "
 
 # suhosin \
