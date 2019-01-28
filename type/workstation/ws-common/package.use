@@ -67,3 +67,6 @@ net-fs/openafs							-modules
 
 www-client/elinks						-guile
 =app-accessibility/brltty-5*					-ocaml
+
+# Temporary
+=media-libs/allegro-4.4*					-opengl
