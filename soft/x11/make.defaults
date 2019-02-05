@@ -23,7 +23,8 @@ startup-notification \
 gallium openvg xa \
 glamor \
 wayland \
-dri3
+dri3 \
+gles2 \
 "
 
 # PORTDIR_OVERLAY="\
