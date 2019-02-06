@@ -25,7 +25,7 @@ glamor \
 wayland \
 dri3 \
 gles2 \
-gl3plus gles3 \
+gles3 \
 "
 
 # PORTDIR_OVERLAY="\
