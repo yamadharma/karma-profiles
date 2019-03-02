@@ -21,6 +21,7 @@ dev-java/bsh					bsf
 
 dev-java/icedtea-bin				nss
 
+dev-java/ant					swing
 
 
 
