@@ -2,8 +2,8 @@ USE="ogre ois devil \
 cegui allegro \
 ggz \
 irrlicht \
-tinyxml \
 mousewarp \
 "
 
 # double-precision \
+# tinyxml \

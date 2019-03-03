@@ -1,3 +1,0 @@
-=dev-games/cegui-0.7*
-# Dont't compile
-# =net-misc/spice-gtk-0.7*
