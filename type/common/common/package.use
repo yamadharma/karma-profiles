@@ -113,6 +113,8 @@ sys-libs/ncurses						static-libs
 sys-libs/ncurses:5						tinfo
 dev-libs/cyrus-sasl						openldap
 dev-libs/cyrus-sasl						-berkdb sqlite
+#dev-libs/redland						-berkdb -sqlite
+#app-text/zathura						-sqlite
 sys-fs/ntfs3g							acl crypt external-fuse udev xattr ntfsprogs
 sys-fs/ntfs3g							extras
 sys-fs/ntfs3g							ntfsdecrypt
