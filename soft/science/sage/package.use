@@ -31,6 +31,7 @@ sci-mathematics/flint						ntl
 sci-mathematics/eclib						flint
 
 sci-mathematics/pari						doc
+dev-python/pplpy						doc
 
 sci-mathematics/sage						bliss modular_decomposition
 
