@@ -1,5 +1,5 @@
 ../../common/common
-../../../../../../../portage/profiles/targets/desktop/gnome
+../../../../../../../portage/profiles/targets/desktop/gnome/systemd
 ../../../../../../../portage/profiles/targets/desktop/plasma
 ../../../hw/net/bluetooth
 ../../../soft/x11
