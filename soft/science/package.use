@@ -116,3 +116,4 @@ sci-chemistry/gamess						neo vb2000
 sci-chemistry/gamess						-msucc
 sci-chemistry/gamess						-openmp
 
+sci-mathematics/gretl						odbc python
