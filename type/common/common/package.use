@@ -326,3 +326,5 @@ net-libs/libssh							server
 sys-apps/smartmontools						update_drivedb
 app-crypt/gpgme							python
 sys-libs/ldb							python
+
+=sys-auth/sssd-2.1.0*						-samba
