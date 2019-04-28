@@ -84,6 +84,10 @@ sys-fs/eudev							static-libs
 app-arch/xz-utils						static-libs
 dev-libs/iniparser						static-libs
 dev-libs/lzo							static-libs
+
+#dev-libs/openssl						static-libs
+#dev-libs/gmp							static-libs
+
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
 
