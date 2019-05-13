@@ -4,9 +4,9 @@
 
 =sci-libs/hdf5-1.8.6*
 
-=dev-python/numpy-1.9*
+#=dev-python/numpy-1.9*
 # need dev-python/numpy-1.9.1
-=dev-python/bottleneck-1*
+#=dev-python/bottleneck-1*
 
 #=sci-libs/linbox-1.5*
 
