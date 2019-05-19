@@ -3,6 +3,6 @@ USE="\
 webengine
 webchannel
 appstream 
-geolocation gps
+geolocation
 prison
 "
