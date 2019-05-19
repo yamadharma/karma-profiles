@@ -103,6 +103,8 @@ net-misc/spice-gtk                      			-gstreamer
 app-accessibility/brltty					python
 dev-libs/liblouis						python
 
+app-text/cb2bib							-webkit
+
 
 
 

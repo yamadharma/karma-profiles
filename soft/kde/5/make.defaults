@@ -1,3 +1,8 @@
 USE="\
 -handbook
+webengine
+webchannel
+appstream 
+geolocation gps
+prison
 "

@@ -94,6 +94,11 @@ sys-fs/cryptsetup						static
 
 # net-misc/openssh						static
 
+sys-fs/btrfs-progs						static static-libs
+sys-fs/e2fsprogs						static-libs
+sys-fs/reiserfsprogs						static-libs
+app-arch/zstd							static-libs
+
 sys-fs/lvm2							lvm2create_initrd
 
 net-firewall/iptables						netlink
@@ -333,3 +338,6 @@ sys-libs/ldb							python
 
 =sys-auth/sssd-2.1.0*						-samba
 sys-fs/cryptsetup						-gcrypt openssl
+
+sys-fs/btrfs-progs						python
+

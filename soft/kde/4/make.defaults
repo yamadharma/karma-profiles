@@ -14,7 +14,6 @@ kipi \
 marble designer-plugin \
 addressbook \
 clucene redland sesame2 \
-webkit \
 oscar \
 akonadi \
 kontact \
@@ -30,6 +29,7 @@ prison \
 # phonon \
 # nepomuk \
 # handbook \
+# webkit \
 
 # PORTDIR_OVERLAY="\
 # ${LAYMAN_DIR}/kde \
