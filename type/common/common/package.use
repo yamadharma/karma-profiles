@@ -341,4 +341,4 @@ sys-fs/cryptsetup						-gcrypt openssl
 
 sys-fs/btrfs-progs						python
 
-sci-libs/hdf5							-threads
+
