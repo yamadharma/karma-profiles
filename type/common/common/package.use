@@ -147,6 +147,7 @@ sys-auth/sssd							autofs netlink ssh sudo
 # app-arch/libarchive						nettle
 # sys-apps/pciutils						compress-db zlib
 net-misc/dropbox						librsync-bundled
+net-misc/dropbox						experimental
 
 dev-vcs/git							perl
 
