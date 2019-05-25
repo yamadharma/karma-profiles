@@ -1,1 +1,2 @@
 sci-libs/vtk				video_cards_nvidia
+media-video/ffmpeg			video_cards_nvidia

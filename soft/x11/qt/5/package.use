@@ -2,7 +2,8 @@ dev-qt/qtwebkit:5		geolocation webchannel
 dev-qt/qtscript:5		scripttools
 dev-qt/qtgui:5			libinput
 dev-python/PyQt5		websockets
-
+dev-qt/qtwebengine:5		designer
+		
 
 
 

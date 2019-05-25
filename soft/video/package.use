@@ -30,6 +30,11 @@ media-video/ffmpeg				openssl
 media-video/ffmpeg				snappy
 media-video/ffmpeg				rubberband zimg chromaprint
 media-video/ffmpeg				libdrm
+media-video/ffmpeg				kvazaar
+media-video/ffmpeg				codec2
+media-video/ffmpeg				flite
+media-video/ffmpeg				chromium
+media-video/ffmpeg				libaom
 
 media-libs/libbluray				java 
 media-libs/libbluray				utils static-libs
