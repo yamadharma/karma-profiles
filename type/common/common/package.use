@@ -317,6 +317,7 @@ net-misc/connman						iptables -nftables
 net-misc/connman-gtk						openconnect
 
 sys-apps/systemd						libidn2
+sys-apps/systemd						policykit
 
 net-print/cups-filters						pclm
 dev-libs/libpcre2						pcre16
