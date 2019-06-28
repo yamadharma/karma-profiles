@@ -25,3 +25,4 @@ sys-boot/grub						-multislot
 
 dev-lang/ghc						binary
 
+sys-auth/polkit						elogind 
