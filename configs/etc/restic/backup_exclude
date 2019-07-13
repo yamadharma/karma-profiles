@@ -1,0 +1,121 @@
+/.snapshots/
+/opt
+/**/.cache/
+/usr/share/**/*.html
+/usr/share/help/
+/usr/share/licenses/
+/usr/share/man/
+/usr/src/
+/var/cache/
+/var/log/
+/**/.stfolder
+/**/.stversions
+
+# If there's any folder called .cache it's a cache
+/home/**/Cache
+/home/**/.cache
+/home/**/__pycache__
+/home/**/.dropbox.cache
+/home/**/.dropbox
+/home/**/.dropbox-dist
+/home/**/.googleearth
+/home/**/.local/share/akonadi
+/home/**/.local/share/baloo
+/home/**/.local/share/tracker
+/home/**/.local/share/zeitgeist
+/home/**/.local/share/Trash
+
+# WebDAV mounts
+/home/*/.davfs2/cache
+
+# Trash
+/home/*/.local/share/Trash
+
+# Var
+/home/*/.local/share/tracker
+/home/*/.local/share/zeitgeist
+
+# Cache of IMAP messages
+/home/*/.thunderbird/*/ImapMail
+/home/*/.thunderbird/*/calendar-data
+/home/*/.thunderbird/*/Photos
+/home/*/.thunderbird/*/gcontactsync
+/home/*/.thunderbird/*/saved-telemetry-pings
+
+# I never keep important stuff there
+/home/*/Downloads
+/home/*/downloads
+/home/*/download
+/home/*/Видео
+/home/*/Video
+/home/*/video
+/home/*/photo
+/home/*/Music
+/home/*/music
+/home/*/Музыка
+/home/*/Музыка*
+/home/*/audibook
+
+# should be empty, but - eh
+/home/*/mnt
+
+# where I restore stuff
+/home/*/restore
+
+# firefox profiles, standard and snap install
+/home/*/.mozilla/firefox/*/storage
+/home/*/.mozilla/firefox/*/minidumps
+/home/*/snap/firefox/common/.mozilla/firefox/*/storage
+/home/*/snap/firefox/common/.mozilla/firefox/*/minidumps
+
+# Chrome
+/home/*/.config/google-chrome
+/home/*/.config/google-chrome*
+/home/*/.config/google-chrome*/Default/Local Storage
+/home/*/.config/google-chrome*/Default/Session Storage
+/home/*/.config/google-chrome*/Default/Application Cache
+/home/*/.config/google-chrome*/Default/GPUCache
+
+# Chromium
+/home/*/.config/chromium/Default/Local Storage
+/home/*/.config/chromium/Default/Session Storage
+/home/*/.config/chromium/Default/Application Cache
+/home/*/snap/chromium/*/.config/chromium/Default/Local Storage
+/home/*/snap/chromium/*/.config/chromium/Default/Session Storage
+/home/*/snap/chromium/*/.config/chromium/Default/Application Cache
+
+# Electron apps seem to do this
+/home/*/.config/*/Cache
+/home/*/.config/*/GPUCache
+/home/*/.config/*/ShaderCache
+/home/*/snap/*/*/.config/*/Cache
+/home/*/snap/*/*/.config/*/GPUCache
+/home/*/snap/*/*/.config/*/ShaderCache
+
+# Microsoft VS Code follows different standards
+/home/*/.config/Code/CachedData
+/home/*/.config/Code/CachedExtensions
+/home/*/.config/Code/logs
+
+# I only use Wine to run the odd executable, so I exclude it all
+/home/*/.wine
+
+# Syncthing
+/home/**/.config/syncthing
+
+# Local work
+/home/*/work-local
+
+# Video on home dir
+/home/*/*.mkv
+/home/*/*.mp4
+
+/**/*.log
+/home/**/tmp
+
+# Virtualbox
+/home/*/VirtualBox VMs
+
+# misc
+/home/*/.config/*/epiphany
+/home/*/.config/*/epiphany*
