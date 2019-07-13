@@ -4,4 +4,4 @@
 
 export RESTIC_REPOSITORY="sftp:root@st.sci.pfu.edu.ru:/n/backup/restic-repo/beetle.sci.pfu.edu.ru/home"
 # export RESTIC_PASSWORD_FILE="/etc/restic/pw.txt"
-export RESTIC_PASSWORD="123456"
+export RESTIC_PASSWORD=""
