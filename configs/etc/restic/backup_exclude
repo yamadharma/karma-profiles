@@ -13,6 +13,7 @@
 
 # If there's any folder called .cache it's a cache
 /home/**/Cache
+/home/**/cache
 /home/**/.cache
 /home/**/__pycache__
 /home/**/.dropbox.cache
@@ -117,5 +118,5 @@
 /home/*/VirtualBox VMs
 
 # misc
-/home/*/.config/*/epiphany
-/home/*/.config/*/epiphany*
+/home/*/.config/epiphany
+/home/*/.config/epiphany*
