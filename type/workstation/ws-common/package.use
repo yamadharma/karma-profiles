@@ -70,5 +70,9 @@ www-client/elinks						-guile
 
 =sci-libs/cgnslib-3.3*						-tools
 
+net-misc/connman						iwd
+net-misc/networkmanager						iwd
+
 # Temporary
 =media-libs/allegro-4.4*					-opengl
+
