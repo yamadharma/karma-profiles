@@ -80,14 +80,14 @@ dev-java/xmlgraphics-commons:1
 =app-admin/eselect-1.4.6
 
 # due net-misc/gns3-server-1.5.1
-=dev-python/aiohttp-0.21.6*
-=dev-python/aiohttp-0.22*
-=dev-python/aiohttp-1.0*
-=dev-python/aiohttp-1.1*
+#=dev-python/aiohttp-0.21.6*
+#=dev-python/aiohttp-0.22*
+#=dev-python/aiohttp-1.0*
+#=dev-python/aiohttp-1.1*
 #=dev-python/aiohttp-1.2*
-=dev-python/aiohttp-2.1*
-=dev-python/aiohttp-2.2*
-=dev-python/aiohttp-2.3*
+#=dev-python/aiohttp-2.1*
+#=dev-python/aiohttp-2.2*
+#=dev-python/aiohttp-2.3*
 
 #=dev-python/yarl-0.10*
 #=dev-python/yarl-0.14*
