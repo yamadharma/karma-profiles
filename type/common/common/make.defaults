@@ -66,6 +66,7 @@ samba \
 f2fs \
 gpg \
 berkdb \
+dns-over-tls \
 "
 
 # libressl \
