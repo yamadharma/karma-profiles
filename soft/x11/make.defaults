@@ -26,6 +26,8 @@ wayland \
 dri3 \
 gles2 \
 gles3 \
+wayland-compositor \
+xwayland \
 "
 
 # PORTDIR_OVERLAY="\
