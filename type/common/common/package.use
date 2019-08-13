@@ -344,3 +344,5 @@ sys-fs/cryptsetup						-gcrypt openssl
 sys-fs/btrfs-progs						python
 
 #sys-cluster/glusterfs						bd-xlator crypt-xlator
+
+sys-auth/sssd							nfsv4 samba
