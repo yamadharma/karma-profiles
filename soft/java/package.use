@@ -20,8 +20,10 @@ app-emacs/ecb					java
 dev-java/bsh					bsf
 
 dev-java/icedtea-bin				nss
+dev-java/icedtea-bin				webstart
 
 dev-java/ant					swing
+
 
 
 
