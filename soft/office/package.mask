@@ -8,3 +8,4 @@
 
 # due app-office/gnucash-3.3
 =dev-cpp/gtest-1.8.1*
+=dev-cpp/gtest-1.9*
