@@ -346,3 +346,5 @@ sys-fs/btrfs-progs						python
 #sys-cluster/glusterfs						bd-xlator crypt-xlator
 
 sys-auth/sssd							nfsv4 samba
+
+=sys-cluster/glusterfs-6*					-ipv6
