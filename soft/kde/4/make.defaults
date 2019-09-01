@@ -7,7 +7,6 @@ kdehiddenvisibility kig-scripting akode \
 htmlhandbook plasma \
 ebook \
 captury \
-semantic-desktop \
 desktopglobe \
 cviewer \
 kipi \ 
@@ -30,6 +29,8 @@ prison \
 # nepomuk \
 # handbook \
 # webkit \
+# semantic-desktop \
+
 
 # PORTDIR_OVERLAY="\
 # ${LAYMAN_DIR}/kde \
