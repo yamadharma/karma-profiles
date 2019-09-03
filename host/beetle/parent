@@ -7,5 +7,5 @@
 ../../soft/lxde
 ../../soft/emulation/kvm
 ../../soft/emulation/qemu
-../../soft/emulation/vmware
+#../../soft/emulation/vmware
 
