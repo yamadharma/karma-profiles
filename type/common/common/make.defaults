@@ -67,6 +67,7 @@ f2fs \
 gpg \
 berkdb \
 dns-over-tls \
+lmbd \
 "
 
 # libressl \
