@@ -85,8 +85,11 @@ app-arch/xz-utils						static-libs
 dev-libs/iniparser						static-libs
 dev-libs/lzo							static-libs
 
-#dev-libs/openssl						static-libs
-#dev-libs/gmp							static-libs
+dev-libs/openssl						static-libs
+app-crypt/gpgme							static-libs
+dev-libs/gmp							static-libs
+
+app-crypt/libb2							static-libs
 
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
