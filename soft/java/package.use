@@ -24,6 +24,7 @@ dev-java/icedtea-bin				webstart
 
 dev-java/ant					swing
 
+dev-util/astyle					java
 
 
 
