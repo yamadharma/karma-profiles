@@ -341,6 +341,11 @@ sys-apps/smartmontools						update_drivedb
 app-crypt/gpgme							python
 sys-libs/ldb							python
 
+dev-libs/openssl						sslv3
+dev-libs/openssl						tls-heartbeat
+
+sys-kernel/linux-firmware					initramfs
+
 =sys-auth/sssd-2.1.0*						-samba
 sys-fs/cryptsetup						-gcrypt openssl
 
@@ -351,3 +356,4 @@ sys-fs/btrfs-progs						python
 sys-auth/sssd							nfsv4 samba
 
 =sys-cluster/glusterfs-6*					-ipv6
+
