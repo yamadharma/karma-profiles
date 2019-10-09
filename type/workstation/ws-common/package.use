@@ -73,6 +73,8 @@ www-client/elinks						-guile
 net-misc/connman						iwd
 net-misc/networkmanager						iwd
 
+=dev-util/electron-2.0.17*					-system-ssl
+
 # Temporary
 =media-libs/allegro-4.4*					-opengl
 
