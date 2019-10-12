@@ -112,9 +112,9 @@ sci-visualization/qtiplot					-python -mono
 
 sci-mathematics/cadabra2					examples
 
-sci-chemistry/gamess						neo vb2000
+# sci-chemistry/gamess						neo vb2000
 sci-chemistry/gamess						-msucc
-sci-chemistry/gamess						openmp
+sci-chemistry/gamess						openmp -neo -vb2000
 
 sci-mathematics/gretl						odbc python
 
