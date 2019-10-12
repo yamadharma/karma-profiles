@@ -1,15 +1,14 @@
-diff --git a/rtc_base/physical_socket_server.cc b/rtc_base/physical_socket_server.cc
-index 4845a73..c38d7fd 100644
---- a/rtc_base/physical_socket_server.cc
-+++ b/rtc_base/physical_socket_server.cc
-@@ -51,6 +51,10 @@
- #include "rtc_base/null_socket_server.h"
- #include "rtc_base/time_utils.h"
+diff -Naurp electron-2.0.17/chromium/third_party/webrtc/rtc_base/physicalsocketserver.cc electron-2.0.17.new/chromium/third_party/webrtc/rtc_base/physicalsocketserver.cc
+--- electron-2.0.17/chromium/third_party/webrtc/rtc_base/physicalsocketserver.cc	2017-09-22 01:07:33.000000000 +0300
++++ electron-2.0.17.new/chromium/third_party/webrtc/rtc_base/physicalsocketserver.cc	2019-10-12 19:14:02.000000000 +0300
+@@ -53,6 +53,10 @@
+ #include "webrtc/rtc_base/timeutils.h"
+ #include "webrtc/rtc_base/win32socketinit.h"
  
 +#if defined(WEBRTC_LINUX)
 +#include <linux/sockios.h>
 +#endif
 +
- #if defined(WEBRTC_WIN)
- #define LAST_SYSTEM_ERROR (::GetLastError())
- #elif defined(__native_client__) && __native_client__
+ #if defined(WEBRTC_POSIX)
+ #include <netinet/tcp.h>  // for TCP_NODELAY
+ #define IP_MTU 14 // Until this is integrated from linux/in.h to netinet/in.h
