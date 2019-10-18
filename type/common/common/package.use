@@ -93,7 +93,7 @@ app-crypt/libb2							static-libs
 
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
-
+app-shells/sash							static
 
 # net-misc/openssh						static
 
