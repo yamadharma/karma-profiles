@@ -199,7 +199,7 @@ app-emacs/reftex
 =sys-libs/ncurses-6.0
 
 # Patch problem
-=media-libs/speexdsp-1.2_rc3-r2
+#=media-libs/speexdsp-1.2_rc3-r2
 
 #=media-libs/freetype-2.9*
 #=media-libs/freetype-2.10*
