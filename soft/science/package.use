@@ -119,3 +119,13 @@ sci-chemistry/gamess						openmp -neo -vb2000
 sci-mathematics/gretl						odbc python
 
 dev-lang/openmodelica						clang
+
+sci-physics/root						root7
+sci-physics/root						asimage
+sci-physics/root						davix fits gdml
+sci-physics/root						libcxx
+# sci-physics/root						pythia6
+sci-physics/root						pythia8
+sci-physics/root						vc xrootd
+sci-physics/root						-c++11 -c++14 c++17
+
