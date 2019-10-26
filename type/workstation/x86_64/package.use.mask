@@ -6,6 +6,6 @@ media-sound/jack-audio-connection-kit			3dnow
 # Bug: 563152
 =media-libs/allegro-5.0.11*					abi_x86_32
 
-# Unmask iwd support where net-wireless/iwd is keyworded
-net-misc/connman -iwd
-net-misc/networkmanager -iwd
+## Unmask iwd support where net-wireless/iwd is keyworded
+#net-misc/connman -iwd
+#net-misc/networkmanager -iwd
