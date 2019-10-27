@@ -1,5 +1,5 @@
 /.snapshots/
-/opt
+# /opt
 /**/.cache/
 /usr/share/**/*.html
 /usr/share/help/
@@ -8,8 +8,20 @@
 /usr/src/
 /var/cache/
 /var/log/
+/var/tmp
+/tmp
+/sys
+/proc
+/dev
+/mnt
+/media
 /**/.stfolder
 /**/.stversions
+
+# Portage
+/usr/portage
+/usr/local/share/portage
+/com/lib/portage
 
 # If there's any folder called .cache it's a cache
 /home/**/Cache
@@ -116,6 +128,7 @@
 
 # Virtualbox
 /home/*/VirtualBox VMs
+/var/vm
 
 # misc
 /home/*/.config/epiphany
