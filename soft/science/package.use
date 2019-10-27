@@ -128,4 +128,7 @@ sci-physics/root						libcxx
 sci-physics/root						pythia8
 sci-physics/root						vc xrootd
 sci-physics/root						-c++11 -c++14 c++17
+sci-physics/root						-R
 
+dev-lang/R							java
+dev-lang/R							static-libs
