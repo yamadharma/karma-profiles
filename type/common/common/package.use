@@ -90,6 +90,9 @@ app-crypt/gpgme							static-libs
 dev-libs/gmp							static-libs
 
 app-crypt/libb2							static-libs
+media-libs/jbig2dec						static-libs
+app-text/ghostscript-gpl					static-libs
+app-text/qpdf							static-libs
 
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
