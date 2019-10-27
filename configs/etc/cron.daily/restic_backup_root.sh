@@ -25,7 +25,7 @@ RETENTION_YEARS=3
 BACKUP_PATHS="/ /boot /var"
 # BACKUP_EXCLUDES="--exclude-file /.backup_exclude --exclude-file /mnt/media/.backup_exclude --exclude-file /home/erikw/.backup_exclude"
 BACKUP_EXCLUDES="--exclude-file /etc/restic/backup_exclude --exclude-caches --exclude /home"
-BACKUP_TAG=home
+BACKUP_TAG=root
 
 
 # Set all environment variables like
