@@ -1,0 +1,29 @@
+# 64-bit processors: Intel 64 – Skylake microarchitecture
+# Core i3 (6th Generation)
+# Variants
+# i3-6098P – 3.60 GHz
+# i3-6100T – 3.20 GHz
+# i3-6100 – 3.70 GHz
+# i3-6300T – 3.30 GHz
+# i3-6300 – 3.80 GHz
+# i3-6320 – 3.90 GHz
+# Core i5 (6th Generation)
+# Variants
+# i5-6400T – 2.20 GHz/2.80 GHz Turbo Boost
+# i5-6400 – 2.70 GHz/3.30 GHz Turbo Boost
+# i5-6500T – 2.50 GHz/3.10 GHz Turbo Boost
+# i5-6500 – 3.20 GHz/3.60 GHz Turbo Boost
+# i5-6600T – 2.70 GHz/3.50 GHz Turbo Boost
+# i5-6600 – 3.30 GHz/3.90 GHz Turbo Boost
+# i5-6600K – 3.50 GHz/3.90 GHz Turbo Boost
+# Core i7 (6th Generation)
+# Variants
+# i7-6700T – 2.80 GHz/3.60 GHz Turbo Boost
+# i7-6700 – 3.40 GHz/4.00 GHz Turbo Boost
+# i7-6700K – 4.00 GHz/4.20 GHz Turbo Boost
+
+USE="\
+"
+
+CPU_FLAGS_X86="aes avx avx2 f16c2 pclmul"
+# fma3

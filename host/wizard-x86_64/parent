@@ -1,5 +1,5 @@
 ../../type/workstation/x86_64
-../../hw/arch/core-i5/x86_64
+../../hw/arch/em64t/family6/x86_64
 ../../hw/arch/x86_64
 ../../hw/platform/notebook
 ../../hw/net/bluetooth

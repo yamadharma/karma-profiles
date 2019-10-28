@@ -1,0 +1,15 @@
+# 64 bit profile (amd64) for < GCC 4.3
+
+#CFLAGS="${CFLAGS} -march=nocona"
+#CXXFLAGS="${CFLAGS}"
+
+# 64 bit profile (amd64) for GCC 4.3
+
+CFLAGS="${CFLAGS} -march=core2 -mtune=generic"
+CXXFLAGS="${CFLAGS}"
+
+# 64 bit profile (amd64) for GCC 4.6
+
+#CFLAGS="${CFLAGS} -march=corei7"
+#CXXFLAGS="${CFLAGS}"
+
