@@ -93,6 +93,9 @@ app-crypt/libb2							static-libs
 media-libs/jbig2dec						static-libs
 app-text/ghostscript-gpl					static-libs
 app-text/qpdf							static-libs
+app-text/hunspell						static-libs
+app-text/enchant						static-libs
+sys-apps/kmod							static-libs
 
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
