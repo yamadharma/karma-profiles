@@ -47,4 +47,4 @@ www-client/firefox					geckodriver
 
 =mail-client/thunderbird-60.2*				-mozdom
 
-=www-client/seamonkey-2.49*				-crypt
+
