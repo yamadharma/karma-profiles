@@ -96,6 +96,7 @@ app-text/qpdf							static-libs
 app-text/hunspell						static-libs
 app-text/enchant						static-libs
 sys-apps/kmod							static-libs
+net-misc/curl							static-libs
 
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
@@ -363,3 +364,4 @@ sys-auth/sssd							nfsv4 samba
 
 =sys-cluster/glusterfs-6*					-ipv6
 
+net-misc/curl							alt-svc brotli http2 
