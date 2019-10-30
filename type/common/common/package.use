@@ -97,6 +97,7 @@ app-text/hunspell						static-libs
 app-text/enchant						static-libs
 sys-apps/kmod							static-libs
 net-misc/curl							static-libs
+net-dns/libidn2  						static-libs
 
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
