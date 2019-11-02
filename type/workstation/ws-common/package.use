@@ -18,6 +18,7 @@ net-im/gajim							gmail
 dev-util/geany-plugins						lua nls webkit enchant gtkspell soup
 sys-apps/pmount							-crypt
 dev-libs/boost							python
+dev-libs/boost							numpy
 dev-util/boost-build						python
 dev-libs/redland-bindings					python
 dev-lang/ocaml							tk
