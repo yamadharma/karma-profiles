@@ -16,3 +16,5 @@ mmx mmx2 mmxext sse sse2 \
 ssse3 sse3 \
 hvm \
 "
+
+CPU_FLAGS_X86="mmx mmxext sse sse2 sse3 sse4_1 ssse3"

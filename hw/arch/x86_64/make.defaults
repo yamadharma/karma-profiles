@@ -8,7 +8,7 @@ USE="-shark \
 development \
 "
 
-VIDEO_CARDS=""
+#VIDEO_CARDS=""
 
 USE="
 mmx mmx2 mmxext sse sse2

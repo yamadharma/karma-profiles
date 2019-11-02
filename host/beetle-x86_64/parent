@@ -1,18 +1,11 @@
 ../../type/workstation/x86_64
 ../../hw/arch/core2/x86_64
 ../../hw/arch/native
-#../../hw/video/nvidia/gfx9000
 ../../hw/video/nvidia_free
 ../../hw/net/bluetooth
-../../soft/tracker
-#../../soft/beagle
 ../../soft/emulation/qemu
 ../../soft/emulation/kvm
-#../../soft/emulation/vmware
 ../../soft/p2p
-#../../soft/lirc
-# ../../soft/games/steam
-# ../../soft/gnome2/unity
 
 
 
