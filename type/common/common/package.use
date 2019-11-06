@@ -100,6 +100,12 @@ net-misc/curl							static-libs
 net-dns/libidn2  						static-libs
 media-libs/tiff							static-libs
 sci-libs/parmetis						static-libs
+sci-libs/ldl							static-libs
+sci-libs/btf                                                    static-libs
+sci-libs/spqr                                                   static-libs
+sci-libs/klu                                                    static-libs
+sci-libs/amd							static-libs
+sci-libs/colamd							static-libs
 
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
