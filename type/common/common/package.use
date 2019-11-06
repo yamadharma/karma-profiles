@@ -99,6 +99,7 @@ sys-apps/kmod							static-libs
 net-misc/curl							static-libs
 net-dns/libidn2  						static-libs
 media-libs/tiff							static-libs
+sci-libs/parmetis						static-libs
 
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static

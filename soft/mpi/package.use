@@ -2,7 +2,7 @@ sys-cluster/openmpi						heterogeneous mpi-threads romio
 sys-cluster/mpich2						romio mpi-threads
 
 sci-libs/flann							-mpi
-sci-libs/hdf5							-mpi
+#sci-libs/hdf5							-mpi
 sci-libs/netcdf							-mpi
 
 

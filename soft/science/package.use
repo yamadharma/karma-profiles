@@ -133,4 +133,13 @@ sci-physics/root						-R
 dev-lang/R							java
 dev-lang/R							static-libs
 
+#sci-mathematics/petsc						doc
+#sci-mathematics/petsc						mumps scotch
+#sci-mathematics/petsc						superlu
+#sci-mathematics/petsc						hypre
+#sci-mathematics/petsc						complex-scalars hypre
+sci-mathematics/petsc						-hdf5
+#sci-mathematics/petsc						mpi
+#sci-libs/hdf5							mpi
+#sci-libs/fftw							mpi
 
