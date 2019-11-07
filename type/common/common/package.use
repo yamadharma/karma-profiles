@@ -106,6 +106,7 @@ sci-libs/spqr                                                   static-libs
 sci-libs/klu                                                    static-libs
 sci-libs/amd							static-libs
 sci-libs/colamd							static-libs
+app-arch/libarchive						static-libs
 
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
@@ -380,3 +381,4 @@ media-fonts/corefonts						tahoma
 net-wireless/wpa_supplicant					ap eap-sim eapol_test fasteap macsec p2p tdls uncommon-eap-types wps
 dev-vcs/git							mediawiki mediawiki-experimental
 
+app-arch/libarchive						blake2 

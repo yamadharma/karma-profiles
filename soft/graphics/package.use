@@ -8,6 +8,7 @@ media-libs/lcms:0						python
 media-gfx/pstoedit						plotutils
 media-libs/gegl							lua
 media-gfx/inkscape						visio wpg
+media-gfx/inkscape						svg2
 media-gfx/blender						collada cycles openimageio
 # media-gfx/blender						colorio
 media-libs/openimageio						python tbb
@@ -25,6 +26,7 @@ media-libs/libmypaint						gegl
 
 media-video/dvdauthor						graphicsmagick -imagemagick
 media-gfx/greycstoration					imagemagick
+media-gfx/inkscape						graphicsmagick -imagemagick
 
 virtual/imagemagick-tools					perl
 x11-misc/shutter						drawing

@@ -68,6 +68,7 @@ gpg \
 berkdb \
 dns-over-tls \
 lmbd \
+jemalloc \
 "
 
 # libressl \
