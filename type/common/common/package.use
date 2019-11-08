@@ -382,3 +382,6 @@ net-wireless/wpa_supplicant					ap eap-sim eapol_test fasteap macsec p2p tdls un
 dev-vcs/git							mediawiki mediawiki-experimental
 
 app-arch/libarchive						blake2 
+
+sys-devel/gcc							lto
+sys-devel/gcc							pgo
