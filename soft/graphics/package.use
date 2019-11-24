@@ -35,4 +35,6 @@ media-gfx/krita							color-management qtmedia vc
 
 media-gfx/graphicsmagick					q32
 media-gfx/graphicsmagick					modules
+media-gfx/imagemagick						q32
+
 
