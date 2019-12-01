@@ -182,7 +182,7 @@ rdesktop \
 enca \
 threadsafe \
 glsa qa  \
-jingle jrtplib ortp gnet sofia-sip \
+jrtplib ortp gnet sofia-sip \
 libnotify notify tagwriting  \
 avahi autoipd howl-compat \
 keyring \
