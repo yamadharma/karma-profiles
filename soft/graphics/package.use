@@ -26,7 +26,8 @@ media-libs/libmypaint						gegl
 
 media-video/dvdauthor						graphicsmagick -imagemagick
 media-gfx/greycstoration					imagemagick
-media-gfx/inkscape						graphicsmagick -imagemagick
+=media-gfx/inkscape-1*						graphicsmagick -imagemagick
+=media-gfx/inkscape-0*						imagemagick
 
 virtual/imagemagick-tools					perl
 x11-misc/shutter						drawing
