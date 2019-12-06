@@ -108,14 +108,7 @@
 
 #=media-gfx/tachyon-0.99*
 
-#=dev-python/sphinx-1.6.5*
-#=dev-python/sphinx-1.6.6*
-#=dev-python/sphinx-1.6.7*
-#=dev-python/sphinx-1.7.1*
-#=dev-python/sphinx-1.7.5*
-
-
-#=dev-tex/sage-latex-3.0*
+=dev-python/sphinx-2.0.1*
 
 =dev-libs/ntl-9.6.2-r1
 

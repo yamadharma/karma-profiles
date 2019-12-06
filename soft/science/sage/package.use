@@ -49,3 +49,4 @@ sci-mathematics/sage						libhomfly
 
 sci-libs/pynac							-giac
 
+sci-mathematics/sage						-python_targets_python2_7
