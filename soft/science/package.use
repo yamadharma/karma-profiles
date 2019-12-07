@@ -146,3 +146,5 @@ sci-mathematics/petsc						-hdf5
 sci-libs/suitesparse						tbb
 sci-libs/spqr							tbb
 
+dev-python/networkx						pandas scipy yaml
+
