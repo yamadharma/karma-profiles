@@ -50,3 +50,8 @@ sci-mathematics/sage						libhomfly
 sci-libs/pynac							-giac
 
 sci-mathematics/sage						-python_targets_python2_7
+sci-mathematics/ExportSageNB					-python_targets_python2_7
+dev-python/rpy							-python_targets_python2_7
+dev-python/sympy						-python_targets_python2_7
+dev-python/pickleshare						-python_targets_python2_7
+
