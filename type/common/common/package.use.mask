@@ -102,3 +102,4 @@ net-misc/rancid-git						cvs subversion
 
 =sys-devel/gcc-6* 						-gcj
 
+#=net-fs/samba-4.8.6*                                            abi_x86_32
