@@ -149,4 +149,7 @@ sci-libs/spqr							tbb
 dev-python/networkx						pandas scipy yaml
 net-libs/xrootd							http python
 
+sci-biology/biopython						-python_targets_python2_7
+
+
 
