@@ -147,4 +147,6 @@ sci-libs/suitesparse						tbb
 sci-libs/spqr							tbb
 
 dev-python/networkx						pandas scipy yaml
+net-libs/xrootd							http python
+
 
