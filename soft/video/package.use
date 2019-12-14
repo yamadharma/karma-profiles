@@ -81,12 +81,16 @@ media-video/vlc					chromecast chromaprint
 
 media-libs/libsdl2				haptic
 
+media-video/obs-studio				luajit python vlc fdk
+
+
 # Temporary, need ffmpeg:4
-=app-emulation/wine-any-3*			-ffmpeg
-=app-emulation/wine-staging-3*			-ffmpeg
-=app-emulation/wine-vanilla-3*			-ffmpeg
-=app-emulation/wine-d3d9-3*			-ffmpeg
-=app-emulation/wine-any-4.0*			-ffmpeg
-=app-emulation/wine-staging-4.0*		-ffmpeg
-=app-emulation/wine-vanilla-4.0*		-ffmpeg
-=app-emulation/wine-d3d9-4.0*			-ffmpeg
+#=app-emulation/wine-any-3*			-ffmpeg
+#=app-emulation/wine-staging-3*			-ffmpeg
+#=app-emulation/wine-vanilla-3*			-ffmpeg
+#=app-emulation/wine-d3d9-3*			-ffmpeg
+#=app-emulation/wine-any-4.0*			-ffmpeg
+#=app-emulation/wine-staging-4.0*		-ffmpeg
+#=app-emulation/wine-vanilla-4.0*		-ffmpeg
+#=app-emulation/wine-d3d9-4.0*			-ffmpeg
+
