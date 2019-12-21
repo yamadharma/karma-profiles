@@ -150,6 +150,7 @@ dev-python/networkx						pandas scipy yaml
 net-libs/xrootd							http python
 
 net-libs/zeromq							drafts
+sci-libs/tensorflow						xla
 
 sci-biology/biopython						-python_targets_python2_7
 
