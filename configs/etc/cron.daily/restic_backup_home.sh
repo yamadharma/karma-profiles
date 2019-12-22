@@ -85,6 +85,7 @@ wait $!
 
 # Check repository for errors.
 restic check \
+	--cache-dir=/var/tmp \
 	--verbose &
 wait $!
 
