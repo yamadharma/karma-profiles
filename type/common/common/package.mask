@@ -206,3 +206,6 @@ app-emacs/reftex
 
 ## Bug 663566 - dev-java/oracle-jdk-bin-1.8.0.181 misses the derby db
 =dev-java/oracle-jdk-bin-1.8.0.181
+
+## Conflict with dev-python/argon2_cffi-19.1.0
+=app-crypt/argon2-20190702
