@@ -156,7 +156,9 @@ sci-biology/biopython						-python_targets_python2_7
 dev-python/theano						-python_targets_python2_7
 dev-python/bottleneck						-python_targets_python2_7
 sci-libs/keras-preprocessing                                    -python_targets_python2_7
-
+dev-python/pandas						-python_targets_python2_7
+dev-python/theano						-python_targets_python2_7
+dev-python/bottleneck						-python_targets_python2_7
 
 
 
