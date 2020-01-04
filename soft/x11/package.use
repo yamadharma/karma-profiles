@@ -78,6 +78,8 @@ x11-wm/awesome						luajit
 
 dev-libs/efl						egl gles
 dev-libs/efl						harfbuzz hyphen luajit vlc vnc xcf xpresent ivi
+dev-libs/efl						lua
+dev-libs/efl						pmaps psd
 
 mate-base/mate-control-center				appindicator
 mate-base/mate-applets-meta				appindicator
