@@ -110,19 +110,17 @@ app-arch/libarchive						static-libs
 dev-libs/jemalloc						static-libs
 dev-libs/boehm-gc						static-libs
 sys-libs/libaal							static-libs
-sys-fs/reiser4progs						static-libs
+sys-fs/reiser4progs						static-libs static
+sys-libs/readline						static-libs
+sys-fs/e2fsprogs						static-libs
+sys-fs/reiserfsprogs						static-libs
+app-arch/zstd							static-libs
 
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
 app-shells/sash							static
-sys-fs/reiser4progs						static
-
 # net-misc/openssh						static
-
 sys-fs/btrfs-progs						static static-libs
-sys-fs/e2fsprogs						static-libs
-sys-fs/reiserfsprogs						static-libs
-app-arch/zstd							static-libs
 
 sys-fs/lvm2							lvm2create_initrd
 
