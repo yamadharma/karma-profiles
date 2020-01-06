@@ -109,10 +109,13 @@ sci-libs/colamd							static-libs
 app-arch/libarchive						static-libs
 dev-libs/jemalloc						static-libs
 dev-libs/boehm-gc						static-libs
+sys-libs/libaal							static-libs
+sys-fs/reiser4progs						static-libs
 
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
 app-shells/sash							static
+sys-fs/reiser4progs						static
 
 # net-misc/openssh						static
 
