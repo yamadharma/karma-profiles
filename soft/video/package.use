@@ -54,6 +54,7 @@ media-video/mplayer				bidi
 net-misc/youtube-dl				offensive
 
 media-video/mpv					rubberband
+media-video/mpv					zimg
 
 media-video/ffmpeg				fdk
 
