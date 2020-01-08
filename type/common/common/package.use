@@ -398,3 +398,4 @@ sys-apps/kmod							pkcs7 python
 
 sys-fs/fuse-exfat						suid
 
+dev-java/openjdk-bin						webstart
