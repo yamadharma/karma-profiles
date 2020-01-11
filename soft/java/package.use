@@ -25,6 +25,8 @@ dev-java/icedtea-bin				webstart
 dev-java/ant					swing
 
 dev-util/astyle					java
+dev-java/validation-api				source
+dev-java/openjdk-bin				webstart
 
 
 
