@@ -397,5 +397,5 @@ dev-lang/ruby:2.5						-jemalloc
 sys-apps/kmod							pkcs7 python
 
 sys-fs/fuse-exfat						suid
-
+sys-fs/quota							rpc
 
