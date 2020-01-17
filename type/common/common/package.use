@@ -399,3 +399,10 @@ sys-apps/kmod							pkcs7 python
 sys-fs/fuse-exfat						suid
 sys-fs/quota							rpc
 
+dev-python/pytables						-python_targets_python2_7
+media-libs/opencv						-python_targets_python2_7
+dev-python/pygame						-python_targets_python2_7
+dev-python/matplotlib						-python_targets_python2_7
+sci-physics/root						-python_targets_python2_7
+dev-python/numexpr						-python_targets_python2_7
+dev-python/pygsl						-python_targets_python2_7
