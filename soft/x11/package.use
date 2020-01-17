@@ -90,4 +90,4 @@ x11-misc/lightdm-gtk-greeter				ayatana
 media-libs/mesa						osmesa
 
 x11-misc/xscreensaver					gdm
-
+x11-wm/openbox						xdg static-lib
