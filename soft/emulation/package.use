@@ -11,3 +11,4 @@ app-emulation/wine-any			-opencl
 ## For app-emulation/libvirt-5.5.0-r1
 sys-apps/systemd			cgroup-hybrid
 
+app-emulation/virtualbox-bin		additions chm python rdesktop-vrdp sdk vboxwebsrv
