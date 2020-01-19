@@ -2,5 +2,6 @@
 
 if [ $USER ]
 then
-  export XDG_CACHE_HOME="/tmp/${USER}/.cache"
+    mkdir -p /tmp/${USER}/.cache
+    export XDG_CACHE_HOME="/tmp/${USER}/.cache"
 fi

@@ -399,7 +399,8 @@ sys-apps/kmod							pkcs7 python
 sys-fs/fuse-exfat						suid
 sys-fs/quota							rpc
 
-sys-apps/fwupd							agent amt dell nvme pkcs7 redfish synaptics tpm uefi 
+sys-apps/fwupd							agent amt dell nvme pkcs7 redfish synaptics tpm uefi
+sys-apps/fwupd							uefi 
 #sys-apps/fwupd							thunderbolt
 
 dev-python/pytables						-python_targets_python2_7
