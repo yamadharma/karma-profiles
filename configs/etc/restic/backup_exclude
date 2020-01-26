@@ -133,3 +133,4 @@
 # misc
 /home/*/.config/epiphany
 /home/*/.config/epiphany*
+/var/lib/systemd/coredump
