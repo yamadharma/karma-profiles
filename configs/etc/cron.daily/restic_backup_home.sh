@@ -84,9 +84,9 @@ wait $!
 #wait $!
 
 # Check repository for errors.
-restic check \
-	--cache-dir=/var/tmp \
-	--verbose &
-wait $!
+#restic check \
+#	--cache-dir=/var/tmp \
+#	--verbose &
+#wait $!
 
 echo "Backup & cleaning is done."

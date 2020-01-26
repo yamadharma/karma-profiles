@@ -48,33 +48,33 @@ wait $!
 # See restic-backup(1) or http://restic.readthedocs.io/en/latest/040_backup.html
 # --one-file-system makes sure we only backup exactly those mounted file systems specified in $BACKUP_PATHS, and thus not directories like /dev, /sys etc.
 # --tag lets us reference these backups later when doing restic-forget.
-restic backup \
-	--verbose \
-	--one-file-system \
-	--cleanup-cache \
-	--tag $BACKUP_TAG \
-	$BACKUP_EXCLUDES \
-	$BACKUP_PATHS &
-wait $!
+#restic backup \
+#	--verbose \
+#	--one-file-system \
+#	--cleanup-cache \
+#	--tag $BACKUP_TAG \
+#	$BACKUP_EXCLUDES \
+#	$BACKUP_PATHS &
+#wait $!
 
 # Dereference old backups.
 # See restic-forget(1) or http://restic.readthedocs.io/en/latest/060_forget.html
 # --group-by only the tag and path, and not by hostname. This is because I create a B2 Bucket per host, and if this hostname accidentially change some time, there would now be multiple backup sets.
-restic forget \
-	--verbose \
-	--tag $BACKUP_TAG \
-	--group-by "paths,tags" \
-	--keep-daily $RETENTION_DAYS \
-	--keep-weekly $RETENTION_WEEKS \
-	--keep-monthly $RETENTION_MONTHS \
-	--keep-yearly $RETENTION_YEARS &
-wait $!
+#restic forget \
+#	--verbose \
+#	--tag $BACKUP_TAG \
+#	--group-by "paths,tags" \
+#	--keep-daily $RETENTION_DAYS \
+#	--keep-weekly $RETENTION_WEEKS \
+#	--keep-monthly $RETENTION_MONTHS \
+#	--keep-yearly $RETENTION_YEARS &
+#wait $!
 
 # Remove old data not linked anymore.
 # See restic-prune(1) or http://restic.readthedocs.io/en/latest/060_forget.html
-restic prune \
-	--verbose &
-wait $!
+#restic prune \
+#	--verbose &
+#wait $!
 
 # Check repository for errors.
 # NOTE this takes much time (and data transfer from remote repo?), do this in a separate systemd.timer which is run less often.
@@ -82,9 +82,9 @@ wait $!
 #wait $!
 
 # Check repository for errors.
-#restic check \
-#	--cache-dir=/var/tmp \
-#	--verbose &
-#wait $!
+restic check \
+	--cache-dir=/var/tmp \
+	--verbose &
+wait $!
 
 echo "Backup & cleaning is done."
