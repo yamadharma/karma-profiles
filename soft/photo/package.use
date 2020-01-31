@@ -4,5 +4,6 @@ media-plugins/kipi-plugins				expoblending panorama vkontakte
 =media-plugins/kipi-plugins-4*				-gpssync
 #=media-plugins/kipi-plugins-4.10.0			-redeyes
 media-libs/libraw					demosaic
+media-gfx/shotwell					opencv
 
 
