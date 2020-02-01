@@ -29,7 +29,8 @@ dev-python/sympy						imaging ipython mathml
 #dev-python/sympy						texmacs
 #dev-python/sympy						symengine
 dev-python/sympy						theano
-dev-python/sympy						doc
+#dev-python/sympy						doc
+dev-python/sympy						symengine
 
 sci-libs/flint							qs
 
