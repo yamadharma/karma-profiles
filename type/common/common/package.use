@@ -413,3 +413,7 @@ dev-python/pygsl						-python_targets_python2_7
 dev-python/sphinxcontrib-websupport				-python_targets_python2_7
 dev-python/pallets-sphinx-themes				-python_targets_python2_7
 dev-python/sphinx-issues					-python_targets_python2_7
+dev-python/sqlalchemy						-python_targets_python2_7
+dev-python/flask-sqlalchemy					-python_targets_python2_7
+dev-python/flask-migrate					-python_targets_python2_7
+dev-python/alembic						-python_targets_python2_7
