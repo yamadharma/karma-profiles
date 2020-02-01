@@ -413,3 +413,4 @@ dev-python/pygsl						-python_targets_python2_7
 dev-python/sphinxcontrib-websupport				-python_targets_python2_7
 dev-python/pallets-sphinx-themes				-python_targets_python2_7
 dev-python/sphinx-issues					-python_targets_python2_7
+dev-python/pallets-sphinx-themes				-python_targets_python2_7
