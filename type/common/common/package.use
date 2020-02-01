@@ -411,3 +411,4 @@ sci-physics/root						-python_targets_python2_7
 dev-python/numexpr						-python_targets_python2_7
 dev-python/pygsl						-python_targets_python2_7
 dev-python/sphinxcontrib-websupport				-python_targets_python2_7
+dev-python/pallets-sphinx-themes				-python_targets_python2_7
