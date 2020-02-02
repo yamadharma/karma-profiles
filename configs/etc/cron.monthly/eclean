@@ -1,0 +1,4 @@
+#!/bin/sh
+
+eclean-dist
+eclean-pkg
