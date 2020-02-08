@@ -417,3 +417,4 @@ dev-python/sqlalchemy						-python_targets_python2_7
 dev-python/flask-sqlalchemy					-python_targets_python2_7
 dev-python/flask-migrate					-python_targets_python2_7
 dev-python/alembic						-python_targets_python2_7
+app-text/calibre						-python_targets_python2_7
