@@ -153,6 +153,8 @@ net-libs/xrootd							http python
 
 net-libs/zeromq							drafts
 sci-libs/tensorflow						xla
+sci-libs/proj							europe
+
 
 sci-biology/biopython						-python_targets_python2_7
 dev-python/bottleneck						-python_targets_python2_7

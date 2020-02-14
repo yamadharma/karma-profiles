@@ -115,6 +115,9 @@ sys-libs/readline						static-libs
 sys-fs/e2fsprogs						static-libs
 sys-fs/reiserfsprogs						static-libs
 app-arch/zstd							static-libs
+sci-libs/proj							static-libs
+sys-libs/libieee1284						static-libs
+dev-libs/libffi							static-libs
 
 sys-fs/cryptsetup						static
 #sys-apps/coreutils						static
