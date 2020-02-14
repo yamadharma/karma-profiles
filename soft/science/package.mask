@@ -116,3 +116,6 @@ dev-java/xmlgraphics-commons:1
 # Due sci-libs/tensorflow-2.0.0
 =dev-libs/jsoncpp-1.9.2*
 
+## Due dev-python/ipython-5.8.0
+=dev-python/prompt_toolkit-2.0*
+
