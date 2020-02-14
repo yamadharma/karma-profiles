@@ -212,3 +212,4 @@ app-emacs/reftex
 
 ## Dependencies problems
 =dev-lang/ocaml-4.09.0
+=dev-ml/labltk-8.06.7
