@@ -5,4 +5,5 @@ ln -snf /etc/make.profile/make.conf .
 
 mkdir -p /etc/portage
 cd /etc/portage
+rm -rf /etc/portage/package.keywords
 ln -snf /usr/local/share/portage/profiles/portage/* .
