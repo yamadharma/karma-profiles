@@ -28,6 +28,7 @@ gles2 \
 gles3 \
 wayland-compositor \
 xwayland \
+libglvnd \
 "
 
 # PORTDIR_OVERLAY="\
