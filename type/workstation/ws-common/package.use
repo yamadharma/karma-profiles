@@ -71,8 +71,8 @@ www-client/elinks						-guile
 
 =sci-libs/cgnslib-3.3*						-tools
 
-net-misc/connman						iwd
-net-misc/networkmanager						iwd
+#net-misc/connman						iwd
+#net-misc/networkmanager						iwd
 
 =dev-util/electron-2.0.17*					-system-ssl
 
