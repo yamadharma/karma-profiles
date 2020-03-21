@@ -406,6 +406,9 @@ sys-apps/fwupd							agent amt dell nvme pkcs7 redfish synaptics tpm uefi
 sys-apps/fwupd							uefi 
 #sys-apps/fwupd							thunderbolt
 
+net-firewall/nftables						xtables
+
+
 dev-python/pytables						-python_targets_python2_7
 media-libs/opencv						-python_targets_python2_7
 dev-python/pygame						-python_targets_python2_7
