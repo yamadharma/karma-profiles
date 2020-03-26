@@ -218,3 +218,5 @@ app-emacs/reftex
 =dev-db/mysql-connector-c-8.0.19*
 =dev-db/mysql-connector-c++-8.0.19*
 
+# Due python-2.7 absence
+=dev-python/pillow-7.0.0
