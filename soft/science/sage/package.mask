@@ -4,3 +4,5 @@
 =sci-mathematics/arb-2.17.0*
 =sci-libs/m4ri-20200115*
 =dev-python/networkx-2.4*
+=dev-python/ipython-7*
+=dev-python/ipykernel-5*
