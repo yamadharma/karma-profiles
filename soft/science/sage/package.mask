@@ -6,3 +6,4 @@
 =dev-python/networkx-2.4*
 =dev-python/ipython-7*
 =dev-python/ipykernel-5*
+=dev-python/prompt_toolkit-2.0*
