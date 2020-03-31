@@ -79,4 +79,4 @@ www-client/elinks						-guile
 # Temporary
 =media-libs/allegro-4.4*					-opengl
 
-=www-client/seamonkey-2.49*					-crypt
+=www-client/seamonkey-2*					-crypt
