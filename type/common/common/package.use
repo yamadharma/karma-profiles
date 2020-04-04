@@ -426,3 +426,4 @@ dev-python/alembic						-python_targets_python2_7
 app-text/calibre						-python_targets_python2_7
 dev-python/nose							-python_targets_python2_7
 dev-python/pytest-cov						-python_targets_python2_7
+dev-python/cov-core						-python_targets_python2_7
