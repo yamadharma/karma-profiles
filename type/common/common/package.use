@@ -429,3 +429,4 @@ dev-python/pytest-cov						-python_targets_python2_7
 dev-python/cov-core						-python_targets_python2_7
 dev-python/pytest-runner					-python_targets_python2_7
 dev-python/pytest-timeout					-python_targets_python2_7
+dev-python/zipp							-python_targets_python2_7
