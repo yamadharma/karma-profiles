@@ -407,7 +407,7 @@ sys-apps/fwupd							uefi
 #sys-apps/fwupd							thunderbolt
 
 net-firewall/nftables						xtables
-
+net-misc/curl							telnet
 
 dev-python/pytables						-python_targets_python2_7
 media-libs/opencv						-python_targets_python2_7
