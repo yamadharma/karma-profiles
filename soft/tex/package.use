@@ -188,3 +188,5 @@ media-sound/lilypond	guile2
 app-text/kbibtex	zotero
 
 media-gfx/asymptote	offscreen python sigsegv
+
+

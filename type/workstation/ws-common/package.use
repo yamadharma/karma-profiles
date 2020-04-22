@@ -76,6 +76,9 @@ www-client/elinks						-guile
 
 =dev-util/electron-2.0.17*					-system-ssl
 
+## Clash with app-text/texlive-2020
+app-text/epspdf							-tk
+
 # Temporary
 =media-libs/allegro-4.4*					-opengl
 
