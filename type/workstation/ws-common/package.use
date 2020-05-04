@@ -86,4 +86,7 @@ app-text/epspdf							-tk
 
 mate-base/mate							-extras
 
+## Temporary
 net-mail/mailutils						-emacs
+sci-mathematics/gretl						-emacs
+
