@@ -85,3 +85,5 @@ app-text/epspdf							-tk
 =www-client/seamonkey-2*					-crypt
 
 mate-base/mate							-extras
+
+net-mail/mailutils						-emacs
