@@ -197,7 +197,7 @@ DRACUT_MODULES="lvm systemd"
 PORTAGE_NICENESS=5
 
 ## Temporary
-#PYTHON_TARGETS="${PYTHON_TARGETS} python3_6"
+PYTHON_TARGETS="${PYTHON_TARGETS} python3_6"
 #PYTHON_SINGLE_TARGET="-* python3_6"
 
 GRUB_PLATFORMS="efi efi-64 emu multiboot pc coreboot"
