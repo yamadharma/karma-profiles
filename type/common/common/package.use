@@ -353,3 +353,4 @@ sys-apps/fwupd							uefi
 net-firewall/nftables						xtables
 net-misc/curl							telnet
 
+sys-apps/util-linux						hardlink kill su tty-helpers
