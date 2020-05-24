@@ -33,6 +33,8 @@ zeitgeist \
 udisks \
 gstreamer \
 upnp-av \
+appindicator \
+teamd \
 "
 
 USE="${USE}\
