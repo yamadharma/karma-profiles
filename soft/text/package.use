@@ -12,6 +12,8 @@ app-editors/emacs-vcs						wide-int gsettings
 app-editors/emacs						wide-int gsettings
 app-editors/emacs						gfile mailutils
 app-editors/emacs-vcs						gfile mailutils
+app-editors/emacs						harfbuzz cairo gmp json
+
 app-text/djvubind						minidjvu
 # app-text/djvubind						cuneiform
 app-editors/bluefish						python

@@ -1,6 +1,5 @@
 USE="\
 X \
-Xaw3d motif \
 xforms \
 vim-with-x \
 xprint \
@@ -38,3 +37,4 @@ libglvnd \
 # gles gles2 \
 # egl \
 # gtk2
+# Xaw3d motif \
