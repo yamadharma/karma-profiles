@@ -35,6 +35,7 @@ gstreamer \
 upnp-av \
 appindicator \
 teamd \
+gnome-shell \
 "
 
 USE="${USE}\
@@ -45,4 +46,4 @@ USE="${USE}\
 # eds \
 # tracker
 # gnome-keyring
-
+# gnome-shell \
