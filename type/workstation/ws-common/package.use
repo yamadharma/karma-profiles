@@ -90,3 +90,5 @@ mate-base/mate							-extras
 net-mail/mailutils						-emacs
 sci-mathematics/gretl						-emacs
 
+# Very old app-emacs/lua-mode
+dev-lang/lua							-emacs
