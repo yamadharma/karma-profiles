@@ -6,6 +6,7 @@ xmldoclet \
 groovy \
 derby \
 jfreechart jgoodiesforms nachocalendar \
+javafx \
 "
 
 # java
