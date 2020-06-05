@@ -111,4 +111,5 @@ dev-java/xmlgraphics-commons:1
 
 # Breaks jupyter notebook
 =dev-python/jsonschema-3.0*
+=dev-python/jsonschema-3.2*
 
