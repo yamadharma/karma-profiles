@@ -1,2 +1,2 @@
 # Conflict with vagrant
-=dev-ruby/rest-client-2.1.0
+#=dev-ruby/rest-client-2.1.0
