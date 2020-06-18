@@ -354,3 +354,5 @@ net-firewall/nftables						xtables
 net-misc/curl							telnet
 
 #sys-apps/util-linux						hardlink kill su tty-helpers
+
+sys-firmware/intel-microcode					initramfs
