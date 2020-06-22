@@ -95,3 +95,4 @@ media-video/obs-studio				luajit python vlc fdk
 #=app-emulation/wine-vanilla-4.0*		-ffmpeg
 #=app-emulation/wine-d3d9-4.0*			-ffmpeg
 
+media-libs/opencv				opencvapps
