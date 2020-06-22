@@ -95,3 +95,5 @@ dev-python/matplotlib					-wxwidgets
 
 x11-misc/rofi						windowmode
 
+=media-libs/opencv-4*					-gtk3
+
