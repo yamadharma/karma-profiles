@@ -3,6 +3,8 @@ dev-util/cmake							python3
 dev-util/anjuta							valgrind
 
 sys-devel/llvm							llvm-gcc
+sys-devel/llvm							libedit xar z3
+sys-devel/llvm							exegesis
 
 dev-vcs/subversion						-dso perl
 dev-vcs/subversion						webdav-serf
