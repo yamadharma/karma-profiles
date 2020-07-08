@@ -155,6 +155,7 @@ net-libs/zeromq							drafts
 sci-libs/tensorflow						xla
 sci-libs/proj							europe
 
+#dev-python/ipython						nbconvert
 
 sci-biology/biopython						-python_targets_python2_7
 dev-python/bottleneck						-python_targets_python2_7
