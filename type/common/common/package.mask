@@ -223,3 +223,7 @@ app-emacs/reftex
 
 # Compilation error
 #=app-text/enchant-2.2.8
+
+# For python-2
+=dev-python/pyopengl-3.1.5*
+=dev-python/pycairo-1.19.1*
