@@ -7,3 +7,7 @@
 #=dev-python/ipython-7*
 #=dev-python/ipykernel-5*
 #=dev-python/prompt_toolkit-2.0*
+
+# sci-mathematics/sage-9.1-r1:0/0::sage-on-gentoo needs <dev-python/cython-0.29.20
+=dev-python/cython-0.29.20*
+=dev-python/pandas-1.0.4*

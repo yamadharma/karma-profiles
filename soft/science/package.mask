@@ -113,7 +113,4 @@ dev-java/xmlgraphics-commons:1
 =dev-python/jsonschema-3.0*
 =dev-python/jsonschema-3.2*
 
-# sci-mathematics/sage-9.1-r1:0/0::sage-on-gentoo needs <dev-python/cython-0.29.20
-=dev-python/cython-0.29.20*
-=dev-python/pandas-1.0.4*
 
