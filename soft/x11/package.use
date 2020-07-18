@@ -80,6 +80,7 @@ dev-libs/efl						egl gles
 dev-libs/efl						harfbuzz hyphen luajit vlc vnc xcf xpresent ivi
 dev-libs/efl						pmaps psd
 dev-libs/efl						drm
+dev-libs/efl						gles2-only
 
 mate-base/mate-control-center				appindicator
 mate-base/mate-applets-meta				appindicator
