@@ -87,6 +87,7 @@ sys-boot/grub							extras
 sys-boot/grub							mount
 sys-boot/grub							efiemu
 media-libs/freetype						static-libs
+media-libs/freetype						brotli
 sys-fs/udev							edd floppy gudev hwdb keymap
 sys-libs/ncurses						static-libs
 sys-libs/ncurses:5						tinfo
