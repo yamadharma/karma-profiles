@@ -1,6 +1,5 @@
 USE="\
 alsa \
-jack netjack jackmidi jack-tmpfs \
 pulseaudio \
 plugins \
 audacious \
@@ -14,10 +13,12 @@ lv2 \
 opus \
 modplug \
 openal \
+jack netjack jackmidi jack-tmpfs \
 "
 
 # arts artswrappersuid
 # amarok \
 # esd \
 # oss 
+# jack netjack jackmidi jack-tmpfs \
 

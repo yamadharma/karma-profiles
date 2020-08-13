@@ -37,4 +37,5 @@ media-plugins/audacious-plugins				-libnotify
 
 media-sound/wildmidi					alsa -oss -openal
 
+media-sound/pulseeffects				bs2b calf mda-lv2 rubberband
 
