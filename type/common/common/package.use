@@ -360,3 +360,4 @@ net-misc/curl							telnet
 sys-firmware/intel-microcode					initramfs
 
 app-crypt/tpm2-tss						-gcrypt openssl
+gnome-extra/nm-applet						modemmanager
