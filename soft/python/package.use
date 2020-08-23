@@ -10,4 +10,5 @@ dev-python/PyQt4						help script
 dev-python/PyQt5						help
 
 
+dev-python/QtPy							gui printsupport
 

@@ -69,6 +69,7 @@ berkdb \
 dns-over-tls \
 lmbd \
 jemalloc \
+sssd \
 "
 
 # libressl \

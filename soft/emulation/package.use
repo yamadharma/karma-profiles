@@ -12,3 +12,5 @@ app-emulation/wine-any			-opencl
 sys-apps/systemd			cgroup-hybrid
 
 app-emulation/virtualbox-bin		additions chm python rdesktop-vrdp sdk vboxwebsrv
+app-emulation/virtualbox		python vboxwebsrv sdk java
+
