@@ -1,0 +1,4 @@
+VIDEO_CARDS="intel i965 iris"
+USE="vulkan vkd3d vaapi"
+
+
