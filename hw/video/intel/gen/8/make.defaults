@@ -1,4 +1,1 @@
-VIDEO_CARDS="intel i965 iris"
-USE="vulkan vkd3d vaapi opencl d3d9"
-
-
+../9/make.defaults
