@@ -1,6 +1,7 @@
 ../../type/workstation/x86_64
 ../../hw/arch/core2/x86_64
 ../../hw/arch/native
+../../hw/video/intel
 ../../hw/video/nvidia_free
 ../../hw/net/bluetooth
 ../../soft/emulation/qemu
