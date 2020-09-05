@@ -39,9 +39,13 @@ dev-java/oracle-jre-bin					nsplugin
 dev-java/icedtea					-nsplugin
 dev-java/icedtea-bin					-nsplugin
 
-www-client/firefox					system-cairo system-icu system-jpeg system-libvpx system-sqlite system-harfbuzz -system-libevent
-www-client/seamonkey					system-cairo system-icu system-jpeg system-libvpx system-sqlite system-harfbuzz -system-libevent
-mail-client/thunderbird					system-cairo system-icu system-jpeg system-libvpx system-sqlite system-harfbuzz -system-libevent
+www-client/firefox					system-cairo system-icu system-jpeg system-sqlite system-harfbuzz -system-libevent
+www-client/seamonkey					system-cairo system-icu system-jpeg system-sqlite system-harfbuzz -system-libevent
+mail-client/thunderbird					system-cairo system-icu system-jpeg system-sqlite system-harfbuzz -system-libevent
+
+www-client/firefox					-system-libvpx
+www-client/seamonkey					-system-libvpx
+mail-client/thunderbird					-system-libvpx
 
 www-client/firefox					geckodriver
 
