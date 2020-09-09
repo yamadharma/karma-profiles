@@ -33,3 +33,4 @@ dev-haskell/pandoc-citeproc					unicode_collation
 
 dev-python/markdown						pygments
 
+net-print/hplip-plugin						orblite
