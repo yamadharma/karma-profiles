@@ -365,3 +365,5 @@ gnome-extra/nm-applet						modemmanager
 app-admin/sudo							-gcrypt
 
 =sci-libs/symengine-0.6*					-llvm
+
+dev-libs/libjcat						pkcs7
