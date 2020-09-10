@@ -29,6 +29,7 @@ g726 g729 silk \
 openh264 \
 xine \
 ffmpeg -libav \
+screencast \
 "
 
 # vaapi
