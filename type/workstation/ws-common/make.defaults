@@ -197,7 +197,8 @@ addbookmarks alias autoreplace connectionstatus contactnotes highlight history s
 idle trayicon xhtml \
 eolconv \
 new-login \
-zsh-completion contrarius cran \
+zsh-completion fish-completion \
+contrarius cran \
 mfd-rewrites rpm diskio \
 qhull \
 ginac \

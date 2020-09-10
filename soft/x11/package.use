@@ -98,3 +98,6 @@ x11-misc/rofi						windowmode
 
 =media-libs/opencv-4*					-gtk3
 
+## Wayland
+gui-wm/sway						tray wallpapers
+gui-libs/wlroots					x11-backend

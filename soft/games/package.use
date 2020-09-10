@@ -8,3 +8,4 @@ games-strategy/vcmi						erm launcher
 #games-strategy/vcmi						editor
 
 games-emulation/dosbox						glide
+games-emulation/dosbox-staging					dynrec
