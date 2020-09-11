@@ -1,6 +1,8 @@
-app-emulation/wine-vanilla		dos
-app-emulation/wine-staging		dos
-app-emulation/wine-d3d9			dos
+## Removed USE=dos due to hardwritten games-emulation/dosbox dependencies
+# app-emulation/wine-vanilla		dos
+# app-emulation/wine-staging		dos
+# app-emulation/wine-d3d9			dos
+
 app-emulation/wine-staging		s3tc
 
 app-emulation/wine-vanilla		-opencl
