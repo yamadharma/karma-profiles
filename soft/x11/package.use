@@ -101,3 +101,4 @@ x11-misc/rofi						windowmode
 ## Wayland
 gui-wm/sway						tray wallpapers
 gui-libs/wlroots					x11-backend
+gui-apps/waybar						mpd tray
