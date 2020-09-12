@@ -3,7 +3,7 @@
 ../../hw/arch/core2/gen/10
 ../../hw/arch/native
 ../../hw/video/intel/gen/9
-../../hw/video/nvidia_free
+# ../../hw/video/nvidia_free
 ../../hw/net/bluetooth
 ../../soft/emulation/qemu
 ../../soft/emulation/kvm

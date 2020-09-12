@@ -22,7 +22,6 @@ vpx \
 rtmp \
 frei0r \
 gme \
-vdpau \
 g3dvl \
 bluray \
 g726 g729 silk \
@@ -33,6 +32,7 @@ screencast \
 "
 
 # vaapi
+# vdpau \
 
 #PORTDIR_OVERLAY="\
 #${PORTDIR_OVERLAY} \
