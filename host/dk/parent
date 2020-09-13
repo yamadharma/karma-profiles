@@ -1,9 +1,9 @@
 ../../type/workstation/x86_64
 #../../hw/arch/x86_64
 ../../hw/arch/em64t/family6/x86_64
-../../hw/video/intel
+../../hw/video/intel/gen/8
 ../../hw/video/ati
-../../hw/video/sis
+# ../../hw/video/sis
 ../../hw/video/nvidia_free
 ../../soft/xfce
 ../../soft/mpi
