@@ -1,6 +1,6 @@
-# due net-fs/openafs-1.8.2
->=sys-kernel/gentoo-sources-4.21
->=sys-kernel/linux-headers-4.21
+# due net-fs/openafs-1.8.6
+>=sys-kernel/gentoo-sources-5.11
+>=sys-kernel/linux-headers-5.11
 
 
 
