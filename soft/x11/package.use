@@ -103,4 +103,4 @@ x11-libs/libva						utils
 ## Wayland
 gui-wm/sway						tray wallpapers
 gui-libs/wlroots					x11-backend
-gui-apps/waybar						mpd tray
+gui-apps/waybar						mpd tray popups
