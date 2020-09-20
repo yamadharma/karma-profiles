@@ -1,0 +1,15 @@
+../../type/workstation/x86_64
+../../hw/arch/core2/x86_64
+../../hw/arch/core2/gen/10
+../../hw/video/intel/gen/9
+../../soft/vnc
+../../soft/emulation/kvm
+../../soft/emulation/qemu
+
+
+
+
+
+
+
+
