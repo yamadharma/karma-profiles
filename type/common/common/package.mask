@@ -211,8 +211,8 @@ app-emacs/reftex
 =app-crypt/argon2-20190702
 
 ## Dependencies problems
-=dev-lang/ocaml-4.09.0*
-=dev-ml/labltk-8.06.7*
+#=dev-lang/ocaml-4.09.0*
+#=dev-ml/labltk-8.06.7*
 
 ## dev-db/mysql-workbench problems
 =dev-db/mysql-connector-c-8.0.19*
