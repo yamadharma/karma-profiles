@@ -107,7 +107,7 @@ dev-java/xmlgraphics-commons:1
 #=dev-libs/jsoncpp-1.9.2*
 
 ## Due dev-python/ipython-7.5.0
-=dev-python/prompt_toolkit-3.0*
+#=dev-python/prompt_toolkit-3.0*
 
 # Breaks jupyter notebook
 #=dev-python/jsonschema-3.0*
