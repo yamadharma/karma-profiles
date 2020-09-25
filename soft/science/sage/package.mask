@@ -6,3 +6,7 @@
 #=dev-gap/transgrp-3.0*
 #=dev-gap/transgrp-2.0.5*
 
+## Temporary
+#=sci-mathematics/gap-4.10.2*
+
+
