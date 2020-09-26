@@ -28,6 +28,7 @@ dev-util/astyle					java
 dev-java/validation-api				source
 dev-java/openjdk-bin				webstart
 
+dev-java/openjfx				media
 
 
 
