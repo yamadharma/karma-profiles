@@ -37,6 +37,8 @@ app-office/libreoffice			googledrive
 
 =app-office/abiword-3.0.2*		-calendar
 
+=app-office/lyx-2.3.5.2*		-docbook
+
 
 
 
