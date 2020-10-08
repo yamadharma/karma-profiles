@@ -26,7 +26,7 @@ media-tv/mythtv					python perl
 
 media-video/ffmpeg				ass
 media-video/ffmpeg				libv4l v4l
-media-video/ffmpeg				openssl
+media-video/ffmpeg				openssl ssh
 media-video/ffmpeg				snappy
 media-video/ffmpeg				rubberband zimg chromaprint
 media-video/ffmpeg				libdrm
@@ -35,6 +35,7 @@ media-video/ffmpeg				codec2
 # media-video/ffmpeg				flite
 media-video/ffmpeg				chromium
 media-video/ffmpeg				libaom
+media-video/ffmpeg				libtesseract libaribb24
 
 media-libs/libbluray				java 
 media-libs/libbluray				utils static-libs
