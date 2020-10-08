@@ -29,6 +29,7 @@ openh264 \
 xine \
 ffmpeg -libav \
 screencast \
+rav1e \
 "
 
 # vaapi
