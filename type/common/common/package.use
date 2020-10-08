@@ -325,6 +325,7 @@ sys-fs/btrfs-progs						python
 sys-auth/sssd							nfsv4 samba
 
 =sys-cluster/glusterfs-6*					-ipv6
+=sys-cluster/glusterfs-7*					-ipv6
 
 net-misc/curl							alt-svc brotli http2 
 
