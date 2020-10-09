@@ -475,8 +475,8 @@ regex/\.([mM][oO][vV]|[qQ][tT])$
 	Include=video
 
 regex/\.([mM][pP]4|[mM]4[vV]|[mM][pP][eE]?[gG])$
-#	Include=video
-	Open=(vlc %f >/dev/null 2>&1 &)
+	Include=video
+#	Open=(vlc %f >/dev/null 2>&1 &)
 
 # MPEG-2 TS container + H.264 codec
 regex/\.([mM][tT][sS])$
@@ -495,6 +495,9 @@ regex/\.([fF][lL][iIcCvV])$
 	Include=video
 
 regex/\.([oO][gG][mM])$
+	Include=video
+
+regex/\.([oO][gG][vV])$
 	Include=video
 
 regex/\.([wW][eE][bB][mM])$
@@ -516,6 +519,7 @@ include/video
 type/^PostScript
 	#Open=(gv %f &)
 	Open=(evince %f >/dev/null 2>&1 &)
+	#Open=(okular %f >/dev/null 2>&1 &)
 	View=%view{ascii} ps2ascii %f
 
 # PDF
@@ -530,8 +534,8 @@ type/^PDF
 # DjVu
 type/^DjVu
 	#Open=(xdg-open %f >/dev/null 2>&1 &)
-	#Open=(evince %f >/dev/null 2>&1 &)
-	Open=(djview4 %f >/dev/null 2>&1 &)
+	Open=(evince %f >/dev/null 2>&1 &)
+	#Open=(djview4 %f >/dev/null 2>&1 &)
 	#Open=(okular %f >/dev/null 2>&1 &)
 	#Open=(xpdf %f >/dev/null 2>&1 &)
 	#Open=(acroread %f &)
@@ -560,7 +564,7 @@ shell/.abw
 	Open=(abiword %f &)
 
 # Microsoft Word Document
-regex/\.([Dd][oO][cCtT]|[Ww][rR][iI])$
+regex/\.([Dd][oO][cCtT]|[Ww][rR][iI]|[Dd][oO][cCtT][xX])$
 	#Open=(abiword %f >/dev/null 2>&1 &)
 	Open=(soffice %f &)
 	View=%view{ascii} antiword -t %f || catdoc -w %f || word2x -f text %f - || strings %f
@@ -575,7 +579,7 @@ regex/\.([rR][tT][fF])$
 	Open=(soffice %f >/dev/null 2>&1 &)
 
 # Microsoft Excel Worksheet
-regex/\.([xX][lL][sSwW])$
+regex/\.([xX][lL][sSwW]|[xX][lL][sSwW][xX])$
 	#Open=(gnumeric %f >/dev/null 2>&1 &)
 	Open=(soffice %f >/dev/null 2>&1 &)
 	View=%view{ascii} xls2csv %f || strings %f
@@ -600,13 +604,6 @@ regex/\.([dD][vV][iI])$
 # TeX
 regex/\.([Tt][Ee][Xx])$
 	Include=editor
-
-# DjVu
-regex/\.(djvu?|DJVU?)$
-	#Open=(evince %f >/dev/null 2>&1 &)
-	Open=(djview4 %f >/dev/null 2>&1 &)
-	#Open=djview %f &
-	View=%view{ascii} djvused -e print-pure-txt %f
 
 # ebook
 regex/\.(fb2.zip?|epub?)$
