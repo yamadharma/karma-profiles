@@ -71,6 +71,7 @@ lmbd \
 jemalloc \
 sssd \
 icccm \
+yaml \
 "
 
 # libressl \
