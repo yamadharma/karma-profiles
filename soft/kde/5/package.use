@@ -20,6 +20,7 @@ kde-apps/kalzium:5						solver editor
 kde-apps/kdepim-meta						google
 
 kde-apps/khelpcenter						handbook
+sci-mathematics/rkward						handbook
 
 kde-plasma/plasma-meta						discover grub plymouth sdk
 
