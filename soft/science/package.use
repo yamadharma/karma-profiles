@@ -160,6 +160,8 @@ dev-python/pandas						full-support
 
 #dev-python/ipython						nbconvert
 
+sci-visualization/scidavis					assistant doc origin python
+
 sci-biology/biopython						-python_targets_python2_7
 dev-python/bottleneck						-python_targets_python2_7
 sci-libs/keras-preprocessing                                    -python_targets_python2_7
