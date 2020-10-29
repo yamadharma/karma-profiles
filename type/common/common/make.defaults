@@ -73,6 +73,7 @@ sssd \
 icccm \
 yaml \
 markdown \
+sha2 \
 "
 
 # libressl \
