@@ -211,6 +211,9 @@ sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
 
 net-nds/openldap						-gnutls
+net-nds/openldap						smbkrb5passwd kinit
+net-nds/openldap						experimental
+
 net-print/cups							-gnutls
 net-libs/neon							-gnutls ssl
 =net-libs/liboauth-0.9.6					-curl
