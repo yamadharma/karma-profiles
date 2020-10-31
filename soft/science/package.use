@@ -161,11 +161,14 @@ dev-python/pandas						full-support
 #dev-python/ipython						nbconvert
 
 sci-visualization/scidavis					assistant doc origin python
+sci-libs/suitesparse						partition
+sci-libs/spqr							partition
+sci-libs/cholmod						partition
 
-sci-biology/biopython						-python_targets_python2_7
-dev-python/bottleneck						-python_targets_python2_7
-sci-libs/keras-preprocessing                                    -python_targets_python2_7
-dev-python/pandas						-python_targets_python2_7
+#sci-biology/biopython						-python_targets_python2_7
+#dev-python/bottleneck						-python_targets_python2_7
+#sci-libs/keras-preprocessing                                    -python_targets_python2_7
+#dev-python/pandas						-python_targets_python2_7
 #dev-python/theano						-python_targets_python2_7
 #sci-libs/scipy							-python_targets_python2_7
 
