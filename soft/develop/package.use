@@ -17,7 +17,8 @@ kde-apps/kdesdk-kioslaves					-subversion
 #sys-devel/llvm							LLVM_TARGETS: *
 #sys-devel/clang							LLVM_TARGETS: *
 
-app-doc/doxygen							clang doxysearch
+app-doc/doxygen							doxysearch
+#app-doc/doxygen							clang
 
 
 
