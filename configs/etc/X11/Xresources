@@ -1,0 +1,36 @@
+! Smoothing:
+!	None - Xft.antialias: false
+!	Grayscale - Xft.antialias: true
+!	Subpixel (LCDs) - Xft.antialias: true
+! Hinting:
+!	None - Xft.hinting: false, Xft.hintstyle: none
+!	Slight - Xft.hinting: true, Xft.hintstyle: hintslight
+!	Medium - Xft.hinting: true, Xft.hintstyle: hintmedium
+!	Full - Xft.hinting: true, Xft.hintstyle: hintfull
+! Subpixel Order:
+!  Если Smoothing != Subpixel, то:
+!	Xft.rgba: none
+!  Если Smoothing = Subpixel, то:
+!	RGB - Xft.rgba: rgb
+!	BGR - Xft.rgba: bgr
+!	VRGB - Xft.rgba: vrgb
+!	VBGR - Xft.rgba: vbgr
+
+! Таким образом, если у вас в gnome-appearance-properties в настройках сглажифтов стоят оπции
+!	Resolution = 96
+!	Smoothing = Grayscale
+!	Hinting = Slight
+! то ~/.Xresources должен содержать следующие строки:
+! Xft.dpi:        96.0
+! Xft.hinting:    true
+! Xft.hintstyle:  hintslight
+! Xft.antialias:  true
+! Xft.rgba:       none
+
+! Anti-aliasing
+Xft.dpi:	96.0
+Xft.hinting:	true
+Xft.hintstyle:	hintfull
+Xft.antialias:	true
+Xft.rgba:	rgb
+Xft.lcdfilter: lcddefault
