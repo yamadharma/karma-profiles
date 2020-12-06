@@ -4,6 +4,7 @@
 # app-emulation/wine-d3d9			dos
 
 app-emulation/wine-staging		s3tc
+app-emulation/wine-staging		pipelight osmesa
 
 app-emulation/wine-vanilla		-opencl
 app-emulation/wine-staging		-opencl
