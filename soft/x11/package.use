@@ -105,4 +105,5 @@ x11-libs/libva						utils
 gui-wm/sway						tray wallpapers
 gui-wm/sway						seatd
 gui-libs/wlroots					x11-backend
+gui-libs/wlroots					seatd
 gui-apps/waybar						mpd tray popups
