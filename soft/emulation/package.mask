@@ -1,2 +1,7 @@
 # Conflict with vagrant
 #=dev-ruby/rest-client-2.1.0
+
+# gns3-server depends on aiohttp-3.6.2
+# aiohttp-3.6.2 doesn't work with dev-python/multidict-5
+=dev-python/multidict-5.0*
+=dev-python/aiohttp-3.7.1*

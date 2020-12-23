@@ -83,7 +83,8 @@ media-video/vlc					chromecast chromaprint
 
 media-libs/libsdl2				haptic
 
-media-video/obs-studio				luajit python vlc fdk
+media-video/obs-studio				luajit vlc fdk
+# media-video/obs-studio				python
 
 
 # Temporary, need ffmpeg:4
