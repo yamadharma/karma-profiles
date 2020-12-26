@@ -201,6 +201,8 @@ DRACUT_MODULES="lvm systemd"
 
 PORTAGE_NICENESS=5
 
+LUA_TARGETS="luajit"
+
 ## Temporary
 #PYTHON_TARGETS="${PYTHON_TARGETS} python3_7"
 #PYTHON_SINGLE_TARGET="-* python3_6"

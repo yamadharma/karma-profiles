@@ -372,3 +372,6 @@ app-admin/sudo							-gcrypt
 =sci-libs/symengine-0.6*					-llvm
 
 dev-libs/libjcat						pkcs7
+net-misc/openssh						security-key ldns hpn xmss
+# net-misc/openssh						X509
+
