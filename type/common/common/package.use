@@ -374,4 +374,5 @@ app-admin/sudo							-gcrypt
 dev-libs/libjcat						pkcs7
 net-misc/openssh						security-key ldns hpn xmss
 # net-misc/openssh						X509
-
+net-libs/ldns							ed25519 ed448 gost
+net-libs/ldns							python
