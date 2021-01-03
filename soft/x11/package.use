@@ -107,3 +107,4 @@ gui-wm/sway						seatd
 gui-libs/wlroots					x11-backend
 gui-libs/wlroots					seatd
 gui-apps/waybar						mpd tray popups
+dev-libs/weston						fullscreen ivi kiosk pipewire rdp remoting screen-sharing
