@@ -1,3 +1,5 @@
 dev-lang/fpc						source ide
 dev-lang/rust						rls
 
+net-libs/nodejs						inspector system-icu
+
