@@ -101,6 +101,8 @@ x11-misc/rofi						windowmode
 
 x11-libs/libva						utils
 
+www-plugins/lightspark					nsplugin ppapi
+
 ## Wayland
 gui-wm/sway						tray wallpapers
 gui-wm/sway						seatd
