@@ -379,3 +379,5 @@ net-libs/ldns							python
 
 sys-apps/portage						gentoo-dev
 
+app-crypt/gnupg							scd-shared-access tofu user-socket wks-server
+
