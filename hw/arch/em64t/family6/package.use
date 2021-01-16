@@ -1,3 +1,4 @@
 =sci-libs/fftw-3.3*						-cpu_flags_x86_avx2
 =dev-libs/ntl-11*						-cpu_flags_x86_avx2
+=media-libs/opencv-4*						-cpu_flags_x86_avx2
 
