@@ -3,3 +3,5 @@ dev-lang/rust						rls
 
 net-libs/nodejs						inspector system-icu
 
+dev-ruby/bundler					-doc
+
