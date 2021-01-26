@@ -1,0 +1,383 @@
+app-misc/mc							ext2undel
+app-misc/mc							chdir
+net-analyzer/nagios-nrpe					ssl command-args
+app-admin/puppet						augeas shadow
+app-arch/cabextract						extra-tools
+
+sys-devel/gcc							graphite
+
+net-fs/samba-libs						addns smbclient smbsharemodes 
+#net-fs/samba-libs						cluster
+#net-fs/samba-server						cluster
+#net-fs/samba-client						cluster
+net-fs/samba							addns smbclient smbsharemodes
+
+app-shells/dash							static
+sys-fs/udev							extras
+
+net-analyzer/scapy						tcpreplay
+
+app-portage/eix							strong-optimization optimization
+net-libs/libpcap						libnl
+
+media-video/ushare						dlna
+dev-libs/libburn						track-src-odirect
+
+app-portage/portage-utils					static
+
+sys-devel/gcc							gcj awt
+sys-devel/gcc							go
+
+app-antivirus/clamav						clamdtop
+
+dev-libs/geoip							perl-geoipupdate
+
+app-editors/jasspa-microemacs					nanoemacs
+
+sys-boot/grub							multislot
+sys-fs/aufs2							kernel-patch ramfs inotify nfs
+
+sys-apps/paludis						search-index visibility
+
+sys-apps/paludis						pbins
+
+dev-db/sqlite							extensions
+dev-db/sqlite							secure-delete unlock-notify
+dev-db/sqlite							tcl
+net-misc/remmina						ssh
+net-misc/remmina-plugins					ssh telepathy xdmcp
+net-misc/freerdp						largefile
+
+dev-libs/openssl						rfc3779
+
+net-misc/unison							static
+
+mail-client/roundcube						ldap postgres ssl spell
+
+dev-libs/nss							revocator
+
+sys-kernel/pf-sources						experimental
+dev-libs/ppl							pch lpsol watchdog
+
+sys-libs/talloc							python
+
+# sys-apps/coreutils						static
+
+dev-vcs/subversion						-dso perl
+dev-vcs/git							cvs subversion
+
+x11-terms/rxvt-unicode						fading-colors pixbuf unicode3 256-color
+
+
+sys-fs/lvm2							lvm2create_initrd
+
+net-firewall/iptables						netlink
+net-firewall/iptables						nftables static-libs
+# net-firewall/iptables						conntrack
+app-arch/rar							all_sfx
+
+media-libs/gd							fontconfig jpeg png truetype
+sys-apps/paludis						prebuilt-documentation
+dev-libs/popt							static-libs
+app-arch/dpkg							dselect
+media-libs/libpng						apng
+net-p2p/transmission						utp
+sys-boot/grub							extras
+# sys-boot/grub							static
+sys-boot/grub							mount
+sys-boot/grub							efiemu
+media-libs/freetype						static-libs
+media-libs/freetype						brotli
+sys-fs/udev							edd floppy gudev hwdb keymap
+sys-libs/ncurses						static-libs
+sys-libs/ncurses:5						tinfo
+dev-libs/cyrus-sasl						openldap
+dev-libs/cyrus-sasl						-berkdb sqlite
+#dev-libs/redland						-berkdb -sqlite
+#app-text/zathura						-sqlite
+sys-fs/ntfs3g							acl crypt external-fuse udev xattr ntfsprogs
+sys-fs/ntfs3g							extras
+sys-fs/ntfs3g							ntfsdecrypt
+net-dns/avahi							howl-compat mdnsresponder-compat
+# net-misc/mediatomb						mysql
+# app-forensics/libewf						ewf2
+# net-fs/nfs-utils						nfsidmap
+# net-fs/nfs-utils						nfsv41
+net-dns/bind-tools						pkcs11
+app-emulation/libvirt						virt-network
+sys-libs/zlib							minizip
+net-libs/farsight2						python
+app-text/ghostscript-gpl					cups
+www-apps/moodle							postgres
+media-gfx/imagemagick						perl
+media-gfx/imagemagick						postscript
+dev-libs/libxml2						python
+sys-auth/sssd							python
+sys-auth/sssd							autofs netlink ssh sudo
+
+# app-arch/libarchive						nettle
+# sys-apps/pciutils						compress-db zlib
+net-misc/dropbox						librsync-bundled
+net-misc/dropbox						experimental
+
+dev-vcs/git							perl
+
+app-arch/rpm							lua python
+# sys-apps/busybox						sep-usr
+
+net-analyzer/nmap						ssl lua ncat ndiff nping
+# net-analyzer/nmap						nmap-update
+
+# media-fonts/terminus-font					ru-dv ru-i ru-k ru-g
+media-fonts/terminus-font					ru-dv ru-i ru-g
+
+# sys-boot/grub							mount
+
+# net-print/hplip						hpijs
+
+app-emacs/org-mode						odt-schema
+dev-cpp/glog							gflags
+
+sys-block/gparted						dmraid hfs mdadm reiser4
+sys-apps/etckeeper						bazaar cron
+dev-libs/libpcre						jit
+sys-process/lsof						rpc
+net-fs/cifs-utils						acl ads caps caps-ng creds upcall
+
+app-admin/keepass						aot
+
+net-fs/samba							winbind
+# sys-devel/llvm							clang
+app-emulation/libvirt-glib					python
+
+net-dns/bind-tools						gssapi
+net-libs/farstream						python
+sys-fs/ntfs3g							ntfsdecryp
+
+sys-devel/autogen						libopts
+app-editors/emacs-vcs						gfile
+sys-libs/tevent							python
+
+# for app-admin/389-ds-console
+dev-libs/nss							utils
+app-crypt/mit-krb5						openldap
+
+sys-libs/glibc							nscd
+
+
+dev-libs/libpcre                                		pcre16 pcre32
+
+sys-apps/systemd						elfutils kdbus lz4 importd nat
+sys-apps/systemd						python
+sys-apps/systemd						repart
+
+
+app-emulation/docker						btrfs contrib device-mapper lxc overlay vim-syntax zsh-completion
+# app-emulation/docker						aufs
+sys-fs/aufs3							hfs kernel-patch ramfs
+
+dev-db/mariadb							client-libs
+
+dev-libs/fcgi							html
+app-text/acroread						html
+app-office/lyx							html
+media-sound/rhythmbox						html
+dev-python/pandas						html
+
+
+sys-auth/consolekit						cgroups
+
+#app-misc/gramps							python_single_target_python3_6
+
+# samba
+sys-libs/ntdb							python
+net-fs/samba							client
+net-fs/samba							python
+
+=gnome-base/gnome-vfs-2.24.4*					-samba
+=media-video/ffmpeg-2.6*					-samba
+=media-video/ffmpeg-2.7*					-samba
+=media-video/ffmpeg-2.8*					-samba
+
+
+
+app-portage/layman						g-sorcery squashfs sync-plugin-portage
+sys-kernel/gentoo-sources					experimental kdbus
+
+sys-apps/util-linux						fdformat python
+sys-process/procps						modern-top
+
+sys-apps/pciutils						-zlib
+sys-auth/sssd							-glib
+
+net-nds/openldap						-gnutls
+net-nds/openldap						smbkrb5passwd kinit
+net-nds/openldap						experimental
+
+net-print/cups							-gnutls
+net-libs/neon							-gnutls ssl
+=net-libs/liboauth-0.9.6					-curl
+net-libs/liboauth						curl
+net-libs/liboauth						-nss
+=app-forensics/sleuthkit-3.2.3					-ewf
+media-libs/libmetalink						-expat
+net-misc/curl							ssh
+=net-misc/curl-7.28*						-metalink
+net-misc/curl							-curl_ssl_gnutls curl_ssl_openssl -curl_ssl_nss
+dev-python/pycurl						-curl_ssl_nss curl_ssl_openssl
+
+dev-libs/ucommon						-socks
+dev-libs/ucommon						-gnutls
+
+net-misc/iputils						-gcrypt -nettle openssl
+# dev-db/mariadb							-yassl -openssl libressl
+
+
+# Temporary. Compilation error
+net-dns/libidn							emacs
+
+# required by app-emulation/docker-1.10.0
+sys-libs/libseccomp						static-libs
+
+dev-python/docker-py						-python_targets_python2_7
+
+net-fs/openafs							bitmap-later
+net-fs/openafs							pthreaded-ubik
+net-fs/openafs							gssapi
+net-fs/openafs							ubik-read-while-write
+net-fs/openafs							perl
+
+sys-devel/gcc							mpx
+sys-devel/gcc							cilk
+
+net-misc/networkmanager						gnutls
+net-fs/samba							gnutls
+net-fs/samba							-gpg
+
+dev-libs/libgit2						ssh
+app-i18n/enca							iconv recode
+
+net-print/cups-filters						perl static-libs
+
+net-misc/teamviewer						-system-wine
+
+sys-apps/busybox						pam -static
+
+sys-process/tini						static
+
+app-misc/ca-certificates					cacert
+
+dev-libs/libpcre2						pcre32
+
+mail-client/mutt						berkdb -gdbm -lmdb -qdbm -tokyocabinet
+
+sys-process/audit						python
+
+app-text/poppler						nss
+app-crypt/qca							nss
+dev-libs/apr-util						nss
+#dev-libs/xmlsec							nss
+
+sys-libs/libcxx							libunwind
+sys-libs/libcxxrt						libunwind
+sys-libs/libcxxabi						libunwind
+#sys-libs/libcxx							libcxxabi -libcxxrt
+
+net-libs/loudmouth						openssl
+
+sys-devel/gcc							gcj
+
+net-misc/connman						l2tp openvpn pptp vpnc wispr openconnect
+net-misc/connman						iptables -nftables
+net-misc/connman-gtk						openconnect
+
+sys-apps/systemd						libidn2
+sys-apps/systemd						policykit
+
+net-print/cups-filters						pclm
+dev-libs/libpcre2						pcre16
+dev-libs/libpcre2						jit
+sys-apps/dbus							user-session
+net-wireless/bluez						user-session
+
+app-admin/keepassxc						network autotype browser
+app-admin/rsyslog						-gnutls openssl
+sys-fs/udisks							vdo
+sys-libs/libblockdev						vdo
+sys-libs/libblockdev						bcache dmraid kbd 
+sys-libs/libblockdev						cryptsetup escrow
+
+net-libs/libssh							server
+
+sys-apps/smartmontools						update_drivedb
+app-crypt/gpgme							python
+sys-libs/ldb							python
+
+dev-libs/openssl						sslv3
+dev-libs/openssl						tls-heartbeat
+
+sys-kernel/linux-firmware					initramfs
+
+=sys-auth/sssd-2.1.0*						-samba
+sys-fs/cryptsetup						-gcrypt openssl
+
+sys-fs/btrfs-progs						python
+
+#sys-cluster/glusterfs						bd-xlator crypt-xlator
+
+sys-auth/sssd							nfsv4 samba
+
+=sys-cluster/glusterfs-6*					-ipv6
+=sys-cluster/glusterfs-7*					-ipv6
+
+net-misc/curl							alt-svc brotli http2 
+
+media-fonts/corefonts						tahoma
+
+net-wireless/wpa_supplicant					ap eap-sim eapol_test fasteap macsec p2p tdls uncommon-eap-types wps
+dev-vcs/git							mediawiki mediawiki-experimental
+
+app-arch/libarchive						blake2 
+
+sys-devel/gcc							lto
+sys-devel/gcc							pgo
+
+dev-libs/jemalloc						lazy-lock xmalloc hugepages
+
+dev-lang/ruby:2.4						-jemalloc
+dev-lang/ruby:2.5						-jemalloc
+dev-lang/ruby:2.6						-jemalloc
+
+sys-apps/kmod							pkcs7 python
+
+sys-fs/fuse-exfat						suid
+sys-fs/quota							rpc
+
+sys-apps/fwupd							agent amt dell nvme pkcs7 redfish synaptics tpm uefi
+sys-apps/fwupd							uefi 
+#sys-apps/fwupd							thunderbolt
+
+net-firewall/nftables						xtables
+net-misc/curl							telnet
+
+#sys-apps/util-linux						hardlink kill su tty-helpers
+
+sys-firmware/intel-microcode					initramfs
+
+app-crypt/tpm2-tss						-gcrypt openssl
+gnome-extra/nm-applet						modemmanager
+
+app-admin/sudo							-gcrypt
+
+=sci-libs/symengine-0.6*					-llvm
+
+dev-libs/libjcat						pkcs7
+net-misc/openssh						security-key ldns hpn xmss
+# net-misc/openssh						X509
+net-libs/ldns							ed25519 ed448 gost
+net-libs/ldns							python
+
+sys-apps/portage						gentoo-dev
+
+app-crypt/gnupg							scd-shared-access tofu user-socket wks-server
+

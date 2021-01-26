@@ -1,0 +1,361 @@
+# Copyright 2002 Gentoo Technologies, Inc.
+
+USE="${USE} \
+avi \
+crypt \
+encode gif gpm imlib \
+libg++ libwww mikmod mpeg ncurses nls \
+opengl pam pdflib png qt qtmt quicktime readline sdl slang spell \
+tcpd truetype xml2 xmms xv \
+ldap \
+dvd dvdr \
+leim \
+sasl \
+kerberos \
+xfs acpi4linux \
+usb tiff slp flash xml \
+imap \
+plotutils acl \
+innodb \
+acpi \
+faad \
+multimaster \
+cscope \
+gd \
+skey \
+matroska \
+guile xface \
+cups ppds foomatic \
+jbig lcms \
+nptl nptlonly pic \
+foomaticdb \
+ofx \
+emacs \
+v4l v4l2 \
+javascript \
+mad \
+pg-vacuumdelay pg-intdatetime \
+f77 objc \
+idea \
+cap \
+emacs-w3 imlib2 lynxkeymap \
+xvid live divx \
+mailwrapper md5sum \
+ucs2 \
+mmap speex \
+cairo glitz \
+libffi \
+gcc-libffi \
+pdfkit emoticon gsnd \
+xim \
+divx4linux dvdread fbdev rtc edl lzo mythtv network xvmc theora \
+mng gimpprint graphviz lzw-tiff lzw \
+oav \
+sndfile \
+modelock quotas libclamav \
+bash-completion portaudio bdf \
+bitmap-fonts insecure-drivers font-server truetype-fonts type1-fonts xv \
+dga real quicktime audiofile \
+fpx yv12 dv v4l2 \
+hbci quotes \
+xscreensaver gphoto2 scanner povray pda \
+glut \
+cdr nntp \
+fortran \
+dts aac \
+pcre \
+gtkhtml  \
+auctex \
+lm_sensors lm-sensors \
+fftw \
+ecc \
+sysfs sysvipc  \
+djbfft threads \
+sox \
+ithreads \
+avalon \
+mjpeg fame \
+musepack css \
+logrotate \
+pam_timestamp \
+exif \
+openexr \
+smux elf \
+ieee1394 \
+tidy \
+nocd \
+libgda \
+glibc-omitfp \
+haskell pascal sql \
+serial \
+mcal memlimit \
+srp ntlm_unsupported_patch  \
+vcd \
+async automount syslog \
+big-tables extraengine geometry utf8 \
+idn \
+t1lib  \
+musicbrainz \
+urandom \
+effects inkjar plugin  \
+epson  \
+rle gs \
+gnokii sms irda \
+transcode vcdimager \
+scsh \
+virus-scan \
+objc-gc  \
+artworkextra \
+tools \
+jasper \
+preview-latex \
+dhcp \
+on-the-fly-crypt  \
+visualization \
+ocaml \
+latex jit screen  \
+asf \
+binfilter \
+dnd freewnn mule  \
+diet \
+clock-screen key-screen mouse search-screen \
+djvu \
+jabber \
+rhino \
+bl \
+objc++  \
+cgi xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
+inifile bcmath pcntl flatfile \
+sharedext wddx \
+extras \
+mime \
+bookmarks \
+fuse nfs \
+nodrm \
+kernel_linux \
+activefilter \
+estraier thumbnail kakasi mecab \
+exscalibar ifp  \
+mozdevelop mozsvg \
+sou hou nowin \
+pango \
+gmp mhash ming cdb  \
+junit \
+mplayer rar subtitles vdr xosd  \
+xinetd msdfs \
+aio \
+dmi \
+unicode \
+mudflap \
+gimp overlays \
+swig \
+bcp bjam pyste \
+ilbc vorbis-psy \
+rcc \
+icq irc lj rss  \
+gsm nogg \
+boost bsh hsqldb webdav vba wpd xalan xmlsec xt \
+evo ole chm \
+njb \
+jce \
+infopipe \
+vim-pager \
+ionflux ionxrandr iontruetype ionscripts \
+finger ftp gopher \
+chardet timidity ao \
+libsamplerate \
+amr \
+aotuv \
+ares \
+szip ansi hlapi \
+follow-xff underscores \
+sound \
+objc-gc \
+cern \
+lcd crciprec \
+doomsday \
+gmedia realmedia wmp \
+stlport bogofilter epeg gpgme hevea obby xapian gsl \
+utempter \
+pulseaudio icecast \
+rdesktop \
+enca \
+threadsafe \
+glsa qa  \
+jrtplib ortp gnet sofia-sip \
+libnotify notify tagwriting  \
+avahi autoipd howl-compat \
+keyring \
+aiglx \
+pop smime buffysize mbox \
+srv \
+fasttrack gnutella magic \
+cdda corba mod rtsp seamonkey shout skins stream vlm  \
+iontruetype ionunicode \
+numeric \
+addbookmarks alias autoreplace connectionstatus contactnotes highlight history statistics texteffect trnslator webpresence \
+idle trayicon xhtml \
+eolconv \
+new-login \
+zsh-completion fish-completion \
+contrarius cran \
+mfd-rewrites rpm diskio \
+qhull \
+ginac \
+netmeeting \
+translator \
+zeroconf \
+device-mapper \
+fping \
+inquisitio \
+thunderbird \
+toolkit-scroll-bars xft \
+pch  \
+purge \
+daap sdl-image \
+emf lash fluidsynth \
+dvdnav mp2 pnm radio \
+extra-cardsets \
+disk-partition dmi \
+dia postscript xcb tta \
+applet gsf \
+vim-syntax dc1394 \
+lapack \
+elisp networking regex deprecated discouraged \
+d \
+itcl octave \
+zrtp blender-game \
+additions vditool \
+hardware-carrier transmitter \
+new-clx \
+maps hipe kpoll smp \
+sys-libs \
+newspr \
+qt-copy pertty transparency \
+network-cron \
+gpac \
+mdnsresponder-compat \
+dvi xcomposite \
+amrnb amrwb hdri \
+hyphenation jai \
+ical gammu obex \
+net zero-penalty-hit \
+nfsexport \
+bonjour prediction silc \
+xosd \
+ctype \
+teletext \
+cxx \
+id3 mp4live mpeg2 player \
+alisp mixer tv \
+camera jng \
+xsl \
+aspnet aspnetedit boo \
+nemesi gtksourceview \
+16bit hddtemp \
+audit \
+wideband \
+espeak aften \
+sftp ads \
+adf unpaper \
+portage visibility \
+darcs git \
+file neon \
+deskbar \
+log4j servletapi \
+netpbm umfpack \
+otr asyncns \
+sparse metis supernodal \
+apisupport cnd harness ide identity j2ee mobility nb profiler soa stableuc uml visualweb \
+nova fits newxkb \
+libotf \
+cdio taglib vcdx \
+nuv \
+extrafilters \
+opengl-video opengl-xvmc iptv \
+openxml \
+sourceview tunepimp epiphany gedit \
+freesound \
+postproc atmo \
+hardcoded-tables \
+grammar math ots thesaurus wordperfect \
+cdrom \
+xtom \
+hyperestraier \
+gecko \
+contrib \
+dhclient dhcpcd \
+themes \
+cdrkit \
+upnp \
+tk \
+systemd \
+accessibility \
+"
+
+
+# examples \
+# epydoc \
+# resolvconf
+# apm \
+# postgres \
+# mysql mysqli \
+# pike
+# cint7 \
+# jimi
+# directfb fbcon \
+# nvtv 
+# clvm 
+# svga 
+# kickoff
+# neXt 
+# f90
+# beagle
+# portage
+# macmenu
+# accessibility 
+# -gcl 
+# pam_console
+# extensions
+# fusion
+# unicode
+# firefox
+# sbcl 
+# mppe-mppc
+# nowin
+# extrafilters
+# fastcgi
+# nptlonly
+# consolekit  
+# glep \
+
+# erandom uclibc
+#lirc
+#afs krb4
+# arts kde nas
+# libcaca
+# threads
+# pie hardened
+# jikes
+# firefox 
+# srvdir 
+# dedicated
+# mzscheme
+# avahi 
+# eap-tls
+# non-flattened 
+# ecf
+# pg-hier 
+# new-login
+# -userlocales
+# jackmidi
+# agg
+# ggi
+# ipod
+# xanim
+# clang \
+
+LINGUAS="ru en"
+# LANGUAGE="RUSS"
+
+LOCAL_PORTAGE_PROFILE=ws

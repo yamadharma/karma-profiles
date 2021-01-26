@@ -1,4 +1,4 @@
-../../type/workstation/x86_64
+../../type/workstation/x86_64-17.0
 ../../hw/arch/core2/x86_64
 ../../hw/arch/core2/gen/10
 ../../hw/arch/native
