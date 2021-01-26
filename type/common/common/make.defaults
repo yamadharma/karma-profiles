@@ -74,6 +74,7 @@ icccm \
 yaml \
 markdown \
 sha2 \
+otf ttf \
 "
 
 # libressl \
