@@ -86,8 +86,6 @@ app-text/epspdf							-tk
 
 mate-base/mate							-extras
 
-media-sound/fluidsynth						-portaudio
-
 
 ## Temporary
 net-mail/mailutils						-emacs

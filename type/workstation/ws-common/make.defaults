@@ -53,7 +53,7 @@ mng gimpprint graphviz lzw-tiff lzw \
 oav \
 sndfile \
 modelock quotas libclamav \
-bash-completion portaudio bdf \
+bash-completion  bdf \
 bitmap-fonts insecure-drivers font-server truetype-fonts type1-fonts xv \
 dga real quicktime audiofile \
 fpx yv12 dv v4l2 \
@@ -354,6 +354,7 @@ accessibility \
 # ipod
 # xanim
 # clang \
+# portaudio
 
 LINGUAS="ru en"
 # LANGUAGE="RUSS"
