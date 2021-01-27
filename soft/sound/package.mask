@@ -1,23 +1,23 @@
-=media-sound/audacity-1.3.7
-media-libs/portaudio:19
+#=media-sound/audacity-1.3.7
+#media-libs/portaudio:19
 
 # =media-sound/jack-audio-connection-kit-1.9*
-=media-libs/portaudio-19.20071207
-=media-libs/portaudio-19-r3
-=media-libs/portaudio-19-r4
+#=media-libs/portaudio-19.20071207
+#=media-libs/portaudio-19-r3
+#=media-libs/portaudio-19-r4
 
 #
-=media-sound/deadbeef-0.5.1-r1
+#=media-sound/deadbeef-0.5.1-r1
 
-media-libs/celt:0
+#media-libs/celt:0
 
-=media-sound/pulseaudio-1.99*
+#=media-sound/pulseaudio-1.99*
 # pulse output problem  Bug #359837
-=media-libs/openal-1.13
+#=media-libs/openal-1.13
 
 # sabayon
-=media-sound/pulseaudio-2.0-r1
+#=media-sound/pulseaudio-2.0-r1
 
 # pro-audio
-=media-sound/lash-9998
+#=media-sound/lash-9998
 
