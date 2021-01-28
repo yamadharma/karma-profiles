@@ -174,4 +174,5 @@ sci-libs/cholmod						partition
 #sci-libs/scipy							-python_targets_python2_7
 
 
+sci-mathematics/octave						portaudio
 
