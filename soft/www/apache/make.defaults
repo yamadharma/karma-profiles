@@ -20,4 +20,4 @@ slotmem_shm \
 "
 # proxy_scgi
 # APACHE2_MPMS="event itk peruser prefork worker" 
-APACHE2_MPMS="prefork"
+APACHE2_MPMS="worker"

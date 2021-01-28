@@ -3,10 +3,5 @@
 =sci-mathematics/arb-2.17.0*
 =sci-libs/m4ri-20200115*
 
-#=dev-gap/transgrp-3.0*
-#=dev-gap/transgrp-2.0.5*
-
-## Temporary
-#=sci-mathematics/gap-4.10.2*
-
-
+=sci-mathematics/flint-2.6.3*
+=dev-python/sympy-1.7.1*

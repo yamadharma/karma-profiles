@@ -91,26 +91,4 @@ dev-java/xmlgraphics-commons:1
 
 #=sci-libs/symengine-9999
 
-# Need Qt-5.10
-#=sci-misc/mendeleydesktop-1.18*
-
-# problems with jupyter-notebook
-#=dev-python/html5lib-1.0.1*
-
-# Need dev-python/html5lib-0.999999999
-#=dev-python/bleach-2.1.3
-
-# <sci-libs/superlu-5 required by sci-libs/mc-1.5:0/0::gentoo
-#=sci-libs/superlu-5*
-
-# Due sci-libs/tensorflow-2.0.0
-#=dev-libs/jsoncpp-1.9.2*
-
-## Due dev-python/ipython-7.5.0
-#=dev-python/prompt_toolkit-3.0*
-
-# Breaks jupyter notebook
-#=dev-python/jsonschema-3.0*
-#=dev-python/jsonschema-3.2*
-
 
