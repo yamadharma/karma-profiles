@@ -1,5 +1,6 @@
 app-office/abiword			grammar latex libgda math openxml ots plugins thesaurus wordperfect collab
-app-office/lyx				enchant gnumeric
+app-office/lyx				enchant
+# app-office/lyx			gnumeric
 dev-java/lucene				analyzers
 app-office/libreoffice			graphite jemalloc mysql odbc offlinehelp
 app-office/libreoffice			pdfimport
