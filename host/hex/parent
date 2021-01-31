@@ -1,5 +1,6 @@
 ../../type/workstation/x86_64
 ../../hw/arch/core-i7/x86_64
+../../hw/arch/core2/gen/10
 ../../hw/video/intel/gen/8
 ../../soft/vnc
 ../../soft/emulation/kvm
