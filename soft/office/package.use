@@ -26,7 +26,7 @@ app-office/libreoffice			googledrive
 
 #app-office/libreoffice			python_single_target_python2_7
 #app-office/libreoffice			-python_single_target_python3_6
-
+app-editors/bluefish			gucharmap
 
 
 
