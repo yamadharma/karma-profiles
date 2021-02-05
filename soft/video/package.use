@@ -98,3 +98,5 @@ media-video/obs-studio				luajit vlc fdk lua
 #=app-emulation/wine-d3d9-4.0*			-ffmpeg
 
 media-libs/opencv				opencvapps
+dev-libs/intel-neo				l0
+
