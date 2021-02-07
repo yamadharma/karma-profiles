@@ -175,4 +175,5 @@ sci-libs/cholmod						partition
 
 
 sci-mathematics/octave						portaudio
+=dev-lang/openmodelica-1.16*					-clang
 
