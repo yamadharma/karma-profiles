@@ -7,3 +7,5 @@
 =dev-python/sympy-1.7.1*
 =dev-python/parso-0.8*
 =dev-python/jedi-0.18*
+
+=sci-mathematics/lrcalc-2*
