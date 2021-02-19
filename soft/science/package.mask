@@ -91,4 +91,5 @@ dev-java/xmlgraphics-commons:1
 
 #=sci-libs/symengine-9999
 
-
+# Due sci-libs/suitesparse-5.4.0:0/0::gentoo
+=sci-libs/cholmod-3.0.14*
