@@ -5,3 +5,5 @@ net-libs/nodejs						inspector system-icu
 
 dev-ruby/bundler					-doc
 
+dev-ml/stdlib-shims					ocamlopt
+
