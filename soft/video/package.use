@@ -1,6 +1,9 @@
 media-video/clive				clipboard pager password
 media-libs/mlt					frei0r
 media-libs/mlt					rtaudio swfdec
+media-libs/mlt					lua python
+media-libs/mlt					opencv
+media-libs/mlt					vidstab
 
 media-video/vlc					libproxy projectm libv4l
 

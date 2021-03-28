@@ -23,6 +23,7 @@ sci-libs/flint							ntl
 # sci-mathematics/lcalc						pari
 sci-mathematics/maxima						ecl -sbcl
 sci-mathematics/maxima						clisp
+sci-mathematics/maxima						vtk gui
 sci-libs/linbox							ntl sage
 sci-mathematics/polybori					sage singular
 
