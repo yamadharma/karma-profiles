@@ -39,3 +39,5 @@ media-sound/wildmidi					alsa -oss -openal
 
 media-sound/pulseeffects				bs2b calf mda-lv2 rubberband
 
+media-sound/lmms					libgig portaudio soundio stk vst
+media-sound/musescore					omr osc portaudio portmidi sfz
