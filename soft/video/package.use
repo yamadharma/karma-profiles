@@ -103,3 +103,7 @@ media-video/obs-studio				luajit vlc fdk lua
 media-libs/opencv				opencvapps
 dev-libs/intel-neo				l0
 
+media-video/pipewire				aac aptx ldac
+# media-video/pipewire				jack-client
+# media-video/pipewire				pipewire-alsa
+
