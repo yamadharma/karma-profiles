@@ -75,6 +75,7 @@ yaml \
 markdown \
 sha2 \
 otf ttf \
+sslv3 \
 "
 
 # libressl \
