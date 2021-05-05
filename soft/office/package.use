@@ -29,6 +29,11 @@ app-office/libreoffice			googledrive
 app-editors/bluefish			gucharmap
 
 
+app-office/libreoffice			base firebird
+app-office/libreoffice			coinmp
+app-office/libreoffice			clang
+dev-libs/libixion			python
+dev-libs/liborcus			python
 
 # Problems with gtk-3
 =app-office/libreoffice-5.0*		-gtk3
