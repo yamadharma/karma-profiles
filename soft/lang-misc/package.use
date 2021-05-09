@@ -7,3 +7,6 @@ dev-ruby/bundler					-doc
 
 dev-ml/stdlib-shims					ocamlopt
 
+dev-lang/swi-prolog					java odbc uuid
+
+
