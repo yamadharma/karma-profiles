@@ -41,8 +41,8 @@ sci-mathematics/gmp-ecm						-openmp
 sci-libs/libsingular						flint
 dev-python/ipython						notebook
 
-sci-mathematics/sage						-bin-html
-sci-mathematics/sage						-html -pdf
+sci-mathematics/sage						-doc-html-bin
+sci-mathematics/sage						-doc-pdf
 sci-mathematics/sage						-doc-html
 # sci-mathematics/sage						sagenb
 sci-mathematics/sage						libhomfly
