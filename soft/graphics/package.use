@@ -38,4 +38,5 @@ media-gfx/graphicsmagick					q32
 media-gfx/graphicsmagick					modules
 media-gfx/imagemagick						q32
 
+media-libs/gd							avif heif
 
