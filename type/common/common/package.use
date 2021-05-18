@@ -354,8 +354,9 @@ sys-fs/fuse-exfat						suid
 sys-fs/quota							rpc
 
 sys-apps/fwupd							agent amt dell nvme pkcs7 redfish synaptics tpm uefi
-sys-apps/fwupd							uefi 
+sys-apps/fwupd							uefi gnutls
 #sys-apps/fwupd							thunderbolt
+sys-apps/fwupd							flashrom gusb
 
 net-firewall/nftables						xtables
 net-misc/curl							telnet
@@ -382,4 +383,6 @@ sys-apps/portage						gentoo-dev
 app-crypt/gnupg							scd-shared-access tofu user-socket wks-server
 
 app-admin/pass							dmenu importers
+
+
 
