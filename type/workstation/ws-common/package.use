@@ -53,6 +53,9 @@ sys-apps/portage						python3
 
 sys-apps/systemd						terminal xkb
 sys-apps/systemd						gnuefi
+sys-apps/systemd						homed
+sys-apps/systemd						cryptsetup pkcs11
+
 
 media-libs/freetype						harfbuzz utils
 
