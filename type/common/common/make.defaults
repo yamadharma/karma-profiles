@@ -209,9 +209,9 @@ POSTGRES_TARGETS="postgres13"
 
 ## Temporary
 PYTHON_TARGETS="${PYTHON_TARGETS} python3_9"
-#PYTHON_SINGLE_TARGET="-* python3_6"
-#PYTHON_TARGETS="-* python2_7 python3_6"
-#PYTHON_SINGLE_TARGET="-* python3_6"
+# PYTHON_SINGLE_TARGET="-* python3_9"
+# PYTHON_TARGETS="-* python2_7 python3_6"
+# PYTHON_SINGLE_TARGET="-* python3_6"
 # PYTHON_TARGETS="-* python3_8 python3_9"
 # PYTHON_SINGLE_TARGET="-* python3_8"
 
