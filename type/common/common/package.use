@@ -384,5 +384,5 @@ app-crypt/gnupg							scd-shared-access tofu user-socket wks-server
 
 app-admin/pass							dmenu importers
 
-dev-python/twisted						conch
+dev-python/twisted						conch http2
 
