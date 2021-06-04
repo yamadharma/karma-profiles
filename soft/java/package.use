@@ -31,6 +31,9 @@ dev-java/openjdk-bin				webstart
 dev-java/openjfx				media
 
 dev-java/graalvm-bin				native-image
+dev-java/openjdk-bin				gentoo-vm
+dev-java/openjdk				gentoo-vm
+
 
 
 
