@@ -1,0 +1,10 @@
+../../common/common-17.0
+#../../../../../../../portage/profiles/targets/systemd
+../../../hw/video/dummy
+../../../soft/selinux
+../../../soft/snmp
+../../../soft/nagios-client
+../../../soft/zabbix-client
+
+
+

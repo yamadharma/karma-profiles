@@ -1,0 +1,20 @@
+# bashrc
+# This file created by 
+export CHOST="i686-pc-linux-gnu"
+export CFLAGS="-march=pentium4 -O3 -pipe"
+export CXXFLAGS="${CFLAGS}"
+export LDFLAGS=" -Wl,--hash-style=both"
+
+# Skip test
+case "${PN}" in
+    # These packages often fail src_test
+    automake|glibc|e2fsprogs|neon|gettext|tar)
+         export SKIP_FUNCTIONS=test
+         ;;
+    pike|koffice*|monodoc|mono-tools|libevent|libtool)
+         export SKIP_FUNCTIONS=test
+         ;;
+    mysql)
+         export SKIP_FUNCTIONS=test
+         ;;
+esac
