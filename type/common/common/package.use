@@ -211,7 +211,8 @@ sys-apps/pciutils						-zlib
 sys-auth/sssd							-glib
 
 net-nds/openldap						-gnutls
-net-nds/openldap						smbkrb5passwd kinit
+# net-nds/openldap						smbkrb5passwd
+net-nds/openldap						kinit
 net-nds/openldap						experimental
 
 net-print/cups							-gnutls
