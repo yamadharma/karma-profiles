@@ -177,7 +177,8 @@ doomsday \
 gmedia realmedia wmp \
 stlport bogofilter epeg gpgme hevea obby xapian gsl \
 utempter \
-pulseaudio icecast \
+pulseaudio pipewire \
+icecast \
 rdesktop \
 enca \
 threadsafe \
