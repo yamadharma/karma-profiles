@@ -40,3 +40,5 @@ media-gfx/imagemagick						q32
 
 media-libs/gd							avif heif
 
+=media-gfx/krita-4.4*						-color-management
+
