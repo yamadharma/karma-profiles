@@ -13,6 +13,7 @@ app-editors/emacs						wide-int gsettings
 app-editors/emacs						gfile mailutils
 app-editors/emacs-vcs						gfile mailutils
 app-editors/emacs						harfbuzz cairo gmp json
+app-editors/emacs						xwidgets
 
 app-text/djvubind						minidjvu
 # app-text/djvubind						cuneiform
@@ -34,3 +35,4 @@ dev-haskell/pandoc-citeproc					unicode_collation
 dev-python/markdown						pygments
 
 net-print/hplip-plugin						orblite
+
