@@ -123,6 +123,7 @@ net-misc/dropbox						experimental
 dev-vcs/git							perl
 
 app-arch/rpm							lua python
+=app-arch/rpm-4.16.1*						-lua
 # sys-apps/busybox						sep-usr
 
 net-analyzer/nmap						ssl lua ncat ndiff nping
