@@ -93,3 +93,9 @@ dev-java/xmlgraphics-commons:1
 
 # Due sci-libs/suitesparse-5.4.0:0/0::gentoo
 =sci-libs/cholmod-3.0.14*
+
+## For tensorflow-2.5.0
+#=dev-libs/protobuf-3.16*
+#=dev-libs/protobuf-3.17*
+#=dev-python/protobuf-python-3.16*
+#=dev-python/protobuf-python-3.17*
