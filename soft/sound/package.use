@@ -43,4 +43,5 @@ media-sound/lmms					libgig portaudio soundio stk vst
 media-sound/musescore					omr osc portaudio portmidi sfz
 media-sound/easyeffects					bs2b calf rubberband rnnoise zamaudio
 # media-sound/easyeffects					webrtc
+media-plugins/zam-plugins				-jack
 
