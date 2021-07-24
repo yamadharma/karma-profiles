@@ -20,6 +20,7 @@ fpx \
 webp \
 animgif \
 graphicsmagick imagemagick \
+heif \
 "
 
 # openvg \
