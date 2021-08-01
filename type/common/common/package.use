@@ -389,4 +389,5 @@ app-admin/pass							dmenu importers
 dev-python/twisted						conch http2
 dev-perl/File-Which						pwhich
 
+sys-apps/exa							man
 
