@@ -82,6 +82,8 @@ app-accessibility/brltty					-ocaml
 ## Clash with app-text/texlive-2020
 app-text/epspdf							-tk
 
+net-analyzer/wireshark						androiddump bcg729 brotli ciscodump dpauxmon http2 lua maxminddb plugin-ifdemo sdjournal snappy spandsp sshdump tfshark
+
 # Temporary
 =media-libs/allegro-4.4*					-opengl
 
