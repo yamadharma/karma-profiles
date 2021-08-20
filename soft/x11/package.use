@@ -117,3 +117,6 @@ xfce-extra/tumbler					epub odf
 xfce-base/libxfce4ui					system-info
 
 x11-misc/polybar					i3wm ipc mpd
+gui-apps/waybar						sndio
+
+
