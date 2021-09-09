@@ -1,3 +1,4 @@
 mail-client/mutt					smtp sidebar
 net-mail/notmuch					mutt python nmbug
+mail-filter/maildrop					authlib
 
