@@ -97,6 +97,7 @@ unmerge-orphans \
 compress-build-logs \
 fixlafiles unmerge-orphans \
 metadata-transfer \
+firewalld \
 -strict -stricter \
 -parse-eapi-ebuild-head \
 -xattr \
