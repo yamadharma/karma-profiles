@@ -393,3 +393,4 @@ dev-perl/File-Which						pwhich
 net-misc/networkmanager						nftables iptables
 net-misc/networkmanager						ovs
 
+sys-cluster/glusterfs						-ipv6
