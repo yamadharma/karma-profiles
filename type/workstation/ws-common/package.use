@@ -98,3 +98,5 @@ sci-mathematics/gretl						-emacs
 
 # Very old app-emacs/lua-mode
 dev-lang/lua							-emacs
+
+net-misc/networkmanager						-syslog
