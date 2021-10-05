@@ -37,3 +37,5 @@ dev-python/markdown						pygments
 net-print/hplip-plugin						orblite
 
 media-fonts/ibm-plex						-ttf
+
+media-fonts/nerd-fonts						iosevka
