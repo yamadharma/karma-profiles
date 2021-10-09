@@ -45,7 +45,7 @@ media-libs/libbluray				utils static-libs
 
 media-video/vlc					lua
 media-video/handbrake				ffmpeg2
-media-video/handbrake				libav-aac -fdk
+# media-video/handbrake				libav-aac -fdk
 
 media-video/mplayer				yuv4mpeg
 media-video/mplayer2				yuv4mpeg
