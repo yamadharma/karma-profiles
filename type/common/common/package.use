@@ -349,6 +349,7 @@ dev-libs/jemalloc						lazy-lock xmalloc hugepages
 dev-lang/ruby:2.4						-jemalloc
 dev-lang/ruby:2.5						-jemalloc
 dev-lang/ruby:2.6						-jemalloc
+dev-lang/ruby:2.7						-jemalloc
 
 sys-apps/kmod							pkcs7 python
 
