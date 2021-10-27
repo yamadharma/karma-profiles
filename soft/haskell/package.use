@@ -5,8 +5,8 @@ x11-misc/xmonad-extras					eval volume
 dev-lang/ghc						ghcmakebinary
 x11-misc/xmobar						timezone
 
-dev-haskell/old-locale					profile
-dev-haskell/old-time					profile
+#dev-haskell/old-locale					profile
+#dev-haskell/old-time					profile
 
 app-text/pandoc						embed_data_files
 dev-haskell/pandoc-citeproc				embed_data_files
