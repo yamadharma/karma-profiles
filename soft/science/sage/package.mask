@@ -8,3 +8,6 @@
 =dev-python/jedi-0.18*
 
 =sci-mathematics/lrcalc-2*
+
+=sci-mathematics/lcalc-2.0*
+=sci-mathematics/planarity-3.0.1*
