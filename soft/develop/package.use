@@ -20,7 +20,8 @@ kde-apps/kdesdk-kioslaves					-subversion
 app-doc/doxygen							doxysearch
 #app-doc/doxygen							clang
 
-
+dev-lang/rust							rls rust-src
+dev-lang/rust							clippy rustfmt
 
 
 
