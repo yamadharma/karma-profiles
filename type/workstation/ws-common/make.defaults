@@ -292,6 +292,8 @@ upnp \
 tk \
 systemd \
 accessibility \
+qrcode \
+pskc \
 "
 
 
