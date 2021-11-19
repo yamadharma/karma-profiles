@@ -4,4 +4,9 @@ dev-java/blackdown-jdk						doc
 dev-java/sun-jdk						doc
 dev-java/jdbc-postgresql					java5
 
-
+dev-java/openjdk-jre-bin:17					-gentoo-vm
+dev-java/openjdk-bin:17						-gentoo-vm
+dev-java/openjdk:17						-gentoo-vm
+dev-java/openjdk-jre-bin:11					-gentoo-vm
+dev-java/openjdk-bin:11						-gentoo-vm
+dev-java/openjdk:11						-gentoo-vm
