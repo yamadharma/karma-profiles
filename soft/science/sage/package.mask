@@ -10,6 +10,6 @@
 =sci-mathematics/lrcalc-2*
 
 =sci-mathematics/lcalc-2.0*
-=sci-mathematics/planarity-3.0.1*
+#=sci-mathematics/planarity-3.0.1*
 
-=sci-mathematics/cliquer-1.22*
+#=sci-mathematics/cliquer-1.22*
