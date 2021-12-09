@@ -163,7 +163,7 @@ dev-python/pandas						full-support
 #dev-python/ipython						nbconvert
 
 sci-visualization/scidavis					assistant doc origin python
-#=sci-visualization/scidavis-2.4*				-python
+=sci-visualization/scidavis-2.4.0*				-python
 sci-libs/suitesparse						partition
 sci-libs/spqr							partition
 sci-libs/cholmod						partition
