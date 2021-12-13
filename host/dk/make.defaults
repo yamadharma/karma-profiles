@@ -1,5 +1,7 @@
 USE="\
-afs"
+afs
+dist-kernel
+"
 
 #VIDEO_CARDS="intel sis radeon nouveau"
 
