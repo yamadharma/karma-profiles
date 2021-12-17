@@ -50,6 +50,8 @@ media-video/handbrake				ffmpeg2
 media-video/mplayer				yuv4mpeg
 media-video/mplayer2				yuv4mpeg
 
+media-video/mpv					libmpv
+
 net-libs/libmicrohttpd				messages
 media-libs/mlt					kdenlive
 media-video/mpv					lua luajit
