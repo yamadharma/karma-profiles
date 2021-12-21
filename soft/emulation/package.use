@@ -17,3 +17,6 @@ app-emulation/wine-any			-opencl
 app-emulation/virtualbox-bin		additions chm python rdesktop-vrdp sdk vboxwebsrv
 app-emulation/virtualbox		python vboxwebsrv sdk java
 
+app-containers/docker			overlay
+app-containers/crun			criu static-libs
+
