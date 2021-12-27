@@ -35,6 +35,8 @@ app-office/libreoffice			clang
 dev-libs/libixion			python
 dev-libs/liborcus			python
 
+app-office/libreoffice-bin		gnome -kde java
+
 # Problems with gtk-3
 =app-office/libreoffice-5.0*		-gtk3
 =app-office/libreoffice-5.1*		-gtk3
