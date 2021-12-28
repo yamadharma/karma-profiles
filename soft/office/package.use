@@ -47,6 +47,7 @@ app-office/libreoffice-bin		gnome -kde java
 
 =app-office/lyx-2.3.5.2*		-docbook
 
+=gnome-extra/sushi-3*			-office
 
 
 
