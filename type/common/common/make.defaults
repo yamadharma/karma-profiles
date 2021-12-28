@@ -221,4 +221,3 @@ POSTGRES_TARGETS="postgres13"
 
 GRUB_PLATFORMS="efi efi-64 emu multiboot pc coreboot"
 
-
