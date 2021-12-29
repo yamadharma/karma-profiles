@@ -100,3 +100,5 @@ sci-mathematics/gretl						-emacs
 dev-lang/lua							-emacs
 
 net-misc/networkmanager						-syslog
+
+=sci-libs/flann-1.9.1*						-octave
