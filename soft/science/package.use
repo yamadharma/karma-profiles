@@ -182,7 +182,8 @@ sci-mathematics/octave						portaudio
 =dev-lang/openmodelica-1.18*					-clang
 
 sci-libs/symengine						arb ecm flint mpc mpfr tcmalloc
-=sci-libs/symengine-0.7.0					-llvm
+=sci-libs/symengine-0.7*					-llvm
+=sci-libs/symengine-0.8*					-llvm
 
 sci-libs/vtk							all-modules
 sci-libs/vtk							mysql odbc postgres
