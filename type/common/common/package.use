@@ -395,6 +395,7 @@ dev-perl/File-Which						pwhich
 net-misc/networkmanager						nftables iptables
 net-misc/networkmanager						ovs
 sys-fs/lvm2							lvm2create-initrd
-
+sys-process/htop						delayacct hwloc unwind
 
 sys-cluster/glusterfs						-ipv6
+
