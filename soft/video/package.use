@@ -39,6 +39,7 @@ media-video/ffmpeg				codec2
 media-video/ffmpeg				chromium
 media-video/ffmpeg				libaom
 media-video/ffmpeg				libtesseract libaribb24
+media-video/ffmpeg				svt-av1 libilbc libsoxr
 
 media-libs/libbluray				java 
 media-libs/libbluray				utils static-libs
