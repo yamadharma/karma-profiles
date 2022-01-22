@@ -34,7 +34,7 @@ dev-java/graalvm-bin				native-image
 dev-java/openjdk-bin				gentoo-vm
 dev-java/openjdk				gentoo-vm
 
-=dev-java/openjdk-17.0.1*			-javafx
+=dev-java/openjdk-17.0*				-javafx
 
 
 
