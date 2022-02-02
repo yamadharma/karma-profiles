@@ -1,5 +1,8 @@
 sci-mathematics/sage						mpc
 sci-mathematics/sage						lrs nauty
+sci-mathematics/sage						jmol meataxe
+
+sci-mathematics/sage-doc					doc-pdf
 
 sci-mathematics/maxima						ecls -sbcl
 sci-mathematics/maxima						clisp
