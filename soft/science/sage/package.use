@@ -1,6 +1,12 @@
 sci-mathematics/sage						mpc
 sci-mathematics/sage						lrs nauty
 sci-mathematics/sage						jmol meataxe
+sci-mathematics/sage						-doc-html-bin
+sci-mathematics/sage						-doc-pdf
+sci-mathematics/sage						-doc-html
+sci-mathematics/sage						-doc
+#sci-mathematics/sage						sagenb
+sci-mathematics/sage						libhomfly
 
 sci-mathematics/sage-doc					doc-pdf
 
@@ -44,11 +50,6 @@ sci-mathematics/gmp-ecm						-openmp
 sci-libs/libsingular						flint
 dev-python/ipython						notebook
 
-sci-mathematics/sage						-doc-html-bin
-sci-mathematics/sage						-doc-pdf
-sci-mathematics/sage						-doc-html
-# sci-mathematics/sage						sagenb
-sci-mathematics/sage						libhomfly
 
 sci-libs/pynac							-giac
 
