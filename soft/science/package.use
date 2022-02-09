@@ -96,7 +96,7 @@ sci-libs/vtk							smp tbb
 #sci-libs/vtk							gdal
 
 sci-visualization/paraview					tcl coprocessing
-sci-visualization/paraview					mpi python
+# sci-visualization/paraview					mpi python
 
 dev-java/oracle-jdk-bin						javafx
 
