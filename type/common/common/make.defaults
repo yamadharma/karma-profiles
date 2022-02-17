@@ -78,6 +78,7 @@ otf ttf \
 sslv3 \
 firewalld \
 rpc \
+grub \
 "
 
 # libressl \

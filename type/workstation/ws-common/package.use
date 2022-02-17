@@ -105,3 +105,4 @@ net-misc/networkmanager						-syslog
 
 # Due `openexr` unslotting
 =kde-frameworks/kimageformats-5.90.0*				-openexr
+=dev-games/openscenegraph-3.6.5*				-openexr
