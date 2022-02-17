@@ -102,3 +102,6 @@ dev-lang/lua							-emacs
 net-misc/networkmanager						-syslog
 
 =sci-libs/flann-1.9.1*						-octave
+
+# Due `openexr` unslotting
+=kde-frameworks/kimageformats-5.90.0*				-openexr
