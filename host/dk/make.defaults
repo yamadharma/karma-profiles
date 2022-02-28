@@ -1,7 +1,8 @@
 USE="\
 afs
-dist-kernel
 "
+
+# dist-kernel
 
 #VIDEO_CARDS="intel sis radeon nouveau"
 
