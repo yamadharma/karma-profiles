@@ -107,6 +107,7 @@ app-text/cb2bib							-webkit
 
 dev-libs/libnl							utils
 
+app-accessibility/espeak-ng					mbrola
 
 
 

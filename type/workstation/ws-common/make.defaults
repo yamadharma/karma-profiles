@@ -256,7 +256,7 @@ nemesi gtksourceview \
 16bit hddtemp \
 audit \
 wideband \
-espeak aften \
+espeak-ng aften \
 sftp ads \
 adf unpaper \
 portage visibility \
