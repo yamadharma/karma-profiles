@@ -15,6 +15,7 @@ dev-db/mariadb							embedded
 virtual/mysql							embedded
 
 net-im/gajim							gmail
+net-im/gajim							jingle omemo remote rst
 dev-util/geany-plugins						lua nls webkit enchant gtkspell soup
 sys-apps/pmount							-crypt
 dev-libs/boost							python
