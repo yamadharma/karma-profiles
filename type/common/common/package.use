@@ -344,7 +344,8 @@ app-arch/libarchive						blake2
 sys-devel/gcc							lto
 sys-devel/gcc							pgo
 
-dev-libs/jemalloc						lazy-lock xmalloc hugepages
+dev-libs/jemalloc						xmalloc hugepages
+#dev-libs/jemalloc						lazy-lock
 
 dev-lang/ruby:2.4						-jemalloc
 dev-lang/ruby:2.5						-jemalloc
