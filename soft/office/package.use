@@ -51,5 +51,6 @@ app-office/libreoffice-bin		java
 
 =gnome-extra/sushi-3*			-office
 
+net-im/telegram-desktop			-hunspell
 
 
