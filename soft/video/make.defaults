@@ -30,6 +30,7 @@ xine \
 ffmpeg -libav \
 screencast \
 rav1e \
+dav1d \
 "
 
 # vaapi
