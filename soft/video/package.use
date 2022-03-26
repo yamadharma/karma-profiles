@@ -6,6 +6,7 @@ media-libs/mlt					opencv
 media-libs/mlt					vidstab
 
 media-video/vlc					libproxy projectm libv4l
+=media-video/vlc-3.0.16*			-dav1d
 
 media-plugins/mythmusic				libvisual
 
