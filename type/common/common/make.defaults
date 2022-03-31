@@ -79,6 +79,7 @@ sslv3 \
 firewalld \
 rpc \
 grub \
+stunnel xxhash \
 "
 
 # libressl \
