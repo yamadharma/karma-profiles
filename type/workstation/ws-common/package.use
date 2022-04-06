@@ -109,5 +109,5 @@ net-misc/networkmanager						-syslog
 =dev-games/openscenegraph-3.6.5*				-openexr
 
 app-editors/emacs:28-vcs					-jit
-app-editors/emacs:28						-jit
+#app-editors/emacs:28						-jit
 
