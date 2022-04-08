@@ -80,6 +80,7 @@ firewalld \
 rpc \
 grub \
 stunnel xxhash \
+verify-sig \
 "
 
 # libressl \
