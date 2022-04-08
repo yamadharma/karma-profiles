@@ -400,3 +400,4 @@ sys-process/htop						delayacct hwloc unwind
 
 sys-cluster/glusterfs						-ipv6
 
+x11-terms/kitty							transfer
