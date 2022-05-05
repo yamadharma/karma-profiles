@@ -31,7 +31,7 @@ app-editors/bluefish			gucharmap
 
 app-office/libreoffice			base firebird
 app-office/libreoffice			coinmp
-app-office/libreoffice			clang
+app-office/libreoffice			-clang
 dev-libs/libixion			python
 dev-libs/liborcus			python
 
