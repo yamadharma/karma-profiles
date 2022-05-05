@@ -6,6 +6,8 @@ app-text/djvu						-nsplugin
 media-gfx/freewrl					libeai
 
 mail-client/thunderbird					lightning
+mail-client/thunderbird					-clang
+www-client/firefox					-clang
 
 =media-gfx/freewrl-1.22.6				-xulrunner -nsplugin
 media-gfx/freewrl					-spidermonkey
