@@ -13,7 +13,9 @@ media-sound/mpd						wildmidi pipe
 # media-sound/clementine					ayatana
 media-sound/pulseaudio					realtime
 media-sound/pulseaudio					aptx ldac
+media-sound/pulseaudio-daemon				aptx ldac
 media-sound/pulseaudio					ofono-headset
+media-sound/pulseaudio-daemon				ofono-headset
 media-libs/opus						custom-modes
 
 dev-libs/libcdio					cddb
