@@ -20,3 +20,7 @@ app-emulation/virtualbox		python vboxwebsrv sdk java
 app-containers/docker			overlay
 app-containers/crun			criu static-libs
 
+app-emulation/vmware-workstation	ovftool vix vmware-tools-linux
+
+
+

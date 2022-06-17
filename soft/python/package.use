@@ -12,3 +12,4 @@ dev-python/PyQt5						help
 
 dev-python/QtPy							gui printsupport
 
+dev-libs/libdnet						python

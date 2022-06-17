@@ -111,3 +111,5 @@ net-misc/networkmanager						-syslog
 app-editors/emacs:28-vcs					-jit
 #app-editors/emacs:28						-jit
 
+
+
