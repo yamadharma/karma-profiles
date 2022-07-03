@@ -202,7 +202,8 @@ net-fs/samba							python
 
 
 
-app-portage/layman						g-sorcery squashfs sync-plugin-portage
+app-portage/layman						squashfs sync-plugin-portage
+#app-portage/layman						g-sorcery
 sys-kernel/gentoo-sources					experimental kdbus
 
 sys-apps/util-linux						fdformat python
