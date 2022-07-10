@@ -106,6 +106,7 @@ www-plugins/lightspark					nsplugin ppapi
 ## Wayland
 gui-wm/sway						tray wallpapers
 gui-wm/sway						seatd
+gui-wm/sway						grimshot
 gui-libs/wlroots					x11-backend
 gui-libs/wlroots					seatd
 gui-apps/waybar						mpd tray popups
