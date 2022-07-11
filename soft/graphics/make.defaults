@@ -21,6 +21,8 @@ webp \
 animgif \
 graphicsmagick imagemagick \
 heif \
+jpegxl \
+vector-icons \
 "
 
 # openvg \
