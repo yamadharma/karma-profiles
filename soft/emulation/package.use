@@ -21,6 +21,7 @@ app-containers/docker			overlay
 app-containers/crun			criu static-libs
 
 app-emulation/vmware-workstation	ovftool vix vmware-tools-linux
+app-emulation/vmware-player		ovftool vix vmware-tools-linux
 
 
 
