@@ -5,6 +5,7 @@
 ../../hw/video/ati
 # ../../hw/video/sis
 ../../hw/video/nvidia_free
+../../hw/platform/standard
 ../../soft/xfce
 ../../soft/mpi
 ../../soft/emulation/qemu

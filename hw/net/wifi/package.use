@@ -1,5 +1,5 @@
 net-wireless/wpa_supplicant					ap p2p
 
-www-client/firefox						-wifi
-www-client/seamonkey						-wifi
-mail-client/thunderbird						-wifi
+#www-client/firefox						-wifi
+#www-client/seamonkey						-wifi
+#mail-client/thunderbird						-wifi

@@ -4,7 +4,7 @@
 ../../hw/arch/native
 ../../hw/video/intel/gen/9
 # ../../hw/video/nvidia_free
-../../hw/net/bluetooth
+../../hw/platform/standard
 ../../soft/emulation/qemu
 ../../soft/emulation/kvm
 ../../soft/p2p

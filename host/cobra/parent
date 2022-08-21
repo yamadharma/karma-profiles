@@ -4,6 +4,7 @@
 ../../hw/video/ati
 ../../hw/video/intel/gen/8
 ../../hw/video/nvidia_free
+../../hw/platform/standard
 #../../soft/lxde
 ../../soft/emulation/kvm
 ../../soft/emulation/qemu
