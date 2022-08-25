@@ -81,6 +81,7 @@ rpc \
 grub \
 stunnel xxhash \
 verify-sig \
+varlink \
 "
 
 # libressl \
