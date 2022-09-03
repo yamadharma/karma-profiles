@@ -268,7 +268,7 @@ netpbm umfpack \
 otr asyncns \
 sparse metis supernodal \
 apisupport cnd harness ide identity j2ee mobility nb profiler soa stableuc uml visualweb \
-nova fits newxkb \
+nova newxkb \
 libotf \
 cdio taglib vcdx \
 nuv \
@@ -361,6 +361,7 @@ flatpak \
 # xanim
 # clang \
 # portaudio
+# fits
 
 LINGUAS="ru en"
 # LANGUAGE="RUSS"
