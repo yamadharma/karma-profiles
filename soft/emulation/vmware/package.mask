@@ -1,6 +1,4 @@
-# patch error
-=app-emulation/vmware-modules-308.5.2*
-=app-emulation/vmware-player-12.5.2.4638234*
-=app-emulation/vmware-workstation-12.5.2.4638234*
+>=sys-kernel/gentoo-sources-5.19
+>=sys-kernel/linux-headers-5.19
 
 
