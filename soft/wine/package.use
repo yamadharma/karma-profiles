@@ -10,10 +10,15 @@ app-emulation/wine						run-exes
 app-emulation/wine						pipelight
 app-emulation/wine						netapi samba
 
+
 #app-emulation/wine-any						d3d9 
 app-emulation/wine-any						dos netapi odbc pipelight prelink s3tc staging
 virtual/wine							staging 
+virtual/wine							proton
 #virtual/wine							d3d9
+
+app-emulation/wine-staging					perl
+app-emulation/wine-proton					perl
 
 
 
