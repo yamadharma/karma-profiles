@@ -115,15 +115,16 @@ SEARCH_DIRS="/usr/GNUstep"
 
 PORTAGE_TMPDIR=/var/tmp
 
-PORTDIR="/usr/portage/"
+# PORTDIR="/usr/portage/"
 COMPORTDIR="/com/lib/portage/"
 DISTDIR="${COMPORTDIR}/distfiles/"
 PKGDIR="${COMPORTDIR}/packages/"
-PORT_LOGDIR="/var/log/portage/"
+# PORT_LOGDIR="/var/log/portage/"
 
 #LOCAL_PORTDIR="/usr/portage/local/"
 
-LAYMAN_DIR="/usr/portage/local/layman"
+#LAYMAN_DIR="/usr/portage/local/layman"
+LAYMAN_DIR="/var/db/repos/gentoo/local/layman"
 
 LOCAL_PORTDIR_OVERLAY="/usr/local/share/portage/local"
 
