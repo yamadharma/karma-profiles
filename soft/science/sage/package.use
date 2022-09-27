@@ -61,3 +61,4 @@ dev-python/pickleshare						-python_targets_python2_7
 dev-python/networkx						-python_targets_python2_7
 dev-python/pplpy						-python_targets_python2_7
 
+#=sci-mathematics/sage-9.7*					-bliss

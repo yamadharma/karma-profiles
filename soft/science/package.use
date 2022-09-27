@@ -199,3 +199,4 @@ sci-mathematics/polymake					bliss
 sci-libs/bliss							gmp
 dev-db/soci								postgres
 
+sci-mathematics/gmp-ecm						openmp
