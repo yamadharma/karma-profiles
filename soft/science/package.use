@@ -197,6 +197,8 @@ sci-mathematics/polymake					libpolymake lrs ppl singular
 sci-mathematics/polymake					bliss
 #sci-mathematics/polymake					nauty
 sci-libs/bliss							gmp
-dev-db/soci								postgres
+dev-db/soci							postgres
 
-sci-mathematics/gmp-ecm						openmp
+sci-mathematics/gmp-ecm						-openmp
+
+
