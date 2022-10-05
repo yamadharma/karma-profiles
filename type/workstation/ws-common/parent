@@ -3,14 +3,13 @@
 /var/db/repos/gentoo/profiles/targets/desktop/plasma
 ../../../hw/net/bluetooth
 ../../../soft/x11
-#../../../soft/x11/qt
-#../../../soft/x11/qt/3
 ../../../soft/x11/qt/4
 ../../../soft/x11/qt/5
+../../../soft/x11/qt/6
 ../../../soft/gnome
 ../../../soft/gnome2/mate
-#../../../soft/kde/4
 ../../../soft/kde/5
+../../../soft/kde/6
 ../../../soft/xfce
 ../../../soft/gnustep
 ../../../soft/games
