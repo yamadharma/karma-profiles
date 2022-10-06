@@ -5,7 +5,7 @@
 ../../../soft/x11
 ../../../soft/x11/qt/4
 ../../../soft/x11/qt/5
-#../../../soft/x11/qt/6
+../../../soft/x11/qt/6
 ../../../soft/gnome
 ../../../soft/gnome2/mate
 ../../../soft/kde/5
