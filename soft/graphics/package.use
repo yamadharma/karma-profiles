@@ -44,3 +44,4 @@ media-libs/gd							avif heif
 
 media-gfx/geeqie						ffmpegthumbnailer
 
+=media-gfx/krita-5.1.1*						-jpegxl
