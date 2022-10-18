@@ -210,8 +210,8 @@ DRACUT_MODULES="lvm systemd"
 
 PORTAGE_NICENESS=5
 
-#LUA_SINGLE_TARGET="-* lua5-3"
-LUA_TARGETS="-* lua5-1 lua5-3"
+# LUA_SINGLE_TARGET="-* lua5-3"
+LUA_TARGETS="lua5-1 lua5-3 lua5-4"
 LUA_TARGETS="${LUA_TARGETS} luajit"
 
 POSTGRES_TARGETS="postgres13"

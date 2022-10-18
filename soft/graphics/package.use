@@ -43,5 +43,6 @@ media-libs/gd							avif heif
 =media-gfx/krita-4.4*						-color-management
 
 media-gfx/geeqie						ffmpegthumbnailer
+media-gfx/geeqie						lua_single_target_lua5-4
 
 =media-gfx/krita-5.1.1*						-jpegxl
