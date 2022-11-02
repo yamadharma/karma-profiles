@@ -3,5 +3,6 @@ app-emulation/vmware-tools					-vmware_guest_freebsd -vmware_guest_netware -vmwa
 app-emulation/vmware-player					-bundled-libs
 app-emulation/vmware-player					ovftool
 app-emulation/vmware-workstation				ovftool
+x11-libs/libdrm							video_cards_vmware
 
 
