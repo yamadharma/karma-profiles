@@ -14,3 +14,4 @@ www-client/seamonkey						sqlite
 =www-client/seamonkey-2.0.13				startup-notification
 =mail-client/thunderbird-3.1.9-r1			startup-notification
 
+www-client/chromium                				system-png

@@ -19,6 +19,7 @@ goocanvas \
 vala \
 goffice \
 gtk3 \
+gtk4 \
 vte \
 map \
 bonobo \
