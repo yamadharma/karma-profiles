@@ -24,9 +24,9 @@ dev-python/PyQt5					widgets printsupport
 net-libs/telepathy-qt					farstream
 
 
-#media-video/vlc						qt4 -qt5
+#media-video/vlc					qt4 -qt5
 dev-util/cmake						-qt4 qt5
-dev-libs/quazip						qt4 -qt5
+#dev-libs/quazip					qt4 -qt5
 #media-video/mkvtoolnix					-qt5
 #=dev-qt/qtlockedfile-2.4.1*				qt4 -qt5
 #=dev-qt/qtsingleapplication-2.6.1*			qt4 -qt5
@@ -36,7 +36,7 @@ dev-qt/qtsingleapplication				-qt4 qt5
 app-office/texmaker					-qt4 qt5
 #media-video/smplayer					qt4 -qt5
 media-video/smplayer					-qt4 qt5
-net-p2p/transmission					-qt4
+#net-p2p/transmission					-qt4
 
 net-misc/gns3-gui					-qt4 qt5
 net-wireless/wpa_supplicant				-qt4 qt5
