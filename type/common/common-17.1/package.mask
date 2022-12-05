@@ -1,0 +1,229 @@
+# reftex now part of emacs
+app-emacs/reftex
+
+=sys-apps/findutils-4.5.4
+
+# Russian don't supported
+# =app-arch/unzip-6*
+
+# infinit loop when compile
+=media-libs/libgphoto2-2.4.7-r2
+
+=app-portage/layman-1.3.0*
+=app-portage/layman-1.3.1*
+
+=media-libs/libextractor-0.5.23*
+=media-libs/libextractor-0.6.0
+
+=sys-boot/grub-0.97-r90
+
+# from zugaina overlay
+=x11-libs/goffice-0.7.2
+
+# Don't compile
+=dev-db/mysql-5.1.46
+=dev-db/postgresql-base-8.4.4-r1
+
+# Криво отображается
+#=media-fonts/liberation-fonts-1.05
+
+# =x11-libs/cairo-1.10.0*
+=net-print/cups-1.4.4-r1
+
+# Installation problem
+=app-arch/rpm-4.8.1
+
+# Don't compile
+=dev-vcs/git-1.7.3.2-r1
+=dev-lang/erlang-14.2.1
+=sys-apps/busybox-1.18.1
+
+# Trubles
+# =net-misc/openssh-5.7_p1-r1
+
+# Can't download
+=dev-util/debhelper-8.1.0
+=dev-util/debhelper-8.1.1
+
+=dev-libs/libzip-0.10_rc1*
+=dev-python/pythonmagick-0.9.4
+
+# =app-misc/geneweb-5.02
+
+=sys-kernel/pf-sources-2.6.38_p3
+=sys-kernel/pf-sources-3.0.2
+=net-misc/openssh-5.8_p2
+
+=sys-libs/pam-1.1.3-r1
+
+=dev-libs/yajl-2.0.2
+
+=virtual/linux-sources-2.6
+
+
+=dev-libs/xmlrpc-c-1.27.5-r1
+# =net-print/gutenprint-5.2.7
+# =dev-db/sqlite-3.7.8*
+# =dev-db/sqlite-3.7.9*
+=sys-fs/mtd-utils-20060907
+
+=app-emacs/org-mode-7.8.03-r1
+=net-misc/dropbox-1.2.51
+=sys-fs/udev-175-r1
+=sys-fs/udev-180
+=net-dns/maradns-2.0.06
+
+# Configure problem
+#=dev-libs/glib-2.32.1
+#=dev-util/gdbus-codegen-2.32.1
+
+# Compile and work problem
+# =net-dns/bind-9.9.0
+
+# Bug 414401
+=net-misc/openssh-6.0_p1*
+
+# Не видит karma overlay
+=sys-apps/portage-2.2.0_alpha104
+=sys-apps/portage-2.2.0_alpha105
+=sys-apps/portage-2.2.0_alpha107
+=sys-apps/portage-2.2.0_alpha108
+=sys-apps/portage-2.2.0_alpha109
+#=sys-apps/portage-2.2.0_alpha142
+#=sys-apps/portage-2.2.0_alpha149
+#=sys-apps/portage-2.2.0_alpha151
+
+
+# Virtual machine error
+#=app-admin/tmpwatch-2.11*
+
+=net-misc/freerapid-0.8*
+
+# don't compile
+#=dev-lang/spidermonkey-1.8.5-r4
+
+# gmp problem
+# Bug 447928
+#=dev-libs/ppl-0.12.1
+
+# Install problem
+=dev-libs/openssl-1.0.1c
+
+# install problem
+=sys-boot/grub-2.00-r3
+=sys-boot/grub-2.00-r4
+=sys-boot/grub-2.00-r5
+=sys-boot/grub-2.00_p5107-r2
+#=sys-boot/grub-2.02_beta*
+
+# Bug 463718
+# net-fs/autofs-5.0.7 fails to mount nfsv3 shares
+#=net-fs/autofs-5.0.7
+#=net-fs/autofs-5.0.7-r1
+
+# Temporary
+=dev-libs/json-c-0.11
+# =dev-python/setuptools-0.7*
+
+# Don't work
+=net-dns/avahi-0.6.31-r1
+#=net-dns/avahi-0.6.31-r2
+
+# Don't compile
+#=dev-libs/boost-1.53.0
+#=dev-util/boost-build-1.53.0
+
+# Temporary, due absense dev-cpp/gmock-1.7.0
+#=dev-cpp/gtest-1.7.0
+
+# Bug 512298
+# =net-libs/webkit-gtk-2.4.3
+=sys-devel/gettext-0.19
+
+# UnicodeDecodeError
+=sys-apps/portage-2.2.11*
+
+# llvm
+#=sys-devel/llvm-3.5*
+#=sys-devel/clang-3.5*
+
+# for net-misc/remmina-1.1.1
+#=net-misc/freerdp-1.2*
+
+# for net-fs/nfs-utils-1.3.1-r1
+=dev-libs/libevent-2.1.5*
+
+# Don't work
+=net-misc/youtube-dl-2015.02.18
+
+# for dev-python/m2crypto-0.22.3-r3
+=dev-lang/swig-3.0.5*
+
+# for net-libs/gnutls-3.3
+#=dev-libs/nettle-3.1*
+
+# conflicts with dev-libs/cloog-0.18.3
+#=dev-libs/isl-0.15:0
+
+# error linking with ldap
+=net-misc/dhcp-4.3.3*
+
+# download problem
+#=dev-java/jss-4.3.2
+
+# Bug 570884
+#=net-fs/autofs-5.1.1
+
+# Bug 576128
+# dev-libs/openssl-1.0.2g causes ABI breakage in reverse dependencies
+=dev-libs/openssl-1.0.2g*
+
+# Bug 574044
+#=app-emulation/wine-1.9*
+
+# Compilation hangs
+#=dev-lang/perl-5.22.2
+
+# due www-apps/jekyll-3.1.6
+#=dev-ruby/colorator-1.0*
+#=dev-ruby/colorator-1.1*
+
+# compile errror
+=sys-fs/xfsprogs-4.7.0
+
+# compile error
+#=media-libs/libextractor-1.3-r1
+
+# HACK for update to sys-libs/ncurses-6.0
+#=sys-libs/ncurses-5.9*
+=sys-libs/ncurses-6.0
+
+# Patch problem
+#=media-libs/speexdsp-1.2_rc3-r2
+
+#=media-libs/freetype-2.9*
+#=media-libs/freetype-2.10*
+
+## Bug 663566 - dev-java/oracle-jdk-bin-1.8.0.181 misses the derby db
+=dev-java/oracle-jdk-bin-1.8.0.181
+
+## Conflict with dev-python/argon2_cffi-19.1.0
+#=app-crypt/argon2-20190702
+
+## Dependencies problems
+#=dev-lang/ocaml-4.09.0*
+#=dev-ml/labltk-8.06.7*
+
+## dev-db/mysql-workbench problems
+=dev-db/mysql-connector-c-8.0.19*
+=dev-db/mysql-connector-c++-8.0.19*
+
+# Due python-2.7 absence
+=dev-python/pillow-7.0.0
+
+# Compilation error
+#=app-text/enchant-2.2.8
+
+# For python-2
+#=dev-python/pyopengl-3.1.5*
+#=dev-python/pycairo-1.19.1*

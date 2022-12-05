@@ -1,0 +1,228 @@
+USE="\
+openmp \
+evms2 \
+lvm lvm2 parted \
+nptl \
+libgcrypt \
+m17n-lib \
+jfs ntfs reiserfs fat \
+gcrypt pcap smi \
+networking \
+sqlite sqlite3 sqlite2 \
+json ldap-sasl \
+gzip-el \
+lzo lzma lz4 \
+vim-syntax \
+archive \
+aspell enchant \
+libssh2 \
+sctp \
+inotify \
+icu iconv \
+adns \
+dbus \
+hdb-ldap otp pkinit \
+geoip \
+pyx \
+ntp \
+john \
+gzip \
+zip unzip \
+bzip2 7zip \
+zstd \
+radvd \
+psf \
+ipv6 \
+aff rawio s3 \
+i18n \
+rar \
+xerces-c \
+socks socks5 \
+quota \
+libyaml \
+udev \
+isdn \
+ssl \
+libxml2 \
+btrfs \
+xattr \
+largefile \
+zeroconf \
+prelude \
+caps \
+glib \
+zlib \
+curl \
+natspec unicode \
+expat \
+bittorrent metalink \
+cron \
+llvm \
+libtirpc \
+iproute2 \
+evdev \
+firmware \
+samba \
+f2fs \
+gpg \
+berkdb \
+dns-over-tls \
+lmbd \
+jemalloc \
+sssd \
+icccm \
+yaml \
+markdown \
+sha2 \
+otf ttf \
+sslv3 \
+firewalld \
+rpc \
+grub \
+stunnel xxhash \
+verify-sig \
+varlink \
+"
+
+# libressl \
+# netlink \
+# c++0x \
+# spidermonkey \
+#afs \
+# gnutls \
+
+LINGUAS="ru ru_RU en en_US"
+L10N="ru ru-RU en en-US"
+
+FEATURES="${FEATURES} \
+sandbox usersandbox \
+userpriv candy  parallel-fetch userfetch \
+preserve-libs \
+metadata-transfer \
+unmerge-orphans \
+compress-build-logs \
+fixlafiles unmerge-orphans \
+metadata-transfer \
+-strict -stricter \
+-parse-eapi-ebuild-head \
+-xattr \
+"
+# prelink confcache
+# lua luajit \
+# tbb \
+
+SEARCH_DIRS="/usr/GNUstep"
+
+PORTAGE_TMPDIR=/var/tmp
+
+# PORTDIR="/usr/portage/"
+COMPORTDIR="/com/lib/portage/"
+DISTDIR="${COMPORTDIR}/distfiles/"
+PKGDIR="${COMPORTDIR}/packages/"
+# PORT_LOGDIR="/var/log/portage/"
+
+#LOCAL_PORTDIR="/usr/portage/local/"
+
+#LAYMAN_DIR="/usr/portage/local/layman"
+LAYMAN_DIR="/var/db/repos/gentoo/local/layman"
+
+LOCAL_PORTDIR_OVERLAY="/usr/local/share/portage/local"
+
+PORTDIR_OVERLAY="
+${LAYMAN_DIR}/roslin 
+${LAYMAN_DIR}/rion 
+${LAYMAN_DIR}/moonrise 
+${LAYMAN_DIR}/calculate 
+${PORTDIR_OVERLAY} 
+/usr/local/share/portage/local/"
+
+# ${LAYMAN_DIR}/389-ds 
+# ${LAYMAN_DIR}/sunrise 
+# ${LAYMAN_DIR}/sabayon \
+# ${LAYMAN_DIR}/pure-funtoo \
+# ${LAYMAN_DIR}/zugaina \
+# ${LAYMAN_DIR}/bazaar \
+# ${LAYMAN_DIR}/perl-experimental \
+# ${LAYMAN_DIR}/kdesvn-portage \
+# ${LAYMAN_DIR}/kde-crazy \
+# ${LAYMAN_DIR}/kde-testing \
+# ${LAYMAN_DIR}/gnome \
+# ${LAYMAN_DIR}/java-overlay \
+# ${LAYMAN_DIR}/science \
+# ${LAYMAN_DIR}/dev-zero \
+# ${LAYMAN_DIR}/sabayon \
+# ${LAYMAN_DIR}/dev-zero \
+# OpenCA
+# ${LAYMAN_DIR}/rion \
+# ${LAYMAN_DIR}/haskell \
+# ${PORTDIR_OVERLAY} \
+
+# PORTDIR_OVERLAY="/usr/local/share/portage/local/"
+
+# LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,--as-needed -Wl,--enable-new-dtags -s"
+LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--as-needed -Wl,--enable-new-dtags -Wl,--sort-common"
+#LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--as-needed -Wl,--enable-new-dtags -Wl,--sort-common -s"
+# LDFLAGS="${LDFLAGS} -Wl,--hash-style=both -Wl,-O1 -Wl,-z,now -Wl,--enable-new_ldflags -Wl,--enable-new-dtags -Wl,--sort-common -s"
+
+ACCEPT_LICENSE="*"
+ACCEPT_PROPERTIES="*"
+
+PORTAGE_ELOG_SYSTEM="save"
+PORTAGE_ELOG_CLASSES="warn error info log"
+
+ELISP_DISABLE_ELC=1
+
+# Gnustep
+
+USE_EXPAND="${USE_EXPAND} GNUSTEP_LAYOUT"
+
+GNUSTEP_LAYOUT=gnustep
+# GNUSTEP_LAYOUT=fhs-system
+# USE="${USE} non-flattened"
+
+PORTAGE_NICENESS=5
+PORTAGE_TMPFS="/dev/shm"
+
+#{{{ For paludis
+
+USE_EXPAND="${USE_EXPAND} PALUDIS_HOOKS"
+
+PALUDIS_HOOKS="eselect"
+
+#}}}
+
+# GENTOO_MIRRORS="http://mirror.yandex.ru/gentoo-distfiles/ http://ftp.spline.inf.fu-berlin.de/mirrors/gentoo/ http://trumpetti.atm.tut.fi/gentoo/ http://gentoo.tups.lv/source/ http://ftp.ing.umu.se/linux/gentoo/"
+
+AUTOCLEAN="yes"
+
+PORTAGE_ECLASS_WARNING_ENABLE="0"
+
+#FETCHCOMMAND="/usr/bin/aria2c -s 5 \${URI} --dir=\${DISTDIR}"
+#RESUMECOMMAND="/usr/bin/aria2c -s 5 \${URI} --dir=\${DISTDIR}"
+#FETCHCOMMAND="/usr/bin/curl -LO --connect-timeout 15 -# -o \${DISTDIR}/\${FILE} \${URI}"
+#RESUMECOMMAND="/usr/bin/curl -LO --connect-timeout 15 -# -C - -o \${DISTDIR}/\${FILE}\${URI}" 
+
+EMERGE_DEFAULT_OPTS="--quiet-build=n"
+
+#RUBY_TARGETS="ruby21 ruby22 ruby23 -ruby24"
+
+DRACUT_MODULES="lvm systemd"
+
+PORTAGE_NICENESS=5
+
+# LUA_SINGLE_TARGET="-* lua5-3"
+LUA_TARGETS="lua5-1 lua5-3 lua5-4"
+LUA_TARGETS="${LUA_TARGETS} luajit"
+
+POSTGRES_TARGETS="postgres13"
+
+## Temporary
+# PYTHON_TARGETS="${PYTHON_TARGETS} python3_8"
+# PYTHON_SINGLE_TARGET="-* python3_9"
+# PYTHON_TARGETS="-* python2_7 python3_6"
+# PYTHON_SINGLE_TARGET="-* python3_6"
+# PYTHON_TARGETS="-* python3_8 python3_9"
+# PYTHON_SINGLE_TARGET="-* python3_8"
+
+GRUB_PLATFORMS="efi efi-64 emu multiboot pc coreboot"
+
