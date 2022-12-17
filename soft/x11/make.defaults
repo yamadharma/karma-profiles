@@ -23,8 +23,6 @@ gallium openvg xa \
 glamor \
 wayland \
 dri3 \
-gles2 \
-gles3 \
 wayland-compositor \
 xwayland \
 libglvnd \
@@ -38,3 +36,5 @@ libglvnd \
 # egl \
 # gtk2
 # Xaw3d motif \
+# gles2 \
+# gles3 \
