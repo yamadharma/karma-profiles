@@ -9,3 +9,5 @@ games-strategy/vcmi						erm launcher
 
 games-emulation/dosbox						glide
 games-emulation/dosbox-staging					dynrec
+games-emulation/dosbox-staging					screenshot
+
