@@ -1,2 +1,2 @@
-#sci-libs/vtk			qt5
+sci-libs/vtk			qt5
 
