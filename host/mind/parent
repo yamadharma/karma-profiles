@@ -6,6 +6,7 @@
 ../../hw/net/bluetooth
 ../../soft/emulation/qemu
 ../../soft/emulation/kvm
+../../soft/emulation/vmware
 ../../soft/p2p
 
 
