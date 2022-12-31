@@ -46,3 +46,4 @@ media-gfx/geeqie						ffmpegthumbnailer
 media-gfx/geeqie						lua_single_target_lua5-4
 
 =media-gfx/krita-5.1.1*						-jpegxl
+media-libs/libjpeg-turbo					java
