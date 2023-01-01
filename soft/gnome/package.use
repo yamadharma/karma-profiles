@@ -109,6 +109,7 @@ dev-libs/libnl							utils
 
 app-accessibility/espeak-ng					mbrola
 
+=app-text/evince-43*						-nautilus
 
 
 
