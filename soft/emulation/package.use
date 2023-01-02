@@ -23,5 +23,6 @@ app-containers/crun			criu static-libs
 app-emulation/vmware-workstation	ovftool vix vmware-tools-linux
 app-emulation/vmware-player		ovftool vix vmware-tools-linux
 
+sys-fs/lvm2				thin
 
 
