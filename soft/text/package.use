@@ -8,8 +8,8 @@ app-text/pdf2djvu						graphicsmagick
 # app-text/ocrodjvu						cuneiform
 media-gfx/scantailor						dewarping
 # app-text/myrulib						reader
-app-editors/emacs-vcs						wide-int gsettings
-app-editors/emacs						wide-int gsettings
+app-editors/emacs-vcs						wide-int gsettings tree-sitter
+app-editors/emacs						wide-int gsettings tree-sitter
 app-editors/emacs						gfile mailutils
 app-editors/emacs-vcs						gfile mailutils
 app-editors/emacs						harfbuzz cairo gmp json
