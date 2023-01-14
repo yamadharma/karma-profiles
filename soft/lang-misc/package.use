@@ -1,14 +1,9 @@
 dev-lang/fpc						source ide
 dev-lang/rust						rls
-
 net-libs/nodejs						inspector system-icu
-
 dev-ruby/bundler					-doc
-
 dev-ml/stdlib-shims					ocamlopt
-
 dev-lang/swi-prolog					java odbc uuid
-
 #dev-lua/penlight					lua_targets_lua5-3
-
+dev-lang/perl						berkdb
 
