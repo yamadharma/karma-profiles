@@ -120,5 +120,6 @@ xfce-base/libxfce4ui					system-info
 
 x11-misc/polybar					i3wm ipc mpd
 gui-apps/waybar						sndio
+gui-apps/swaybg						gdk-pixbuf
 
 
