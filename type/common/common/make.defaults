@@ -103,9 +103,10 @@ unmerge-orphans \
 compress-build-logs \
 fixlafiles unmerge-orphans \
 metadata-transfer \
+skiprocheck -distlocks \
 -strict -stricter \
 -parse-eapi-ebuild-head \
--xattr \
+xattr \
 "
 # prelink confcache
 # lua luajit \
