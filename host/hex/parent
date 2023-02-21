@@ -1,15 +1,13 @@
 ../../type/workstation/x86_64
-../../hw/arch/core-i7/x86_64
+../../hw/arch/core2/x86_64
 ../../hw/arch/core2/gen/10
-../../hw/video/intel/gen/8
-../../soft/vnc
-../../soft/emulation/kvm
+../../hw/arch/native
+../../hw/video/intel/gen/9
+../../hw/platform/standard
 ../../soft/emulation/qemu
-
-
-
-
-
+../../soft/emulation/kvm
+../../soft/emulation/vmware
+../../soft/p2p
 
 
 
