@@ -8,4 +8,5 @@
 ../../soft/emulation/kvm
 ../../soft/emulation/qemu
 #../../soft/emulation/vmware
+../../soft/portage-client
 
