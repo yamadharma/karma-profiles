@@ -91,8 +91,10 @@ sci-physics/root						table
 
 sci-libs/vtk							python xdmf2 java imaging tcl tk web python rendering views
 sci-libs/vtk							smp tbb
-#sci-libs/vtk							all-modules
-#sci-libs/vtk							gdal
+sci-libs/vtk							mysql odbc postgres
+sci-libs/vtk							all-modules freetype las openvdb pdal
+sci-libs/vtk							gdal
+sci-libs/vtk							vtkm
 
 sci-visualization/paraview					tcl coprocessing
 # sci-visualization/paraview					mpi python
@@ -108,8 +110,6 @@ sci-libs/openfoam						doc examples
 sci-libs/openfoam						opendx paraview
 sci-visualization/paraview					development
 
-# sci-libs/vtk							all-modules
-sci-libs/vtk							gdal
 
 sci-visualization/qtiplot					-python -mono
 
@@ -187,8 +187,7 @@ sci-libs/symengine						arb ecm flint mpc mpfr tcmalloc
 =sci-libs/symengine-0.7*					-llvm
 =sci-libs/symengine-0.8*					-llvm
 
-sci-libs/vtk							all-modules
-sci-libs/vtk							mysql odbc postgres
+
 
 sci-geosciences/liblas						gdal
 
