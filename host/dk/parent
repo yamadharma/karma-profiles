@@ -8,5 +8,5 @@
 ../../soft/mpi
 ../../soft/emulation/qemu
 ../../soft/emulation/kvm
-../../soft/emulation/portage-client
+../../soft/portage-client
 
