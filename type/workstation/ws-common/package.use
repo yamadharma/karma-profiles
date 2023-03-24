@@ -109,8 +109,5 @@ net-misc/networkmanager						-syslog
 #=kde-frameworks/kimageformats-5.90.0*				-openexr
 =dev-games/openscenegraph-3.6.5*				-openexr
 
-app-editors/emacs:28-vcs					-jit
-#app-editors/emacs:28						-jit
-
-
+dev-util/pkgcheck						-emacs
 
