@@ -81,6 +81,7 @@ grub \
 stunnel xxhash \
 verify-sig \
 varlink \
+gold pgo \
 "
 
 # libressl \
