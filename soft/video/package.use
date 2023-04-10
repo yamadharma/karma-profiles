@@ -115,3 +115,5 @@ media-video/pipewire				echo-cancel
 # media-video/pipewire				jack-client
 # media-video/pipewire				pipewire-alsa
 
+# media-video/vlc					lua_single_target_lua5-1
+
