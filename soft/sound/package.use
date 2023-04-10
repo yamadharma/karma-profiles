@@ -49,5 +49,5 @@ media-sound/easyeffects					bs2b calf rubberband rnnoise zamaudio
 # media-sound/easyeffects					webrtc
 media-plugins/zam-plugins				-jack
 
-gui-apps/waybar						-pulseaudio
+
 

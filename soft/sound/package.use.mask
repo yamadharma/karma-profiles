@@ -4,6 +4,7 @@
 media-sound/jack-audio-connection-kit					ieee1394 freebob
 media-sound/rhythmbox							nsplugin
 =media-sound/rhythmbox-3.0*						python dbus webkit
+gui-apps/waybar								pulseaudio
 
 
 
