@@ -123,6 +123,8 @@ gui-apps/waybar						sndio
 gui-apps/swaybg						gdk-pixbuf
 gui-libs/wlroots					tinywl
 
+gui-apps/waybar						experimental
+
 
 
 

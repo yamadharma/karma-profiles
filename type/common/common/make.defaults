@@ -82,6 +82,7 @@ stunnel xxhash \
 verify-sig \
 varlink \
 gold pgo \
+libinput \
 "
 
 # libressl \

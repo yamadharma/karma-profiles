@@ -14,6 +14,7 @@ opus \
 modplug \
 openal \
 jack netjack jackmidi jack-tmpfs \
+mpris \
 "
 
 # arts artswrappersuid
