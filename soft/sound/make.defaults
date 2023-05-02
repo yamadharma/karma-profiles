@@ -15,6 +15,7 @@ modplug \
 openal \
 jack netjack jackmidi jack-tmpfs \
 mpris \
+sbsms \
 "
 
 # arts artswrappersuid
