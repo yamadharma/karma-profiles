@@ -1,0 +1,8 @@
+# created by eselect-repo
+
+[brave-overlay]
+location = /var/db/repos/gentoo/local/layman/brave-overlay
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/brave-overlay.git
+
+
