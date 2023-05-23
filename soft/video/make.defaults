@@ -31,6 +31,8 @@ ffmpeg -libav \
 screencast \
 rav1e \
 dav1d \
+gbm \
+h264 \
 "
 
 # vaapi
