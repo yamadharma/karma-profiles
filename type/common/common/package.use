@@ -404,3 +404,6 @@ sys-cluster/glusterfs						-ipv6
 
 x11-terms/kitty							transfer
 www-client/firefox						-pgo
+
+# sys-power/nut							ups_drivers_netxml-ups ups_drivers_nut-ipmipsu ups_drivers_snmp-ups
+
