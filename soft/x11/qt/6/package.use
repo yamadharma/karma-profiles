@@ -1,2 +1,3 @@
 dev-qt/qttools			linguist assistant designer distancefieldgenerator pixeltool qattributionsscanner -qdbus qdiag qdoc qplugininfo
-dev-qt/qtbase			mysql odbc postgres
+dev-qt/qtbase			mysql odbc postgres egl
+
