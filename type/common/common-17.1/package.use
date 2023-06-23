@@ -366,6 +366,7 @@ sys-apps/fwupd							fastboot logitech spi
 
 net-firewall/nftables						xtables
 net-misc/curl							telnet
+net-misc/curl							-sslv3
 
 #sys-apps/util-linux						hardlink kill su tty-helpers
 

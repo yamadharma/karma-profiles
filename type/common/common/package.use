@@ -49,6 +49,7 @@ net-misc/remmina-plugins					ssh telepathy xdmcp
 net-misc/freerdp						largefile
 
 dev-libs/openssl						rfc3779
+dev-libs/openssl						fips ktls tls-compression weak-ssl-ciphers
 
 net-misc/unison							static
 
@@ -318,6 +319,7 @@ sys-libs/ldb							python
 
 dev-libs/openssl						sslv3
 dev-libs/openssl						tls-heartbeat
+net-misc/curl							-sslv3
 
 sys-kernel/linux-firmware					initramfs
 
