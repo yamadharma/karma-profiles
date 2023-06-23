@@ -52,6 +52,7 @@ dev-libs/openssl						rfc3779
 dev-libs/openssl						fips ktls tls-compression weak-ssl-ciphers
 dev-libs/openssl-compat						rfc3779
 dev-libs/openssl-compat						fips ktls tls-compression weak-ssl-ciphers
+dev-libs/openssl-compat						tls-heartbeat
 
 net-misc/unison							static
 
