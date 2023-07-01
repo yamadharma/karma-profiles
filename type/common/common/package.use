@@ -413,4 +413,6 @@ www-client/firefox						-pgo
 # sys-power/nut							ups_drivers_netxml-ups ups_drivers_nut-ipmipsu ups_drivers_snmp-ups
 
 sys-libs/glibc							perl
+#net-vpn/openvpn							dco
+#net-vpn/openvpn							down-root
 
