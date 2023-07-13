@@ -1,0 +1,7 @@
+## Virtualbox-7.0 doesn't start vm
+app-emulation/virtualbox-modules:0/7.0
+app-emulation/virtualbox-guest-additions:0/7.0
+app-emulation/virtualbox-extpack-oracle:0/7.0
+app-emulation/virtualbox:0/7.0
+app-emulation/virtualbox-additions:0/7.0
+
