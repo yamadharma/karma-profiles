@@ -1,11 +1,11 @@
 #!/bin/bash
 
-git pull -4
+git pull
 
 # Push
 git add -A .
 git commit -am "$(date)"
-git push -4
+git push
 
 # Mirror
 git push --mirror git@github.com:yamadharma/gentoo-portage-profiles.git
