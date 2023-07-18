@@ -49,6 +49,10 @@ net-misc/remmina-plugins					ssh telepathy xdmcp
 net-misc/freerdp						largefile
 
 dev-libs/openssl						rfc3779
+dev-libs/openssl						fips ktls tls-compression weak-ssl-ciphers
+dev-libs/openssl-compat						rfc3779
+dev-libs/openssl-compat						fips ktls tls-compression weak-ssl-ciphers
+dev-libs/openssl-compat						tls-heartbeat
 
 net-misc/unison							static
 
@@ -318,6 +322,7 @@ sys-libs/ldb							python
 
 dev-libs/openssl						sslv3
 dev-libs/openssl						tls-heartbeat
+net-misc/curl							-sslv3
 
 sys-kernel/linux-firmware					initramfs
 
@@ -404,3 +409,10 @@ sys-cluster/glusterfs						-ipv6
 
 x11-terms/kitty							transfer
 www-client/firefox						-pgo
+
+# sys-power/nut							ups_drivers_netxml-ups ups_drivers_nut-ipmipsu ups_drivers_snmp-ups
+
+sys-libs/glibc							perl
+#net-vpn/openvpn							dco
+#net-vpn/openvpn							down-root
+

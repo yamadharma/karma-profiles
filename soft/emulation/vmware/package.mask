@@ -1,4 +1,5 @@
->=sys-kernel/gentoo-sources-6.4
->=sys-kernel/linux-headers-6.4
+>=sys-kernel/gentoo-sources-6.5
+>=sys-kernel/linux-headers-6.5
+
 
 

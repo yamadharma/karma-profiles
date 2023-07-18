@@ -144,6 +144,7 @@ sci-mathematics/petsc						superlu
 sci-mathematics/petsc						-hdf5
 #sci-mathematics/petsc						mpi
 #sci-libs/hdf5							mpi
+sci-libs/hdf5							unsupported
 #sci-libs/fftw							mpi
 
 sci-libs/suitesparse						tbb
