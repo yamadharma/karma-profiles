@@ -4,7 +4,7 @@
 ../../hw/arch/native
 #../../hw/video/nvidia
 ../../hw/video/nvidia_free
-../../hw/video/intel
+../../hw/video/intel/gen/8
 ../../hw/net/bluetooth
 ../../hw/platform/notebook
 ../../soft/tracker
