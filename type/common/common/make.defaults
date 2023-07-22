@@ -83,6 +83,7 @@ verify-sig \
 varlink \
 gold pgo \
 libinput \
+pkcs11 \
 "
 
 # libressl \
