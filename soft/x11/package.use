@@ -124,6 +124,7 @@ gui-apps/swaybg						gdk-pixbuf
 gui-libs/wlroots					tinywl
 
 gui-apps/waybar						experimental
+sci-mathematics/pari					-X fltk
 
 
 
