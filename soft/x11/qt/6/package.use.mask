@@ -1,3 +1,4 @@
 sci-libs/vtk			qt5
 net-p2p/transmission		qt5
+www-client/google-chrome	qt5
 
