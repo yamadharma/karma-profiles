@@ -7,6 +7,7 @@ detex dvi2tty xindy \
 latex3 \
 dvipdfm \
 pgf \
+synctex \
 "
 
 # tetex 

@@ -47,7 +47,6 @@ app-text/xournalpp						lua_single_target_lua5-4
 
 media-fonts/iosevka						iosevka iosevka-aile iosevka-curly iosevka-curly-slab iosevka-etoile iosevka-slab
 app-misc/recoll							camelcase
-qpdfview							synctex
 
 
 
