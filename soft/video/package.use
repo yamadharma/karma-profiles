@@ -117,4 +117,4 @@ media-video/pipewire				liblc3
 # media-video/pipewire				pipewire-alsa
 
 # media-video/vlc					lua_single_target_lua5-1
-
+media-libs/libcamera				drm libevent unwind
