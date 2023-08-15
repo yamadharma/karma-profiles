@@ -201,5 +201,6 @@ sci-libs/bliss							gmp
 dev-db/soci							postgres
 
 sci-mathematics/gmp-ecm						-openmp
+sci-geosciences/GeographicLib					python
 
 

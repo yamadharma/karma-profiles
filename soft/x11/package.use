@@ -126,6 +126,8 @@ gui-libs/wlroots					tinywl
 gui-apps/waybar						experimental
 sci-mathematics/pari					-X fltk
 app-editors/emacs					-X
+gui-apps/nwg-launchers					layershell
+
 
 
 
