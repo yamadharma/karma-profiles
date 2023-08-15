@@ -127,7 +127,7 @@ gui-apps/waybar						experimental
 sci-mathematics/pari					-X fltk
 app-editors/emacs					-X
 gui-apps/nwg-launchers					layershell
-
+app-misc/ddcutil					drm usb-monitor user-permissions
 
 
 
