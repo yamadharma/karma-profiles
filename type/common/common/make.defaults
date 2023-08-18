@@ -84,7 +84,6 @@ varlink \
 gold pgo \
 libinput \
 pkcs11 \
-secureboot \
 "
 
 # libressl \
