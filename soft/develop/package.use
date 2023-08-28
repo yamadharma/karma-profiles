@@ -22,6 +22,7 @@ app-doc/doxygen							doxysearch
 
 dev-lang/rust							rls rust-src
 dev-lang/rust							clippy rustfmt
+virtual/rust							rustfmt
 
 
 
