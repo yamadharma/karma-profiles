@@ -113,6 +113,7 @@ media-video/pipewire				aac aptx ldac
 media-video/pipewire				jack-sdk
 media-video/pipewire				echo-cancel
 media-video/pipewire				liblc3
+media-video/pipewire				roc
 # media-video/pipewire				jack-client
 # media-video/pipewire				pipewire-alsa
 
