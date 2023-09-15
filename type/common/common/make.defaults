@@ -130,15 +130,20 @@ PKGDIR="${COMPORTDIR}/packages/"
 #LAYMAN_DIR="/usr/portage/local/layman"
 LAYMAN_DIR="/var/db/repos/gentoo/local/layman"
 
-LOCAL_PORTDIR_OVERLAY="/usr/local/share/portage/local"
+#LOCAL_PORTDIR_OVERLAY="/usr/local/share/portage/local"
 
-PORTDIR_OVERLAY="
-${LAYMAN_DIR}/roslin 
-${LAYMAN_DIR}/rion 
-${LAYMAN_DIR}/moonrise 
-${LAYMAN_DIR}/calculate 
-${PORTDIR_OVERLAY} 
-/usr/local/share/portage/local/"
+#PORTDIR_OVERLAY="
+#${PORTDIR_OVERLAY}
+#${LOCAL_PORTDIR_OVERLAY}"
+
+
+#PORTDIR_OVERLAY="
+#${LAYMAN_DIR}/roslin 
+#${LAYMAN_DIR}/rion 
+#${LAYMAN_DIR}/moonrise 
+#${LAYMAN_DIR}/calculate 
+#${PORTDIR_OVERLAY} 
+#/usr/local/share/portage/local/"
 
 # ${LAYMAN_DIR}/389-ds 
 # ${LAYMAN_DIR}/sunrise 

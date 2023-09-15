@@ -2,6 +2,6 @@ USE="\
 "
 # qt3 \
 
-PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/kde-sunset \
-${PORTDIR_OVERLAY}"
+#PORTDIR_OVERLAY="\
+#${LAYMAN_DIR}/kde-sunset \
+#${PORTDIR_OVERLAY}"

@@ -3,6 +3,6 @@ USE=" \
 # webkit
 # tracker
 
-PORTDIR_OVERLAY="\
-${LAYMAN_DIR}/xemacs \
-${PORTDIR_OVERLAY}"
+#PORTDIR_OVERLAY="\
+#${LAYMAN_DIR}/xemacs \
+#${PORTDIR_OVERLAY}"
