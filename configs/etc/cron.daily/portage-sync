@@ -9,12 +9,12 @@ PORTDIR=$(portageq get_repo_path / gentoo)
 chown -R portage:portage ${PORTDIR}
 chown -R portage:portage /usr/local/share/portage/
 
-# /usr/sbin/emaint sync -a
+/usr/sbin/emaint sync -a
 
-su - portage -s /bin/bash -c 'emerge --sync'
+#su - portage -s /bin/bash -c 'emerge --sync'
 
-layman -f
-su - portage -s /bin/bash -c 'layman -S'
+#layman -f
+#su - portage -s /bin/bash -c 'layman -S'
 #layman -a ALL
 
 eix-update
