@@ -124,6 +124,7 @@ COMPORTDIR="/com/lib/portage/"
 DISTDIR="${COMPORTDIR}/distfiles/"
 PKGDIR="${COMPORTDIR}/packages/"
 # PORT_LOGDIR="/var/log/portage/"
+PORTAGE_LOGDIR="/var/log/portage/"
 
 #LOCAL_PORTDIR="/usr/portage/local/"
 
