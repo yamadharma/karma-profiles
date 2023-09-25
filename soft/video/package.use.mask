@@ -15,3 +15,5 @@ media-libs/mlt					qt3
 media-tv/tvtime					-alsa
 
 #media-libs/avidemux-core 			-system-ffmpeg
+
+=media-video/vlc-3.0*				vaapi

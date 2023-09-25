@@ -1,1 +1,3 @@
 media-video/ffmpeg				-opencl
+=media-video/vlc-3.0*			-vaapi
+

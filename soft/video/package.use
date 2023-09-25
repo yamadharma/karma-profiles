@@ -119,3 +119,5 @@ media-video/pipewire				liblc3
 
 # media-video/vlc					lua_single_target_lua5-1
 media-libs/libcamera				drm libevent unwind
+=media-libs/libquicktime-1.2*			-ffmpeg
+
