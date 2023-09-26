@@ -33,6 +33,7 @@ rav1e \
 dav1d \
 gbm \
 h264 \
+libplacebo \
 "
 
 # vaapi

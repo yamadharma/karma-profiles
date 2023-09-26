@@ -3,6 +3,7 @@ cvs git subversion bazaar mercurial \
 teamwork \
 cmake qmake \
 devhelp \
+modula2 \
 "
 
 # valgrind \
