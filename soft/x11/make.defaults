@@ -26,6 +26,7 @@ dri3 \
 wayland-compositor \
 xwayland \
 libglvnd \
+xcb-errors \
 "
 
 # PORTDIR_OVERLAY="\
