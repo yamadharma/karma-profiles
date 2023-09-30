@@ -1,4 +1,5 @@
 USE="qt6
 qt6-imageformats
+pdfium
 "
 
