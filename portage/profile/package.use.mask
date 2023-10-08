@@ -1,3 +1,0 @@
-#dev-java/openjdk:8				-javafx
-#dev-java/openjdk:11				-javafx
-dev-java/openjdk				-javafx
