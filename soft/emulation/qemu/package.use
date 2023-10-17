@@ -6,5 +6,6 @@ app-emulation/qemu					snappy
 app-emulation/qemu					usbredir 
 app-emulation/qemu					virgl
 app-emulation/qemu					tci
+app-emulation/qemu					ssh iscsi bpf
 
 =app-emulation/qemu-2.1.0				-nfs
