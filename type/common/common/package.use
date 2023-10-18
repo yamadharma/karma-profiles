@@ -420,3 +420,5 @@ app-misc/nnn							8contexts gitstatus namefirst qsort restorepreview
 # app-misc/nnn							emoji icons nerdfonts
 app-misc/nnn							nerdfonts
 
+# sys-boot/refind							secureboot
+
