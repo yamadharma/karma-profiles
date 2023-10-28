@@ -422,3 +422,4 @@ app-misc/nnn							nerdfonts
 
 # sys-boot/refind							secureboot
 
+sys-apps/systemd						boot
