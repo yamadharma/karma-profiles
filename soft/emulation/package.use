@@ -25,5 +25,7 @@ app-emulation/vmware-player		ovftool vix vmware-tools-linux
 
 sys-fs/lvm2				thin
 sys-cluster/nomad			ui
-
+sys-firmware/ipxe			binary efi efi64 ipv6 qemu undi usb vmware
+#sys-firmware/ipxe			iso lkrn
+#sys-firmware/ipxe			savedconfig secureboot
 
