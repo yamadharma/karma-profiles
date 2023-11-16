@@ -12,8 +12,9 @@ media-gfx/inkscape						svg2
 media-gfx/blender						collada cycles openimageio
 # media-gfx/blender						colorio
 media-libs/openimageio						python tbb
-# media-libs/openimageio						opencv
-# media-libs/openimageio						colorio
+media-libs/openimageio						opencv
+media-libs/openimageio						colorio
+media-libs/openimageio						openvdb ptex
 media-libs/opencollada						python
 
 #media-libs/lensfun						python_single_target_python3_6
