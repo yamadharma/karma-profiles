@@ -56,6 +56,9 @@ sci-chemistry/openbabel						gui python
 
 sci-physics/root						llvm
 sci-physics/root						gdml
+sci-physics/root						R
+sci-physics/root						mysql odbc postgres
+sci-physics/root						jupyter
 
 sci-libs/atlas							static-libs
 sci-libs/blas-reference						static-libs
