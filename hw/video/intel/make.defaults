@@ -1,4 +1,4 @@
 VIDEO_CARDS="intel i915 i965"
-USE="vulkan vkd3d vdpau"
+USE="vulkan vkd3d vdpau qsv drm"
 
 

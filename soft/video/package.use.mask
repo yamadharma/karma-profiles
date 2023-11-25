@@ -17,3 +17,5 @@ media-tv/tvtime					-alsa
 #media-libs/avidemux-core 			-system-ffmpeg
 
 =media-video/vlc-3.0*				vaapi
+
+=media-libs/oneVPL-2023*			tools
