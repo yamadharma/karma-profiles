@@ -1,4 +1,6 @@
 # =app-accessibility/festival-2*
 =app-text/myrulib-0.29.7
+## Absent pandoc-crossref
+=app-text/pandoc-bin-3.1.9
 
 

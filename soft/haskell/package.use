@@ -1,4 +1,4 @@
-dev-lang/ghc						llvm
+dev-lang/ghc						-llvm
 dev-lang/ghc						elfutils
 x11-misc/xmonad-extras					eval volume
 #dev-lang/ghc						ghcbootstrap
