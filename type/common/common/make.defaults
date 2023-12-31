@@ -84,6 +84,7 @@ varlink \
 gold pgo \
 libinput \
 pkcs11 \
+modules-compress \
 "
 
 # libressl \
