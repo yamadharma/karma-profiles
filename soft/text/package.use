@@ -47,6 +47,8 @@ app-text/xournalpp						lua_single_target_lua5-4
 
 media-fonts/iosevka						iosevka iosevka-aile iosevka-curly iosevka-curly-slab iosevka-etoile iosevka-slab
 app-misc/recoll							camelcase
-
+app-editors/vim							lua
+app-editors/vim							-lua_single_target_lua5-1 lua_single_target_luajit
+app-editors/vim							perl python racket ruby tcl terminal
 
 
