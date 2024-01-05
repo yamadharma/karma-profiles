@@ -25,7 +25,7 @@ net-libs/telepathy-qt					farstream
 
 
 #media-video/vlc					qt4 -qt5
-dev-util/cmake						-qt4 qt5
+dev-util/cmake						qt6
 #dev-libs/quazip					qt4 -qt5
 #media-video/mkvtoolnix					-qt5
 #=dev-qt/qtlockedfile-2.4.1*				qt4 -qt5
