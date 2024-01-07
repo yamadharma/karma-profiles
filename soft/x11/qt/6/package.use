@@ -2,5 +2,13 @@ dev-qt/qttools			linguist assistant designer distancefieldgenerator pixeltool qa
 dev-qt/qtbase			mysql odbc postgres egl
 dev-qt/qttools			clang
 dev-qt/qtwayland		compositor
+dev-python/PyQt6		quick quick3d
+dev-python/PyQt6		webchannel websockets
+dev-python/PyQt6		multimedia spatialaudio
+dev-python/PyQt6		speech
+
+
+
+
 
 

@@ -85,6 +85,7 @@ gold pgo \
 libinput \
 pkcs11 \
 modules-compress \
+unrar \
 "
 
 # libressl \
