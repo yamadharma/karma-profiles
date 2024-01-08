@@ -86,6 +86,7 @@ libinput \
 pkcs11 \
 modules-compress \
 unrar \
+uefi uefi64 \
 "
 
 # libressl \
