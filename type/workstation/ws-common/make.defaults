@@ -299,6 +299,7 @@ libproxy \
 flatpak \
 epub odf \
 speech \
+egl \
 "
 
 
