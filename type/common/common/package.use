@@ -426,3 +426,7 @@ app-misc/nnn							nerdfonts
 
 sys-apps/systemd						boot
 sys-apps/systemd						ukify
+# sys-kernel/installkernel					ukify
+# sys-kernel/installkernel					uki
+sys-kernel/installkernel					dracut grub module-rebuild systemd
+
