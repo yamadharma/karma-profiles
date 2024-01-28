@@ -122,6 +122,7 @@ x11-misc/polybar					i3wm ipc mpd
 gui-apps/waybar						sndio
 gui-apps/swaybg						gdk-pixbuf
 gui-libs/wlroots					tinywl
+gui-libs/wlroots					liftoff
 
 gui-apps/waybar						experimental
 sci-mathematics/pari					-X fltk
