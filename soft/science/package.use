@@ -96,9 +96,11 @@ sci-physics/root						table
 sci-libs/vtk							python xdmf2 java imaging tcl tk web python rendering views
 sci-libs/vtk							smp tbb
 sci-libs/vtk							mysql odbc postgres
-sci-libs/vtk							all-modules freetype las openvdb pdal
+sci-libs/vtk							freetype las openvdb pdal
 sci-libs/vtk							gdal
 sci-libs/vtk							vtkm
+# sci-libs/vtk							all-modules
+# sci-libs/vtk							opencascade
 
 sci-visualization/paraview					tcl coprocessing
 # sci-visualization/paraview					mpi python
