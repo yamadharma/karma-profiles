@@ -429,4 +429,5 @@ sys-apps/systemd						ukify
 # sys-kernel/installkernel					ukify
 # sys-kernel/installkernel					uki
 sys-kernel/installkernel					dracut grub module-rebuild systemd
+sys-kernel/installkernel					systemd-boot
 
