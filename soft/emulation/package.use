@@ -29,3 +29,5 @@ sys-firmware/ipxe			binary efi efi64 ipv6 qemu undi usb vmware
 #sys-firmware/ipxe			iso lkrn
 #sys-firmware/ipxe			savedconfig secureboot
 
+app-emulation/virtualbox-kvm		vboxwebsrv java python
+app-emulation/virtualbox		vboxwebsrv java python
