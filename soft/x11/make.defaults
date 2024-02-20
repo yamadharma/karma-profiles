@@ -27,6 +27,7 @@ wayland-compositor \
 xwayland \
 libglvnd \
 xcb-errors \
+dmabuf \
 "
 
 # PORTDIR_OVERLAY="\
