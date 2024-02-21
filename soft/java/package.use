@@ -23,6 +23,8 @@ dev-java/icedtea-bin				nss
 dev-java/icedtea-bin				webstart
 
 dev-java/ant					swing
+dev-java/ant					jai javamail junit log4j xalan bcel bsf commonslogging commonsnet jakartamail jdepend jsch junit4 junitlauncher oro regexp resolver xz testutil
+dev-java/junit					vintage
 
 dev-util/astyle					java
 dev-java/validation-api				source
@@ -37,6 +39,9 @@ dev-java/openjdk				gentoo-vm
 dev-java/openjdk:8				javafx
 dev-java/openjdk:11				javafx
 dev-java/openjdk:17				-javafx
+dev-java/openjdk:21				-javafx
+
+
 
 
 
