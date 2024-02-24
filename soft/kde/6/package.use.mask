@@ -1,0 +1,1 @@
+kde-misc/kdeconnect:5		pulseaudio
