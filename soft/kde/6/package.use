@@ -5,6 +5,6 @@ net-p2p/ktorrent:5		-shutdown
 kde-apps/kdenetwork-meta:5	-webengine
 kde-apps/akonadi:5		-kaccounts
 kde-misc/kdeconnect:5		-pulseaudio
-kde-apps/kaccounts-providers:5	-webengine
+# kde-apps/kaccounts-providers:5	-webengine
 
 
