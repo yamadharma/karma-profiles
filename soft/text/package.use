@@ -40,7 +40,7 @@ net-print/hplip-plugin						orblite
 
 media-fonts/ibm-plex						-ttf
 
-media-fonts/nerd-fonts						iosevka
+media-fonts/nerd-fonts						iosevka symbolsonly
 
 #app-text/podofo							-lua_single_target_lua5-1
 app-text/xournalpp						lua_single_target_lua5-4
