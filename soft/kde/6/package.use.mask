@@ -1,1 +1,2 @@
 kde-misc/kdeconnect:5		pulseaudio
+kde-apps/kdesdk-meta:0		subversion

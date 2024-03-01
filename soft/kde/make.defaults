@@ -1,5 +1,6 @@
 USE="\
 kde \
 gtkstyle \
-geoclue
+geoclue 
+designer
 "
