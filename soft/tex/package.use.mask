@@ -4,4 +4,4 @@ media-fonts/tex-gyre					latex
 
 dev-tex/chktex						doc
 
-
+app-text/texlive-core					tk

@@ -1,4 +1,4 @@
-app-text/texlive-core				tk
+#app-text/texlive-core				-tk
 app-text/texlive-core				-xindy
 
 
