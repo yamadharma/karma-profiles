@@ -2,5 +2,11 @@ sci-libs/vtk			qt5
 net-p2p/transmission		qt5
 www-client/google-chrome	qt5
 app-text/sigil			qt5
+gui-apps/qtgreet		qt5
+gui-dfl/dfl-applications	qt5
+gui-dfl/dfl-ipc			qt5
+gui-dfl/dfl-login1		qt5
+gui-dfl/dfl-utils		qt5
+gui-libs/wayqt			qt5
 
 

@@ -131,6 +131,8 @@ gui-apps/nwg-launchers					layershell
 app-misc/ddcutil					drm usb-monitor user-permissions
 gui-apps/yambar						sway-xkb xkb xwindow
 # gui-apps/yambar						core
+virtual/notification-daemon				pantheon
+dev-libs/appstream					apt
 
 
 
