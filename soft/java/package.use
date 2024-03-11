@@ -23,7 +23,7 @@ dev-java/icedtea-bin				nss
 dev-java/icedtea-bin				webstart
 
 dev-java/ant					swing
-dev-java/ant					jai javamail junit log4j xalan bcel bsf commonslogging commonsnet jakartamail jdepend jsch junit4 junitlauncher oro regexp resolver xz testutil
+dev-java/ant					jai javamail junit log4j xalan bcel bsf commonslogging commonsnet jakartamail jdepend jsch junit4 junitlauncher oro regexp resolver xz testutil imageio jmf
 dev-java/junit					vintage
 
 dev-util/astyle					java
