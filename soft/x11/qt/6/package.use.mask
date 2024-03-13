@@ -8,5 +8,7 @@ gui-dfl/dfl-ipc			qt5
 gui-dfl/dfl-login1		qt5
 gui-dfl/dfl-utils		qt5
 gui-libs/wayqt			qt5
+app-office/libreoffice		qt5
+
 
 
