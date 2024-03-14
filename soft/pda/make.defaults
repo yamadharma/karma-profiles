@@ -5,7 +5,7 @@ gnokii \
 nokia6600 \
 opensync \
 libsysfs \
-iphone \
-ios \
 "
 
+# iphone \
+# ios \
