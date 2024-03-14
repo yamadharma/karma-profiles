@@ -5,6 +5,8 @@ dev-python/PyQt5		websockets
 dev-qt/qtwebengine:5		designer
 dev-qt/qtgui:5			eglfs
 dev-qt/qtpositioning:5		geoclue
+dev-qt/qtmultimedia:5		alsa
+
 
 
 
