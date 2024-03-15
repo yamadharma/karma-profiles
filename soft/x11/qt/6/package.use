@@ -10,12 +10,3 @@ dev-qt/qttools:6		qdbus
 x11-themes/QGnomePlatform	qt6 -qt5
 gui-apps/qtgreet		greetwl
 
-
-
-
-
-
-
-
-
-
