@@ -1,7 +1,8 @@
 ../../type/workstation/x86_64
-../../hw/arch/core2/x86_64
-../../hw/arch/core2/gen/10
-../../hw/arch/native
+../../hw/arch/x86_64-v3
+#../../hw/arch/core2/x86_64
+#../../hw/arch/core2/gen/10
+#../../hw/arch/native
 ../../hw/video/intel/gen/9
 ../../hw/platform/standard
 ../../soft/emulation/qemu
