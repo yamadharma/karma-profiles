@@ -13,3 +13,4 @@ dev-python/PyQt5						help
 dev-python/QtPy							gui printsupport
 
 dev-libs/libdnet						python
+dev-python/pyopengl_accelerate					numpy
