@@ -9,5 +9,6 @@ xps \
 ocr \
 otf \
 cjk \
-freetype
+freetype \
+eps
 "
