@@ -29,7 +29,7 @@ john \
 gzip \
 zip unzip \
 bzip2 7zip \
-zstd \
+zstd  brotli lzip \
 radvd \
 psf \
 ipv6 \
@@ -87,7 +87,8 @@ pkcs11 \
 modules-compress \
 unrar \
 uefi uefi64 \
-cli
+cli \
+http2
 "
 
 # libressl \
