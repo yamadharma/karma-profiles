@@ -8,5 +8,6 @@ tesseract \
 xps \
 ocr \
 otf \
-cjk
+cjk \
+freetype
 "

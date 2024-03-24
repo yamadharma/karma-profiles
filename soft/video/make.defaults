@@ -35,6 +35,7 @@ gbm \
 h264 \
 libplacebo \
 svt-av1 \
+avif \
 "
 
 # vaapi
