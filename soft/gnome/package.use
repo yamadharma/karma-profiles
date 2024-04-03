@@ -111,5 +111,9 @@ app-accessibility/espeak-ng					mbrola
 
 =app-text/evince-43*						-nautilus
 
+## For gnome-extra/gnome-boxes
+net-misc/spice-gtk						smartcard vala
+app-emulation/spice						smartcard
+app-emulation/qemu						smartcard
 
 
