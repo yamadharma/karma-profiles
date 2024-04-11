@@ -54,5 +54,5 @@ app-office/libreoffice-bin		java
 
 net-im/telegram-desktop			-hunspell
 
-net-libs/tdlib				java
+dev-libs/tdlib				java
 
