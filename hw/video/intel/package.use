@@ -1,4 +1,4 @@
 x11-drivers/xf86-video-intel					sna
 x11-drivers/xf86-video-intel					glamor uxa
 dev-util/intel-graphics-compiler				vc
-
+dev-libs/intel-vc-intrinsics					llvm_slot_15 -llvm_slot_16 -llvm_slot_17
