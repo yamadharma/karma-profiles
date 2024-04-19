@@ -5,7 +5,8 @@ sci-visualization/epix						examples
 dev-python/matplotlib						examples
 app-emacs/imaxima						examples
 sci-mathematics/scilab						examples doc
-sci-mathematics/octave						examples doc
+sci-mathematics/octave						examples
+#sci-mathematics/octave						doc
 sci-mathematics/octave						graphicsmagick imagemagick
 #sci-visualization/gri						examples doc
 #sci-visualization/gr						agg
