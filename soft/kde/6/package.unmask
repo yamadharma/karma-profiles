@@ -45,7 +45,7 @@
 ~kde-frameworks/modemmanager-qt-6.1.0
 ~kde-frameworks/networkmanager-qt-6.1.0
 ~kde-frameworks/prison-6.1.0
-~kde-frameworks/solid-6.1.0
+~kde-frameworks/solid-6.1.1
 ~kde-frameworks/sonnet-6.1.0
 ~kde-frameworks/syntax-highlighting-6.1.0
 ~kde-frameworks/threadweaver-6.1.0
@@ -113,7 +113,7 @@
 ~kde-plasma/kwallet-pam-6.0.4
 ~kde-plasma/kwayland-6.0.4
 ~kde-plasma/kwayland-integration-6.0.4
-~kde-plasma/kwin-6.0.4
+~kde-plasma/kwin-6.0.4.1
 ~kde-plasma/kwrited-6.0.4
 ~kde-plasma/layer-shell-qt-6.0.4
 ~kde-plasma/libkscreen-6.0.4
