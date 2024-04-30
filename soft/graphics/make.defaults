@@ -23,6 +23,7 @@ graphicsmagick imagemagick \
 heif \
 jpegxl \
 vector-icons \
+exr \
 "
 
 # openvg \
