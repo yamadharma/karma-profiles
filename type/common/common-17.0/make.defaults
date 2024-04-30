@@ -116,7 +116,7 @@ PORT_LOGDIR="/var/log/portage/"
 
 #LOCAL_PORTDIR="/usr/portage/local/"
 
-LAYMAN_DIR="/usr/portage/local/layman"
+#LAYMAN_DIR="/usr/portage/local/layman"
 
 LOCAL_PORTDIR_OVERLAY="/usr/local/share/portage/local"
 
