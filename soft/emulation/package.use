@@ -11,6 +11,8 @@ app-emulation/wine-staging		-opencl
 app-emulation/wine-d3d9			-opencl
 app-emulation/wine-any			-opencl
 
+app-emulation/wine-proton		-abi_x86_32
+
 ## For app-emulation/libvirt-5.5.0-r1
 # sys-apps/systemd			cgroup-hybrid
 

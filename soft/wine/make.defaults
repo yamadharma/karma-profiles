@@ -1,3 +1,5 @@
 USE="\
+wow64 mingw \
+dos \
+capi netapi \
 "
-# wow64 \
