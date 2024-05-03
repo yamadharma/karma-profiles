@@ -30,5 +30,6 @@ sci-mathematics/fricas							gmp
 sci-libs/vtk                                                  		smp
 #dev-python/matplotlib							qt4 gtk2
 
+=dev-lang/openmodelica-1.22*						clang
 
 

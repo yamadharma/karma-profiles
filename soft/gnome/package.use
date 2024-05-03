@@ -116,4 +116,6 @@ net-misc/spice-gtk						smartcard vala
 app-emulation/spice						smartcard
 app-emulation/qemu						smartcard
 
+x11-wm/mutter							-sysprof
+
 

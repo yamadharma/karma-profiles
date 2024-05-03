@@ -302,6 +302,7 @@ speech \
 egl \
 wacom multimedia \
 hwaccel \
+lua \
 "
 
 

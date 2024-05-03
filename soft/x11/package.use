@@ -113,7 +113,8 @@ gui-libs/wlroots					seatd
 gui-apps/waybar						mpd tray popups
 dev-libs/weston						fullscreen ivi kiosk rdp remoting screen-sharing
 # dev-libs/weston						pipewire
-x11-base/xwayland					ipc xcsecurity unwind
+x11-base/xwayland					ipc xcsecurity
+# x11-base/xwayland					unwind
 
 xfce-extra/tumbler					epub odf
 xfce-base/libxfce4ui					system-info

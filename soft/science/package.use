@@ -128,7 +128,7 @@ sci-chemistry/gamess						openmp -neo -vb2000
 
 sci-mathematics/gretl						odbc python
 
-dev-lang/openmodelica						clang
+#dev-lang/openmodelica						clang
 
 sci-physics/root						root7
 sci-physics/root						asimage

@@ -89,7 +89,8 @@ unrar \
 uefi uefi64 \
 cli \
 http2 \
-rsync
+rsync \
+sanitize
 "
 
 # libressl \
