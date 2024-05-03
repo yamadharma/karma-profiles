@@ -1,5 +1,6 @@
 USE="\
-wow64 mingw \
+#wow64 
+mingw \
 dos \
 capi netapi \
 "
