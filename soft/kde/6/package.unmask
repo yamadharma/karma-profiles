@@ -362,7 +362,6 @@
 ~sys-block/partitionmanager-24.02.2
 ~sys-libs/kpmcore-24.02.2
 =kde-apps/kio-extras-23.08.5-r100
-=kde-apps/libkgapi-23.08.5-r100
 =kde-misc/kio-gdrive-23.08.5-r1
 =kde-plasma/print-manager-23.08.5-r100
 ~kde-misc/kio-fuse-5.1.0
@@ -392,4 +391,3 @@
 =net-libs/signond-8.61-r100
 =net-misc/smb4k-3.2.5-r2
 ~sys-auth/polkit-qt-0.200.0
->=sys-libs/snapd-glib-1.64-r100
