@@ -269,7 +269,7 @@ app-misc/ca-certificates					cacert
 
 dev-libs/libpcre2						pcre32
 
-mail-client/mutt						berkdb -gdbm -lmdb -qdbm -tokyocabinet
+mail-client/mutt						-berkdb gdbm -lmdb -qdbm -tokyocabinet
 
 sys-process/audit						python
 

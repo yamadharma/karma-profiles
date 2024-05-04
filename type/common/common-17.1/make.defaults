@@ -65,7 +65,6 @@ firmware \
 samba \
 f2fs \
 gpg \
-berkdb \
 dns-over-tls \
 lmbd \
 jemalloc \
@@ -90,6 +89,7 @@ varlink \
 # spidermonkey \
 #afs \
 # gnutls \
+# berkdb \
 
 LINGUAS="ru ru_RU en en_US"
 L10N="ru ru-RU en en-US"
