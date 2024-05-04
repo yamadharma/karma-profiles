@@ -1,4 +1,4 @@
-#LOCAL_PORTAGE_ARCH=x86_64-v3
+LOCAL_PORTAGE_ARCH=x86_64-v3
 
 PKGDIR=${COMPORTDIR}/packages/${LOCAL_PORTAGE_PROFILE}/${LOCAL_PORTAGE_ARCH}
 PORTAGE_BINHOST="ftp://mark.sci.pfu.edu.ru/${LOCAL_PORTAGE_PROFILE}/${LOCAL_PORTAGE_ARCH}/"
@@ -12,11 +12,10 @@ development \
 
 USE="$USE"
 
-CPU_FLAGS_X86="aes pclmul rdrand
-avx avx2 f16c fma3 mmx mmxext popcnt sse sse2 sse3 sse4_1 sse4_2 ssse3"
+CPU_FLAGS_X86="aes pclmul rdrand avx avx2 f16c fma3 mmx mmxext popcnt sse sse2 sse3 sse4_1 sse4_2 ssse3"
 
-CFLAGS="-O2 -pipe -march=x86-64-v3"
+CFLAGS="${CFLAGS} -march=x86-64-v3"
 #CFLAGS="${CFLAGS} -O2 -mfpmath=sse -funroll-loops"
-CXXFLAGS="${CFLAGS}"
+CXXFLAGS="${CFLAGS} ${CXXFLAGS}"
 
 ABI_X86="32 64"

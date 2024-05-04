@@ -1,18 +1,18 @@
 #!/bin/bash
 
-PORTDIR=$(portageq get_repo_path / gentoo)
-LAYMAN_DIR="$(portageq envvar LAYMAN_DIR)"
+#PORTDIR=$(portageq get_repo_path / gentoo)
+#LAYMAN_DIR="$(portageq envvar LAYMAN_DIR)"
 
 # Сжатие git
 git_compress () {
 
     CUR_DIR=$(pwd)
-    
+
     if [[ -d .git ]]
     then
-	echo -e "\033[1m""Compressing ${CUR_DIR}"; tput sgr0
+	echo -e "Compressing \033[1m""${CUR_DIR}"; tput sgr0
 	
-	su - portage -s /bin/bash -p \
+	su portage -s /bin/bash -p \
 	   -c '\
 	      git fsck;\
 	      git gc --prune=now;\
@@ -32,7 +32,7 @@ git_compress_sub () {
 	    then
 		echo -e "\033[1m""Compressing $i"; tput sgr0
 
-		su - portage \
+		su portage \
 		   -s /bin/bash -p \
 		   -c '\
 		   git fsck;\
@@ -45,9 +45,16 @@ git_compress_sub () {
     done
 }
 
-(cd /usr/local/share/portage/local; git_compress)
-(cd /usr/local/share/portage/profiles; git_compress)
-(cd ${PORTDIR}; git_compress)
+for i in $(portageq get_repos /)
+do
+    chown -R portage:portage $(portageq get_repo_path / ${i})
+    pushd $(portageq get_repo_path / ${i})
+    git_compress
+    popd
+done
 
-(cd ${LAYMAN_DIR}; git_compress_sub)
+#(cd /usr/local/share/portage/local; git_compress)
+#(cd /usr/local/share/portage/profiles; git_compress)
+#(cd ${PORTDIR}; git_compress)
+#(cd ${LAYMAN_DIR}; git_compress_sub)
 

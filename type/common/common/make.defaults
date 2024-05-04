@@ -90,7 +90,7 @@ uefi uefi64 \
 cli \
 http2 \
 rsync \
-sanitize
+sanitize lto \
 "
 
 # libressl \

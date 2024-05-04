@@ -72,6 +72,8 @@ net-fs/openafs							-modules
 =sci-mathematics/maxima-5.35*					-emacs
 
 www-client/elinks						-guile
+net-mail/mailutils						guile
+
 app-accessibility/brltty					-ocaml
 
 =sci-libs/cgnslib-3.3*						-tools

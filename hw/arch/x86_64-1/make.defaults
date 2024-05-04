@@ -14,7 +14,7 @@ USE="
 multilib
 abi_x86_32
 "
-CFLAGS="${CFLAGS} -O2 -pipe"
+CFLAGS="-O2 -pipe -march=x86-64 -mtune=generic"
 #CFLAGS="${CFLAGS} -O2 -mfpmath=sse -funroll-loops"
 CXXFLAGS="${CFLAGS}"
 
