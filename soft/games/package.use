@@ -11,3 +11,5 @@ games-emulation/dosbox						glide
 games-emulation/dosbox-staging					dynrec
 games-emulation/dosbox-staging					screenshot
 
+dev-games/openscenegraph					lua_single_target_lua5-1
+
