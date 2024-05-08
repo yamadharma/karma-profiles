@@ -1,3 +1,4 @@
 USE="\
 "
 
+PERL_FEATURES="ithreads"
