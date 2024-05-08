@@ -14,8 +14,6 @@ kde-apps/kdesdk-kioslaves					-subversion
 #dev-util/eric:5							-python_single_target_python2_7 python_single_target_python3_6
 #dev-util/eric:6							-python_single_target_python2_7 python_single_target_python3_6
 
-#sys-devel/llvm							LLVM_TARGETS: *
-#sys-devel/clang							LLVM_TARGETS: *
 
 app-doc/doxygen							doxysearch
 #app-doc/doxygen							clang
