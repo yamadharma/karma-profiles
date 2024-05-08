@@ -26,7 +26,7 @@ media-sound/amarok						embedded playdar
 net-voip/ekiga							-kde -kontact
 kde-base/kopete							msn
 
-dev-libs/libf2c							static-libs
+#dev-libs/libf2c							static-libs
 app-office/kchart						reports
 app-office/koffice-libs						reports
 dev-qt/qtsql							mysql

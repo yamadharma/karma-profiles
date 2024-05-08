@@ -72,13 +72,13 @@ x11-terms/rxvt-unicode						fading-colors pixbuf unicode3 256-color
 sys-fs/lvm2							lvm2create_initrd
 
 net-firewall/iptables						netlink
-net-firewall/iptables						nftables static-libs
-# net-firewall/iptables						conntrack
+net-firewall/iptables						nftables 
+# net-firewall/iptables						conntrack static-libs
 app-arch/rar							all_sfx
 
 media-libs/gd							fontconfig jpeg png truetype
 sys-apps/paludis						prebuilt-documentation
-dev-libs/popt							static-libs
+#dev-libs/popt							static-libs
 app-arch/dpkg							dselect
 media-libs/libpng						apng
 net-p2p/transmission						utp
@@ -86,10 +86,10 @@ sys-boot/grub							extras
 # sys-boot/grub							static
 sys-boot/grub							mount
 sys-boot/grub							efiemu
-media-libs/freetype						static-libs
+#media-libs/freetype						static-libs
 media-libs/freetype						brotli
 sys-fs/udev							edd floppy gudev hwdb keymap
-sys-libs/ncurses						static-libs
+#sys-libs/ncurses						static-libs
 sys-libs/ncurses:5						tinfo
 dev-libs/cyrus-sasl						openldap
 dev-libs/cyrus-sasl						-berkdb sqlite
@@ -240,7 +240,7 @@ net-misc/iputils						-gcrypt -nettle openssl
 net-dns/libidn							emacs
 
 # required by app-emulation/docker-1.10.0
-sys-libs/libseccomp						static-libs
+#sys-libs/libseccomp						static-libs
 
 dev-python/docker-py						-python_targets_python2_7
 
@@ -260,7 +260,8 @@ net-fs/samba							-gpg
 dev-libs/libgit2						ssh
 app-i18n/enca							iconv recode
 
-net-print/cups-filters						perl static-libs
+net-print/cups-filters						perl
+#net-print/cups-filters						static-libs
 
 net-misc/teamviewer						-system-wine
 
@@ -281,9 +282,9 @@ app-crypt/qca							nss
 dev-libs/apr-util						nss
 #dev-libs/xmlsec							nss
 
-sys-libs/libcxx							libunwind
-sys-libs/libcxxrt						libunwind
-sys-libs/libcxxabi						libunwind
+#sys-libs/libcxx							libunwind
+#sys-libs/libcxxrt						libunwind
+#sys-libs/libcxxabi						libunwind
 #sys-libs/libcxx							libcxxabi -libcxxrt
 
 net-libs/loudmouth						openssl

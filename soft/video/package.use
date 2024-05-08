@@ -43,7 +43,7 @@ media-video/ffmpeg				libtesseract libaribb24
 media-video/ffmpeg				svt-av1 libilbc libsoxr
 
 media-libs/libbluray				java 
-media-libs/libbluray				utils static-libs
+media-libs/libbluray				utils 
 
 media-video/vlc					lua
 media-video/handbrake				ffmpeg2

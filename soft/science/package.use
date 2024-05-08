@@ -62,12 +62,13 @@ sci-physics/root						R
 sci-physics/root						mysql odbc postgres
 sci-physics/root						jupyter
 
-sci-libs/atlas							static-libs
-sci-libs/blas-reference						static-libs
-sci-libs/lapack-reference					static-libs xblas
-sci-libs/cblas-reference					static-libs
-sci-libs/gsl							static-libs
-sci-libs/xblas							static-libs
+#sci-libs/atlas							static-libs
+#sci-libs/blas-reference						static-libs
+sci-libs/lapack-reference					xblas
+#sci-libs/lapack-reference					static-libs
+#sci-libs/cblas-reference					static-libs
+#sci-libs/gsl							static-libs
+#sci-libs/xblas							static-libs
 
 sci-mathematics/scilab						tk
 sci-mathematics/maxima						tk
@@ -141,7 +142,7 @@ sci-physics/root						-c++11 -c++14 c++17
 sci-physics/root						-R
 
 dev-lang/R							java
-dev-lang/R							static-libs
+#dev-lang/R							static-libs
 
 #sci-mathematics/petsc						doc
 #sci-mathematics/petsc						mumps scotch
