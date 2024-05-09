@@ -204,12 +204,6 @@ PORTAGE_NICENESS=5
 
 # LUA_TARGETS="luajit"
 
-## Temporary
-#PYTHON_TARGETS="${PYTHON_TARGETS} python3_7"
-#PYTHON_SINGLE_TARGET="-* python3_6"
-#PYTHON_TARGETS="-* python2_7 python3_6"
-#PYTHON_SINGLE_TARGET="-* python3_6"
-
 GRUB_PLATFORMS="efi efi-64 emu multiboot pc coreboot"
 
 

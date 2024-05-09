@@ -227,7 +227,6 @@ DRACUT_MODULES="lvm systemd"
 
 PORTAGE_NICENESS=5
 
-#LUA_SINGLE_TARGET="-* lua5-4 lua5-1"
 LUA_SINGLE_TARGET="-* lua5-4 luajit lua5-1"
 LUA_TARGETS="lua5-1 lua5-3 lua5-4"
 LUA_TARGETS="${LUA_TARGETS} luajit"
@@ -235,12 +234,8 @@ LUA_TARGETS="${LUA_TARGETS} luajit"
 POSTGRES_TARGETS="postgres13"
 
 ## Temporary
-# PYTHON_TARGETS="${PYTHON_TARGETS} python3_10"
-# PYTHON_SINGLE_TARGET="-* python3_9"
-# PYTHON_TARGETS="-* python2_7 python3_6"
-# PYTHON_SINGLE_TARGET="-* python3_6"
-# PYTHON_TARGETS="-* python3_8 python3_9"
-# PYTHON_SINGLE_TARGET="-* python3_8"
+PYTHON_TARGETS="-* python3_11 python3_12"
+PYTHON_SINGLE_TARGET="-* python3_11"
 
 GRUB_PLATFORMS="efi efi-64 emu multiboot pc coreboot"
 

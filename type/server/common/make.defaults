@@ -164,6 +164,3 @@ nodoc \
 
 LOCAL_PORTAGE_PROFILE=server
 
-#PYTHON_TARGETS="${PYTHON_TARGETS} python3_8 python3_9"
-#PYTHON_TARGETS="-* python3_8 python3_9"
-#PYTHON_SINGLE_TARGET="-* python3_9"
