@@ -51,6 +51,7 @@ app-editors/vim							lua
 app-editors/vim							-lua_single_target_lua5-1 lua_single_target_luajit
 app-editors/vim							perl python ruby tcl terminal
 app-editors/vim							-racket
+app-editors/vis							tre
 
 
 
