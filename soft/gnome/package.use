@@ -77,7 +77,7 @@ net-misc/vinagre						rdp
 
 net-misc/networkmanager						modemmanager
 gnome-base/gvfs							google
-gnome-base/gnome-extra-apps					share
+gnome-base/gnome-extra-apps					-share
 
 
 #media-sound/gnome-music						python_single_target_python3_5
