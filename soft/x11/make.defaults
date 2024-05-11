@@ -17,7 +17,6 @@ xinerama \
 emacs23icons \
 wxwindows wxwidgets \
 rups \
-fltk \
 startup-notification \
 gallium openvg xa \
 glamor \
@@ -40,3 +39,4 @@ dmabuf \
 # Xaw3d motif \
 # gles2 \
 # gles3 \
+# fltk \
