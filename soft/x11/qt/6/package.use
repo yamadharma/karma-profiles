@@ -11,3 +11,4 @@ dev-qt/qttools:6		qtattributionsscanner qtdiag qtplugininfo
 x11-themes/QGnomePlatform	qt6 -qt5
 gui-apps/qtgreet		greetwl
 dev-qt/qttools			-llvm_slot_17 llvm_slot_18
+dev-python/QtPy			pyqt6
