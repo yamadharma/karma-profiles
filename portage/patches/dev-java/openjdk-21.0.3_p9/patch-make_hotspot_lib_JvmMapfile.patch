@@ -1,0 +1,32 @@
+commit bf9246014f6426a8157dc8f10b19e08b91bc5d47
+Author: Dimitry Andric <dim@FreeBSD.org>
+Date:   2023-09-26T17:26:06+02:00
+
+    java/openjdk17: fix build with lld 17
+
+diff --git a/java/openjdk17/files/patch-make_hotspot_lib_JvmMapfile.gmk b/java/openjdk17/files/patch-make_hotspot_lib_JvmMapfile.gmk
+new file mode 100644
+index 000000000000..f3dd87603e77
+--- /dev/null
++++ b/java/openjdk17/files/patch-make_hotspot_lib_JvmMapfile.gmk
+@@ -0,0 +1,20 @@
++--- make/hotspot/lib/JvmMapfile.gmk.orig	2023-07-19 03:18:33 UTC
+++++ make/hotspot/lib/JvmMapfile.gmk
++@@ -53,7 +53,7 @@ ifeq ($(call isTargetOs, linux), true)
++ # platform dependent.
++ 
++ ifeq ($(call isTargetOs, linux), true)
++-  DUMP_SYMBOLS_CMD := $(NM) --defined-only *.o
+++  DUMP_SYMBOLS_CMD := $(NM) --extern-only --defined-only *.o
++   ifneq ($(FILTER_SYMBOLS_PATTERN), )
++     FILTER_SYMBOLS_PATTERN := $(FILTER_SYMBOLS_PATTERN)|
++   endif
++@@ -117,7 +117,7 @@ else ifeq ($(call isTargetOs, bsd), true)
++           if ($$3 ~ /$(FILTER_SYMBOLS_PATTERN)/) print $$3; \
++         }'
++   else
++-    DUMP_SYMBOLS_CMD := $(NM) --defined-only *.o
+++    DUMP_SYMBOLS_CMD := $(NM) --extern-only --defined-only *.o
++     FILTER_SYMBOLS_AWK_SCRIPT := \
++         '{ \
++           if ($$3 ~ /$(FILTER_SYMBOLS_PATTERN)/) print $$3; \
