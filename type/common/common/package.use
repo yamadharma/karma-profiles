@@ -439,6 +439,6 @@ sys-kernel/installkernel					grub
 sys-auth/sssd							subid
 
 sys-devel/llvm							binutils-plugin
-
+sys-libs/db							-cxx
 
     
