@@ -9,4 +9,3 @@ CPP="gcc -E"
 AR="ar"
 NM="nm"
 RANLIB="ranlib"
-
