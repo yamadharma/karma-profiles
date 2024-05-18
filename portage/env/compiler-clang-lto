@@ -4,7 +4,11 @@ CXXFLAGS="${CXXFLAGS} -flto=thin"
 LDFLAGS="${LDFLAGS} -Wl,-O2 -Wl,--as-needed"
 
 CC="clang"
+CPP="clang-cpp" # necessary for xorg-server and possibly other packages
 CXX="clang++"
 AR="llvm-ar"
 NM="llvm-nm"
 RANLIB="llvm-ranlib"
+
+# No need to set this, clang-common can handle this based on chosen USE flags
+LDFLAGS="${LDFLAGS} -fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind -Wl,--as-needed"
