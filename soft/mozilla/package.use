@@ -61,8 +61,10 @@ www-client/firefox					geckodriver
 
 =mail-client/thunderbird-60.2*				-mozdom
 www-client/chromium                     		widevine
-www-client/chromium                     		ffmpeg-chromium bindist
+#www-client/chromium                     		ffmpeg-chromium bindist
 www-client/chromium                     		libcxx
+media-video/ffmpeg-chromium				cpudetection
+
 
 
 
