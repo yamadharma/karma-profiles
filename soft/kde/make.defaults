@@ -1,6 +1,7 @@
-USE="\
-kde \
-gtkstyle \
-geoclue 
+USE="
+kde
+gtkstyle
+geoclue
 designer
+opds
 "
