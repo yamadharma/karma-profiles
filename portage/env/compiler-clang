@@ -9,6 +9,9 @@ CXX="clang++"
 AR="llvm-ar"
 NM="llvm-nm"
 RANLIB="llvm-ranlib"
+OBJCOPY="llvm-objcopy"
+LD="lld"
+
 
 ## No need to set this, clang-common can handle this based on chosen USE flags
-# LDFLAGS="${LDFLAGS} -fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind -Wl,--as-needed"
+LDFLAGS="${LDFLAGS} -fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind -Wl,--as-needed"
