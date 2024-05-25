@@ -40,7 +40,7 @@
 ~kde-frameworks/kquickcharts-6.2.0
 ~kde-frameworks/ktexttemplate-6.2.0
 ~kde-frameworks/kuserfeedback-6.2.0
-~kde-frameworks/kwidgetsaddons-6.2.1
+~kde-frameworks/kwidgetsaddons-6.2.2
 ~kde-frameworks/kwindowsystem-6.2.0
 ~kde-frameworks/modemmanager-qt-6.2.0
 ~kde-frameworks/networkmanager-qt-6.2.0
@@ -84,7 +84,7 @@
 ~kde-frameworks/kservice-6.2.0
 ~kde-frameworks/ktexteditor-6.2.0
 ~kde-frameworks/ktextwidgets-6.2.0
-~kde-frameworks/kwallet-6.2.0
+~kde-frameworks/kwallet-6.2.1
 ~kde-frameworks/kxmlgui-6.2.0
 ~kde-frameworks/purpose-6.2.0
 ~kde-frameworks/qqc2-desktop-style-6.2.0
@@ -390,7 +390,7 @@
 ~media-libs/mpvqt-1.0.0
 ~media-libs/phonon-4.12.0
 ~media-libs/phonon-vlc-0.12.0
-~media-libs/pulseaudio-qt-1.4.0
+~media-libs/pulseaudio-qt-1.5.0
 ~net-libs/kdsoap-2.2.0
 ~net-libs/kdsoap-ws-discovery-client-0.4.0
 ~net-libs/signon-ui-0.15_p20231016
