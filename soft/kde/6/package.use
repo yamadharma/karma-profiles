@@ -7,6 +7,8 @@ kde-apps/akonadi:5		-kaccounts
 kde-misc/kdeconnect:5		-pulseaudio
 kde-apps/cantor			R python qalculate
 #kde-apps/cantor			julia
+## cantor compile error
+kde-apps/kdeedu-meta		-webengine
 
 
 
