@@ -40,7 +40,13 @@ sync-uri = https://github.com/gentoo-mirror/src_prepare-overlay.git
 [localrepo]
 location = /var/db/repos/localrepo
 
+
 [karma]
 location = /var/db/repos/karma
 sync-type = git
-sync-uri = git@github.com:yamadharma/karma.git
+sync-uri = https://github.com/yamadharma/karma.git
+
+[karma-profiles]
+location = /var/db/repos/karma-profiles
+sync-type = git
+sync-uri = https://github.com/yamadharma/karma-profiles.git

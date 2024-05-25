@@ -1,0 +1,5 @@
+[karma-profiles]
+location = /usr/local/share/portage/profiles
+sync-type = git
+sync-uri = https://bitbucket.org/yamadharma/soft-gentoo-portage-profiles
+auto-sync = yes
