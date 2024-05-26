@@ -5,7 +5,7 @@ do
     chown -R portage:portage $(portageq get_repo_path / ${i})
 done
 
-su - portage -s /bin/bash -c 'emaint sunc --all'
+su - portage -s /bin/bash -c 'emaint sync --all'
 su - portage -s /bin/bash -c 'emerge --regen'
 
 eix-update
