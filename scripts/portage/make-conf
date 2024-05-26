@@ -1,9 +1,13 @@
 #!/bin/sh
 
+DIR=$(dirname $(dirname $(dirname $(readlink -f $0))))
+echo ${DIR}
+
 cd /etc
 ln -snf /etc/make.profile/make.conf .
 
 mkdir -p /etc/portage
 cd /etc/portage
 rm -rf /etc/portage/package.keywords
-ln -snf /usr/local/share/portage/profiles/portage/* .
+ln -snf ${DIR}/portage/* .
+
