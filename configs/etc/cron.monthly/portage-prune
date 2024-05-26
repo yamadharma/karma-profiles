@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#PORTDIR=$(portageq get_repo_path / gentoo)
-#LAYMAN_DIR="$(portageq envvar LAYMAN_DIR)"
-
 # Сжатие git
 git_compress () {
 
@@ -52,9 +49,3 @@ do
     git_compress
     popd
 done
-
-#(cd /usr/local/share/portage/local; git_compress)
-#(cd /usr/local/share/portage/profiles; git_compress)
-#(cd ${PORTDIR}; git_compress)
-#(cd ${LAYMAN_DIR}; git_compress_sub)
-
