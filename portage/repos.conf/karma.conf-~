@@ -1,6 +1,0 @@
-[karma]
-priority = 1000
-location = /usr/local/share/portage/local
-sync-type = git
-sync-uri = https://yamadharma@bitbucket.org/yamadharma/soft-gentoo-portage-local.git
-auto-sync = yes
