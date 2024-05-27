@@ -3,7 +3,7 @@ fortran95 \
 fortran2003 \
 numeric numarray \
 excel \
-glpk \
+glpk
 ods xls \
 cdf netcdf \
 blas hdf hdf5 \

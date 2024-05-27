@@ -32,4 +32,3 @@ sci-libs/vtk                                                  		smp
 
 =dev-lang/openmodelica-1.22*						clang
 
-

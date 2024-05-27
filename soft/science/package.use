@@ -112,7 +112,7 @@ dev-java/oracle-jdk-bin						javafx
 # Temporary
 #dev-python/pandas						-R
 
-=sci-libs/coinor-osi-0.106.6					-glpk
+
 
 sci-libs/openfoam						doc examples
 sci-libs/openfoam						opendx paraview
@@ -213,5 +213,6 @@ sci-mathematics/gmp-ecm						-openmp
 sci-geosciences/GeographicLib					python
 
 =sci-visualization/paraview-5.12.0*				-webengine -qt5
+
 
 
