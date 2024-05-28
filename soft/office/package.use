@@ -29,8 +29,8 @@ app-office/libreoffice			eds
 #app-office/libreoffice			-python_single_target_python3_6
 app-editors/bluefish			gucharmap
 
-
-app-office/libreoffice			base firebird
+app-office/libreoffice			base
+app-office/libreoffice			-firebird
 app-office/libreoffice			coinmp
 app-office/libreoffice			clang
 dev-libs/libixion			python
