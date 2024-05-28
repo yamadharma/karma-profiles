@@ -31,7 +31,7 @@ app-editors/bluefish			gucharmap
 
 app-office/libreoffice			base
 app-office/libreoffice			-firebird
-app-office/libreoffice			coinmp
+app-office/libreoffice			-coinmp
 app-office/libreoffice			clang
 dev-libs/libixion			python
 dev-libs/liborcus			python
@@ -39,12 +39,6 @@ dev-libs/liborcus			python
 #app-office/libreoffice-bin		gnome -kde
 app-office/libreoffice-bin		kde -gnome
 app-office/libreoffice-bin		java
-
-# Problems with gtk-3
-=app-office/libreoffice-5.0*		-gtk3
-=app-office/libreoffice-5.1*		-gtk3
-=app-office/libreoffice-5.2*		-gtk3
-
 
 =app-office/abiword-3.0.2*		-calendar
 
