@@ -1,5 +1,0 @@
-COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/server--nocona
-
-FEATURES="fixpackages"
-
