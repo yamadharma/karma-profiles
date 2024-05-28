@@ -376,3 +376,4 @@ LOCAL_PORTAGE_PROFILE=ws
 
 INPUT_DEVICES="${INPUT_DEVICES} wacom synaptics"
 
+VIDEO_CARDS="-dummy -fbdev -vesa"
