@@ -1,5 +1,0 @@
-#=sci-mathematics/axiom-200803
-#=sci-mathematics/axiom-200805
-=www-plugins/adobe-flash-10.3.181*
-
-
