@@ -24,6 +24,7 @@ heif \
 jpegxl \
 vector-icons \
 exr \
+fits
 "
 
 # openvg \
