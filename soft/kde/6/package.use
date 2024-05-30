@@ -10,3 +10,4 @@ kde-apps/cantor			R python qalculate
 ## cantor compile error
 kde-apps/kdeedu-meta			-webengine
 kde-plasma/plasma-workspace:5		-appstream
+
