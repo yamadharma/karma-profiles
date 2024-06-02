@@ -24,7 +24,7 @@ dev-util/boost-build						python
 dev-libs/redland-bindings					python
 dev-lang/ocaml							tk
 dev-ml/lablgl							tk
-dev-ml/findlib							tk
+dev-ml/findlib							-tk
 dev-lang/ruby							tk
 dev-lang/erlang							tk
 www-client/luakit						luajit
