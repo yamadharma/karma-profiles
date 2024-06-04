@@ -124,7 +124,7 @@ jabber \
 rhino \
 bl \
 objc++  \
-cgi xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
+xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
 inifile bcmath pcntl flatfile \
 sharedext wddx \
 extras \
@@ -368,6 +368,7 @@ lua \
 # clang \
 # portaudio
 # fits
+# cgi
 
 LINGUAS="ru en"
 # LANGUAGE="RUSS"

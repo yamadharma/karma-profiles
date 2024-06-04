@@ -72,7 +72,7 @@ tools \
 unicode \
 diet \
 objc++ \
-cgi xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
+xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
 iconv inifile bcmath pcntl flatfile \
 sharedext wddx \
 dba cli \
@@ -156,6 +156,7 @@ log4j servletapi \
 # tdb recursor \
 # fbcon \
 # glep \
+# cgi
 
 
 FEATURES="${FEATURES} \
