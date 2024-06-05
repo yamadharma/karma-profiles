@@ -188,6 +188,8 @@ media-sound/lilypond	guile2
 
 app-text/kbibtex	zotero
 
-media-gfx/asymptote	offscreen python sigsegv
+#media-gfx/asymptote	offscreen
+media-gfx/asymptote	-boehm-gc
+media-gfx/asymptote	python sigsegv
 
 
