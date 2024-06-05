@@ -81,7 +81,6 @@ pam_timestamp \
 exif \
 openexr \
 smux elf \
-ieee1394 \
 tidy \
 nocd \
 libgda \
@@ -369,6 +368,7 @@ lua \
 # portaudio
 # fits
 # cgi
+# ieee1394 \
 
 LINGUAS="ru en"
 # LANGUAGE="RUSS"
