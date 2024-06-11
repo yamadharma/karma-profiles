@@ -65,6 +65,8 @@ www-client/chromium					ffmpeg-chromium bindist
 www-client/chromium					libcxx
 media-video/ffmpeg-chromium				cpudetection
 
+www-client/firefox					-llvm_slot_17 llvm_slot_18
+
 
 
 
