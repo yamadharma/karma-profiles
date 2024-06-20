@@ -42,7 +42,7 @@ dev-java/icedtea					-nsplugin
 dev-java/icedtea-bin					-nsplugin
 
 www-client/firefox					system-cairo system-jpeg system-sqlite system-harfbuzz system-libevent
-www-client/firefox					-system-icu
+#www-client/firefox					-system-icu
 www-client/seamonkey					system-cairo system-icu system-jpeg system-sqlite system-harfbuzz system-libevent
 mail-client/thunderbird					system-cairo system-jpeg system-sqlite system-harfbuzz system-libevent
 #mail-client/thunderbird					system-icu
@@ -65,7 +65,6 @@ www-client/chromium					ffmpeg-chromium bindist
 www-client/chromium					libcxx
 media-video/ffmpeg-chromium				cpudetection
 
-www-client/firefox					-llvm_slot_17 llvm_slot_18
 
 
 
