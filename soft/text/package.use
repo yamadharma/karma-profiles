@@ -53,6 +53,8 @@ app-editors/vim							perl python ruby tcl terminal
 app-editors/vim							-racket
 app-editors/vis							tre
 
+app-emacs/ecf-meta						elisp
+
 
 
 
