@@ -112,3 +112,4 @@ net-misc/networkmanager						-syslog
 
 dev-util/pkgcheck						-emacs
 sys-libs/db							-cxx
+net-proxy/dante							-upnp
