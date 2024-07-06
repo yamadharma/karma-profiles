@@ -1,16 +1,12 @@
 ../../type/workstation/x86_64
-../../hw/arch/core2/x86_64
-../../hw/arch/core2/gen/7
-../../hw/arch/native
-#../../hw/video/nvidia
-../../hw/video/nvidia_free
+../../hw/arch/x86_64-v3
 ../../hw/video/intel/gen/8
+../../hw/platform/standard
+../../soft/emulation/qemu
+../../soft/emulation/kvm
+../../hw/video/nvidia_free
 ../../hw/net/bluetooth
 ../../hw/platform/notebook
-../../soft/tracker
-../../soft/emulation/kvm
-../../soft/emulation/qemu
-../../soft/p2p
 
 
 
