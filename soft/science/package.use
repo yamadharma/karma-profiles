@@ -165,7 +165,7 @@ net-libs/zeromq							drafts
 sci-libs/tensorflow						xla
 sci-libs/proj							europe
 
-dev-python/pandas						full-support
+#dev-python/pandas						full-support
 
 
 #dev-python/ipython						nbconvert
