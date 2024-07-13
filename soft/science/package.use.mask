@@ -31,4 +31,5 @@ sci-libs/vtk                                                  		smp
 #dev-python/matplotlib							qt4 gtk2
 
 =dev-lang/openmodelica-1.22*						clang
+=dev-lang/openmodelica-1.23*						clang
 
