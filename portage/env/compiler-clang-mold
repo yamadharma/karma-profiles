@@ -2,6 +2,7 @@
 COMMON_FLAGS="-O2 -march=native"
 CFLAGS="${COMMON_FLAGS}"
 CXXFLAGS="${COMMON_FLAGS}"
+CLANG_NO_DEFAULT_CONFIG=1
 
 CC="clang"
 CPP="clang-cpp" # necessary for xorg-server and possibly other packages
