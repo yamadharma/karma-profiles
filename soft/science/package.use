@@ -216,6 +216,6 @@ sci-mathematics/gmp-ecm						-openmp
 sci-geosciences/GeographicLib					python
 
 =sci-visualization/paraview-5.12.0*				-webengine -qt5
-
+sci-visualization/gnuplot					amos metafont metapost
 
 
