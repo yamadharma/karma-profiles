@@ -1,13 +1,13 @@
 ../../type/workstation/x86_64
-../../hw/arch/core2/x86_64
-../../hw/arch/core2/gen/7
-../../hw/video/ati
-../../hw/video/nvidia_free
-../../hw/video/intel
+../../hw/arch/x86_64-v3
+../../hw/video/intel/gen/9
 ../../hw/platform/standard
-../../soft/xfce
-../../soft/mpi
 ../../soft/emulation/qemu
 ../../soft/emulation/kvm
+../../soft/emulation/vmware
+../../hw/video/ati
+../../hw/video/nvidia_free
+../../soft/xfce
+../../soft/mpi
 ../../soft/portage-client
 
