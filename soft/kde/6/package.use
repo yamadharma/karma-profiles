@@ -10,4 +10,6 @@ kde-apps/cantor			R python qalculate
 ## cantor compile error
 kde-apps/kdeedu-meta			-webengine
 kde-plasma/plasma-workspace:5		-appstream
+kde-apps/kdegraphics-meta:0		color-management
+kde-apps/kdegraphics-meta:0		-webengine
 
