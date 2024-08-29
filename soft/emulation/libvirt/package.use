@@ -2,3 +2,4 @@ app-emulation/libvirt						python
 app-emulation/libvirt						virtualbox lxc
 net-dns/dnsmasq							script
 app-emulation/libvirt						wireshark-plugins libssh
+app-emulation/libvirt						virtiofsd
