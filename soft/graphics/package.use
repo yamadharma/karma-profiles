@@ -35,7 +35,7 @@ media-gfx/inkscape						graphicsmagick -imagemagick
 virtual/imagemagick-tools					perl
 x11-misc/shutter						drawing
 
-media-gfx/krita							color-management qtmedia vc
+media-gfx/krita							color-management qtmedia media vc
 
 media-gfx/graphicsmagick					q32
 media-gfx/graphicsmagick					modules
