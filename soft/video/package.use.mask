@@ -19,6 +19,7 @@ media-tv/tvtime					-alsa
 =media-video/vlc-3.0*				vaapi
 
 =media-libs/oneVPL-2023*			tools
+=media-video/vlc-3.0*				upnp chromecast
 
 media-video/ffmpeg				-qsv
 media-libs/gst-plugins-bad			-qsv
