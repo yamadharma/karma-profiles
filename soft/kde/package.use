@@ -12,3 +12,5 @@ app-crypt/gpgme							qt5 cxx
 kde-apps/okular							ebook mobi epub plucker speech
 kde-apps/kde-apps-meta						accessibility admin education games graphics multimedia network utils sdk
 #kde-apps/kde-apps-meta						pim
+
+lxqt-base/lxqt-config						-touchpad
