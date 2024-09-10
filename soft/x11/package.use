@@ -22,6 +22,7 @@ media-libs/mesa						zink
 media-libs/mesa						xorg gallium
 # media-libs/mesa						vulkan
 media-libs/mesa						openmax
+media-libs/mesa						unwind
 x11-libs/libdrm						libkms
 # media-libs/mesa					wayland
 
