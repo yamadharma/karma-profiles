@@ -91,6 +91,7 @@ cli \
 http2 http3 \
 rsync \
 sanitize lto \
+chacha20 ed25519 \
 "
 
 # libressl \
