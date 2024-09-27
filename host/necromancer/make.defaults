@@ -1,6 +1,0 @@
-COMPORTDIR=/com/lib/portage
-PKGDIR=${COMPORTDIR}/packages/server--pentium4
-
-USE="prelude"
-
-FEATURES="fixpackages"

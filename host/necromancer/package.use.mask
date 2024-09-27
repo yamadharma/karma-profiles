@@ -1,3 +1,0 @@
-net-dns/pdns		mysql postgres
-
-
