@@ -13,8 +13,8 @@ CFLAGS="${CFLAGS} -O2 -pipe"
 #CFLAGS="${CFLAGS} -O2 -mfpmath=sse -funroll-loops"
 CXXFLAGS="${CFLAGS}"
 
-#ABI_X86="32 64"
-ABI_X86="64"
+ABI_X86="32 64"
+#ABI_X86="64"
 
 USE="
 multilib
