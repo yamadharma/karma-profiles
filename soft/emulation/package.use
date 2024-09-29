@@ -33,5 +33,9 @@ sys-firmware/ipxe			binary efi efi64 ipv6 qemu undi usb vmware
 
 app-emulation/virtualbox-kvm		vboxwebsrv java python
 app-emulation/virtualbox		vboxwebsrv java python
-app-emulation/virtualbox		-sdl
+#app-emulation/virtualbox		-sdl
+games-emulation/dosbox-x		slirp
+
+
+
 
