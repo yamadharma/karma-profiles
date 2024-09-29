@@ -70,7 +70,7 @@ lm_sensors lm-sensors \
 fftw \
 ecc \
 sysfs sysvipc  \
-djbfft threads \
+threads \
 sox \
 ithreads \
 avalon \
@@ -369,6 +369,7 @@ lua \
 # fits
 # cgi
 # ieee1394 \
+# djbfft
 
 LINGUAS="ru en"
 # LANGUAGE="RUSS"
