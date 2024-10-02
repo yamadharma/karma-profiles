@@ -1,0 +1,21 @@
+CC="clang"
+CPP="clang-cpp" # necessary for xorg-server and possibly other packages
+CXX="clang++"
+AR="llvm-ar"
+NM="llvm-nm"
+RANLIB="llvm-ranlib"
+OBJCOPY="llvm-objcopy"
+LD="mold"
+
+LLVM_USE_LIBCXX="0"
+CXXSTDLIB="stdc++"
+
+COMMON_FLAGS="-O2 -march=native"
+CFLAGS="${COMMON_FLAGS}"
+CXXFLAGS="${COMMON_FLAGS} -stdlib=libstdc++"
+CLANG_NO_DEFAULT_CONFIG=1
+
+#LDFLAGS="${LDFLAGS} -Wl,-O2 -Wl,--as-needed -Wl,--undefined-version"
+#LDFLAGS="${LDFLAGS} -rtlib=compiler-rt -unwindlib=libunwind"
+LDFLAGS="${LDFLAGS} -fuse-ld=mold"
+#LDFLAGS="${LDFLAGS} -flto"
