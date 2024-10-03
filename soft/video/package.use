@@ -122,6 +122,13 @@ media-video/pipewire				liblc3
 media-libs/libcamera				drm libevent unwind
 =media-libs/libquicktime-1.2*			-ffmpeg
 =dev-games/openscenegraph-3.6*			-ffmpeg
+media-libs/opencv				quirc
+media-libs/opencv				gtk3
+media-libs/opencv				-qt5
+media-libs/opencv				-qt6
+#media-libs/opencv				-jasper
+media-libs/opencv				tbb
+media-libs/opencv				non-free
 
 
 
