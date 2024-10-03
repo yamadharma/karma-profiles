@@ -39,7 +39,8 @@ media-video/ffmpeg				codec2
 # media-video/ffmpeg				flite
 media-video/ffmpeg				chromium
 media-video/ffmpeg				libaom
-media-video/ffmpeg				libtesseract libaribb24
+#media-video/ffmpeg				libtesseract
+media-video/ffmpeg				libaribb24
 media-video/ffmpeg				svt-av1 libilbc libsoxr
 
 media-libs/libbluray				java 
@@ -123,12 +124,13 @@ media-libs/libcamera				drm libevent unwind
 =media-libs/libquicktime-1.2*			-ffmpeg
 =dev-games/openscenegraph-3.6*			-ffmpeg
 media-libs/opencv				quirc
-media-libs/opencv				gtk3
+#media-libs/opencv				gtk3
 media-libs/opencv				-qt5
-media-libs/opencv				-qt6
+#media-libs/opencv				-qt6
 #media-libs/opencv				-jasper
 media-libs/opencv				tbb
 media-libs/opencv				non-free
+media-libs/opencv				-tesseract
 
 
 

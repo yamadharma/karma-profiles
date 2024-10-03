@@ -1,20 +1,12 @@
-media-video/totem				nsplugin flash
-media-video/vlc					nsplugin
-media-video/gxine				nsplugin
-
-media-libs/mlt					qt3
 =media-libs/mlt-0.7.2*				ruby
 
 =media-video/avidemux-2.5.0			qt4
 =media-libs/opencv-1.0.0-r1			ieee1394
 
-=media-video/vlc-1.1.7				libnotify
 =media-video/vlc-2.1*				vdpau
 =media-video/gpac-0.4.5-r4			javascript
 =net-misc/mediatomb-0.12.1			javascript
 media-tv/tvtime					-alsa
-
-#media-libs/avidemux-core 			-system-ffmpeg
 
 =media-video/vlc-3.0*				vaapi
 
