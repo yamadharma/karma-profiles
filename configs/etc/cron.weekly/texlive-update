@@ -8,3 +8,5 @@ else
     tlmgr update --self
     tlmgr update --all
 fi
+
+tlmgr path add
