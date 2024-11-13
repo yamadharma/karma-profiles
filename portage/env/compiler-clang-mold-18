@@ -5,16 +5,11 @@ CXXFLAGS="${COMMON_FLAGS}"
 CLANG_NO_DEFAULT_CONFIG=1
 
 CC="clang-18"
-CPP="clang-cpp-18" # necessary for xorg-server and possibly other packages
+CPP="clang-cpp-18"
 CXX="clang++-18"
 AR="llvm-ar"
 NM="llvm-nm"
 RANLIB="llvm-ranlib"
 OBJCOPY="llvm-objcopy"
 LD="mold"
-
-
-#LDFLAGS="${LDFLAGS} -Wl,-O2 -Wl,--as-needed -Wl,--undefined-version"
-#LDFLAGS="${LDFLAGS} -rtlib=compiler-rt -unwindlib=libunwind"
 LDFLAGS="${LDFLAGS} -fuse-ld=mold"
-#LDFLAGS="${LDFLAGS} -flto"
