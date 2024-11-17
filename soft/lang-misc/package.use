@@ -7,5 +7,5 @@ dev-lang/swi-prolog					java odbc uuid
 #dev-lua/penlight					lua_targets_lua5-3
 dev-lang/perl						berkdb
 dev-lang/rust						system-llvm
-
+dev-lang/rust						llvm_targets_WebAssembly
 
