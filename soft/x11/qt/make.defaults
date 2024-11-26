@@ -3,6 +3,7 @@ raster \
 optimized-qmake \
 private-headers \
 qscintilla \
+printsupport 
 "
 # qt3 \
 # qt4 \
