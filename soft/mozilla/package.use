@@ -64,6 +64,7 @@ www-client/chromium					ffmpeg-chromium bindist
 www-client/chromium					libcxx
 media-video/ffmpeg-chromium				cpudetection
 =www-client/firefox-132*				-wasm
+=www-client/firefox-133*				-wasm
 
 
 
