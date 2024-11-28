@@ -21,3 +21,5 @@ app-accessibility/espeak	portaudio
 dev-java/openjdk-jre-bin:11 -gentoo-vm
 dev-java/openjdk-bin:11 -gentoo-vm
 dev-java/openjdk:11 -gentoo-vm
+
+#app-text/doxygen clang
