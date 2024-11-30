@@ -8,6 +8,7 @@ mozdom replytolist \
 moznopango \
 custom-optimization \
 wasm \
+widevine \
 "
 
 # nsplugin \
