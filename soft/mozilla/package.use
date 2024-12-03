@@ -47,9 +47,9 @@ www-client/seamonkey					system-cairo system-icu system-jpeg system-sqlite syste
 mail-client/thunderbird					system-cairo system-jpeg system-sqlite system-harfbuzz system-libevent
 #mail-client/thunderbird					system-icu
 #mail-client/thunderbird					system-png
-www-client/firefox					lto
-www-client/seamonkey					lto
-mail-client/thunderbird					lto
+#www-client/firefox					lto
+#www-client/seamonkey					lto
+#mail-client/thunderbird					lto
 
 #www-client/firefox					system-libvpx system-av1
 #www-client/seamonkey					system-libvpx system-av1
