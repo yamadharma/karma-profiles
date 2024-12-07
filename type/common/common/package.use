@@ -349,7 +349,7 @@ dev-vcs/git							mediawiki mediawiki-experimental
 
 app-arch/libarchive						blake2 
 
-sys-devel/gcc							lto
+# sys-devel/gcc							lto
 sys-devel/gcc							pgo
 sys-devel/gcc							rust
 dev-java/openjdk						-lto
