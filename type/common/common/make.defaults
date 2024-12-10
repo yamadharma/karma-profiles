@@ -192,4 +192,4 @@ POSTGRES_TARGETS="postgres16"
 GRUB_PLATFORMS="efi efi-64 emu multiboot pc coreboot"
 VIDEO_CARDS="-*"
 
-LLVM_SLOT="-* 18"
+LLVM_SLOT="-* 19"
