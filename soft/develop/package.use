@@ -22,5 +22,7 @@ dev-lang/rust							rls rust-src
 dev-lang/rust							clippy rustfmt
 virtual/rust							rustfmt
 
+llvm-core/llvm							binutils-plugin exegesis
+
 
 
