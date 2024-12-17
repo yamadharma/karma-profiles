@@ -12,4 +12,5 @@ kde-apps/kdeedu-meta			-webengine
 kde-plasma/plasma-workspace:5		-appstream
 kde-apps/kdegraphics-meta:0		color-management
 kde-apps/kdegraphics-meta:0		-webengine
+x11-themes/QGnomePlatform		qt6
 
