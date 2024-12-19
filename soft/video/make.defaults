@@ -36,7 +36,7 @@ h264 \
 libplacebo \
 svt-av1 \
 avif \
-mpv \
+mpv vlc \
 "
 
 # vaapi
