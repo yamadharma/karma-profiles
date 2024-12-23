@@ -1,18 +1,9 @@
-# Normal settings here
-COMMON_FLAGS="-O2 -march=native"
-CFLAGS="${COMMON_FLAGS}"
-CXXFLAGS="${COMMON_FLAGS}"
-
 CC="clang"
-CPP="clang-cpp" # necessary for xorg-server and possibly other packages
+CPP="clang-cpp"
 CXX="clang++"
 AR="ar"
 NM="nm"
 RANLIB="ranlib"
 OBJCOPY="objcopy"
-LD="mold"
-
-## No need to set this, clang-common can handle this based on chosen USE flags
-#LDFLAGS="${LDFLAGS} -fuse-ld=ld -rtlib=compiler-rt -unwindlib=libunwind -Wl,--as-needed"
-#LDFLAGS="-fuse-ld=lld -unwindlib=libunwind -Wl,--as-needed"
-LDFLAGS="-fuse-ld=mold"
+STRIP="strip"
+LD="ld"
