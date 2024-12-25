@@ -4,6 +4,7 @@ teamwork \
 cmake qmake \
 devhelp \
 modula2 \
+offload \
 "
 
 # valgrind \
