@@ -92,6 +92,7 @@ http2 http3 \
 rsync \
 sanitize \
 chacha20 ed25519 \
+journald \
 "
 
 # libressl \

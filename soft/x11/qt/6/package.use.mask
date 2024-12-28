@@ -10,6 +10,6 @@ gui-dfl/dfl-utils		qt5
 gui-libs/wayqt			qt5
 app-office/libreoffice		qt5
 media-libs/simage		qt5
-
+dev-qt/qtbase			syslog
 
 
