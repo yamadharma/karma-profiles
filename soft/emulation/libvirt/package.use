@@ -5,4 +5,6 @@ net-dns/dnsmasq							script
 app-emulation/libvirt						wireshark-plugins libssh
 app-emulation/libvirt						virtiofsd
 =app-emulation/libvirt-10*					-virtualbox
-
+app-emulation/libguestfs					python
+app-emulation/libguestfs					ocaml -perl
+app-emulation/guestfs-tools					ocaml -perl
