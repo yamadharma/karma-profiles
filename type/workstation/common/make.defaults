@@ -302,6 +302,7 @@ egl \
 wacom multimedia \
 hwaccel \
 lua \
+fish-completion \
 "
 
 
