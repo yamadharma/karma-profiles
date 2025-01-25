@@ -1,4 +1,4 @@
 sci-mathematics/octave			gui
-sci-mathematics/octave			klu spqr
+# sci-mathematics/octave			klu spqr
 
 
