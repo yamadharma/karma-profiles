@@ -27,6 +27,7 @@ xwayland \
 libglvnd \
 xcb-errors \
 dmabuf \
+icons \
 "
 
 # PORTDIR_OVERLAY="\
