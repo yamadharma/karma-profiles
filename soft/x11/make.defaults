@@ -27,7 +27,6 @@ xwayland \
 libglvnd \
 xcb-errors \
 dmabuf \
-icons \
 "
 
 # PORTDIR_OVERLAY="\
@@ -41,3 +40,4 @@ icons \
 # gles2 \
 # gles3 \
 # fltk \
+# icons \
