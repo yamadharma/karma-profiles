@@ -5,6 +5,7 @@ cmake qmake \
 devhelp \
 modula2 \
 offload \
+z3 \
 "
 
 # valgrind \
