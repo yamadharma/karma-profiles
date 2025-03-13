@@ -387,7 +387,7 @@ gnome-extra/nm-applet						modemmanager
 
 app-admin/sudo							-gcrypt
 
-=sci-libs/symengine-0.6*					-llvm
+=sci-libs/symengine-0*						-llvm
 
 dev-libs/libjcat						pkcs7
 net-misc/openssh						security-key ldns hpn xmss
