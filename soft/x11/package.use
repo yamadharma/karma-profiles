@@ -129,6 +129,7 @@ gui-libs/wlroots					liftoff
 gui-apps/waybar						experimental
 sci-mathematics/pari					-X fltk
 app-editors/emacs					-X
+sci-mathematics/giac					-gui
 gui-apps/nwg-launchers					layershell
 app-misc/ddcutil					drm usb-monitor user-permissions
 gui-apps/yambar						sway-xkb xkb xwindow
