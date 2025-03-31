@@ -1,5 +1,5 @@
 dev-qt/qttools			linguist assistant designer distancefieldgenerator pixeltool qattributionsscanner -qdbus qdiag qdoc qplugininfo
-dev-qt/qtbase			mysql odbc postgres egl
+dev-qt/qtbase			odbc postgres egl
 dev-qt/qttools			clang
 dev-qt/qtwayland		compositor
 dev-python/PyQt6		quick quick3d

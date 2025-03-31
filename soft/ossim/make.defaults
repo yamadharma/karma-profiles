@@ -1,1 +1,1 @@
-USE="mysql nessus nmap ntop pdf"
+USE="nessus nmap ntop pdf"
