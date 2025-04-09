@@ -13,7 +13,7 @@ git commit -am "$(date)"
 git push git@github.com:yamadharma/karma-profiles.git
 
 # Mirror
-git push --mirror git@github.com:yamadharma/karma-profiles.git
+# git push --mirror git@github.com:yamadharma/karma-profiles.git
 git push --mirror git@bitbucket.org:yamadharma/soft-gentoo-portage-profiles.git
 
 # git compress
