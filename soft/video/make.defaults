@@ -37,6 +37,8 @@ libplacebo \
 svt-av1 \
 avif \
 mpv vlc \
+liblc liblc3 \
+quirc \
 "
 
 # vaapi
