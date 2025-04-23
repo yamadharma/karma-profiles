@@ -1,0 +1,15 @@
+# Normal settings here
+COMMON_FLAGS="-O2 -march=native"
+CFLAGS="${COMMON_FLAGS}"
+CXXFLAGS="${COMMON_FLAGS}"
+CLANG_NO_DEFAULT_CONFIG=1
+
+CC="clang-19"
+CPP="clang-cpp-19"
+CXX="clang++-19"
+AR="llvm-ar"
+NM="llvm-nm"
+RANLIB="llvm-ranlib"
+OBJCOPY="llvm-objcopy"
+LD="mold"
+LDFLAGS="${LDFLAGS} -fuse-ld=mold"
