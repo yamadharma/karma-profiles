@@ -14,8 +14,7 @@ media-gfx/blender						collada cycles openimageio
 media-libs/openimageio						python tbb
 media-libs/openimageio						opencv
 media-libs/openimageio						colorio
-media-libs/openimageio						openvdb
-=media-libs/openimageio-2.4*					-openvdb
+#media-libs/openimageio						openvdb
 media-libs/openimageio						ptex
 media-libs/opencollada						python
 
