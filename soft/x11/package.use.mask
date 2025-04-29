@@ -4,6 +4,7 @@ x11-misc/xneur							aplay gstreamer openal
 x11-wm/awesome							doc
 sys-auth/policykit						zsh-completion
 dev-libs/efl							opengl sdl
+net-misc/freerdp						-wayland
 
 
 
