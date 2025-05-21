@@ -24,7 +24,8 @@ heif \
 jpegxl \
 vector-icons \
 exr \
-fits
+fits \
+sixel \
 "
 
 # openvg \
