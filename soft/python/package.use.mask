@@ -1,5 +1,4 @@
 =dev-java/batik-1.6*						tcl
-# dev-java/eclipse-ecj:3.3					gcj
 dev-java/blackdown-jdk						doc
 dev-java/sun-jdk						doc
 dev-java/jdbc-postgresql					java5
@@ -9,3 +8,5 @@ dev-java/jdbc-postgresql					java5
 =dev-util/eric-5.3*						spell
 
 =dev-python/translate-toolkit-2.0*				html
+
+dev-lang/python 						-jit
