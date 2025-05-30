@@ -9,4 +9,4 @@ dev-java/jdbc-postgresql					java5
 
 =dev-python/translate-toolkit-2.0*				html
 
-dev-lang/python 						-jit
+#dev-lang/python 						-jit
