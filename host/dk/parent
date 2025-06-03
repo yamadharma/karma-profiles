@@ -8,6 +8,6 @@
 ../../hw/video/ati
 ../../hw/video/nvidia_free
 ../../soft/xfce
-../../soft/mpi
+#../../soft/mpi
 ../../soft/portage-client
 
