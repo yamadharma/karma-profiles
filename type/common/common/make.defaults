@@ -184,7 +184,7 @@ LUA_SINGLE_TARGET="-* lua5-4 luajit lua5-1"
 LUA_TARGETS="lua5-1 lua5-3 lua5-4"
 LUA_TARGETS="${LUA_TARGETS} luajit"
 
-POSTGRES_TARGETS="postgres16"
+# POSTGRES_TARGETS="postgres16"
 
 ## Python upgrade
 # PYTHON_TARGETS="-* python3_11 python3_12"
