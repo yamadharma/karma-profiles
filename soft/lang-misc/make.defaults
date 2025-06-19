@@ -2,4 +2,3 @@ USE="\
 "
 
 PERL_FEATURES="ithreads"
-# LLVM_SLOT="-* 18"

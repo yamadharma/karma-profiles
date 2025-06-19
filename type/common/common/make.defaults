@@ -193,4 +193,4 @@ LUA_TARGETS="${LUA_TARGETS} luajit"
 GRUB_PLATFORMS="efi efi-64 emu multiboot pc coreboot"
 VIDEO_CARDS="-*"
 
-LLVM_SLOT="-* 19"
+LLVM_SLOT="-* 20"
