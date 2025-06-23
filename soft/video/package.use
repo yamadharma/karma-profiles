@@ -131,6 +131,7 @@ media-libs/opencv				-qt5
 media-libs/opencv				tbb
 media-libs/opencv				non-free
 media-libs/opencv				-tesseract
+media-libs/opencv				features2d
 
 
 
