@@ -49,4 +49,4 @@ app-office/libreoffice-bin		java
 net-im/telegram-desktop			-hunspell
 
 dev-libs/tdlib				java
-app-office/libreoffice			-gtk3
+#app-office/libreoffice			-gtk3
