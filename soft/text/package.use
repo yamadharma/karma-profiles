@@ -58,5 +58,6 @@ app-emacs/ecf-meta						elisp
 
 dev-libs/libutf8proc						-cjk
 
+=media-gfx/asymptote-3.04					-lsp
 
 
