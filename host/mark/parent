@@ -1,10 +1,4 @@
-../../type/server/x86_64
-../../hw/arch/x86_64
-../../soft/portage-master
-../../soft/haskell
-../../soft/develop
-
-
-
-
-
+../../type/workstation/x86_64
+../../hw/arch/x86_64-v3
+../../hw/video/intel/gen/8
+../../hw/platform/standard
