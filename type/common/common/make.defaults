@@ -94,6 +94,7 @@ sanitize \
 chacha20 ed25519 \
 journald \
 io-uring \
+utempter \
 "
 
 # libressl \
