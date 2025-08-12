@@ -1,5 +1,5 @@
 USE="\
-cvs git subversion bazaar mercurial \
+git \
 teamwork \
 cmake qmake \
 devhelp \
@@ -9,6 +9,9 @@ z3 \
 "
 
 # valgrind \
+# cvs 
+# subversion bazaar
+# mercurial 
 
 #PORTDIR_OVERLAY="\
 #${LAYMAN_DIR}/bazaar \
