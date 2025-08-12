@@ -152,7 +152,6 @@ net-fs/cifs-utils						acl ads caps caps-ng creds upcall
 app-admin/keepass						aot
 
 net-fs/samba							winbind
-# sys-devel/llvm							clang
 app-emulation/libvirt-glib					python
 
 net-dns/bind-tools						gssapi
@@ -442,7 +441,7 @@ sys-kernel/installkernel					grub
 
 sys-auth/sssd							subid
 
-sys-devel/llvm							binutils-plugin
+llvm-core/llvm							binutils-plugin
 sys-libs/db							-cxx
 sys-kernel/linux-firmware					-compress-xz compress-zstd deduplicate
 sys-fs/btrfs-progs						experimental
