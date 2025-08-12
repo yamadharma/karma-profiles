@@ -11,5 +11,5 @@ cd /etc/portage
 rm -rf /etc/portage/package.keywords
 ln -snf ${DIR}/portage/* .
 
-ln -snf /var/db/repos/karma-profiles/host/${hostname} /etc/portage/make.profile 
+ln -snf /var/db/repos/karma-profiles/host/$(hostnamectl hostname) /etc/portage/make.profile 
 
