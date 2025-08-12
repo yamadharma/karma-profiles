@@ -68,7 +68,7 @@ sys-libs/talloc							python
 # sys-apps/coreutils						static
 
 dev-vcs/subversion						-dso perl
-dev-vcs/git							cvs subversion
+#dev-vcs/git							cvs subversion
 
 x11-terms/rxvt-unicode						fading-colors pixbuf unicode3 256-color
 
