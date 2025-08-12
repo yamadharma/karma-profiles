@@ -27,3 +27,4 @@ dev-lang/ghc						binary
 
 sys-auth/polkit						elogind 
 
+sys-devel/gcc						-go -rust -d -pgo -graphite

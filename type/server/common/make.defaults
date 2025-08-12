@@ -29,7 +29,7 @@ javascript \
 mad \
 dedicated \
 pg-hier pg-vacuumdelay pg-intdatetime \
-f77 objc \
+f77 \
 idea \
 cap \
 lynxkeymap \
@@ -71,7 +71,6 @@ follow-xff \
 tools \
 unicode \
 diet \
-objc++ \
 xmlreader xmlrpc xmlwriter xpm hash overload vm-switch pdo reflection \
 iconv inifile bcmath pcntl flatfile \
 sharedext wddx \
@@ -91,7 +90,6 @@ jce \
 vim-pager \
 finger ftp gopher \
 ares \
-objc-gc \
 threadsafe \
 glsa qa  \
 charconv \
@@ -117,6 +115,9 @@ portage \
 file neon \
 log4j servletapi \
 -opengl \
+git \
+offload \
+z3 \
 "
 
 # odbc \

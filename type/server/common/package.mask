@@ -1,13 +1,3 @@
-=net-misc/openssh-5.4*
-=net-misc/openssh-5.5*
-=net-misc/openssh-5.6*
-=net-misc/openssh-5.7*
-=net-misc/openssh-5.8*
-
-# change in libblkid.so breaks exporting NFS directories hosted on btrfs
-#=sys-apps/util-linux-2.20*
-#=sys-apps/sysvinit-2.88-r3
-
-
-
-
+sys-devel/gcc:11
+sys-devel/gcc:12
+sys-devel/gcc:13
