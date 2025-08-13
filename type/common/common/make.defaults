@@ -95,6 +95,7 @@ chacha20 ed25519 \
 journald \
 io-uring \
 utempter \
+colordiff \
 "
 
 # libressl \
