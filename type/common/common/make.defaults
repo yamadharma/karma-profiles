@@ -119,6 +119,7 @@ unmerge-orphans \
 compress-build-logs \
 fixlafiles unmerge-orphans \
 metadata-transfer \
+pkgdir-index-trusted \
 -strict -stricter \
 -parse-eapi-ebuild-head \
 xattr \
