@@ -1,0 +1,6 @@
+=app-emulation/virtualbox-modules-7.2*
+=app-emulation/virtualbox-guest-additions-7.2*
+=app-emulation/virtualbox-extpack-oracle-7.2*
+=app-emulation/virtualbox-kvm-7.2*
+=app-emulation/virtualbox-7.2*
+=app-emulation/virtualbox-additions-7.2*
