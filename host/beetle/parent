@@ -7,5 +7,6 @@
 ../../soft/lxde
 ../../soft/emulation/kvm
 ../../soft/emulation/qemu
+../../soft/emulation/virtualbox/7.2-kvm
 # ../../soft/emulation/vmware
 
