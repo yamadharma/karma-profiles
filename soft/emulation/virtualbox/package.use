@@ -1,1 +1,4 @@
-=app-emulation/virtualbox-kvm-7.1*		-python
+#=app-emulation/virtualbox-kvm-7.1*		-python
+=app-emulation/virtualbox-7.1*			python_single_target_python3_12
+=app-emulation/virtualbox-kvm-7.1*		python_single_target_python3_12
+
