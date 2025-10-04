@@ -112,6 +112,8 @@ gui-wm/sway						grimshot
 gui-libs/wlroots					x11-backend
 gui-libs/wlroots					seatd
 gui-apps/waybar						mpd tray popups
+#gui-apps/waybar						backlight
+#gui-apps/waybar					gps
 dev-libs/weston						fullscreen ivi kiosk rdp remoting screen-sharing
 # dev-libs/weston						pipewire
 x11-base/xwayland					ipc xcsecurity
