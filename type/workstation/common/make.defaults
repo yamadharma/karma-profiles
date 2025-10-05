@@ -254,7 +254,7 @@ nemesi gtksourceview \
 16bit hddtemp \
 audit \
 wideband \
-espeak-ng aften \
+espeak-ng  \
 sftp ads \
 adf unpaper \
 portage visibility \
@@ -340,6 +340,7 @@ backlight \
 # nptlonly
 # consolekit  
 # glep \
+# aften
 
 # erandom uclibc
 #lirc
