@@ -26,9 +26,9 @@ media-gfx/geeqie						gpu-accel lua
 
 media-libs/libmypaint						gegl
 
-media-video/dvdauthor						graphicsmagick -imagemagick
+media-video/dvdauthor						graphicsmagick imagemagick
 media-gfx/greycstoration					imagemagick
-media-gfx/inkscape						graphicsmagick -imagemagick
+media-gfx/inkscape						graphicsmagick imagemagick
 
 
 virtual/imagemagick-tools					perl
