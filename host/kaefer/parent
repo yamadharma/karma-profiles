@@ -4,7 +4,7 @@
 ../../hw/platform/standard
 ../../soft/emulation/qemu
 ../../soft/emulation/kvm
-../../soft/emulation/virtualbox/7.1
+../../soft/emulation/virtualbox/7.2
 ../../soft/p2p
 
 
