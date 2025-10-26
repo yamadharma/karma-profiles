@@ -13,6 +13,7 @@ pari \
 R \
 int64 \
 eselect-ldso \
+-flexiblas
 lapacke \
 openmp \
 "
