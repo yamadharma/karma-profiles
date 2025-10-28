@@ -50,4 +50,5 @@ media-sound/easyeffects					bs2b calf rubberband rnnoise zamaudio
 media-plugins/zam-plugins				-jack
 
 media-sound/audacity					-mpg123
+media-sound/musescore					-jack
 
