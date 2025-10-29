@@ -451,3 +451,4 @@ net-libs/libwebsockets						caps dbus http2 ipv6 lejp socks5 sqlite3 ssl threads
 
 llvm-core/llvm                                                  binutils-plugin exegesis
 app-shells/bash							plugins
+app-crypt/gnupg							-alternatives
