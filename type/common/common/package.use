@@ -5,6 +5,8 @@ app-admin/puppet						augeas shadow
 app-arch/cabextract						extra-tools
 
 sys-devel/gcc							graphite
+sys-devel/gcc							jit
+sys-devel/gcc							modula2 objc objc++ objc-gc
 
 net-fs/samba-libs						addns smbclient smbsharemodes 
 #net-fs/samba-libs						cluster
@@ -355,6 +357,7 @@ sys-devel/gcc							rust
 dev-java/openjdk						-lto
 dev-lang/R							-lto
 
+dev-lang/rust							clippy llvm-libunwind llvm_targets_WebAssembly rust-src rustfmt wasm
 
 dev-libs/jemalloc						xmalloc hugepages
 #dev-libs/jemalloc						lazy-lock
