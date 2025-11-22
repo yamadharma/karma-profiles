@@ -10,7 +10,7 @@ find . -name "*~" -delete
 git add -A .
 git commit -am "$(date)"
 git push
-# git push git@github.com:yamadharma/karma-profiles.git
+git push git@github.com:yamadharma/karma-profiles.git
 
 # Mirror
 # git push --mirror git@github.com:yamadharma/karma-profiles.git
