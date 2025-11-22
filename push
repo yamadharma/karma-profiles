@@ -9,7 +9,7 @@ find . -name "*~" -delete
 # Push
 git add -A .
 git commit -am "$(date)"
-git push
+# git push
 git push git@github.com:yamadharma/karma-profiles.git
 
 # Mirror
