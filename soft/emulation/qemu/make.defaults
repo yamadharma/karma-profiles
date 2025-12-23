@@ -3,4 +3,5 @@ qemu \
 vde \
 kqemu \
 vhost-net fdt \
+passt \
 "
