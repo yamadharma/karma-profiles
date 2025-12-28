@@ -8,7 +8,8 @@ dev-python/PyQt6		multimedia spatialaudio
 dev-python/PyQt6		speech
 dev-qt/qttools:6		qdbus
 dev-qt/qttools:6		qtattributionsscanner qtdiag qtplugininfo
-x11-themes/QGnomePlatform	qt6 -qt5
+x11-themes/QGnomePlatform	qt6
+#x11-themes/QGnomePlatform	qt6 -qt5
 gui-apps/qtgreet		greetwl
 dev-python/QtPy			pyqt6
 
