@@ -81,7 +81,7 @@ grub \
 stunnel xxhash \
 verify-sig \
 varlink \
-gold pgo \
+gold  \
 libinput \
 pkcs11 \
 modules-compress \
@@ -106,6 +106,7 @@ colordiff \
 # gnutls \
 # berkdb \
 # lto
+# pgo
 
 LINGUAS="ru ru_RU en en_US"
 L10N="ru ru-RU en en-US"
