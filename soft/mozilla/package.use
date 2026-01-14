@@ -42,8 +42,8 @@ dev-java/icedtea					-nsplugin
 dev-java/icedtea-bin					-nsplugin
 
 www-client/firefox					system-cairo system-jpeg system-sqlite system-harfbuzz system-libevent
-#www-client/firefox					-system-icu
-www-client/seamonkey					system-cairo system-icu system-jpeg system-sqlite system-harfbuzz system-libevent
+www-client/firefox					-system-icu
+www-client/seamonkey					system-cairo system-jpeg system-sqlite system-harfbuzz system-libevent
 mail-client/thunderbird					system-cairo system-jpeg system-sqlite system-harfbuzz system-libevent
 #mail-client/thunderbird					system-icu
 #mail-client/thunderbird					system-png
