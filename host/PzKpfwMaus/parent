@@ -7,6 +7,7 @@
 ../../hw/video/nvidia_free
 ../../hw/net/bluetooth
 ../../hw/platform/notebook
+../../soft/emulation/virtualbox/7.2
 
 
 
