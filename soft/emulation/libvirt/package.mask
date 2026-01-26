@@ -1,2 +1,0 @@
-# Don't compile
-# =dev-python/libvirt-python-1.2.5
