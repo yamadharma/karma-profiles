@@ -39,6 +39,7 @@ avif \
 mpv vlc \
 liblc liblc3 \
 quirc \
+libcamera \
 "
 
 # vaapi
