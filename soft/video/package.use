@@ -133,6 +133,8 @@ media-libs/opencv				non-free
 media-libs/opencv				-tesseract
 media-libs/opencv				features2d
 
+media-libs/libcamera				-unwind
+media-libs/libcamera				elfutils openssl
 
 
 
