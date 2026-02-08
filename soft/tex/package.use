@@ -181,7 +181,7 @@ app-text/writer2latex					doc examples
 app-text/texlive		pdfannotextractor
 app-text/texlive		epspdf metapost texi2html
 
-dev-tex/biblatex	doc examples
+dev-tex/biblatex	-doc examples
 app-text/dblatex	inkscape
 
 media-sound/lilypond	guile2
