@@ -3,7 +3,10 @@
 for i in $(portageq get_repos /)
 do
     chown -R portage:portage $(portageq get_repo_path / ${i})
+    find $(portageq get_repo_path / ${i}) -type d -exec chmod 775 '{}' \;
 done
+
+chown -R portage:portage /var/cache/edb
 
 su - portage -s /bin/bash -c 'emaint sync --all'
 su - portage -s /bin/bash -c 'emerge --regen'
