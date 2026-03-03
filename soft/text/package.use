@@ -31,6 +31,7 @@ app-editors/emacs-vcs						dynamic-loading
 app-editors/emacs						dynamic-loading
 
 app-text/qpdf							perl
+app-text/qpdf							zopfli
 
 dev-haskell/pandoc-citeproc					unicode_collation
 
