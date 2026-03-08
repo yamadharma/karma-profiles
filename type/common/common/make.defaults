@@ -96,6 +96,7 @@ journald \
 io-uring \
 utempter \
 colordiff \
+passkey \
 "
 
 # libressl \
