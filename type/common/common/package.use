@@ -180,7 +180,7 @@ sys-apps/systemd						boot kernel-install
 sys-apps/systemd						fido2
 
 
-app-emulation/docker						btrfs contrib device-mapper lxc overlay vim-syntax zsh-completion
+app-emulation/docker						btrfs contrib device-mapper lxc overlay zsh-completion
 # app-emulation/docker						aufs
 sys-fs/aufs3							hfs kernel-patch ramfs
 

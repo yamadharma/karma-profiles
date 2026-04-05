@@ -217,7 +217,7 @@ extra-cardsets \
 disk-partition dmi \
 dia postscript xcb tta \
 applet gsf \
-vim-syntax dc1394 \
+dc1394 \
 lapack \
 elisp networking regex deprecated discouraged \
 d \
@@ -372,6 +372,7 @@ backlight \
 # ieee1394 \
 # djbfft
 # tidy \
+# vim-syntax 
 
 LINGUAS="ru en"
 # LANGUAGE="RUSS"

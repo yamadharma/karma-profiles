@@ -12,7 +12,6 @@ sqlite sqlite3 sqlite2 \
 json ldap-sasl \
 gzip-el \
 lzo lzma lz4 \
-vim-syntax \
 archive \
 aspell enchant \
 libssh2 \
