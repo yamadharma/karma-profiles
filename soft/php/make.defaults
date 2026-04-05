@@ -3,7 +3,6 @@ ctype pcre session unicode \
 tokenizer \
 fpm \
 gd truetype \
-tidy \
 jpeg png \
 intl \
 spl \
