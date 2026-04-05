@@ -51,7 +51,8 @@ media-fonts/iosevka						iosevka iosevka-aile iosevka-curly iosevka-curly-slab i
 app-misc/recoll							camelcase
 app-editors/vim							lua
 app-editors/vim							-lua_single_target_lua5-1 lua_single_target_luajit
-app-editors/vim							perl python ruby tcl terminal
+app-editors/vim							perl python tcl terminal
+app-editors/vim							-ruby
 app-editors/vim							-racket
 app-editors/vis							tre
 
