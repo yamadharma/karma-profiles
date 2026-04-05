@@ -81,7 +81,6 @@ pam_timestamp \
 exif \
 openexr \
 smux elf \
-tidy \
 nocd \
 libgda \
 glibc-omitfp \
@@ -372,6 +371,7 @@ backlight \
 # cgi
 # ieee1394 \
 # djbfft
+# tidy \
 
 LINGUAS="ru en"
 # LANGUAGE="RUSS"
