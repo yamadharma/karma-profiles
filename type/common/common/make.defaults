@@ -192,8 +192,8 @@ LUA_TARGETS="${LUA_TARGETS} luajit"
 # POSTGRES_TARGETS="postgres16"
 
 ## Python upgrade
-# PYTHON_TARGETS="-* python3_11 python3_12"
-# PYTHON_SINGLE_TARGET="-* python3_11"
+PYTHON_TARGETS="-* python3_13 python3_14"
+PYTHON_SINGLE_TARGET="-* python3_13"
 
 GRUB_PLATFORMS="efi efi-64 emu multiboot pc coreboot"
 VIDEO_CARDS="-*"
