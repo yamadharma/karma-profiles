@@ -139,6 +139,7 @@ gui-apps/yambar						sway-xkb xkb xwindow
 # virtual/notification-daemon				pantheon
 dev-libs/appstream					apt
 
+x11-libs/gtk+						adwaita-icon-theme atk-bridge
 
 
 
