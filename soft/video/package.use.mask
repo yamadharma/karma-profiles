@@ -16,3 +16,4 @@ media-tv/tvtime					-alsa
 #media-video/ffmpeg				-qsv
 #media-libs/gst-plugins-bad			-qsv
 
+=media-libs/xine-lib-1.2.13-r5			nfs
