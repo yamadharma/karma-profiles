@@ -60,7 +60,7 @@ app-emacs/ecf-meta						elisp
 
 dev-libs/libutf8proc						-cjk
 
-=media-gfx/asymptote-3*						-lsp
+#=media-gfx/asymptote-3*						-lsp
 
 app-text/mupdf							barcode
 app-text/zathura						-seccomp
