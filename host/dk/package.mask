@@ -1,6 +1,6 @@
 ## due net-fs/openafs
->=sys-kernel/gentoo-sources-6.13
->=sys-kernel/linux-headers-6.13
+>=sys-kernel/gentoo-sources-7.0
+>=sys-kernel/linux-headers-7.0
 
 
 
