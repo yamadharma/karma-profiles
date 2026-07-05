@@ -65,5 +65,5 @@ dev-libs/libutf8proc						-cjk
 app-text/mupdf							barcode
 app-text/zathura						-seccomp
 
-
+app-text/tessdata_best						l10n_de l10n_fr
 
