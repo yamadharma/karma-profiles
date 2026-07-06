@@ -1,4 +1,6 @@
 USE="\
 networkmanager \
+nbft \
+psl \
 "
 
