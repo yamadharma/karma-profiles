@@ -1,0 +1,10 @@
+--- a/runtimes/cmake/config-Fortran.cmake
++++ b/runtimes/cmake/config-Fortran.cmake
+@@ -152,7 +152,7 @@ endif ()
+ 
+ include(CheckLanguage)
+ check_language(Fortran)
+-if (CMAKE_Fortran_COMPILER)
++if (CMAKE_Fortran_COMPILER_NOTHANKS)
+   enable_language(Fortran)
+   include(CheckFortranSourceCompiles)
