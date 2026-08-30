@@ -5,6 +5,9 @@ dev-util/anjuta							valgrind
 sys-devel/llvm							llvm-gcc
 sys-devel/llvm							libedit xar z3
 sys-devel/llvm							exegesis
+llvm-runtimes/clang-runtime:20					-offload
+llvm-runtimes/clang-runtime:21					-offload
+llvm-runtimes/clang-runtime:22					-offload
 
 dev-vcs/subversion						-dso perl
 dev-vcs/subversion						webdav-serf
