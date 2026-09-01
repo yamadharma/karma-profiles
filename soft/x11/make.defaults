@@ -28,6 +28,7 @@ libglvnd \
 xcb-errors \
 dmabuf \
 fontforge \
+x11-backend \
 "
 
 # PORTDIR_OVERLAY="\
