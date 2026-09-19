@@ -22,6 +22,7 @@ kde-apps/kdesdk-kioslaves					-subversion
 
 
 app-doc/doxygen							doxysearch
+app-doc/doxygen							doc
 #app-doc/doxygen							clang
 
 dev-lang/rust							rls rust-src
