@@ -458,4 +458,4 @@ app-shells/bash							plugins
 
 net-vpn/tinc							lzo ncurses readline ssl uml upnp vde zlib
 
-net-misc/lldpd							dot1 dot3 lldpmed readline snmp xml cdp edp fdp sanitizers sonmp
+net-misc/lldpd							dot1 dot3 lldpmed readline snmp xml cdp edp fdp sanitizers sonmp -seccomp
