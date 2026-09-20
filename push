@@ -16,9 +16,9 @@ if [[ $? == 0 ]]; then
 fi
 
 git pull
-[[ $is_gitverse == 1 ]] && git pull gitverse master
-[[ $is_github == 1 ]] && git pull github master
-[[ $is_sourcecraft == 1 ]] && git pull src master
+# [[ $is_gitverse == 1 ]] && git pull gitverse master
+# [[ $is_github == 1 ]] && git pull github master
+# [[ $is_sourcecraft == 1 ]] && git pull src master
 
 git add .
 git commit -am "chore(main): $(date)"
