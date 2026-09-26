@@ -47,3 +47,7 @@ sync-uri = https://github.com/gentoo-zh/overlay.git
 
 
 
+[bentoo]
+location = /var/db/repos/bentoo
+sync-type = git
+sync-uri = https://github.com/lucascouts/bentoo.git
