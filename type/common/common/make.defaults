@@ -96,6 +96,7 @@ io-uring \
 utempter \
 colordiff \
 passkey \
+logging \
 "
 
 # libressl \
