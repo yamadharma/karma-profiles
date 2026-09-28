@@ -97,6 +97,7 @@ utempter \
 colordiff \
 passkey \
 logging \
+sixel \
 "
 
 # libressl \
