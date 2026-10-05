@@ -1,0 +1,7 @@
+## due net-fs/openafs
+>=sys-kernel/gentoo-sources-7.0
+>=sys-kernel/linux-headers-7.0
+
+
+
+

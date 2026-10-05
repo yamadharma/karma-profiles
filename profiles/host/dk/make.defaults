@@ -1,0 +1,16 @@
+USE="\
+afs
+"
+
+# dist-kernel
+
+#VIDEO_CARDS="intel sis radeon nouveau"
+
+EVCS_OFFLINE=1
+
+#FEATURES="${FEATURES} \
+#nodoc \
+#"
+
+#MAKEOPTS="-j5"
+#LOCAL_PORTAGE_ARCH=x86_64

@@ -1,0 +1,14 @@
+../../type/workstation/x86_64
+../../hw/arch/em64t/family6/x86_64
+../../hw/arch/x86_64
+../../hw/platform/notebook
+../../hw/net/bluetooth
+../../hw/video/intel
+../../soft/vnc
+../../soft/emulation/kvm
+../../soft/emulation/qemu
+
+
+
+
+
