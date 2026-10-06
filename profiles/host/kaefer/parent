@@ -1,11 +1,11 @@
-../../../type/workstation/x86_64
-../../../hw/arch/x86_64-v3
-../../../hw/video/intel/gen/9
-../../../hw/platform/standard
-../../../soft/emulation/qemu
-../../../soft/emulation/kvm
-../../../soft/emulation/virtualbox/7.2
-../../../soft/p2p
+../../type/workstation/x86_64
+../../hw/arch/x86_64-v3
+../../hw/video/intel/gen/9
+../../hw/platform/standard
+../../soft/emulation/qemu
+../../soft/emulation/kvm
+../../soft/emulation/virtualbox/7.2
+../../soft/p2p
 
 
 
