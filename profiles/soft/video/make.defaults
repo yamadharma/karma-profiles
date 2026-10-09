@@ -40,6 +40,7 @@ mpv vlc \
 liblc liblc3 \
 quirc \
 libcamera \
+sofa \
 "
 
 # vaapi
