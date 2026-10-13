@@ -107,7 +107,8 @@ sci-libs/vtk							vtkm
 # sci-libs/vtk							opencascade
 
 sci-visualization/paraview					tcl coprocessing
-# sci-visualization/paraview					mpi python
+sci-visualization/paraview					python
+# sci-visualization/paraview					mpi
 
 dev-java/oracle-jdk-bin						javafx
 
