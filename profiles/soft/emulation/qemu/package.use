@@ -7,5 +7,6 @@ app-emulation/qemu					usbredir
 app-emulation/qemu					virgl
 app-emulation/qemu					tci
 app-emulation/qemu					ssh iscsi bpf
+app-emulation/qemu					elfutils
 
 =app-emulation/qemu-10.2*				-nfs
