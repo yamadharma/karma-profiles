@@ -1,3 +1,4 @@
 USE="
-kf6compat
+kf6compat 
+kwin
 "
