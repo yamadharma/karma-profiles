@@ -1,4 +1,4 @@
-USE="git darcs subversion cvs"
+USE="git darcs"
 
 FEATURES="${FEATURES}
 skiprocheck -distlocks"
