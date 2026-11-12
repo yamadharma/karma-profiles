@@ -302,6 +302,7 @@ hwaccel \
 lua \
 fish-completion \
 backlight \
+dbus-broker \
 "
 
 
